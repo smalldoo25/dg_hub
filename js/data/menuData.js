@@ -227,6 +227,16 @@ export const menuData = {
         subItems: [
 
         ]
+    },
+    logo: {
+        title: 'Logo',
+        content: `<h3>Explore DeftAgile features</h3><!--p>Click on image areas to learn more about it</p--><img src="./images/homelibrary.png" class="img-fluid rounded-corners mt-3" alt="Home Introduction">`,
+        pageTitle: 'Logo | DeftAgile',
+        metaDescription: 'DeftAgile explorer.',
+        canonicalUrl: '/logo',
+        subItems: [
+
+        ]
     }
 };
 
