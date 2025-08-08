@@ -44,7 +44,7 @@ export function findContentById(id) {
 function updatePageMetadata(page) {
     document.title = page.pageTitle;
     document.querySelector('meta[name="description"]').setAttribute('content', page.metaDescription);
-    document.querySelector('link[rel="canonical"]').setAttribute('href', `https://example.com${page.canonicalUrl}`);
+    document.querySelector('link[rel="canonical"]').setAttribute('href', `https://deftagile.com${page.canonicalUrl}`);
 }
 
 // Function to generate the sitemap content dynamically
