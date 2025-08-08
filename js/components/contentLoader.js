@@ -213,22 +213,40 @@ export function handleUtilityLinkClick(event) {
     }
 }
 
+// // Function to handle the logo click event
+// export function handleLogoClick(event) {
+//     event.preventDefault();
+//     const initialPage = menuData.home;
+//     loadContent(initialPage);
+//     updateSidebar('home');
+
+//     // Update active class for top navigation
+//     navLinks.forEach(link => {
+//         link.classList.remove('active');
+//         if (link.getAttribute('data-menu') === 'home') {
+//             link.classList.add('active');
+//         }
+//     });
+
+//     history.pushState({ menu: 'home', contentId: null }, initialPage.pageTitle, `#home`);
+// }
+
 // Function to handle the logo click event
 export function handleLogoClick(event) {
     event.preventDefault();
-    const initialPage = menuData.home;
+    const initialPage = menuData.logo;
     loadContent(initialPage);
-    updateSidebar('home');
+    updateSidebar('logo');
 
     // Update active class for top navigation
     navLinks.forEach(link => {
         link.classList.remove('active');
-        if (link.getAttribute('data-menu') === 'home') {
+        if (link.getAttribute('data-menu') === 'logo') {
             link.classList.add('active');
         }
     });
 
-    history.pushState({ menu: 'home', contentId: null }, initialPage.pageTitle, `#home`);
+    history.pushState({ menu: 'logo', contentId: null }, initialPage.pageTitle, `#logo`);
 }
 
 // Handle clicks on dynamically generated sitemap links
