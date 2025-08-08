@@ -198,7 +198,7 @@ export const menuData = {
                 <ul class="list-group list-group-flush mt-4">
                     <li class="list-group-item d-flex justify-content-between align-items-center">
                         <span><i class="fas fa-file-pdf text-danger me-2"></i> DeftAgile Guide (PDF)</span>
-                        <a href="contents/DeftAgile_Framework_Guide.pdf" download class="btn btn-primary btn-sm rounded-corners">Download</a>
+                        <a href="contents/DeftAgile_Guide.pdf" download class="btn btn-primary btn-sm rounded-corners">Download</a>
                     </li>
                     
                 </ul>
