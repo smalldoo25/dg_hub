@@ -1,117 +1,48 @@
-// js/components/search.js
+// search.js
 
-import { menuData, utilityData } from '../data/menuData.js';
-import { loadContent, updateSidebar, findContentById } from './contentLoader.js';
+import { menuData } from '../data/menuData.js';
+import { loadMainContent } from './dynamicContent.js';
 
-const searchInput = document.getElementById('searchInput');
+export function performSearch(query) {
+    const lowerCaseQuery = query.toLowerCase();
+    let resultsHtml = `<h2>Search Results for "${query}"</h2>`;
+    let foundResults = false;
 
-export function handleSearch(event) {
-    event.preventDefault();
-    const searchTerm = searchInput.value.trim().toLowerCase();
-    if (!searchTerm) {
-        alert('Please enter a search term.');
-        return;
-    }
+    for (const menuKey in menuData) {
+        const item = menuData[menuKey];
+        let contentToSearch = item.title.toLowerCase();
+        if (item.content) {
+            const tempDiv = document.createElement('div');
+            tempDiv.innerHTML = item.content;
+            contentToSearch += ' ' + tempDiv.textContent.toLowerCase();
+        }
 
-    const allData = { ...menuData, ...utilityData };
-    const searchResults = [];
-
-    // Helper function to recursively search for content
-    function findContent(items) {
-        if (!items) return;
-        for (const key in items) {
-            const item = items[key];
-            const searchableText = `${item.title || ''} ${item.content || ''}`.toLowerCase();
-            
-            if (searchableText.includes(searchTerm)) {
-                if (!searchResults.some(res => res.id === item.id)) {
-                    searchResults.push({
-                        id: item.id || key,
-                        title: item.title || 'Page',
-                        content: item.content,
-                        pageTitle: item.pageTitle,
-                        metaDescription: item.metaDescription,
-                        canonicalUrl: item.canonicalUrl,
-                        menuKey: key // Store the menu key to help with sidebar updates
-                    });
-                }
-            }
-            // Recursively search in sub-items and groups
-            if (item.subItems) {
-                item.subItems.forEach(subItem => findContent({ [subItem.id]: subItem }));
-            }
-            if (item.groups) {
-                item.groups.forEach(group => {
-                    findContent({ [group.id]: group });
-                });
-            }
+        if (contentToSearch.includes(lowerCaseQuery)) {
+            foundResults = true;
+            resultsHtml += `
+                <div class="search-result-item">
+                    <h5><a href="#" class="search-link" data-content="${menuKey}">${item.title}</a></h5>
+                    <p>${item.metaDescription || 'No description available.'}</p>
+                </div>
+            `;
         }
     }
-    
-    findContent(allData);
 
-    let searchResultsHtml = `<h3>Search Results for: "${searchTerm}"</h3>`;
-    if (searchResults.length > 0) {
-        searchResultsHtml += `<p>Found ${searchResults.length} results.</p><hr>`;
-        searchResults.forEach(result => {
-            const highlightedContent = result.content.replace(new RegExp(searchTerm, 'gi'), `<span class="highlight">${searchTerm}</span>`);
-            searchResultsHtml += `<div class="search-result-item"><a href="#" data-search-id="${result.id}"><h5>${result.title}</h5></a><p>${highlightedContent}</p></div>`;
-        });
-    } else {
-        searchResultsHtml += `<p>No results found for "${searchTerm}".</p>`;
+    if (!foundResults) {
+        resultsHtml += '<div class="alert alert-warning mt-4" role="alert">No results found. Please try a different search term.</div>';
     }
 
-    // Hide sidebar
+    // Display the results in the content area
+    document.getElementById('content-area').innerHTML = resultsHtml;
     document.getElementById('sidebar').classList.remove('show');
-    
-    // Clear top nav active state
-    document.querySelectorAll('.navbar-nav .nav-link').forEach(link => link.classList.remove('active'));
+    document.querySelectorAll('.navbar-nav .nav-link').forEach(nav => nav.classList.remove('active'));
 
-
-    // Load search results into main content area
-    loadContent({
-        content: searchResultsHtml,
-        pageTitle: `Search Results for "${searchTerm}" | Your Company`,
-        metaDescription: `Search results for "${searchTerm}" on our website.`,
-        canonicalUrl: `/search?q=${encodeURIComponent(searchTerm)}`
-    });
-
-    history.pushState({ search: searchTerm }, `Search Results for "${searchTerm}"`, `/search?q=${encodeURIComponent(searchTerm)}`);
-}
-
-// Listener for search result links
-export function attachSearchResultListener() {
-    document.getElementById('content-area').addEventListener('click', (e) => {
-        const link = e.target.closest('a[data-search-id]');
-        if (link) {
-            e.preventDefault();
-            const searchId = link.getAttribute('data-search-id');
-            const foundContent = findContentById(searchId);
-            
-            if (foundContent) {
-                const { page, menuKey, contentId } = foundContent;
-                
-                loadContent(page);
-                
-                // Update top navigation active state if it's a main menu item
-                document.querySelectorAll('.navbar-nav .nav-link').forEach(navLink => {
-                    navLink.classList.remove('active');
-                    if (navLink.getAttribute('data-menu') === menuKey) {
-                        navLink.classList.add('active');
-                    }
-                });
-
-                // Update sidebar if it's a sub-menu item
-                if (menuKey) {
-                    updateSidebar(menuKey, contentId);
-                } else {
-                    document.getElementById('sidebar').classList.remove('show');
-                }
-                
-                // Update URL for the new page
-                const path = menuKey ? (contentId ? `#${menuKey}/${contentId}` : `#${menuKey}`) : `#${searchId}`;
-                history.pushState({ menu: menuKey, contentId: contentId, utility: menuKey ? null : searchId }, page.pageTitle, path);
-            }
-        }
+    // Rebind the click listeners for the new search links
+    document.querySelectorAll('.search-link').forEach(link => {
+        link.addEventListener('click', function(event) {
+            event.preventDefault();
+            const contentId = this.getAttribute('data-content');
+            loadMainContent(contentId);
+        });
     });
 }

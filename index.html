@@ -1,5 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -7,31 +8,39 @@
     <link rel="icon" href="./images/favicon.ico">
     <meta name="description" content="DeftAgile Framework.">
     <link rel="canonical" href="https://deftagile.com">
-    
-    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet" xintegrity="sha384-QWTKZyjpPEjISv5WaRU9Oer+R4qQzL+5Jz3o2qLqIeX+N6jIePz/b02d+w" crossorigin="anonymous">
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/7.0.0/css/all.min.css" xintegrity="sha512-SnH5WK+bZxgPHs44uWIX+LLJAJ9/2PkPKZ5QiAj6Ta86w+fsb2TkcmfRyVX3pBnMFcV7oQPJkl9QevSCWr3W6A==" crossorigin="anonymous" referrerpolicy="no-referrer" />
-    <link rel="stylesheet" href="css/style.css">
-</head>
-<body>
 
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet"
+        xintegrity="sha384-QWTKZyjpPEjISv5WaRU9Oer+R4qQzL+5Jz3o2qLqIeX+N6jIePz/b02d+w" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/7.0.0/css/all.min.css"
+        xintegrity="sha512-SnH5WK+bZxgPHs44uWIX+LLJAJ9/2PkPKZ5QiAj6Ta86w+fsb2TkcmfRyVX3pBnMFcV7oQPJkl9QevSCWr3W6A=="
+        crossorigin="anonymous" referrerpolicy="no-referrer" />
+    <link rel="stylesheet" href="./css/style.css">
+</head>
+
+<body>
     <header class="shadow-sm rounded-corners mb-3">
         <div class="header-top rounded-top-corners">
             <div class="container d-flex justify-content-end align-items-center">
                 <form class="d-flex me-3" role="search" id="searchForm">
-                    <input class="form-control me-2 rounded-corners" type="search" placeholder="Search" aria-label="Search" id="searchInput">
-                    <button class="btn btn-outline-primary rounded-corners" type="submit"><i class="fas fa-search"></i></button>
+                    <input class="form-control me-2 rounded-corners" type="search" placeholder="Search"
+                        aria-label="Search" id="searchInput">
+                    <button class="btn btn-outline-primary rounded-corners" type="submit"><i
+                            class="fas fa-search"></i></button>
                 </form>
-                <a href="#" class="text-decoration-none text-dark rounded-corners p-2 utility-link" data-content="help-page"><i class="fas fa-question-circle"></i> Help</a>
+                <a href="#" class="text-decoration-none text-dark rounded-corners p-2 utility-link"
+                    data-content="help-page"><i class="fas fa-question-circle"></i> Help</a>
             </div>
         </div>
 
         <nav class="navbar navbar-expand-lg bg-white p-3 rounded-bottom-corners">
             <div class="container">
                 <a class="navbar-brand" href="#" id="logo-link">
-                    <img src="./images/deftagilelogo.png" class="img-fluid rounded-corners" alt="DeftAgile Logo" width="200" height="200">
+                    <img src="./images/deftagilelogo.png" class="img-fluid rounded-corners" alt="DeftAgile Logo"
+                        width="200" height="200">
                 </a>
-           
-                <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+
+                <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav"
+                    aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
                     <span class="navbar-toggler-icon"></span>
                 </button>
                 <div class="collapse navbar-collapse justify-content-end" id="navbarNav">
@@ -43,7 +52,7 @@
                             <a class="nav-link active" aria-current="page" href="#" data-menu="home">Home</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link" href="#" data-menu="deftagileGuide">DeftAgile Guide</a>
+                            <a class="nav-link" href="#" data-menu="deftagileguide">DeftAgile Guide</a>
                         </li>
                         <li class="nav-item">
                             <a class="nav-link" href="#" data-menu="downloads">Downloads</a>
@@ -54,6 +63,7 @@
                         <li class="nav-item">
                             <a class="nav-link" href="#" data-menu="contact">Contact</a>
                         </li>
+
                     </ul>
                 </div>
             </div>
@@ -63,14 +73,17 @@
     <div class="container main-content-wrapper rounded-corners shadow-lg mb-3">
         <aside id="sidebar" class="sidebar rounded-corners">
             <h5 class="sidebar-heading" id="sidebar-title" data-content="">Sub-Menu</h5>
-            <nav class="sidebar-nav"></nav>
+            <nav id="sidebar-nav" class="sidebar-nav"></nav>
         </aside>
 
         <main id="content-area" class="content-area rounded-corners">
             <h2 class="mb-4">Welcome to DeftAgile!</h2>
-            <p>This is the main content area. Select a menu item from the top navigation to see the relevant sub-menu appear on the left. Then, click a sub-menu item to load dynamic content here.</p>
-            <p>We are dedicated to providing the best solutions for your needs. Explore our products and services to learn more.</p>
-            <img src="https://placehold.co/600x300/e0e0e0/000000?text=Dynamic+Content+Image" class="img-fluid rounded-corners mt-4" alt="Placeholder image for dynamic content">
+            <p>This is the main content area. Select a menu item from the top navigation to see the relevant sub-menu
+                appear on the left. Then, click a sub-menu item to load dynamic content here.</p>
+            <p>We are dedicated to providing the best solutions for your needs. Explore our products and services to
+                learn more.</p>
+            <img src="https://placehold.co/600x300/e0e0e0/000000?text=Dynamic+Content+Image"
+                class="img-fluid rounded-corners mt-4" alt="Placeholder image for dynamic content">
         </main>
     </div>
 
@@ -85,8 +98,14 @@
         </div>
     </footer>
 
-    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js" xintegrity="sha384-YvpcrYf0tY3lHB60NNkmXc5s9fDVZLESaAA55NDzOxhy9GkcIdslK1eN7N6jIeH9No" crossorigin="anonymous"></script>
-    <script type="module" src="js/main.js"></script>
+
+
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"
+        xintegrity="sha384-YvpcrYf0tY3lHB60NNkmXc5s9fDVZLESaAA55NDzOxhy9GkcIdslK1eN7N6jIeH9No"
+        crossorigin="anonymous"></script>
+    <script type="module" src="./js/main.js"></script>
+
 
 </body>
+
 </html>
