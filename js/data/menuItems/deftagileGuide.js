@@ -5,7 +5,7 @@ export const deftagileguide = {
     content: `
     <h1 id="deftAgile-guide" align=center>What is The DeftAgile Guide?</h1>
 
-    <p align=center style='text-align:center'><img class="img-fluid rounded-corners mt-3" width=486 height=273 src="./images/deftagileguide/image001.png">
+    <p align=center style='text-align:center'><img class="img-fluid rounded-corners mt-3" src="./images/deftagileguide/image001.png">
     </p>
 
     <p><i><span style='font-size:9.0pt;line-height:107%'>DeftAgile’s
@@ -1005,7 +1005,7 @@ margin-left:18.0pt'>&nbsp;</p>
                 <li>Enables fast feedback and continuous learning</li>
             </ul>
 
-            <h3 id="dguide-circle-product-operations">2. Iteration Manager / Circle Facilitator</h3>
+            <h3 id="dguide-circle-iteration-manager">2. Iteration Manager / Circle Facilitator</h3>
 
             <p>More than a Scrum Master. This role fuels team momentum by facilitating
                 ceremonies, unblocking flow, and fostering a rhythm of sustainable delivery.
@@ -2938,30 +2938,6 @@ line-height:normal'><span style='font-family:Symbol'>·<span
 
             ]
         },
-
-
-
-
-
-
-
-        // {
-        //     id: 'group-hardware-devices',
-        //     groupTitle: 'Hardware Devices',
-        //     subItems: [
-        //         { id: 'prod-laptops', text: 'Laptops & Desktops' },
-        //         { id: 'prod-servers', text: 'Servers' },
-        //         { id: 'prod-networking', text: 'Networking Equipment' }
-        //     ]
-        // },
-        // {
-        //     id: 'group-accessories',
-        //     groupTitle: 'Accessories',
-        //     subItems: [
-        //         { id: 'prod-peripherals', text: 'Peripherals' },
-        //         { id: 'prod-cables', text: 'Cables & Adapters' }
-        //     ]
-        // }
 
     ]
 };
