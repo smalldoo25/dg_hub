@@ -5,7 +5,7 @@ export const deftagileguide = {
     content: `
     <h1 id="deftAgile-guide" align=center>What is The DeftAgile Guide?</h1>
 
-    <p align=center style='text-align:center'><img class="img-fluid rounded-corners mt-3" width=486 height=273 src="./images/deftagileguide/image001.png">
+    <p align=center style='text-align:center'><img class="img-fluid rounded-corners mt-3" src="./images/deftagileguide/image001.png">
     </p>
 
     <p><i><span style='font-size:9.0pt;line-height:107%'>DeftAgile’s
