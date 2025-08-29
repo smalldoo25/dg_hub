@@ -2939,6 +2939,30 @@ line-height:normal'><span style='font-family:Symbol'>·<span
             ]
         },
 
+
+
+
+
+
+
+        // {
+        //     id: 'group-hardware-devices',
+        //     groupTitle: 'Hardware Devices',
+        //     subItems: [
+        //         { id: 'prod-laptops', text: 'Laptops & Desktops' },
+        //         { id: 'prod-servers', text: 'Servers' },
+        //         { id: 'prod-networking', text: 'Networking Equipment' }
+        //     ]
+        // },
+        // {
+        //     id: 'group-accessories',
+        //     groupTitle: 'Accessories',
+        //     subItems: [
+        //         { id: 'prod-peripherals', text: 'Peripherals' },
+        //         { id: 'prod-cables', text: 'Cables & Adapters' }
+        //     ]
+        // }
+
     ]
 };
 

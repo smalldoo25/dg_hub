@@ -10,6 +10,7 @@ import { helpPage } from './menuItems/helpPage.js';
 import { downloads } from './menuItems/downloads.js';
 import { about } from './menuItems/about.js';
 import { deftagileguide } from './menuItems/deftagileGuide.js';
+import { productsAnalyticsAI } from './menuItems/productsAnalyticsAI.js';
 
 
 
@@ -19,6 +20,7 @@ export const menuData = {
     contact: contact,
     about: about,
     deftagileguide: deftagileguide,
+    productsAnalyticsAI: productsAnalyticsAI,
     'privacy-policy': privacyPolicy,
     'terms-of-service': termsOfService,
     sitemap: sitemap,
