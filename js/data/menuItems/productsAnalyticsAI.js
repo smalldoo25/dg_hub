@@ -7,10 +7,19 @@ export const productsAnalyticsAI = {
 
                 <h2 id="productanalytics-ai-introduction" align=center>Introduction</h2>
 
-                <p align=center><img
-                class="img-fluid rounded-corners mt-3" id="Picture 1"
-                src="./images/productsanalyticsai/introduction/image001.png"
-                alt="Product Analytics & AI"></p>
+                <p align=center><b><span style='color:#EE0000'><img width=350 height=250
+                        src="./images/productsanalyticsai/introduction/image001.png"
+                        alt="Change &quot;Analitics&quot; to &quot;Analytics&quot; in the image"></span></b> <img
+                width=350 height=250 src="./images/productsanalyticsai/introduction/image002.png"
+                alt="Recreate the Data Science for Product Managers image to match the width of the Customer Analytics image. Update the stick people to include white-haired, red-haired, and other diverse racial representations.">
+                </p>
+
+                <p class=MsoNormal align=center style='line-height:normal'><b><span style='font-size:18.0pt'><img width=350
+                        height=250 id="Picture 1"
+                        src="./images/productsanalyticsai/introduction/image003.png"></span></b> <img width=350
+                height=250 id="Picture 2" src="./images/productsanalyticsai/introduction/image004.png"
+                alt="Stick figures representing different customer segments stand beside a product shelf or feature roadmap. Above them, floating graphs show demand curves, value scores, and prioritization grids. One stick person points to a quadrant labeled “High Demand, High Value.” Include icons for market signals, pricing feedback, and strategic bets. Keep the layout clean and decision-oriented, with visual cues for trade-offs and impact. Match the width of the previous three images.">
+                </p>
 
                 <p>Great
                 products don’t just happen, they’re built on a deep understanding of customers,
@@ -62,7 +71,11 @@ export const productsAnalyticsAI = {
 
     <h2 id="productanalyticsai-consumer-analytics-customer-introduction" align=center>Introduction to Customer
             Analytics</h2>
-
+            
+        <p align=center>
+            <img class="img-fluid rounded-corners mt-3" border=0 width=600 height=300 src="./images/productsanalyticsai/consumeranalytics/image000.png">
+            </p>
+        
         <p>What do we mean by Product Analytics?  Well, the best way to
             explain it is by saying that we are trying to bring a bit of science into product
             management and agile ways of working.  Before we delve deep into the subject,
@@ -73,18 +86,18 @@ export const productsAnalyticsAI = {
         <p>Here are detailed definitions of data, findings, insights,
             and metrics:</p>
 
-        <p><b><i>Data</i></b></p>
+        <p><b>Data</b></p>
 
         <p>Data refers to raw, unanalysed facts and figures collected
             from various sources. It can be quantitative (numerical) or qualitative
             (descriptive). Data by itself lacks context and meaning.</p>
 
-        <p><i>“…Are simply a collection of data points which lack
+        <p>“…Are simply a collection of data points which lack
                 significance individually. Data refers to an unanalysed collection of
                 observations about users that may include transcripts, notes, metrics, or
-                survey output….”.</i></p>
+                survey output….”.</p>
 
-        <p><i>Examples</i>:</p>
+        <p>Examples:</p>
 
         <ul>
             <li>User quotes from interviews</li>
@@ -96,28 +109,28 @@ export const productsAnalyticsAI = {
             <li>Sensor readings</li>
         </ul>
 
-        <p><b><i>Findings </i></b></p>
+        <p><b>Findings</b></p>
 
         <p>Findings describe patterns, trends or summaries identified
             within the collected data. They are direct observations made by analysing the
             data, but lack deeper context or explanations.</p>
 
-        <p><b><i> “</i></b><i>Describe patterns in collected data or
+        <p><b> “</b>Describe patterns in collected data or
                 summaries across it. They lack consideration of background, past research, and
-                organisational factors….”</i></p>
+                organisational factors….”</p>
 
-        <p><i>Examples</i>:</p>
+        <p>Examples:</p>
 
         <ul>
             <li>60% of users struggled to complete Task X</li>
 
-            <li>>Users mentioned &quot;confusing layout&quot; 15 times in
+            <li>Users mentioned &quot;confusing layout&quot; 15 times in
                 interviews</li>
 
             <li>Page Y had a 30% higher bounce rate than average</li>
         </ul>
 
-        <p><b><i>Metrics</i></b></p>
+        <p><b>Metrics</b></p>
 
         <p>Metrics are specific data points that are measured and
             tracked against defined goals or benchmarks. They provide a way to quantify
@@ -136,17 +149,17 @@ export const productsAnalyticsAI = {
             <li>Churn rate</li>
         </ul>
 
-        <p> <b><i>Insights</i></b></p>
+        <p> <b>Insights</b></p>
 
         <p>Insights are the meaningful conclusions and opportunities
             derived by synthesising findings with additional context like business
             objectives, user needs, market trends, etc. Insights explain why something
             occurred and what should be done about it.</p>
 
-        <p><i> “…are focused clarifications of opportunities, based on
-                other user research and business context…”</i></p>
+        <p> “…are focused clarifications of opportunities, based on
+                other user research and business context…”</p>
 
-        <p><i>Examples</i>:</p>
+        <p>Examples:</p>
 
         <ul>
             <li>Users struggled with the checkout flow due to unclear pricing
@@ -178,7 +191,7 @@ export const productsAnalyticsAI = {
 
         <p><span style='color:black'>At DeftAgile, we approach Agile
                 through testable intent. Hypothesis-Driven Development isn't about building
-                more; it’s about building <i>right</i>. That means designing with clarity,
+                more; it’s about building right. That means designing with clarity,
                 releasing with purpose, and measuring success by outcomes, not output. </span>Hypothesis-driven
             development ensures we don’t just assume we’re solving problems; we simply
             prove it. Each assumption is a hypothesis waiting to be tested. By grounding
@@ -211,7 +224,7 @@ export const productsAnalyticsAI = {
 
         <p style='margin-left:36.0pt'><b><span style='color:black'>Think
                     in pipelines, act in bets</span></b><span style='color:black'> HDD helps teams
-                invest wisely. We frame success around lowering the cost of releasing a <i>successful</i>
+                invest wisely. We frame success around lowering the cost of releasing a successful
                 feature and not just shipping work.  We refrain from the feature factory
                 approach</span></p>
 
@@ -254,7 +267,7 @@ export const productsAnalyticsAI = {
                 rapidly, sometimes even far from their original plan. Teams must be ready to completely
                 abandoning one plan for another.</span></p>
 
-        <p><i><span style='color:black'>Hypothesis over Requirements?</span></i></p>
+        <p><span style='color:black'>Hypothesis over Requirements?</span></p>
 
         <p><span style='color:black'>An evolutionary approach begs us
                 to adopt hypothesis instead of requirements. There should be room for both.
@@ -274,26 +287,26 @@ export const productsAnalyticsAI = {
                     <td>
                         <p>Hypotheses are provisional conjectures that must be
                             proven</p>
-                        <p style='margin-bottom:0cm;line-height:normal'><span style='color:black'>&nbsp;</span></p>
+                        <p><span style='color:black'>&nbsp;</span></p>
                         <p>hypotheses pair a statement that asserts or predicts
                             value with a testable condition that can be measured. The typical form is as
                             follows:</p>
-                        <p style='margin-bottom:0cm;line-height:normal'><span style='color:black'>&nbsp;</span></p>
-                        <p>We believe that<i> function</i> will lead to <i>outcome </i>and
-                            this will be proven when <i>measurable condition </i>is achieved<i>.</i></span></p>
-                        <p style='margin-bottom:0cm;line-height:normal'><b><span style='color:black'>&nbsp;</span></b>
+                        <p><span style='color:black'>&nbsp;</span></p>
+                        <p>We believe that function will lead to outcome and
+                            this will be proven when measurable condition is achieved.</span></p>
+                        <p><b><span style='color:black'>&nbsp;</span></b>
                         </p>
                     </td>
                     <td>
                         <p>Requirements are a specification of something that must
                             be built and delivered to customers</p>
-                        <p style='margin-bottom:0cm;line-height:normal'><span style='color:black'>&nbsp;</span></p>
+                        <p><span style='color:black'>&nbsp;</span></p>
                         <p>Sometimes the requirement is embellished to include the
                             benefit of having the function</p>
-                        <p style='margin-bottom:0cm;line-height:normal'><span style='color:black'>&nbsp;</span></p>
-                        <p>As a <b><i>role</i></b> I want <b><i>function</i></b> [<b><i>so
-                                    that benefit</i></b>]</p>
-                        <p style='margin-bottom:0cm;line-height:normal'><span style='color:black'>&nbsp;</span></p>
+                        <p><span style='color:black'>&nbsp;</span></p>
+                        <p>As a <b>role</b> I want <b>function</b> [<b>so
+                                    that benefit</b>]</p>
+                        <p><span style='color:black'>&nbsp;</span></p>
                     </td>
                 </tr>
             </tbody>
@@ -313,28 +326,28 @@ export const productsAnalyticsAI = {
                 of the future. Early experimentation, customer feedback, and ignoring features
                 of no value to the customer are the way forward. </span></p>
 
-        <p><span style='color:black'>The examples below will link <i>functions</i>
+        <p><span style='color:black'>The examples below will link functions
                 to user stories </span></p>
 
-        <p><b><i><span style='color:black'>(Example1): Fictitious
-                        Ecommerce Website</span></i></b><i><span style='color:black'>.<br>
-                </span></i><span style='color:black'><br>
+        <p><b><span style='color:black'>(Example1): Fictitious
+                        Ecommerce Website</span></b><span style='color:black'>.<br>
+                </span><span style='color:black'><br>
                 <a name="_Hlk151968526">Problem Statement: Based on data insights more than
                     half of our landing pages are not converting into sales. data shows that
                     traffic to our landing pages are high but conversions are down by 60%. we
                     suspect our product information is too wordy and our unique selling proposition
                     is lost as a result. We would like to reduce bounce rates at least by 50%.</a></span></p>
 
-        <p><b><i><span style='color:black'>We Believe</span></i></b><i><span style='color:black'>:
-                </span></i><span style='color:black'>That reducing
+        <p><b><span style='color:black'>We Believe</span></b><span style='color:black'>:
+                </span><span style='color:black'>That reducing
                 product information content and highlighting USPs</span></p>
 
-        <p><b><i><span style='color:black'>Will Result</span></i></b><i><span style='color:black'>:
-                </span></i><span style='color:black'>In improved customer
+        <p><b><span style='color:black'>Will Result</span></b><span style='color:black'>:
+                </span><span style='color:black'>In improved customer
                 engagement and increase conversions</span></p>
 
-        <p><b><i><span style='color:black'>We Will Have Confidence to
-                        Proceed:</span></i></b><i><span style='color:black'> </span></i><span style='color:black'>When
+        <p><b><span style='color:black'>We Will Have Confidence to
+                        Proceed:</span></b><span style='color:black'> </span><span style='color:black'>When
                 we see 60% increase conversions by </span></p>
 
         <p><span style='color:black'>(1) increase in conversions across
@@ -343,50 +356,48 @@ export const productsAnalyticsAI = {
         <p><span style='color:black'>(2) a reduction of bounce rates by
                 50%</span></p>
 
-        <p><b><i><span style='color:black'>Possible User Stories</span></i></b></p>
+        <p><b><span style='color:black'>Possible User Stories</span></b></p>
 
         <p><span style='color:black'>“Deliver new product pages”</span></p>
 
         <p><b><span style='color:black'>Potential tasks might be:</span></b></p>
 
-        <p><span style='color:black'>a)<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;
-                </span></span><span style='color:black'>Write concise product information by
+        <p><span style='color:black'>a)<span>&nbsp;</span></span><span style='color:black'>Write concise product information by
                 highlighting USP </span></p>
 
-        <p><span style='color:black'>b)<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;
-                </span></span><span style='color:black'>or using 1 – 2-minute product
+        <p><span style='color:black'>b)<span>&nbsp;</span></span><span style='color:black'>or using 1 – 2-minute product
                 information videos on landing pages</span></p>
 
-        <p><span style='color:black'>c)<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;
-                </span></span><span style='color:black'>SEO on-page optimisation </span></p>
+        <p><span style='color:black'>c)<span>&nbsp;</span></span><span style='color:black'>SEO on-page optimisation </span></p>
 
         <p><span style='color:black'>What if our initial Hypothesis was
                 wrong? It could be that our PPC and Social media ads did not deliver the
                 promise made in our ads which is the reason traffic and bounce rates were
                 high.  Therefore, </span></p>
 
-        <p><b><i><span style='color:black'>(Example 2)</span></i></b></p>
+        <p><b><span style='color:black'>(Example 2)</span></b></p>
 
-        <p><b><i><span style='color:black'>We Believe</span></i></b><i><span style='color:black'>:
-                </span></i><span style='color:black'>Changing our
-                keywords universe and matching our USPs both in our ads and landing pages <b><i>Will
-                        Result: </i></b><i>in the reduction of irrelevant clicks and increase in
-                    customer engagement</i></span></p>
+        <p><b><span style='color:black'>We Believe</span></b><span style='color:black'>:
+                </span><span style='color:black'>Changing our
+                keywords universe and matching our USPs both in our ads and landing pages <b>Will
+                        Result: </b>in the reduction of irrelevant clicks and increase in
+                    customer engagement</span></p>
 
-        <p><b><i><span style='color:black'>We Will Have Confidence to
-                        Proceed:</span></i></b><i><span style='color:black'> </span></i><span style='color:black'>When
+        <p><b><span style='color:black'>We Will Have Confidence to
+                        Proceed:</span></b><span style='color:black'> </span><span style='color:black'>When
                 we see 60% increase conversions by (1increase quality
                 score (2) reduce Cost per click by 50% (3) Increase sales conversions</span></p>
 
-        <p><b><i><span style='color:black'>Possible User stories:</span></i></b><b><span style='color:black'><br>
+        <p><b><span style='color:black'>Possible User stories:</span></b><b><span style='color:black'><br>
                 </span></b><span style='color:black'>Write USP focused ads and <br>
                 USP focused landing pages<b>  </b></span></p>
 
-        <p><b><i><span style='color:black'>&nbsp;</span></i></b></p>
+        <p><b><span style='color:black'>&nbsp;</span></b></p>
 
-        <p><b><i><span style='color:black'>Potential tasks:</span></i></b></p>
+        <p><b><span style='color:black'>Potential tasks:</span></b></p>
 
         <table class='table'>
+            <tbody>
             <tr>
                 <td>
                     <p>Relevant keywords to trigger ads</p>
@@ -397,6 +408,7 @@ export const productsAnalyticsAI = {
                     <p>Write concise product info content</p>
                 </td>
             </tr>
+            </tbody>
         </table>
 
         <p><span style='color:black'>The proving or disproving a
@@ -415,39 +427,31 @@ export const productsAnalyticsAI = {
                 applicable when traffic sources or market segments are divided into different
                 groups to test on multiple variation of features</span></p>
 
-        <p><i><span style='color:black'>Don’t forget to Imbibe HDD practice
-                    into teams</span></i></p>
+        <p><span style='color:black'>Don’t forget to Imbibe HDD practice
+                    into teams</span></p>
 
         <p><span style='color:black'>There are different ways an HDD
                 mindset might show itself in practising team which are: </span></p>
 
-        <p><span style='color:black'>a)<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;
-                </span></span><span style='color:black'>Setting-up metrics</span></p>
+        <p><span style='color:black'>a)<span>&nbsp;</span></span><span style='color:black'>Setting-up metrics</span></p>
 
-        <p><span style='color:black'>b)<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;
-                </span></span><span style='color:black'>Creating success and failure criteria</span></p>
+        <p><span style='color:black'>b)<span>&nbsp;</span></span><span style='color:black'>Creating success and failure criteria</span></p>
 
-        <p><span style='color:black'>c)<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;
-                </span></span><span style='color:black'>Establishing what is the value of a
+        <p><span style='color:black'>c)<span>&nbsp;</span></span><span style='color:black'>Establishing what is the value of a
                 feature, by testing it on a small subset of users</span></p>
 
-        <p><span style='color:black'>d)<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;
-                </span></span><span style='color:black'>Runing multiple experiments
+        <p><span style='color:black'>d)<span>&nbsp;</span></span><span style='color:black'>Runing multiple experiments
                 continuously</span></p>
 
-        <p><span style='color:black'>e)<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;
-                </span></span><span style='color:black'>Making fact-based decisions fast</span></p>
+        <p><span style='color:black'>e)<span>&nbsp;</span></span><span style='color:black'>Making fact-based decisions fast</span></p>
 
-        <p><span style='color:black'>f)<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-                </span></span><span style='color:black'>Iterating fast so that you can
+        <p><span style='color:black'>f)<span>&nbsp;</span></span><span style='color:black'>Iterating fast so that you can
                 experiment faster</span></p>
 
-        <p><span style='color:black'>g)<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;
-                </span></span><span style='color:black'>Using analytics tools such as Google
+        <p><span style='color:black'>g)<span>&nbsp;</span></span><span style='color:black'>Using analytics tools such as Google
                 Analytics, IBM Digital Analytics Adobe analytics, Webtrends, etc</span></p>
 
-        <p><span style='color:black'>h)<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;
-                </span></span><span style='color:black'>Thinking about different models of
+        <p><span style='color:black'>h)<span>&nbsp;</span></span><span style='color:black'>Thinking about different models of
                 experimentation, such as classical A/B testing and multi-armed bandit.</span></p>
 
         <p><span style='color:black'>How do we keep track of and
@@ -466,13 +470,13 @@ export const productsAnalyticsAI = {
 
         <p><span style='color:black'>For the benefit of this context, we
                 are going to focus on four main types of hypotheses which are persona,
-                problem/job to be done, demand/value and usability hypothesis (<i>Alex Cowan.
-                    Hypothesis Driven Development</i>). We will cover persona and JTBD in this
+                problem/job to be done, demand/value and usability hypothesis (Alex Cowan.
+                    Hypothesis Driven Development). We will cover persona and JTBD in this
                 section.</span></p>
 
-        <p><i><span style='color:black'>What is a Persona?</span></i><span style='color:black'><br>
+        <p><span style='color:black'>What is a Persona?</span><span style='color:black'><br>
                 <br>
-                “<i>Personas are fictional characters, which you create based upon your
+                “Personas are fictional characters, which you create based upon your
                     research to represent the different user types that might use your service,
                     product, site, or brand in a similar way. Creating personas will help you
                     understand your users’ needs, experiences, behaviours and goals. Creating
@@ -481,7 +485,7 @@ export const productsAnalyticsAI = {
                     you identify with the user you’re designing for. Personas make the design task
                     at hand less complex, they guide your ideation processes, and they can help you
                     to achieve the goal of creating a good user experience for your target user
-                    group….</i>”</span></p>
+                    group….”</span></p>
 
         <p><span style='color:black'>(<b>Source</b>: Dam, R. F. and
                 Teo, Y. S. (2022, February 23). Personas – A Simple Introduction. Interaction
@@ -491,15 +495,15 @@ export const productsAnalyticsAI = {
                 <br>
             </span></p>
 
-        <p><b><i><span style='font-size:14.0pt;line-height:107%;
-color:black'>(a) Persona Hypothesis (Who are my customers?)</span></i></b></p>
+        <p><b><span style='font-size:14.0pt;line-height:107%;
+color:black'>(a) Persona Hypothesis (Who are my customers?)</span></b></p>
 
         <p align=center><img class="img-fluid rounded-corners mt-3"  border=0 width="600" height="300"
                 src="./images/productsanalyticsai/consumeranalytics/image002.png"
                 alt="remove the misspelled word practicl in the quote section"></p>
 
-        <p><b><i><span style='font-size:14.0pt;line-height:107%;
-color:black'>&nbsp;</span></i></b></p>
+        <p><b><span style='font-size:14.0pt;line-height:107%;
+color:black'>&nbsp;</span></b></p>
 
         <p><span style='color:black'>A persona hypothesis is an assumption
                 about the characteristics, behaviours, and needs of a target audience or user
@@ -519,10 +523,10 @@ color:black'>&nbsp;</span></i></b></p>
                 formed, it can be tested and refined through additional research and feedback
                 from real users. The aim is building products that customers actually want.  </span></p>
 
-        <p><b><i><span style='color:black'>Example</span></i></b><i><span style='color:black'><br>
+        <p><b><span style='color:black'>Example</span></b><span style='color:black'><br>
                     <b>End user/ Customer of our Fictitious Ecommerce Website:<br>
                     </b> We decided to use customer surveys and later user interviews as our user
-                    research approach to elicit information from our customers.</span></i></p>
+                    research approach to elicit information from our customers.</span></p>
 
         <p>Customer Survey – Short Format</p>
 
@@ -538,85 +542,85 @@ color:black'>&nbsp;</span></i></b></p>
             <tbody>
                 <tr>
                     <td>
-                        <p style='margin-bottom:0cm;line-height:normal'><b><span
+                        <p><b><span
                                     style='color:black'>Demographics</span></b>
                         </p>
                     </td>
                     <td>
-                        <p style='margin-bottom:0cm;line-height:normal'><span style='color:black'>What is
+                        <p><span style='color:black'>What is
                                 your age range?</span></p>
-                        <p style='margin-bottom:0cm;line-height:normal'><span style='color:black'>What is
+                        <p><span style='color:black'>What is
                                 your gender identity?</span></p>
                     </td>
                 </tr>
                 <tr>
                     <td>
-                        <p style='margin-bottom:0cm;line-height:normal'><b>Product
+                        <p><b>Product
                                 Experience</b></p>
                     </td>
                     <td>
-                        <p style='margin-bottom:0cm;line-height:normal'>Was the
+                        <p>Was the
                             product information helpful?</p>
-                        <p style='margin-bottom:0cm;line-height:normal'>How would you
+                        <p>How would you
                             rate product quality?</p>
                     </td>
                 </tr>
                 <tr>
                     <td>
-                        <p style='margin-bottom:0cm;line-height:normal'><b><span style='color:black'>Shopping
+                        <p><b><span style='color:black'>Shopping
                                     Satisfaction</span></b></p>
                     </td>
                     <td>
-                        <p style='margin-bottom:0cm;line-height:normal'><span style='color:black'>How
+                        <p><span style='color:black'>How
                                 satisfied are you with your overall experience?</span></p>
-                        <p style='margin-bottom:0cm;line-height:normal'><span style='color:black'>Any issues
+                        <p><span style='color:black'>Any issues
                                 during checkout?</span></p>
                     </td>
                 </tr>
                 <tr>
                     <td>
-                        <p style='margin-bottom:0cm;line-height:normal'><b>Delivery
+                        <p><b>Delivery
                                 &amp; Value</b></p>
                     </td>
                     <td>
-                        <p style='margin-bottom:0cm;line-height:normal'>Was delivery
+                        <p>Was delivery
                             timely and satisfactory?</p>
-                        <p style='margin-bottom:0cm;line-height:normal'>Did the
+                        <p>Did the
                             product match expectations?</p>
                     </td>
                 </tr>
                 <tr>
                     <td>
-                        <p style='margin-bottom:0cm;line-height:normal'><b><span style='color:black'>Pricing
+                        <p><b><span style='color:black'>Pricing
                                     Perception</span></b></p>
                     </td>
                     <td>
-                        <p style='margin-bottom:0cm;line-height:normal'><span style='color:black'>Was the
+                        <p><span style='color:black'>Was the
                                 product good value for money?</span></p>
-                        <p style='margin-bottom:0cm;line-height:normal'><span style='color:black'>How do our
+                        <p><span style='color:black'>How do our
                                 prices compare to others?</span></p>
                     </td>
                 </tr>
                 <tr>
                     <td>
-                        <p style='margin-bottom:0cm;line-height:normal'><b>Future
+                        <p><b>Future
                                 Intent &amp; Loyalty</b></p>
                     </td>
                     <td>
-                        <p style='margin-bottom:0cm;line-height:normal'>Would you buy
+                        <p>Would you buy
                             from us again?</p>
-                        <p style='margin-bottom:0cm;line-height:normal'>Would you
+                        <p>Would you
                             recommend us to others?</p>
                     </td>
                 </tr>
             </tbody>
         </table>
 
-        <p><i><span style='color:black'>&nbsp;</span></i></p>
+        <p><span style='color:black'>&nbsp;</span></p>
 
-        <p><b><i><span style='font-size:14.0pt;line-height:107%;
+        <p><b><span style='font-size:14.0pt;line-height:107%;
 color:black'>(b) Problem/JTBD hypothesis (Can we solve their
-                        problems/challenges?)</span></i></b></p>
+                        problems/challenges?)</span></b></p>
 
         <p><b> A problem hypothesis</b> is an assumption that expressed
             perceived problem or challenge in Product development. The purpose of a problem
@@ -629,9 +633,9 @@ color:black'>(b) Problem/JTBD hypothesis (Can we solve their
         <p>For example, in the context of developing a new Ecommerce
             website, a problem hypothesis could be something like:</p>
 
-        <p><i>&quot;Users in our target demographic struggle to find reasonably
+        <p>&quot;Users in our target demographic struggle to find reasonably
                 priced trainers that fits comfortably. The trainers that match their interest
-                are either too expensive or a bit too tight.&quot;</i></p>
+                are either too expensive or a bit too tight.&quot;</p>
 
         <p>Once a problem hypothesis is formulated, the next steps
             involve conducting research, collecting data, and testing the hypothesis to
@@ -649,13 +653,13 @@ color:black'>(b) Problem/JTBD hypothesis (Can we solve their
 
         <p>A JTBD hypothesis might take the form of a statement like:</p>
 
-        <p><i>&quot;When [<b>searching for trainers</b>], users 'hire'
+        <p>&quot;When [<b>searching for trainers</b>], users 'hire'
                 [<b>our online retail site</b>] to help them [find and buy] so that they can <b>[can
-                    wear them to the gym or whilst jogging</b>].&quot;</i></p>
+                    wear them to the gym or whilst jogging</b>].&quot;</p>
 
-        <p><i>Like other hypotheses, a JTBD hypothesis can be tested
+        <p>Like other hypotheses, a JTBD hypothesis can be tested
                 and refined through user research, feedback, and observation to ensure that it accurately
-                represents the users' perspectives and experiences</i>.<br>
+                represents the users' perspectives and experiences.<br>
             <br>
         </p>
 
@@ -666,19 +670,19 @@ color:black'>(b) Problem/JTBD hypothesis (Can we solve their
             <thead class='table-dark'>
                 <tr>
                     <td>
-                        <p style='margin-bottom:0cm;line-height:normal'><b><span style='color:white'>Persona
+                        <p><b><span style='color:white'>Persona
                                     Hypothesis</span></b></p>
                     </td>
                     <td>
-                        <p style='margin-bottom:0cm;line-height:normal'><b><span style='color:white'>Problem/JTBD
+                        <p><b><span style='color:white'>Problem/JTBD
                                     Hypothesis</span></b></p>
                     </td>
                     <td>
-                        <p style='margin-bottom:0cm;line-height:normal'><b><span style='color:white'>Demand/Value
+                        <p><b><span style='color:white'>Demand/Value
                                     Hypothesis</span></b></p>
                     </td>
                     <td>
-                        <p style='margin-bottom:0cm;line-height:normal'><b><span style='color:white'>Usability
+                        <p><b><span style='color:white'>Usability
                                     Hypothesis</span></b></p>
                     </td>
                 </tr>
@@ -686,32 +690,26 @@ color:black'>(b) Problem/JTBD hypothesis (Can we solve their
             <thead class='table-light'>
                 <tr>
                     <td>
-                        <p style='margin-bottom:0cm;line-height:normal'><span
-                                style='font-size:9.0pt;color:black'>Persona
-                                Hypothesis:<b>
-                                    <i>&quot;</i></b><i>Budget-Conscious
-                                    Shoppers<b>&quot;</b></i></span></p>
+                        <p><b>Persona
+                                Hypothesis:</b><b>
+                                    &quot;</b>Budget-Conscious
+                                    Shoppers<b>&quot;</b></p>
                     </td>
                     <td>
-                        <p style='margin-bottom:0cm;line-height:normal'><b><span
-                                    style='font-size:9.0pt;color:black'>Hypothesis:</span></b><span
-                                style='font-size:9.0pt;color:black'> “<i>Customers are willing to pay the
-                                    price we've set”.</i></span></p>
+                        <p><b>Hypothesis:</b>“Customers are willing to pay the
+                                    price we've set”.</p>
                     </td>
                     <td>
-                        <p style='margin-bottom:0cm;line-height:normal'><b><span
-                                    style='font-size:9.0pt;color:black'>Problem
-                                    Statement:</span></b><span style='font-size:9.0pt;color:black'> “<i>Customers are
+                        <p><b>Problem
+                                    Statement:</b>“Customers are
                                     hesitant to make
-                                    purchases due to concerns about product quality and authenticity.”</i></span></p>
-                        <p style='margin-bottom:0cm;line-height:normal'><span style='font-size:9.0pt'>&nbsp;</span></p>
+                                    purchases due to concerns about product quality and authenticity.”</p>
+                       
                     </td>
                     <td>
-                        <p style='margin-bottom:0cm;line-height:normal'><b><span
-                                    style='font-size:9.0pt;color:black'>Hypothesis:</span></b><span
-                                style='font-size:9.0pt;color:black'> “<i>Simplifying the checkout process
-                                    will reduce cart abandonment rates.”</i></span></p>
-                        <p style='margin-bottom:0cm;line-height:normal'><span style='font-size:9.0pt'>&nbsp;</span></p>
+                        <p><b>Hypothesis:</b>“Simplifying the checkout process
+                                    will reduce cart abandonment rates.”</p>
+                        
                     </td>
                 </tr>
             </thead>
@@ -724,7 +722,7 @@ color:black'>(b) Problem/JTBD hypothesis (Can we solve their
                             <li>Product Page Dwell Time</li>
                             <li>Subscription to Newsletter</li>
                         </ul>
-                        <p><i><span style='font-size:9.0pt'>&nbsp;</span></i>
+                        <p><span style='font-size:9.0pt'>&nbsp;</span>
                         </p>
                     </td>
                     <td>
@@ -733,7 +731,7 @@ color:black'>(b) Problem/JTBD hypothesis (Can we solve their
 
                             <li>Price Sensitivity Surveys</li>
                         </ul>
-                        <p><i><span style='font-size:9.0pt'>&nbsp;</span></i>
+                        <p><span style='font-size:9.0pt'>&nbsp;</span>
                         </p>
 
                     </td>
@@ -758,10 +756,10 @@ color:black'>&nbsp;</span></b></p>
 
         <h3>Key Insights:</h3>
 
-        <p style='margin-left:36.0pt;text-indent:-18.0pt'><i><span style='font-size:
-11.0pt;font-family:"Calibri",sans-serif'>1.<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;
-                    </span></span></i><strong><i><span style='font-size:11.0pt;font-family:"Calibri",sans-serif'>Core
-                        Principles of HDD</span></i></strong></p>
+        <p><span style='font-size:
+11.0pt;font-family:"Inter",sans-serif'>1.<span>&nbsp;&nbsp;&nbsp;&nbsp;
+                    </span></span><strong><span>Core
+                        Principles of HDD</span></strong></p>
 
         <ul>
             <li>Clearly state assumptions about users, problems, and product value.</li>
@@ -769,34 +767,33 @@ color:black'>&nbsp;</span></b></p>
             <li>Frame these assumptions as hypotheses to test rigorously and systematically.</li>
         </ul>
 
-        <p style='margin-left:36.0pt;text-indent:-18.0pt'><i><span style='font-size:
-11.0pt;font-family:"Calibri",sans-serif'>2.<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;
-                    </span></span></i><strong><i><span
-                        style='font-size:11.0pt;font-family:"Calibri",sans-serif'>Structured
-                        Hypothesis Formulation</span></i></strong></p>
+        <p><span style='font-size:
+11.0pt;font-family:"Inter",sans-serif'>2.<span>&nbsp;&nbsp;&nbsp;&nbsp;
+                    </span></span><strong><span
+                        >Structured
+                        Hypothesis Formulation</span></strong></p>
         <ul>
-            <li><i><b>Persona Hypothesis</b></i></strong><i><span style='font-size:11.0pt;font-family:
-"Calibri",sans-serif'>: Clearly define your target customer.</span></i></li>
+            <li><b>Persona Hypothesis</b></strong><span style='font-size:11.0pt;font-family:
+"Inter",sans-serif'>: Clearly define your target customer.</span></li>
 
-            <li><i><b>Problem/JTBD Hypothesis</b></i></strong><i><span style='font-size:11.0pt;font-family:
-"Calibri",sans-serif'>: Explicitly articulate the customer’s problem you aim to
-                        solve.</span></i></li>
+            <li><b>Problem/JTBD Hypothesis</b></strong><span style='font-size:11.0pt;font-family:
+"Inter",sans-serif'>: Explicitly articulate the customer’s problem you aim to
+                        solve.</span></li>
 
-            <li><i><b>Demand/Value Hypothesis</b></i></strong><i><span style='font-size:11.0pt;font-family:
-"Calibri",sans-serif'>: Identify and validate the value your solution provides.</span></i></li>
+            <li><b>Demand/Value Hypothesis</b></strong><span style='font-size:11.0pt;font-family:
+"Inter",sans-serif'>: Identify and validate the value your solution provides.</span></li>
 
-            <li><i><b>Usability hypothesis</b></i></strong>:<span style='font-size:13.5pt;font-family:"Arial",sans-serif;
-color:#001D35;background:white'> </span><i><span style='font-size:11.0pt;
-font-family:"Calibri",sans-serif'>predicting how users will interact with a
-                        product or design and how that interaction will impact usability.</span></i>&nbsp;</li>
+            <li><b>Usability hypothesis</b></strong>:<span style='font-size:13.5pt;font-family:"Arial",sans-serif;
+color:#001D35;background:white'> </span>predicting how users will interact with a
+                        product or design and how that interaction will impact usability. &nbsp;</li>
 
         </ul>
 
-        <p style='margin-left:36.0pt;text-indent:-18.0pt'><i><span style='font-size:
-11.0pt;font-family:"Calibri",sans-serif'>3.<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;
-                    </span></span></i><strong><i><span
-                        style='font-size:11.0pt;font-family:"Calibri",sans-serif'>Iterative
-                        Testing and Validation</span></i></strong></p>
+        <p><span style='font-size:
+11.0pt;font-family:"Inter",sans-serif'>3.<span>&nbsp;&nbsp;&nbsp;&nbsp;
+                    </span></span><strong><span
+                        >Iterative
+                        Testing and Validation</span></strong></p>
 
         <ul>
             <li>Iteratively
@@ -807,11 +804,11 @@ font-family:"Calibri",sans-serif'>predicting how users will interact with a
                 learning quickly to adjust and refine your product based on validated insights.</li>
         </ul>
 
-        <p style='margin-left:36.0pt;text-indent:-18.0pt'><i><span style='font-size:
-11.0pt;font-family:"Calibri",sans-serif'>4.<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;
-                    </span></span></i><strong><i><span
-                        style='font-size:11.0pt;font-family:"Calibri",sans-serif'>Empirical
-                        Learning over Speculation</span></i></strong></p>
+        <p><span style='font-size:
+11.0pt;font-family:"Inter",sans-serif'>4.<span>&nbsp;&nbsp;&nbsp;&nbsp;
+                    </span></span><strong><span
+                        >Empirical
+                        Learning over Speculation</span></strong></p>
 
         <ul>
             <li>Encourage
@@ -822,49 +819,50 @@ font-family:"Calibri",sans-serif'>predicting how users will interact with a
                 analytics-driven validation over subjective opinions.</li>
         </ul>
 
-        <p><b><i>Types of Data</i></b></p>
+        <p><b>Types of Data</b></p>
 
         <ul>
-            <li><b><i>Hypothesis validation data:</i></b><i> User
-                    interactions, feature utilisation metrics.</i></li>
-            <li><b><i>Cohort Data:</i></b><i> Segmented user behaviour
-                    insights.</i></li>
+            <li><b>Hypothesis validation data:</b> User
+                    interactions, feature utilisation metrics.</li>
+            <li><b>Cohort Data:</b> Segmented user behaviour
+                    insights.</li>
         </ul>
 
-        <p><b><i>Key Metrics</i></b></p>
+        <p><b>Key Metrics</b></p>
 
         <ul>
-            <li><b><i>Hypothesis Validation Rate:</i></b><i> Track
-                    percentage of successfully validated hypotheses.</i></li>
-            <li><b><i>User Retention Rate:</i></b><i> Measure user loyalty
-                    post-validation.</i></li>
+            <li><b>Hypothesis Validation Rate:</b> Track
+                    percentage of successfully validated hypotheses.</li>
+            <li><b>User Retention Rate:</b> Measure user loyalty
+                    post-validation.</li>
         </ul>
 
-        <p><b><i>AI Applications</i></b></p>
+        <p><b>AI Applications</b></p>
 
         <ul>
-            <li><b><i>Cohort Analysis Automation:</i></b><i> AI segments
+            <li><b>Cohort Analysis Automation:</b> AI segments
                     users based on interaction patterns, rapidly testing multiple hypotheses
-                    simultaneously.</i></li>
-            <li><b><i>Natural Language Processing (NLP):</i></b><i> Analyses
+                    simultaneously.</li>
+            <li><b>Natural Language Processing (NLP):</b> Analyses
                     user feedback, quickly validating assumptions against actual user
-                    sentiment.</i></li>
+                    sentiment.</li>
         </ul>
 
-        <h3 align=center style='text-align:center'><span style='font-size:11.0pt;
-font-family:"Calibri",sans-serif'>Practical Steps for Product Managers:</span></h3>
+        <h3 align=center>Practical Steps for Product Managers</h3>
 
-        <ul>
-            <li> Clearly
-                document your hypotheses and expected outcomes before each iteration.</li>
+        <p>a)<span>&nbsp;&nbsp;&nbsp;&nbsp;
+            </span><span>Clearly
+                document your hypotheses and expected outcomes before each iteration.</span></p>
 
-            <li> Use
+        <p>b)<span>&nbsp;&nbsp;&nbsp;&nbsp;
+            </span><span>Use
                 structured experiments (e.g., interviews, prototypes, A/B tests) to gather
-                relevant data.</li>
+                relevant data.</span></p>
 
-            <li> Regularly
-                analyse consumer analytics to validate insights and inform agile sprints<i>.</i></li>
-        </ul>
+        <p>c)<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+            </span><span>Regularly
+                analyse consumer analytics to validate insights and inform agile sprints</span><span>.</span></p>
+
 
         <p><b><span style='font-size:14.0pt;line-height:107%;
 color:black'>&nbsp;</span></b></p>
@@ -883,9 +881,9 @@ color:black'>&nbsp;</span></b></p>
                 about bringing clarity and purpose to that cycle. Instead of hoping for
                 outcomes, we're actively steering toward measurable insights. Remember, your
                 next iteration isn’t just about building something, it's about learning
-                something crucial. That’s how data and analytics become your strongest allies<b><i>.<br>
+                something crucial. That’s how data and analytics become your strongest allies<b>.<br>
                         <br>
-                    </i></b>This is about using analytics and AI to get the best outcomes for our
+                    </b>This is about using analytics and AI to get the best outcomes for our
                 customers. In simple terms, it is about generating testable ideas to make sure
                 that we are creating the solutions customers actually want. Building a product
                 must start from that original idea. Imagine having the ability to make
@@ -902,7 +900,7 @@ color:black'>&nbsp;</span></b></p>
                 way round</span></p>
 
 
-        <p><i><span style='color:black'>What do we stand to gain?</span></i></p>
+        <p><span style='color:black'>What do we stand to gain?</span></p>
 
         <ul>
             <li> Making a habit of creating clarity of
@@ -922,8 +920,8 @@ color:black'>&nbsp;</span></b></p>
                 successful because they are in the habit of experimenting and testing ideas
                 with little room for assumptions. </span></p>
 
-        <p><i><span style='color:black'>We must consider following to
-                    determine a successful product:</span></i></p>
+        <p><span style='color:black'>We must consider following to
+                    determine a successful product:</span></p>
 
         <ul>
             <li>How much does it cost to release a
@@ -940,126 +938,102 @@ color:black'>&nbsp;</span></b></p>
         <p><b><span style='color:black'>Key Insights:</span></b></p>
 
         <ol style='margin-top:0cm' start=1 type=1>
-            <li><b><i>Purposeful Learning</i></b><i><br>
+            <li><b>Purposeful Learning</b><br>
                     Every iteration should intentionally answer specific questions or validate
                     key hypotheses about user behaviour, market demands, or product
-                    assumptions.</i></li>
-            <li><b><i>Hypothesis-Driven Approach</i></b><i><br>
-                    Formulate clear hypotheses for each iteration:</i></li>
+                    assumptions.</li>
+            <li><b>Hypothesis-Driven Approach</b><br>
+                    Formulate clear hypotheses for each iteration:</li>
         </ol>
 
-        <p class=MsoListParagraphCxSpFirst style='margin-left:90.0pt;text-indent:-18.0pt'><span
-                style='font-family:Symbol;color:black'>·<span
-                    style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-                </span></span><b><i><span style='color:black'>Persona Hypotheses</span></i></b><i><span
-                    style='color:black'>: Who is the customer?</span></i></p>
+        <ul>
+            <li><b>Persona Hypotheses</b>: Who is the customer?</li>
 
-        <p class=MsoListParagraphCxSpMiddle style='margin-left:90.0pt;text-indent:-18.0pt'><span
-                style='font-family:Symbol;color:black'>·<span
-                    style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-                </span></span><b><i><span style='color:black'>Problem/JTBD Hypotheses</span></i></b><i><span
-                    style='color:black'>: What problem are we solving or what is the job that needs
-                    to be done for the customer?</span></i></p>
+            <li><b>Problem/JTBD Hypotheses</b>: What problem are we solving or what is the job
+                that needs
+                to be done for the customer?</li>
 
-        <p class=MsoListParagraphCxSpLast style='margin-left:90.0pt;text-indent:-18.0pt'><span
-                style='font-family:Symbol;color:black'>·<span
-                    style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-                </span></span><b><i><span style='color:black'>Demand/Value Hypotheses</span></i></b><i><span
-                    style='color:black'>: Why is our solution valuable?</span></i></p>
+            <li><b>Demand/Value Hypotheses</b>: Why is our solution valuable?</li>
+        </ul>
 
         <ol style='margin-top:0cm' start=3 type=1>
-            <li><b><i>Lean and Agile Integration</i></b><i><br>
+            <li><b>Lean and Agile Integration</b><br>
                     Effective iteration combines Lean Startup principles (build-measure-learn
                     loops) with Agile’s structured iterative cycles, allowing faster learning
-                    and better decision-making.</i></li>
-            <li><b><i>Measure to Manage</i></b><i><br>
+                    and better decision-making.</li>
+            <li><b>Measure to Manage</b><br>
                     Use analytics deliberately to measure outcomes of each iteration, ensuring
                     your efforts align closely with key business objectives or the &quot;One
-                    Metric That Matters&quot; (OMTM).</i></li>
+                    Metric That Matters&quot; (OMTM).</li>
         </ol>
 
-        <p><strong><i><span style='font-size:11.0pt;font-family:"Calibri",sans-serif'>Core
-                        Insight:</span></i></strong><i><span style='font-size:11.0pt;font-family:"Calibri",sans-serif'>
-                    Structure each Agile iteration around intentional, hypothesis-driven learning.</span></i></p>
+        <p><strong><span>Core
+                        Insight:</span></strong><span>
+                    Structure each Agile iteration around intentional, hypothesis-driven learning.</span></p>
 
-        <p style='margin-left:36.0pt;text-indent:-18.0pt'><span style='font-size:10.0pt;
-font-family:Symbol'>·<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-                </span></span><strong><i><span style='font-size:11.0pt;font-family:"Calibri",sans-serif'>Data
-                        Types:</span></i></strong><i><span style='font-size:11.0pt;font-family:"Calibri",sans-serif'>
-                    Qualitative (interviews), Quantitative (user behaviour metrics).</span></i></p>
+                <ul>
+                    <li><b>Data Types:</b>
+                        Qualitative (interviews), Quantitative (user behaviour metrics).</li>
+        
+                    <li><b>Metrics:</b> Feature adoption
+                        rate, Customer Satisfaction Scores (CSAT).</li>
+        
+                    <li><b>AI Applications:</b> Sentiment analysis for rapid feedback interpretation;
+                        Predictive analytics for feature adoption.</li>
+        
+                </ul>
 
-        <p style='margin-left:36.0pt;text-indent:-18.0pt'><span style='font-size:10.0pt;
-font-family:Symbol'>·<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-                </span></span><strong><i><span
-                        style='font-size:11.0pt;font-family:"Calibri",sans-serif'>Metrics:</span></i></strong><i><span
-                    style='font-size:11.0pt;font-family:"Calibri",sans-serif'> Feature adoption
-                    rate, Customer Satisfaction Scores (CSAT).</span></i></p>
+        <p style='margin-left:18.0pt'><b><span style='font-size:11.0pt;font-family:
+"Inter",sans-serif'>Types of Data</span></b></p>
 
-        <p style='margin-left:36.0pt;text-indent:-18.0pt'><span style='font-size:10.0pt;
-font-family:Symbol'>·<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-                </span></span><strong><i><span style='font-size:11.0pt;font-family:"Calibri",sans-serif'>AI
-                        Applications:</span></i></strong><i><span style='font-size:11.0pt;font-family:
-"Calibri",sans-serif'> Sentiment analysis for rapid feedback interpretation;
-                    Predictive analytics for feature adoption</span>.</i></p>
+                <ul>
+                    <li><b>Qualitative Data:</b>
+                            Customer interviews, usability testing feedback.</li>
 
-        <p style='margin-left:18.0pt'><b><i><span style='font-size:11.0pt;font-family:
-"Calibri",sans-serif'>Types of Data</span></i></b></p>
+                    <li><b>Quantitative Data:</b>
+                        User clickstream, bounce rates, feature usage.</li>
+                </ul>
 
-        <p style='margin-left:36.0pt;text-indent:-18.0pt'><span style='font-size:10.0pt;
-font-family:Symbol'>·<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-                </span></span><b><i><span style='font-size:11.0pt;font-family:"Calibri",sans-serif'>Qualitative
-                        Data:</span></i></b><i><span style='font-size:11.0pt;font-family:"Calibri",sans-serif'>
-                    Customer interviews, usability testing feedback.</span></i></p>
+        <p style='margin-left:18.0pt'><b><span style='font-size:11.0pt;font-family:
+"Inter",sans-serif'>Key Metrics</span></b></p>
 
-        <p style='margin-left:36.0pt;text-indent:-18.0pt'><span style='font-size:10.0pt;
-font-family:Symbol'>·<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-                </span></span><b><i><span style='font-size:11.0pt;font-family:"Calibri",sans-serif'>Quantitative
-                        Data:</span></i></b><i><span style='font-size:11.0pt;font-family:"Calibri",sans-serif'>
-                    User clickstream, bounce rates, feature usage.</span></i></p>
+                <ul>
+                    <li><b>Feature
+                        adoption rate:</b>
+                        Track the percentage of users adopting new features.</li>
 
-        <p style='margin-left:18.0pt'><b><i><span style='font-size:11.0pt;font-family:
-"Calibri",sans-serif'>Key Metrics</span></i></b></p>
+                    <li><b>Customer
+                        satisfaction scores (CSAT):</b> Measure user happiness post-feature release.</li>
+                </ul>
 
-        <p style='margin-left:36.0pt;text-indent:-18.0pt'><span style='font-size:10.0pt;
-font-family:Symbol'>·<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-                </span></span><b><i><span style='font-size:11.0pt;font-family:"Calibri",sans-serif'>Feature
-                        adoption rate:</span></i></b><i><span style='font-size:11.0pt;font-family:"Calibri",sans-serif'>
-                    Track the percentage of users adopting new features.</span></i></p>
+        <p style='margin-left:18.0pt'><b><span style='font-size:11.0pt;font-family:
+"Inter",sans-serif'>AI Applications</span></b></p>
 
-        <p style='margin-left:36.0pt;text-indent:-18.0pt'><span style='font-size:10.0pt;
-font-family:Symbol'>·<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-                </span></span><b><i><span style='font-size:11.0pt;font-family:"Calibri",sans-serif'>Customer
-                        satisfaction scores (CSAT):</span></i></b><i><span style='font-size:11.0pt;
-font-family:"Calibri",sans-serif'> Measure user happiness post-feature release.</span></i></p>
-
-        <p style='margin-left:18.0pt'><b><i><span style='font-size:11.0pt;font-family:
-"Calibri",sans-serif'>AI Applications</span></i></b></p>
-
-        <p style='margin-left:36.0pt;text-indent:-18.0pt'><span style='font-size:10.0pt;
-font-family:Symbol'>·<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-                </span></span><b><i><span style='font-size:11.0pt;font-family:"Calibri",sans-serif'>Sentiment
-                        Analysis:</span></i></b><i><span style='font-size:11.0pt;font-family:"Calibri",sans-serif'>
+                <ul>
+                    <li><b>Sentiment
+                        Analysis:</b>
                     AI tools analyse customer feedback, rapidly identifying trends or
-                    dissatisfaction signals.</span></i></p>
+                    dissatisfaction signals.</li>
 
-        <p style='margin-left:36.0pt;text-indent:-18.0pt'><span style='font-size:10.0pt;
-font-family:Symbol'>·<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-                </span></span><b><i><span style='font-size:11.0pt;font-family:"Calibri",sans-serif'>Predictive
-                        Analytics:</span></i></b><i><span style='font-size:11.0pt;font-family:"Calibri",sans-serif'>
+                    <li><b>Predictive
+                        Analytics:</b>
                     AI forecasts feature adoption based on user behaviour patterns, guiding future
-                    iterations</span>.</i></p>
+                    iterations.</li>
+                </ul>
 
-        <p align=center style='text-align:center;line-height:normal'><b>Practical
-                Steps for Product Managers:</b></p>
+        <h3 align=center>Practical Steps for Product Managers</h3>
 
-        <ul type=disc>
-            <li>Clearly define iteration goals
-                around customer insights or business outcomes.</li>
-            <li>Align each iteration with a
-                hypothesis or learning objective.</li>
-            <li>Leverage consumer analytics
-                data to validate or invalidate your assumptions quickly</li>
-        </ul>
+        <p>a)<span>&nbsp;&nbsp;&nbsp;&nbsp;
+            </span><span>Clearly define iteration goals
+                around customer insights or business outcomes.</span></p>
+
+        <p>b)<span>&nbsp;&nbsp;&nbsp;&nbsp;
+            </span><span>Align each iteration with a
+                hypothesis or learning objective.</span></p>
+
+        <p>c)<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+            </span><span>Leverage consumer analytics
+                data to validate or invalidate your assumptions quickly</span><span>.</span></p>
 
 
         <p style='line-height:normal;background:white'><b><span style='font-size:16.0pt;color:black'>&nbsp;</span></b>
@@ -1069,319 +1043,273 @@ font-family:Symbol'>·<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nb
             Discovery Phase of a Product to HDD &amp; The Double Diamond Design Thinking
             Model</h2>
 
-        <table class='table'>
-            <thead class='table-light'>
-                <tr>
-                    <td>
-                        <p style='margin-bottom:0cm;line-height:normal'><b>Discover</b></p>
-                    </td>
-                    <td>
-                        <p style='margin-bottom:0cm;line-height:normal'><b>Define</b></p>
-                    </td>
-                    <td>
-                        <p style='margin-bottom:0cm;line-height:normal'><b>Develop</b></p>
-                    </td>
-                    <td>
-                        <p style='margin-bottom:0cm;line-height:normal'><b>Deliver</b></p>
-                    </td>
-                </tr>
-            </thead>
-            <tbody>
-                <tr>
-                    <td>
-                        <p style='margin-bottom:0cm;line-height:normal'><b><i><span style='font-size:8.0pt'>Persona
-                                        Hypothesis</span></i></b><i><span style='font-size:8.0pt'>:</span></i></p>
-                        <p style='margin-bottom:0cm;line-height:normal'><span style='font-size:8.0pt'>Market
-                                segmentation</span></p>
-                        <p class=MsoListParagraphCxSpFirst style='margin-bottom:0cm;text-indent:-18.0pt;
-  line-height:normal'><span style='font-size:8.0pt;font-family:Symbol'>·<span
-                                    style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-                                </span></span><span style='font-size:8.0pt'>Demographic</span></p>
-                        <p class=MsoListParagraphCxSpMiddle style='margin-bottom:0cm;text-indent:
-  -18.0pt;line-height:normal'><span style='font-size:8.0pt;font-family:Symbol'>·<span
-                                    style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-                                </span></span><span style='font-size:8.0pt'>Psychographic</span></p>
-                        <p class=MsoListParagraphCxSpMiddle style='margin-bottom:0cm;text-indent:
-  -18.0pt;line-height:normal'><span style='font-size:8.0pt;font-family:Symbol'>·<span
-                                    style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-                                </span></span><span style='font-size:8.0pt'>Behavioural</span></p>
-                        <p class=MsoListParagraphCxSpLast style='margin-bottom:0cm;text-indent:-18.0pt;
-  line-height:normal'><span style='font-size:8.0pt;font-family:Symbol'>·<span
-                                    style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-                                </span></span><span style='font-size:8.0pt'>Geographic</span></p>
-                        <p style='margin-bottom:0cm;line-height:normal'><span style='font-size:8.0pt'>&nbsp;</span></p>
-                        <p style='margin-bottom:0cm;line-height:normal'><b><i><span style='font-size:8.0pt'>Persona
-                                        (Qualitative Research)</span></i></b></p>
-                        <p style='margin-bottom:0cm;line-height:normal'><span style='font-size:8.0pt'>Based
-                                on attitudinal characteristics like<br>
-                                collecting data about users’ perceptions and attitudes i.e.  “What users
-                                say.” Or “what and why?</span></p>
-                        <p style='margin-bottom:0cm;line-height:normal'><i><span
-                                    style='font-size:8.0pt'>Example</span></i>
-                        </p>
-                        <p class=MsoListParagraphCxSpFirst style='margin-bottom:0cm;text-indent:-18.0pt;
-  line-height:normal'><span style='font-size:8.0pt;font-family:Symbol'>·<span
-                                    style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-                                </span></span><span style='font-size:8.0pt'>Surveys</span></p>
-                        <p class=MsoListParagraphCxSpMiddle style='margin-bottom:0cm;text-indent:
-  -18.0pt;line-height:normal'><span style='font-size:8.0pt;font-family:Symbol'>·<span
-                                    style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-                                </span></span><span style='font-size:8.0pt'>Focus groups</span></p>
-                        <p class=MsoListParagraphCxSpMiddle style='margin-bottom:0cm;text-indent:
-  -18.0pt;line-height:normal'><span style='font-size:8.0pt;font-family:Symbol'>·<span
-                                    style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-                                </span></span><span style='font-size:8.0pt'>Interviews</span></p>
-                        <p class=MsoListParagraphCxSpMiddle style='margin-bottom:0cm;text-indent:
-  -18.0pt;line-height:normal'><span style='font-size:8.0pt;font-family:Symbol'>·<span
-                                    style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-                                </span></span><span style='font-size:8.0pt'>Diary Studies</span></p>
-                        <p class=MsoListParagraphCxSpLast style='margin-bottom:0cm;text-indent:-18.0pt;
-  line-height:normal'><span style='font-size:8.0pt;font-family:Symbol'>·<span
-                                    style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-                                </span></span><span style='font-size:8.0pt'>Field studies</span></p>
-                        <p style='margin-bottom:0cm;line-height:normal'><span style='font-size:8.0pt'>The
-                                aim is to understand who our customers are?</span></p>
-                        <p style='margin-bottom:0cm;line-height:normal'><span style='font-size:8.0pt'>What
-                                are their motivations, expectations, needs, goals
-                                and attitudes?</span></p>
-                        <p style='margin-bottom:0cm;line-height:normal'><span style='font-size:8.0pt'>&nbsp;</span></p>
-                        <p style='margin-bottom:0cm;line-height:normal'><span style='font-size:8.0pt'> Some
-                                high-level behaviour is also important.</span></p>
-                        <p class=MsoListParagraphCxSpFirst style='margin-bottom:0cm;text-indent:-18.0pt;
-  line-height:normal'><span style='font-size:8.0pt;font-family:Symbol'>·<span
-                                    style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-                                </span></span><span style='font-size:8.0pt'>Observation</span></p>
-                        <p class=MsoListParagraphCxSpLast style='margin-bottom:0cm;text-indent:-18.0pt;
-  line-height:normal'><span style='font-size:8.0pt;font-family:Symbol'>·<span
-                                    style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-                                </span></span><span style='font-size:8.0pt'>Ethnographic Research</span></p>
-                        <p style='margin-bottom:0cm;line-height:normal'><span style='font-size:8.0pt'>&nbsp;</span></p>
-                        <p style='margin-bottom:0cm;line-height:normal'><span style='font-size:8.0pt'>What
-                                tasks are they trying to accomplish? How do they
-                                accomplish complicated workflows?</span></p>
-                        <p style='margin-bottom:0cm;line-height:normal'><i><span style='font-size:8.0pt'>Sample
-                                    size</span></i></p>
-                        <p style='margin-bottom:0cm;line-height:normal'><i><span style='font-size:8.0pt'>Min
-                                    5</span></i></p>
-                        <p style='margin-bottom:0cm;line-height:normal'><b><i><span style='font-size:8.0pt'>Persona
-                                        (Quantitative Research)</span></i></b><i><span style='font-size:8.0pt'> “how
-                                    much
-                                    and how many”</span></i></p>
-                        <p style='margin-bottom:0cm;line-height:normal'><span style='font-size:8.0pt'>Gathering this
-                                data
-                                from Analytics, CRM platforms</span></p>
-                        <p class=MsoListParagraphCxSpFirst style='margin-bottom:0cm;text-indent:-18.0pt;
-  line-height:normal'><span style='font-size:8.0pt;font-family:Symbol'>·<span
-                                    style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-                                </span></span><span style='font-size:8.0pt'>Page visited</span></p>
-                        <p class=MsoListParagraphCxSpMiddle style='margin-bottom:0cm;text-indent:
-  -18.0pt;line-height:normal'><span style='font-size:8.0pt;font-family:Symbol'>·<span
-                                    style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-                                </span></span><span style='font-size:8.0pt'>Page views</span></p>
-                        <p class=MsoListParagraphCxSpMiddle style='margin-bottom:0cm;text-indent:
-  -18.0pt;line-height:normal'><span style='font-size:8.0pt;font-family:Symbol'>·<span
-                                    style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-                                </span></span><span style='font-size:8.0pt'>Device used</span></p>
-                        <p class=MsoListParagraphCxSpMiddle style='margin-bottom:0cm;text-indent:
-  -18.0pt;line-height:normal'><span style='font-size:8.0pt;font-family:Symbol'>·<span
-                                    style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-                                </span></span><span style='font-size:8.0pt'>Countries they are from</span></p>
-                        <p class=MsoListParagraphCxSpMiddle style='margin-bottom:0cm;text-indent:
-  -18.0pt;line-height:normal'><span style='font-size:8.0pt;font-family:Symbol'>·<span
-                                    style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-                                </span></span><span style='font-size:8.0pt'>Clicks</span></p>
-                        <p class=MsoListParagraphCxSpMiddle style='margin-bottom:0cm;text-indent:
-  -18.0pt;line-height:normal'><span style='font-size:8.0pt;font-family:Symbol'>·<span
-                                    style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-                                </span></span><span style='font-size:8.0pt'>Conversion </span></p>
-                        <p class=MsoListParagraphCxSpMiddle style='margin-bottom:0cm;text-indent:
-  -18.0pt;line-height:normal'><span style='font-size:8.0pt;font-family:Symbol'>·<span
-                                    style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-                                </span></span><span style='font-size:8.0pt'>Bounce rates</span></p>
-                        <p class=MsoListParagraphCxSpMiddle style='margin-bottom:0cm;text-indent:
-  -18.0pt;line-height:normal'><span style='font-size:8.0pt;font-family:Symbol'>·<span
-                                    style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-                                </span></span><span style='font-size:8.0pt'>Mobile vs desktop</span></p>
-                        <p class=MsoListParagraphCxSpLast style='margin-bottom:0cm;text-indent:-18.0pt;
-  line-height:normal'><span style='font-size:8.0pt;font-family:Symbol'>·<span
-                                    style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-                                </span></span><span style='font-size:8.0pt'>Heatmaps</span></p>
-                        <p style='margin-bottom:0cm;line-height:normal'><b><i><span style='font-size:8.0pt'>Quantitative
-                                        Tools</span></i></b><i><span style='font-size:8.0pt'>:</span></i></p>
-                        <p style='margin-bottom:0cm;line-height:normal'><span style='font-size:8.0pt'>Adobe
-                                Analytics </span></p>
-                        <p style='margin-bottom:0cm;line-height:normal'><span style='font-size:8.0pt'>Google
-                                Analytics</span></p>
-                        <p style='margin-bottom:0cm;line-height:normal'><span style='font-size:8.0pt'>&nbsp;</span></p>
-                    </td>
-                    <td>
-                        <p style='margin-bottom:0cm;line-height:normal'><b><i><span style='font-size:8.0pt'>Problem/JTBD
-                                        Hypothesis:</span></i></b></p>
-                        <p style='margin-bottom:0cm;line-height:normal'><i><span style='font-size:8.0pt'>Problem
-                                    Statement</span></i></p>
-                        <p class=MsoListParagraph style='margin-bottom:0cm;text-indent:-18.0pt;
-  line-height:normal'><span style='font-size:8.0pt'>1.<span
-                                    style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-                                </span></span><span style='font-size:8.0pt'>A problem statement is a short
-                                description of the problem that our personas need to be solved.</span></p>
-                        <p style='margin-bottom:0cm;line-height:normal'><span style='font-size:8.0pt'>&nbsp;</span></p>
-                        <p class=MsoListParagraph style='margin-bottom:0cm;text-indent:-18.0pt;
-  line-height:normal'><span style='font-size:8.0pt'>2.<span
-                                    style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-                                </span></span><span style='font-size:8.0pt'>These are statements of need or
-                                desire that are not solution-specific</span></p>
-                        <p style='margin-bottom:0cm;line-height:normal'><b><span style='font-size:8.0pt'>5
-                                    Whys</span></b></p>
-                        <ul>
-                            <li class=MsoNormal style='margin-bottom:0cm;line-height:normal'><b><span
-                                        style='font-size:8.0pt'>Who</span></b><span style='font-size:8.0pt'>&nbsp;is
-                                    affected by the problem?</span></li>
-                            <li class=MsoNormal style='margin-bottom:0cm;line-height:normal'><b><span
-                                        style='font-size:8.0pt'>What</span></b><span style='font-size:8.0pt'>&nbsp;is
-                                    the problem?</span></li>
-                            <li class=MsoNormal style='margin-bottom:0cm;line-height:normal'><b><span
-                                        style='font-size:8.0pt'>Where</span></b><span style='font-size:8.0pt'>&nbsp;does
-                                    this problem occur?</span></li>
-                            <li class=MsoNormal style='margin-bottom:0cm;line-height:normal'><b><span
-                                        style='font-size:8.0pt'>When</span></b><span style='font-size:8.0pt'>&nbsp;does
-                                    the problem occur?</span></li>
-                            <li class=MsoNormal style='margin-bottom:0cm;line-height:normal'><b><span
-                                        style='font-size:8.0pt'>Why</span></b><span style='font-size:8.0pt'>&nbsp;does
-                                    the problem occur? Why is the problem important?</span></li>
-                        </ul>
-                        <p style='margin-bottom:0cm;line-height:normal'><i><span
-                                    style='font-size:8.0pt'>&nbsp;</span></i>
-                        </p>
-                        <p style='margin-bottom:0cm;line-height:normal'><b><i><span style='font-size:8.0pt'>(JTBD) Job
-                                        to Be
-                                        Done</span></i></b></p>
-                        <p style='margin-bottom:0cm;line-height:normal'><span style='font-size:8.0pt'>people
-                                don't buy products; they “hire” them to do
-                                jobs, such as solving a problem or fulfilling a desire.</span></p>
-                        <p style='margin-bottom:0cm;line-height:normal'><span style='font-size:8.0pt'>&nbsp;</span></p>
-                        <p style='margin-bottom:0cm;line-height:normal'><i><span
-                                    style='font-size:8.0pt'>Examples</span></i>
-                        </p>
-                        <p style='margin-bottom:0cm;line-height:normal'><b><span style='font-size:8.0pt'>Get
-                                    my clothes clean and fresh</span></b><span style='font-size:8.0pt'>: “Hire” laundry
-                                detergent to deliver the
-                                result.&nbsp;</span></p>
-                        <p style='margin-bottom:0cm;line-height:normal'><span style='font-size:8.0pt'>&nbsp;</span></p>
-                        <p style='margin-bottom:0cm;line-height:normal'><b><span style='font-size:8.0pt'>Nourish my
-                                    body:&nbsp;</span></b><span style='font-size:8.0pt'>“Hire” vitamins, supplements,
-                                and
-                                healthy food.&nbsp;</span></p>
-                        <p style='margin-bottom:0cm;line-height:normal'><span style='font-size:8.0pt'>&nbsp;</span></p>
-                        <p style='margin-bottom:0cm;line-height:normal'><b><span style='font-size:8.0pt'>Find my
-                                    documents
-                                    easily:&nbsp;</span></b><span style='font-size:8.0pt'>“Hire” a digital app for note
-                                taking and file
-                                storage.</span></p>
-                        <p style='margin-bottom:0cm;line-height:normal'><span style='font-size:8.0pt'>&nbsp;</span></p>
-                    </td>
-                    <td>
-                        <p style='margin-bottom:0cm;line-height:normal'><b><i><span style='font-size:8.0pt'>Demand/value
-                                        Hypothesis:</span></i></b></p>
-                        <p style='margin-bottom:0cm;line-height:normal'><span style='font-size:8.0pt'>At
-                                this stage we now have validated personas and
-                                problems </span></p>
-                        <p style='margin-bottom:0cm;line-height:normal'><span style='font-size:8.0pt'>&nbsp;</span></p>
-                        <p style='margin-bottom:0cm;line-height:normal'><span style='font-size:8.0pt'>The
-                                ‘demand/value hypothesis’ is a hypothesis that
-                                contains the exact value that would be given to potential clients.&nbsp;</span></p>
-                        <p style='margin-bottom:0cm;line-height:normal'><span style='font-size:8.0pt'>&nbsp;</span></p>
-                        <p style='margin-bottom:0cm;line-height:normal'><span style='font-size:8.0pt'>This
-                                could be in form of a low fidelity prototype or
-                                an MVP that could be validated by </span></p>
-                        <p style='margin-bottom:0cm;line-height:normal'><span style='font-size:8.0pt'>&nbsp;</span></p>
-                        <p style='margin-bottom:0cm;line-height:normal'><b><i><span style='font-size:8.0pt'>Example
-                                    </span></i></b></p>
-                        <p style='margin-bottom:0cm;line-height:normal'><span style='font-size:8.0pt'>&nbsp;</span></p>
-                        <p style='margin-bottom:0cm;line-height:normal'><span style='font-size:8.0pt'>We
-                                believe if we improve our landing page, it will
-                                increase our conversions by 60%</span></p>
-                        <p style='margin-bottom:0cm;line-height:normal'><span style='font-size:8.0pt'>&nbsp;</span></p>
-                        <p style='margin-bottom:0cm;line-height:normal'><span style='font-size:8.0pt'>This
-                                will be tested on a specific target audience to
-                                see if this holds true before proceeding to the next stage.</span></p>
-                        <p style='margin-bottom:0cm;line-height:normal'><span style='font-size:8.0pt'>&nbsp;</span></p>
-                        <p style='margin-bottom:0cm;line-height:normal'><span
-                                style='font-size:8.0pt'>Experimentation:<br>
-                                MVPs </span></p>
-                        <p style='margin-bottom:0cm;line-height:normal'><span style='font-size:8.0pt'>Prototyping</span>
-                        </p>
-                        <p style='margin-bottom:0cm;line-height:normal'><span style='font-size:8.0pt'>Proof
-                                of Concepts</span></p>
-                        <p style='margin-bottom:0cm;line-height:normal'><span style='font-size:8.0pt'>Wireframes </span>
-                        </p>
-                    </td>
-                    <td>
-                        <p style='margin-bottom:0cm;line-height:normal'><b><i><span style='font-size:8.0pt'>Usability
-                                        Hypothesis:</span></i></b></p>
-                        <p style='margin-bottom:0cm;line-height:normal'><span style='font-size:8.0pt'>How
-                                well can the customer use your interface to
-                                complete a given objective?</span></p>
-                        <p style='margin-bottom:0cm;line-height:normal'><span style='font-size:8.0pt'>This
-                                will require a working low fidelity prototype in
-                                other words a pretotype.</span></p>
-                        <p style='margin-bottom:0cm;line-height:normal'><span style='font-size:8.0pt'>&nbsp;</span></p>
-                        <p style='margin-bottom:0cm;line-height:normal'><span style='font-size:8.0pt'>Usability testing
-                                can
-                                be quite expensive start with
-                                Discount Usability and the iterate from there</span></p>
-                        <p style='margin-bottom:0cm;line-height:normal'><span style='font-size:8.0pt'>&nbsp;</span></p>
-                        <p style='margin-bottom:0cm;line-height:normal'><b><i><span style='font-size:8.0pt'>Discount
-                                        Usability</span></i></b><i><span style='font-size:8.0pt'>.</span></i></p>
-                        <p style='margin-bottom:0cm;line-height:normal'><span style='font-size:8.0pt'>&nbsp;</span></p>
-                        <p style='margin-bottom:0cm;line-height:normal'><span style='font-size:8.0pt'>Conduct simply
-                                usability studies with 5 users if you
-                                have more users, test users across multiple test studies so that you can test
-                                more design iterations instead of a big bang approach. Iterate!!</span></p>
-                        <p style='margin-bottom:0cm;line-height:normal'><span style='font-size:8.0pt'>&nbsp;</span></p>
-                        <p class=MsoListParagraphCxSpFirst style='margin-bottom:0cm;text-indent:-18.0pt;
-  line-height:normal'><span style='font-size:8.0pt'>1.<span
-                                    style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-                                </span></span><span style='font-size:8.0pt'>Use simple user interface
-                                prototypes to get early feedback, Paper prototypes are the best and fastest
-                                method</span></p>
-                        <p class=MsoListParagraphCxSpMiddle style='margin-bottom:0cm;text-indent:
-  -18.0pt;line-height:normal'><span style='font-size:8.0pt'>2.<span
-                                    style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-                                </span></span><span style='font-size:8.0pt'>Use Heuristic Evaluation to clean up user
-                                interfaces
-                                between test rounds so that you don’t waste test users and find design
-                                problems that violates usability principles that are known to us</span></p>
-                        <p class=MsoListParagraphCxSpLast style='margin-bottom:0cm;text-indent:-18.0pt;
-  line-height:normal'><span style='font-size:8.0pt'>3.<span
-                                    style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-                                </span></span><span style='font-size:8.0pt'>There are test methods for these
-                                ideas that gives better insights especially for complex designs but this is a
-                                great starting point </span></p>
-                        <p style='margin-bottom:0cm;line-height:normal'><span style='font-size:8.0pt'>A/B
-                                Testing</span></p>
-                        <p style='margin-bottom:0cm;line-height:normal'><span style='font-size:8.0pt'>User
-                                testing</span></p>
-                        <p style='margin-bottom:0cm;line-height:normal'><span style='font-size:8.0pt'>Heatmaps</span>
-                        </p>
-                        <p style='margin-bottom:0cm;line-height:normal'><span style='font-size:8.0pt'>&nbsp;</span></p>
-                    </td>
-                </tr>
-            </tbody>
-        </table>
+<!-- start -->
 
+<table class='table'>
+<thead class='table-light'>
+    <tr>
+        <td>
+            <p><b>Discover</b></p>
+        </td>
+        <td>
+            <p><b>Define</b></p>
+        </td>
+        <td>
+            <p><b>Develop</b></p>
+        </td>
+        <td>
+            <p><b>Deliver</b></p>
+        </td>
+    </tr>
+</thead>
+<tbody>
+    <tr>
+        <td>
+            <p><b><span>Persona
+                            Hypothesis</span></b><span>:</span></p>
+            <p><span>Market
+                    segmentation</span></p>
+            <ul>
+                <li>Demographic</li>
+                <li>Psychographic</li>
+                <li>Behavioural</li>
+                <li>Geographic</li>  
+            </ul>
+
+
+            <p><b><span>Persona
+                            (Qualitative Research)</span></b></p>
+            <p><span>Based
+                    on attitudinal characteristics like<br>
+                    collecting data about users’ perceptions and attitudes i.e.  “What users
+                    say.” Or “what and why?</span></p>
+            <p><span>Example</span>
+            </p>
+            <ul>
+                <li>Surveys</li>
+                <li>Focus groups</li>
+                <li>Interviews</li>
+                <li>Diary Studies</li>
+                <li>Field studies</li>
+            </ul>
+            <p><span>The
+                    aim is to understand who our customers are?</span></p>
+            <p><span>What
+                    are their motivations, expectations, needs, goals
+                    and attitudes?</span></p>
+            <p><span>&nbsp;</span></p>
+            <p><span> Some
+                    high-level behaviour is also important.</span></p>
+            <ul>
+                <li>Observation</li>
+                <li>Ethnographic Research</li>
+            </ul>
+            <p><span>&nbsp;</span></p>
+            <p><span>What
+                    tasks are they trying to accomplish? How do they
+                    accomplish complicated workflows?</span></p>
+            <p><span>Sample
+                        size</span></p>
+            <p><span>Min
+                        5</span></p>
+            <p><b><span>Persona
+                            (Quantitative Research)</span></b><span> “how
+                        much
+                        and how many”</span></p>
+            <p><span>Gathering this
+                    data
+                    from Analytics, CRM platforms</span></p>
+            <ul>
+                <li>Page visited</li>
+                <li>Page views</li>
+                <li>Device used</li>
+                <li>Countries they are from</li>
+                <li>Clicks</li>
+                <li>Conversion </li>
+                <li>Bounce rates</li>
+                <li>Mobile vs desktop</li>
+                <li>Heatmaps</li>
+            </ul>
+
+            <p><b><span>Quantitative
+                            Tools</span></b><span>:</span></p>
+            <p><span>Adobe
+                    Analytics </span></p>
+            <p><span>Google
+                    Analytics</span></p>
+            <p><span>&nbsp;</span></p>
+        </td>
+        <td>
+            <p><b><span>Problem/JTBD
+                            Hypothesis:</span></b></p>
+            <p><span>Problem
+                        Statement</span></p>
+            <p class=MsoListParagraph style='margin-bottom:0cm;text-indent:-18.0pt;
+line-height:normal'><span>1.<span
+                        style='font:7.0pt "Inter"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                    </span></span><span>A problem statement is a short
+                    description of the problem that our personas need to be solved.</span></p>
+            <p><span>&nbsp;</span></p>
+            <p class=MsoListParagraph style='margin-bottom:0cm;text-indent:-18.0pt;
+line-height:normal'><span>2.<span
+                        style='font:7.0pt "Inter"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                    </span></span><span>These are statements of need or
+                    desire that are not solution-specific</span></p>
+            <p><b><span>5
+                        Whys</span></b></p>
+            <ul>
+                <li><b><span>Who</span></b><span>&nbsp;is
+                        affected by the problem?</span></li>
+                <li><b><span>What</span></b><span>&nbsp;is
+                        the problem?</span></li>
+                <li><b><span>Where</span></b><span>&nbsp;does
+                        this problem occur?</span></li>
+                <li><b><span>When</span></b><span>&nbsp;does
+                        the problem occur?</span></li>
+                <li><b><span>Why</span></b><span>&nbsp;does
+                        the problem occur? Why is the problem important?</span></li>
+            </ul>
+            <p><span
+                        style='font-size:8.0pt'>&nbsp;</span>
+            </p>
+            <p><b><span>(JTBD) Job
+                            to Be
+                            Done</span></b></p>
+            <p><span>people
+                    don't buy products; they “hire” them to do
+                    jobs, such as solving a problem or fulfilling a desire.</span></p>
+            <p><span>&nbsp;</span></p>
+            <p><span>Examples</span>
+            </p>
+            <p><b><span>Get
+                        my clothes clean and fresh</span></b><span>: “Hire” laundry
+                    detergent to deliver the
+                    result.&nbsp;</span></p>
+            <p><span>&nbsp;</span></p>
+            <p><b><span>Nourish my
+                        body:&nbsp;</span></b><span>“Hire” vitamins, supplements,
+                    and
+                    healthy food.&nbsp;</span></p>
+            <p><span>&nbsp;</span></p>
+            <p><b><span>Find my
+                        documents
+                        easily:&nbsp;</span></b><span>“Hire” a digital app for note
+                    taking and file
+                    storage.</span></p>
+            <p><span>&nbsp;</span></p>
+        </td>
+        <td>
+            <p><b><span>Demand/value
+                            Hypothesis:</span></b></p>
+            <p><span>At
+                    this stage we now have validated personas and
+                    problems </span></p>
+            <p><span>&nbsp;</span></p>
+            <p><span>The
+                    ‘demand/value hypothesis’ is a hypothesis that
+                    contains the exact value that would be given to potential clients.&nbsp;</span></p>
+            <p><span>&nbsp;</span></p>
+            <p><span>This
+                    could be in form of a low fidelity prototype or
+                    an MVP that could be validated by </span></p>
+            <p><span>&nbsp;</span></p>
+            <p><b><span>Example
+                        </span></b></p>
+            <p><span>&nbsp;</span></p>
+            <p><span>We
+                    believe if we improve our landing page, it will
+                    increase our conversions by 60%</span></p>
+            <p><span>&nbsp;</span></p>
+            <p><span>This
+                    will be tested on a specific target audience to
+                    see if this holds true before proceeding to the next stage.</span></p>
+            <p><span>&nbsp;</span></p>
+            <p><span>Experimentation:<br>
+                    MVPs </span></p>
+            <p><span>Prototyping</span>
+            </p>
+            <p><span>Proof
+                    of Concepts</span></p>
+            <p><span>Wireframes </span>
+            </p>
+        </td>
+        <td>
+            <p><b><span>Usability
+                            Hypothesis:</span></b></p>
+            <p><span>How
+                    well can the customer use your interface to
+                    complete a given objective?</span></p>
+            <p><span>This
+                    will require a working low fidelity prototype in
+                    other words a pretotype.</span></p>
+            <p><span>&nbsp;</span></p>
+            <p><span>Usability testing
+                    can
+                    be quite expensive start with
+                    Discount Usability and the iterate from there</span></p>
+            <p><span>&nbsp;</span></p>
+            <p><b><span>Discount
+                            Usability</span></b><span>.</span></p>
+            <p><span>&nbsp;</span></p>
+            <p><span>Conduct simply
+                    usability studies with 5 users if you
+                    have more users, test users across multiple test studies so that you can test
+                    more design iterations instead of a big bang approach. Iterate!!</span></p>
+            <p><span>&nbsp;</span></p>
+            <p class=MsoListParagraphCxSpFirst style='margin-bottom:0cm;text-indent:-18.0pt;
+line-height:normal'><span>1.<span
+                        style='font:7.0pt "Inter"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                    </span></span><span>Use simple user interface
+                    prototypes to get early feedback, Paper prototypes are the best and fastest
+                    method</span></p>
+            <p class=MsoListParagraphCxSpMiddle style='margin-bottom:0cm;text-indent:
+-18.0pt;line-height:normal'><span>2.<span
+                        style='font:7.0pt "Inter"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                    </span></span><span>Use Heuristic Evaluation to clean up user
+                    interfaces
+                    between test rounds so that you don’t waste test users and find design
+                    problems that violates usability principles that are known to us</span></p>
+            <p class=MsoListParagraphCxSpLast style='margin-bottom:0cm;text-indent:-18.0pt;
+line-height:normal'><span>3.<span
+                        style='font:7.0pt "Inter"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                    </span></span><span>There are test methods for these
+                    ideas that gives better insights especially for complex designs but this is a
+                    great starting point </span></p>
+            <p><span>A/B
+                    Testing</span></p>
+            <p><span>User
+                    testing</span></p>
+            <p><span>Heatmaps</span>
+            </p>
+            <p><span>&nbsp;</span></p>
+        </td>
+    </tr>
+</tbody>
+</table>
+
+
+
+
+
+
+
+
+
+
+<!-- end----->
 
         <p align=center><img class="img-fluid rounded-corners mt-3"  border=0 width="600" height="300"
                 src="./images/productsanalyticsai/consumeranalytics/image004.png"
                 alt="change the four images within this image and nothing else"></p>
 
-        <p style='line-height:normal'><b><span style='font-size:12.0pt'>Hypothesis
+        <p style='line-height:normal'><b><span>Hypothesis
                     to Design Phase Mapping</span></b></p>
 
         <table class='table'>
             <thead class='table-light'>
                 <tr>
                     <td>
-                        <p style='margin-bottom:0cm;line-height:normal'><b>Hypothesis
+                        <p><b>Hypothesis
                                 Type</b></p>
                     </td>
                     <td>
@@ -1394,111 +1322,108 @@ font-family:Symbol'>·<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nb
             </thead>
             <tr>
                 <td>
-                    <p style='margin-bottom:0cm;line-height:normal'><b>Persona
+                    <p><b>Persona
                             Hypothesis</b></p>
                 </td>
                 <td>
-                    <p style='margin-bottom:0cm;line-height:normal'><b>Discover</b></p>
+                    <p><b>Discover</b></p>
                 </td>
                 <td>
-                    <p style='margin-bottom:0cm;line-height:normal'>You’re
+                    <p>You’re
                         uncovering who the users are, their motivations, needs, and behaviours.</p>
                 </td>
             </tr>
             <tr>
                 <td>
-                    <p style='margin-bottom:0cm;line-height:normal'><b>Problem / JTBD
+                    <p><b>Problem / JTBD
                             Hypothesis</b></p>
                 </td>
                 <td><b>Define</b></p>
                 </td>
                 <td>
-                    <p style='margin-bottom:0cm;line-height:normal'>You synthesise
+                    <p>You synthesise
                         insights to clearly frame the user’s underlying problem or job to be done.</p>
                 </td>
             </tr>
             <tr>
                 <td>
-                    <p style='margin-bottom:0cm;line-height:normal'><b>Demand /
+                    <p><b>Demand /
                             Value Hypothesis</b></p>
                 </td>
                 <td>
-                    <p style='margin-bottom:0cm;line-height:normal'><b>Develop</b></p>
+                    <p><b>Develop</b></p>
                 </td>
                 <td>
-                    <p style='margin-bottom:0cm;line-height:normal'>You ideate on
+                    <p>You ideate on
                         solutions that deliver value and satisfy market or user demand.</p>
                 </td>
             </tr>
             <tr>
                 <td>
-                    <p style='margin-bottom:0cm;line-height:normal'><b>Usability Hypothesis</b></p>
+                    <p><b>Usability Hypothesis</b></p>
                 </td>
                 <td>
-                    <p style='margin-bottom:0cm;line-height:normal'><b>Deliver</b></p>
+                    <p><b>Deliver</b></p>
                 </td>
                 <td>
-                    <p style='margin-bottom:0cm;line-height:normal'>You validate
+                    <p>You validate
                         whether the solution works well in practice through testing and refinement.</p>
                 </td>
             </tr>
         </table>
 
-        <p style='margin-bottom:0cm;line-height:normal'><span
-                style='font-size:12.0pt;font-family:"Times New Roman",serif'>&nbsp;</span></p>
+        <p><span
+                style='font-size:12.0pt;font-family:"Inter",serif'>&nbsp;</span></p>
 
         <p style='line-height:normal'>This mapping gives product
             managers and designers a shared language to connect research and strategy to
             delivery beautifully in sync with your knack for bridging technical depth and
             practical visuals.</p>
 
-        <p><i>Benefits of User Testing</i></p>
+        <p>Benefits of User Testing</p>
 
-        <p style='margin-top:0cm;margin-right:0cm;margin-bottom:0cm;
-margin-left:36.0pt;text-indent:-18.0pt;line-height:normal'><i><span style='font-size:10.0pt'>1)<span
-                        style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;
-                    </span></span></i><i>Learn if participants are able to complete specified tasks<br>
-                <br>
-            </i></p>
+        <p><span style='font-size:10.0pt'>1)<span
+                        style='font:7.0pt "Inter"'>&nbsp;&nbsp;&nbsp;&nbsp;
+                    </span></span>Learn if participants are able to complete specified tasks<br>
+               
+            </p>
 
-        <p style='margin-top:0cm;margin-right:0cm;margin-bottom:0cm;
-margin-left:36.0pt;text-indent:-18.0pt;line-height:normal'><i><span style='font-size:10.0pt'>2)<span
-                        style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;
-                    </span></span></i><i>Identify how long it takes to complete specified tasks<br>
-                <br>
-            </i></p>
+        <p><span style='font-size:10.0pt'>2)<span
+                        style='font:7.0pt "Inter"'>&nbsp;&nbsp;&nbsp;&nbsp;
+                    </span></span>Identify how long it takes to complete specified tasks<br>
+               
+            </p>
 
-        <p style='margin-left:36.0pt;text-indent:-18.0pt'><i><span style='font-size:10.0pt;line-height:107%'>3)<span
-                        style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;
-                    </span></span></i><i>Find out how satisfied participants are with your Web site
-                or other product</i></p>
+        <p><span style='font-size:10.0pt;line-height:107%'>3)<span
+                        style='font:7.0pt "Inter"'>&nbsp;&nbsp;&nbsp;&nbsp;
+                    </span></span>Find out how satisfied participants are with your Web site
+                or other product</p>
 
-        <p style='margin-left:36.0pt;text-indent:-18.0pt'><i><span style='font-size:10.0pt;line-height:107%'>4)<span
-                        style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;
-                    </span></span></i><i>Identify changes required to improve user performance and
-                satisfaction</i></p>
+        <p><span style='font-size:10.0pt;line-height:107%'>4)<span
+                        style='font:7.0pt "Inter"'>&nbsp;&nbsp;&nbsp;&nbsp;
+                    </span></span>Identify changes required to improve user performance and
+                satisfaction</p>
 
-        <p style='margin-left:36.0pt;text-indent:-18.0pt'><i><span style='font-size:10.0pt;line-height:107%'>5)<span
-                        style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;
-                    </span></span></i><i>And analyse the performance to see if it meets your
-                usability objectives</i></p>
+        <p><span style='font-size:10.0pt;line-height:107%'>5)<span
+                        style='font:7.0pt "Inter"'>&nbsp;&nbsp;&nbsp;&nbsp;
+                    </span></span>And analyse the performance to see if it meets your
+                usability objectives</p>
 
         <p style='margin-left:36.0pt'><span style='font-size:8.0pt;
 line-height:107%'>&nbsp;</span></p>
 
-        <p><i>Discovery covers the Discover and Define stage of the
-                double-diamond model. The Discover stage here is Persona Hypothesis </i></p>
+        <p>Discovery covers the Discover and Define stage of the
+                double-diamond model. The Discover stage here is Persona Hypothesis </p>
 
-        <p><i>In the Define stage, this is where the team aligns on an
-                evidence-based problem statement and on a vision for the future product</i></p>
+        <p>In the Define stage, this is where the team aligns on an
+                evidence-based problem statement and on a vision for the future product</p>
 
-        <p><i>The second diamond is about the creation of an actual
+        <p>The second diamond is about the creation of an actual
                 design to solve the problem we’ve identified. We don’t discuss these stages
                 here since they do not use discovery methods, but rather design and
-                implementation methods. (<b>Source</b>: NNgroup.com)</i></p>
+                implementation methods. (<b>Source</b>: NNgroup.com)</p>
 
-        <p style='line-height:normal'><span style='font-size:12.0pt;
-font-family:"Times New Roman",serif'>&nbsp;</span></p>
+        <p style='line-height:normal'>&nbsp;</p>
 
 
         <h2 align=center id="productanalyticsai-consumer-analytics-reclaiming-science-in-product-thinking">Reclaiming
@@ -1515,7 +1440,7 @@ font-family:"Times New Roman",serif'>&nbsp;</span></p>
             product decisions.it is important to emphasise on using evidence-based methods
             to continuously improve and innovate, by relying heavily on consumer analytics
             and data-driven decision-making.<span style='font-size:12.0pt;line-height:107%;
-font-family:"Times New Roman",serif'>  </span>We understand science has a
+font-family:"Inter",serif'>  </span>We understand science has a
             reputation problem in business. It is often seen as cold, rigid, and
             disconnected from intuition. But that’s a misconception. At DeftAgile, we use
             science not to reduce people to data points, but to amplify both intuition and
@@ -1547,117 +1472,97 @@ font-family:"Times New Roman",serif'>  </span>We understand science has a
         <p><b><span style='color:black'>Key Insights:</span></b></p>
 
         <ol style='margin-top:0cm' start=1 type=1>
-            <li><b><i>Scientific Mindset in Product
-                        Development</i></b></li>
+            <li><b>Scientific Mindset in Product
+                        Development</b></li>
         </ol>
 
-        <p class=MsoListParagraphCxSpFirst style='margin-left:90.0pt;text-indent:-18.0pt'><span
-                style='font-family:Symbol;color:black'>·<span
-                    style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-                </span></span><i><span style='color:black'>Treat product ideas as hypotheses
-                    rather than guaranteed outcomes.</span></i></p>
+        <ul>
+            <li>Treat product ideas as hypotheses
+                    rather than guaranteed outcomes.</li>
 
-        <p class=MsoListParagraphCxSpLast style='margin-left:90.0pt;text-indent:-18.0pt'><span
-                style='font-family:Symbol;color:black'>·<span
-                    style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-                </span></span><i><span style='color:black'>Constantly validate assumptions
-                    through experiments and analytics.</span></i></p>
+            <li>Constantly validate assumptions
+                    through experiments and analytics.</li>
+        </ul>
 
         <ol style='margin-top:0cm' start=2 type=1>
-            <li><b><i>Evidence-Based Decisions</i></b></li>
+            <li><b>Evidence-Based Decisions</b></li>
         </ol>
 
-        <p class=MsoListParagraphCxSpFirst style='margin-left:90.0pt;text-indent:-18.0pt'><span
-                style='font-family:Symbol;color:black'>·<span
-                    style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-                </span></span><i><span style='color:black'>Base product decisions on real-world
-                    evidence gathered from analytics and customer data.</span></i></p>
+        <ul>
+            <li>Base product decisions on real-world
+                    evidence gathered from analytics and customer data.</li>
 
-        <p class=MsoListParagraphCxSpLast style='margin-left:90.0pt;text-indent:-18.0pt'><span
-                style='font-family:Symbol;color:black'>·<span
-                    style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-                </span></span><i><span style='color:black'>Shift away from intuition-led
-                    choices toward data-driven strategies.</span></i></p>
+            <li>Shift away from intuition-led
+                    choices toward data-driven strategies.</li>
+        </ul>
 
         <ol style='margin-top:0cm' start=3 type=1>
-            <li><b><i>Continuous Experimentation</i></b></li>
+            <li><b>Continuous Experimentation</b></li>
         </ol>
 
-        <p class=MsoListParagraphCxSpFirst style='margin-left:90.0pt;text-indent:-18.0pt'><span
-                style='font-family:Symbol;color:black'>·<span
-                    style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-                </span></span><i><span style='color:black'>Embed experimentation into daily
-                    product management practices.</span></i></p>
+        <ul>
+            <li>Embed experimentation into daily
+                    product management practices.</li>
 
-        <p class=MsoListParagraphCxSpLast style='margin-left:90.0pt;text-indent:-18.0pt'><span
-                style='font-family:Symbol;color:black'>·<span
-                    style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-                </span></span><i><span style='color:black'>Utilise A/B testing, user analytics,
-                    and measurable experiments to rapidly validate or invalidate hypotheses.</span></i></p>
+            <li>Utilise A/B testing, user analytics,
+                    and measurable experiments to rapidly validate or invalidate hypotheses.</li>
+        </ul>
 
         <ol style='margin-top:0cm' start=4 type=1>
-            <li><b><i>Reducing Risk</i></b></li>
+            <li><b>Reducing Risk</b></li>
         </ol>
 
-        <p class=MsoListParagraphCxSpFirst style='margin-left:90.0pt;text-indent:-18.0pt'><span
-                style='font-family:Symbol;color:black'>·<span
-                    style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-                </span></span><i><span style='color:black'>Use scientific methods to reduce
-                    uncertainty and risk early in the development cycle.</span></i></p>
+        <ul>
+            <li>Use scientific methods to reduce
+                    uncertainty and risk early in the development cycle.</li>
 
-        <p class=MsoListParagraphCxSpLast style='margin-left:90.0pt;text-indent:-18.0pt'><span
-                style='font-family:Symbol;color:black'>·<span
-                    style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-                </span></span><i><span style='color:black'>Prioritise quick experiments to
-                    ensure products align with actual market demand</span></i></p>
-
-        <p style='line-height:normal'><b><i>Types of Data</i></b></p>
-
-        <ul type=disc>
-            <li><b><i>Experimental Data:</i></b><i>
-                    A/B testing results, controlled user interactions.</i></li>
-            <li><b><i>Behavioural Data:</i></b><i>
-                    Purchase history, session duration, product views.</i></li>
+            <li>Prioritise quick experiments to
+                    ensure products align with actual market demand</li>
         </ul>
 
-        <p style='line-height:normal'><b><i>Key Metrics</i></b></p>
+        <p style='line-height:normal'><b>Types of Data</b></p>
 
         <ul type=disc>
-            <li><b><i>Conversion rates:</i></b><i>
-                    Measure effectiveness of features or marketing.</i></li>
-            <li><b><i>Revenue per visitor:</i></b><i>
-                    Quantify the monetary value of user interactions.</i></li>
+            <li><b>Experimental Data:</b>
+                    A/B testing results, controlled user interactions.</li>
+            <li><b>Behavioural Data:</b>
+                    Purchase history, session duration, product views.</li>
         </ul>
 
-        <p style='line-height:normal'><b><i>AI Applications</i></b></p>
+        <p style='line-height:normal'><b>Key Metrics</b></p>
 
         <ul type=disc>
-            <li><b><i>Automated A/B Test
-                        Analysis:</i></b><i> AI quickly interprets results, detecting significant
-                    outcomes.</i></li>
-            <li><b><i>Behaviour Prediction
-                        Models:</i></b><i> AI models predict user behaviours, guiding proactive
-                    product changes.</i></li>
+            <li><b>Conversion rates:</b>
+                    Measure effectiveness of features or marketing.</li>
+            <li><b>Revenue per visitor:</b>
+                    Quantify the monetary value of user interactions.</li>
         </ul>
 
-        <h3 align=center style='text-align:center'><span style='font-size:11.0pt;
-font-family:"Calibri",sans-serif'>Practical Steps for Product Managers:</span></h3>
+        <p style='line-height:normal'><b>AI Applications</b></p>
 
-        <p style='margin-left:36.0pt;text-indent:-18.0pt'><span style='font-size:10.0pt;
-font-family:Symbol'>·<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-                </span></span><span style='font-size:11.0pt;font-family:"Calibri",sans-serif'>Define
+        <ul type=disc>
+            <li><b>Automated A/B Test
+                        Analysis:</b> AI quickly interprets results, detecting significant
+                    outcomes.</li>
+            <li><b>Behaviour Prediction
+                        Models:</b> AI models predict user behaviours, guiding proactive
+                    product changes.</li>
+        </ul>
+
+        <h3 align=center>Practical Steps for Product Managers</h3>
+
+        <p>a)<span>&nbsp;&nbsp;&nbsp;&nbsp;
+            </span><span>Define
                 clear, testable hypotheses for all product decisions.</span></p>
 
-        <p style='margin-left:36.0pt;text-indent:-18.0pt'><span style='font-size:10.0pt;
-font-family:Symbol'>·<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-                </span></span><span style='font-size:11.0pt;font-family:"Calibri",sans-serif'>Set
+        <p>b)<span>&nbsp;&nbsp;&nbsp;&nbsp;
+            </span><span>Set
                 up lightweight, rapid experiments to gain insights quickly.</span></p>
 
-        <p style='margin-left:36.0pt;text-indent:-18.0pt'><span style='font-size:10.0pt;
-font-family:Symbol'>·<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-                </span></span><span style='font-size:11.0pt;font-family:"Calibri",sans-serif'>Continuously
+        <p>c)<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+            </span><span>Continuously
                 track consumer analytics to inform decisions, pivot swiftly, and refine product
-                strategies.</span></p>
+                strategies.</span><span>.</span></p>
 
         <p><span style='color:black'>&nbsp;</span></p>
 
@@ -1689,114 +1594,83 @@ color:black;display:none'>&nbsp;</span></b></p>
         <p><b><span style='color:black'>Key Insights:</span></b></p>
 
         <ol style='margin-top:0cm' start=1 type=1>
-            <li><b><i>Direct Customer Interaction</i></b></li>
+            <li><b>Direct Customer Interaction</b></li>
         </ol>
 
-        <p class=MsoListParagraph style='margin-left:90.0pt;text-indent:-18.0pt'><span
-                style='font-family:Symbol;color:black'>·<span
-                    style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-                </span></span><i><span style='color:black'>Engage directly with customers to
+        <ul><li>Engage directly with customers to
                     understand their real-world experiences, rather than relying solely on
-                    assumptions or indirect data.</span></i></p>
+                    assumptions or indirect data.</li></ul>
+
 
         <ol style='margin-top:0cm' start=2 type=1>
-            <li><b><i>Observational Research</i></b></li>
+            <li><b>Observational Research</b></li>
         </ol>
 
-        <p class=MsoListParagraphCxSpFirst style='margin-left:90.0pt;text-indent:-18.0pt'><span
-                style='font-family:Symbol;color:black'>·<span
-                    style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-                </span></span><i><span style='color:black'>Conduct observational research,
-                    noting how customers actually behave rather than how they claim to behave.</span></i></p>
+        <ul><li>Conduct observational research,
+                    noting how customers actually behave rather than how they claim to behave.</li>
 
-        <p class=MsoListParagraphCxSpLast style='margin-left:90.0pt;text-indent:-18.0pt'><span
-                style='font-family:Symbol;color:black'>·<span
-                    style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-                </span></span><i><span style='color:black'>Identify friction points and
-                    unspoken needs that analytics alone might not reveal.</span></i></p>
+        <li>Identify friction points and
+                    unspoken needs that analytics alone might not reveal.</li></ul>
 
         <ol style='margin-top:0cm' start=3 type=1>
-            <li><b><i>Customer Empathy</i></b></li>
+            <li><b>Customer Empathy</b></li>
         </ol>
 
-        <p class=MsoListParagraphCxSpFirst style='margin-left:90.0pt;text-indent:-18.0pt'><span
-                style='font-family:Symbol;color:black'>·<span
-                    style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-                </span></span><i><span style='color:black'>Cultivate empathy through first-hand
-                    exposure to customer interactions and pain points.</span></i></p>
+        <ul><li>Cultivate empathy through first-hand
+                    exposure to customer interactions and pain points.</li>
 
-        <p class=MsoListParagraphCxSpLast style='margin-left:90.0pt;text-indent:-18.0pt'><span
-                style='font-family:Symbol;color:black'>·<span
-                    style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-                </span></span><i><span style='color:black'>Empathy informs more user-centric
-                    product designs and strategic decisions.</span></i></p>
+        <li>Empathy informs more user-centric
+                    product designs and strategic decisions.</li></ul>
 
         <ol style='margin-top:0cm' start=4 type=1>
-            <li><b><i>Validation of Assumptions</i></b></li>
+            <li><b>Validation of Assumptions</b></li>
         </ol>
 
-        <p class=MsoListParagraph style='margin-left:90.0pt;text-indent:-18.0pt'><span
-                style='font-family:Symbol;color:black'>·<span
-                    style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-                </span></span><i><span style='color:black'>Validate or invalidate key product
+        <ul><li>Validate or invalidate key product
                     hypotheses directly by observing and interviewing users in their own
-                    environments.</span></i></p>
+                    environments.</li></ul>
 
-        <p><b><i>Types of Data</i></b></p>
-
-        <ul>
-            <li><b><i>Observational Data:</i></b><i> User recordings,
-                    usability testing sessions.</i></li>
-            <li><b><i>Interview Data:</i></b><i> Direct customer feedback,
-                    voice transcripts.</i></li>
-        </ul>
-
-        <p><b><i>Key Metrics</i></b></p>
+        <p><b>Types of Data</b></p>
 
         <ul>
-            <li><b><i>Friction Points:</i></b><i> Number of identified
-                    obstacles per user journey.</i></li>
-            <li><b><i>Customer Effort Score (CES):</i></b><i> Ease of user
-                    interactions and transactions.</i></li>
+            <li><b>Observational Data:</b> User recordings,
+                    usability testing sessions.</li>
+            <li><b>Interview Data:</b> Direct customer feedback,
+                    voice transcripts.</li>
         </ul>
 
-        <p><b><i>AI Applications</i></b></p>
+        <p><b>Key Metrics</b></p>
 
         <ul>
-            <li><b><i>Video Analytics:</i></b><i> AI tools interpret
-                    observational data (videos) to automatically pinpoint user friction areas.</i></li>
-            <li><b><i>Voice Analytics:</i></b><i> NLP analyses interview
-                    transcripts, highlighting common themes quickly and accurately.</i></li>
+            <li><b>Friction Points:</b> Number of identified
+                    obstacles per user journey.</li>
+            <li><b>Customer Effort Score (CES):</b> Ease of user
+                    interactions and transactions.</li>
         </ul>
 
-        <h3 align=center style='text-align:center'><span style='font-size:11.0pt;
-font-family:"Calibri",sans-serif'>Practical Steps for E-commerce Product
-                Managers:</span></h3>
+        <p><b>AI Applications</b></p>
 
-        <p style='margin-left:36.0pt;text-indent:-18.0pt'><span style='font-size:10.0pt;
-font-family:Symbol'>·<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-                </span></span><strong><span style='font-size:11.0pt;font-family:"Calibri",sans-serif'>Conduct
-                    User Interviews</span></strong><span style='font-size:11.0pt;font-family:"Calibri",sans-serif'>:
-                Meet customers directly (in-person or remotely) to understand their online
-                shopping behaviour.</span></p>
+        <ul>
+            <li><b>Video Analytics:</b> AI tools interpret
+                    observational data (videos) to automatically pinpoint user friction areas.</li>
+            <li><b>Voice Analytics:</b> NLP analyses interview
+                    transcripts, highlighting common themes quickly and accurately.</li>
+        </ul>
 
-        <p style='margin-left:36.0pt;text-indent:-18.0pt'><span style='font-size:10.0pt;
-font-family:Symbol'>·<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-                </span></span><strong><span style='font-size:11.0pt;font-family:"Calibri",sans-serif'>Observe
-                    User Journeys</span></strong><span style='font-size:11.0pt;font-family:"Calibri",sans-serif'>:
-                Track real customers interacting with your e-commerce platform to uncover
-                friction points and opportunities.</span></p>
+        <h3 align=center>Practical Steps for E-commerce Product Managers</h3>
 
-        <p style='margin-left:36.0pt;text-indent:-18.0pt'><span style='font-size:10.0pt;
-font-family:Symbol'>·<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-                </span></span><strong><span style='font-size:11.0pt;font-family:"Calibri",sans-serif'>Document
-                    Insights</span></strong><span style='font-size:11.0pt;font-family:"Calibri",sans-serif'>:
-                Systematically document insights gathered from customer interactions to inform
-                hypotheses for upcoming iterations.</span></p>
+                <p>a)<span>&nbsp;</span><span><b>Conduct User Interviews:</b> Meet customers directly (in-person or remotely) to understand their online
+                    shopping behaviour.</span></p>
+    
+            <p>b)<span>&nbsp;</span><span><b>Observe User Journeys:</b> Track real customers interacting with your e-commerce platform to uncover
+                    friction points and opportunities.</span></p>
+    
+            <p>c)<span>&nbsp;</span><span><b>Document Insights:</b> Systematically document insights gathered from customer interactions to inform
+                    hypotheses for upcoming iterations.</span></p>
 
-        <p style='margin-left:36.0pt;text-indent:-18.0pt'><span style='font-size:10.0pt;
-font-family:Symbol'>·<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-                </span></span><span style='font-size:11.0pt;font-family:"Calibri",sans-serif'>&nbsp;</span></p>
+        <p><span style='font-size:10.0pt;
+font-family:Symbol'>·<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                </span></span><span>&nbsp;</span></p>
 
         <h2 align=center id="productanalyticsai-consumer-analytics-making-journeys-testable">Making Journeys
             Testable</h2>
@@ -1815,135 +1689,114 @@ font-family:Symbol'>·<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nb
                 alt="Create an image mapping each step from initial awareness through to purchase and identify each touchpoint for an e-commerce store for electronics">
         </p>
 
-        <p><span style='font-size:11.0pt;font-family:"Calibri",sans-serif'>Terry the
+        <p><span>Terry the
                 Technocrat manages an e-commerce store for electronics. By mapping the customer
                 journey, Trent identifies a significant drop-off at checkout due to a
                 cumbersome login process. He formulates a hypothesis: <em><span
-                        style='font-family:"Calibri",sans-serif'>&quot;Simplifying the login process at
+                        style='font-family:"Inter",sans-serif'>&quot;Simplifying the login process at
                         checkout will reduce cart abandonment by 10%.&quot;</span></em> Using A/B
                 testing, he quickly validates this hypothesis, resulting in increased
                 conversions.</span></p>
 
-        <h3><span style='font-size:12.0pt;font-family:"Calibri",sans-serif'>Key
+        <h3><span style='font-size:12.0pt;font-family:"Inter",sans-serif'>Key
                 Insights:</span></h3>
 
-        <p style='margin-left:36.0pt;text-indent:-18.0pt'><i><span style='font-size:
-11.0pt;font-family:"Calibri",sans-serif'>1.<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;
-                    </span></span></i><strong><i><span
-                        style='font-size:11.0pt;font-family:"Calibri",sans-serif'>Customer
-                        Journey Mapping</span></i></strong></p>
+        <p><span style='font-size:
+11.0pt;font-family:"Inter",sans-serif'>1.<span>&nbsp;&nbsp;&nbsp;&nbsp;
+                    </span></span><strong><span
+                        >Customer
+                        Journey Mapping</span></strong></p>
 
-        <p style='margin-left:90.0pt;text-indent:-18.0pt'><span style='font-size:11.0pt;
-font-family:Symbol'>·<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-                </span></span><i><span style='font-size:11.0pt;font-family:"Calibri",sans-serif'>Clearly
+        <ul><li>Clearly
                     map out each step customers take from initial awareness through purchase and
-                    post-purchase interactions.</span></i></p>
+                    post-purchase interactions.</li>
 
-        <p style='margin-left:90.0pt;text-indent:-18.0pt'><span style='font-size:11.0pt;
-font-family:Symbol'>·<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-                </span></span><i><span style='font-size:11.0pt;font-family:"Calibri",sans-serif'>Identify
-                    key touchpoints where customers interact with your product or service.</span></i></p>
+        <li>Identify
+                    key touchpoints where customers interact with your product or service.</li></ul>
 
-        <p style='margin-left:36.0pt;text-indent:-18.0pt'><i><span style='font-size:
-11.0pt;font-family:"Calibri",sans-serif'>2.<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;
-                    </span></span></i><strong><i><span style='font-size:11.0pt;font-family:"Calibri",sans-serif'>Journey
-                        Testability</span></i></strong></p>
+        <p><span style='font-size:
+11.0pt;font-family:"Inter",sans-serif'>2.<span>&nbsp;&nbsp;&nbsp;&nbsp;
+                    </span></span><strong><span>Journey
+                        Testability</span></strong></p>
 
-        <p style='margin-left:90.0pt;text-indent:-18.0pt'><span style='font-size:11.0pt;
-font-family:Symbol'>·<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-                </span></span><i><span style='font-size:11.0pt;font-family:"Calibri",sans-serif'>Structure
-                    customer journeys in a testable way to easily design and execute experiments.</span></i></p>
+        <ul><li>Structure
+                    customer journeys in a testable way to easily design and execute experiments.</li>
 
-        <p style='margin-left:90.0pt;text-indent:-18.0pt'><span style='font-size:11.0pt;
-font-family:Symbol'>·<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-                </span></span><i><span style='font-size:11.0pt;font-family:"Calibri",sans-serif'>Break
-                    down complex journeys into smaller, measurable segments.</span></i></p>
+            <li>Break
+                    down complex journeys into smaller, measurable segments.</li></ul>
 
-        <p style='margin-left:36.0pt;text-indent:-18.0pt'><i><span style='font-size:
-11.0pt;font-family:"Calibri",sans-serif'>3.<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;
-                    </span></span></i><strong><i><span
-                        style='font-size:11.0pt;font-family:"Calibri",sans-serif'>Prioritising
-                        Touchpoints</span></i></strong></p>
+        <p><span style='font-size:
+11.0pt;font-family:"Inter",sans-serif'>3.<span>&nbsp;&nbsp;&nbsp;&nbsp;
+                    </span></span><strong><span
+                        >Prioritising
+                        Touchpoints</span></strong></p>
 
-        <p style='margin-left:90.0pt;text-indent:-18.0pt'><span style='font-size:11.0pt;
-font-family:Symbol'>·<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-                </span></span><i><span style='font-size:11.0pt;font-family:"Calibri",sans-serif'>Identify
+            <ul><li>Identify
                     and prioritise critical touchpoints within the customer journey that
-                    significantly impact user satisfaction or business outcomes.</span></i></p>
+                    significantly impact user satisfaction or business outcomes.</li></ul>
 
-        <p style='margin-left:36.0pt;text-indent:-18.0pt'><i><span style='font-size:
-11.0pt;font-family:"Calibri",sans-serif'>4.<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;
-                    </span></span></i><strong><i><span
-                        style='font-size:11.0pt;font-family:"Calibri",sans-serif'>Experiment
-                        Design</span></i></strong></p>
+        <p><span style='font-size:
+11.0pt;font-family:"Inter",sans-serif'>4.<span>&nbsp;&nbsp;&nbsp;&nbsp;
+                    </span></span><strong><span
+                        >Experiment
+                        Design</span></strong></p>
 
-        <p style='margin-left:90.0pt;text-indent:-18.0pt'><span style='font-size:11.0pt;
-font-family:Symbol'>·<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-                </span></span><i><span style='font-size:11.0pt;font-family:"Calibri",sans-serif'>Use
+            <ul><li>Use
                     customer journey maps to inform precise, focused experiments that directly
-                    improve customer experience and conversions.</span></i></p>
+                    improve customer experience and conversions.</li></ul>
 
-        <p><b><i>Types of Data</i></b></p>
-
-        <ul>
-            <li><b><i>Journey mapping data:</i></b><i> Drop-off rates,
-                    session lengths at key touchpoints.</i></li>
-            <li><b><i>Interaction Data:</i></b><i> Heatmaps, scroll depth,
-                    click interactions.</i></li>
-        </ul>
-
-        <p><b><i>Key Metrics</i></b></p>
+        <p><b>Types of Data</b></p>
 
         <ul>
-            <li><b><i>Cart Abandonment Rate:</i></b><i> Identify key
-                    dropout stages.</i></li>
-            <li><b><i>Checkout Completion Rate:</i></b><i> Track success
-                    of user purchases.</i></li>
+            <li><b>Journey mapping data:</b> Drop-off rates,
+                    session lengths at key touchpoints.</li>
+            <li><b>Interaction Data:</b> Heatmaps, scroll depth,
+                    click interactions.</li>
         </ul>
 
-        <p><b><i>AI Applications</i></b></p>
+        <p><b>Key Metrics</b></p>
 
         <ul>
-            <li><b><i>Automated Journey Analytics:</i></b><i> AI models
-                    quickly detect problematic journey stages through user behaviour.</i></li>
+            <li><b>Cart Abandonment Rate:</b> Identify key
+                    dropout stages.</li>
+            <li><b>Checkout Completion Rate:</b> Track success
+                    of user purchases.</li>
         </ul>
 
-        <h3 align=center style='text-align:center'><span style='font-size:11.0pt;
-font-family:"Calibri",sans-serif'>Practical Steps for E-commerce Product
-                Managers:</span></h3>
+        <p><b>AI Applications</b></p>
 
-        <p style='margin-left:36.0pt;text-indent:-18.0pt'><span style='font-size:10.0pt;
-font-family:"Calibri",sans-serif'>a)<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;
-                </span></span><strong><span style='font-size:11.0pt;font-family:"Calibri",sans-serif'>Define
+        <ul>
+            <li><b>Automated Journey Analytics:</b> AI models
+                    quickly detect problematic journey stages through user behaviour.</li>
+        </ul>
+
+        <h3 align=center>Practical Steps for E-commerce Product Managers</h3>
+
+        <p><span>a)<span>&nbsp;</span></span><strong><span>Define
                     Clear Journey Stages</span></strong><span style='font-size:11.0pt;font-family:
-"Calibri",sans-serif'>: Awareness → Consideration → Purchase → Retention.</span></p>
+"Inter",sans-serif'>: Awareness → Consideration → Purchase → Retention.</span></p>
 
-        <p style='margin-left:36.0pt;text-indent:-18.0pt'><span style='font-size:10.0pt;
-font-family:"Calibri",sans-serif'>b)<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;
-                </span></span><strong><span style='font-size:11.0pt;font-family:"Calibri",sans-serif'>Identify
-                    Critical Friction Points</span></strong><span style='font-size:11.0pt;
-font-family:"Calibri",sans-serif'>: Use analytics to pinpoint areas where
-                customers commonly drop off or struggle.</span></p>
+        <p><span>b)<span>&nbsp;</span></span><strong><span>Identify
+                    Critical Friction Points</span></strong>: Use analytics to pinpoint areas where
+                customers commonly drop off or struggle.</p>
 
-        <p style='margin-left:36.0pt;text-indent:-18.0pt'><span style='font-size:10.0pt;
-font-family:"Calibri",sans-serif'>c)<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-                </span></span><strong><span style='font-size:11.0pt;font-family:"Calibri",sans-serif'>Design
+        <p><span>c)<span>&nbsp;</span></span><strong><span>Design
                     Focused Experiments</span></strong><span style='font-size:11.0pt;font-family:
-"Calibri",sans-serif'>: Implement targeted tests (e.g., A/B testing) at
+"Inter",sans-serif'>: Implement targeted tests (e.g., A/B testing) at
                 specific journey touchpoints, using analytics to measure effectiveness.</span></p>
 
-        <p><b><span style='font-size:16.0pt;font-family:"Calibri",sans-serif'>&nbsp;</span></b></p>
+        <p><b><span style='font-size:16.0pt;font-family:"Inter",sans-serif'>&nbsp;</span></b></p>
 
         <h2 align=center id="productanalyticsai-consumer-analytics-user-journey-focus">User Journey Focus</h2>
 
-        <p><span style='font-size:11.0pt;font-family:"Calibri",sans-serif'>Centring the
+        <p><span>Centring the
                 user journey means constantly seeing your product through your customer’s eyes.
                 Analytics become even more powerful when you align them with specific journey
                 points, by clearly highlighting where adjustments can lead to big wins. A
                 user-centric approach transforms how you see data.  It is not just numbers but
                 insights into real human experiences</span></p>
 
-        <p><span style='font-size:11.0pt;font-family:"Calibri",sans-serif'>Imagine
+        <p><span>Imagine
                 managing an e-commerce fashion store. By focusing on the user journey, you
                 notice analytics show a high bounce rate on product pages. Investigating
                 further, you hypothesise that unclear sizing guides cause customer confusion.
@@ -2019,33 +1872,28 @@ font-family:"Calibri",sans-serif'>c)<span style='font:7.0pt "Times New Roman"'>&
                         validated
                     </td>
                 </tr>
-                <tr style='height:5.0pt'>
-                    <td>
-                        <p><span style='font-size:11.0pt;font-family:"Calibri",sans-serif'>&nbsp;</span></p>
-                    </td>
-                </tr>
+                
             </tbody>
         </table>
 
-        <p><span style='font-size:11.0pt;font-family:"Calibri",sans-serif'>Let us now
+        <p>Let us now
                 turn this into a user story map including analytics data.  This will give the
                 team the overarching focus that is needed to ensure that they are aligned with
                 business objectives not to mention expected key results and key performance
-                indicators</span></p>
+                indicators</p>
 
         <p align=center><img class="img-fluid rounded-corners mt-3"  border=0 width="600" height="300"
                 src="./images/productsanalyticsai/consumeranalytics/image009.png"></p>
 
-        <p style='margin-bottom:0cm;line-height:normal'><span
-                style='font-size:12.0pt;font-family:"Times New Roman",serif'>&nbsp;</span></p>
+        <p><span
+                style='font-size:12.0pt;font-family:"Inter",serif'>&nbsp;</span></p>
 
-        <p style='margin-bottom:0cm;line-height:normal'><span
-                style='font-size:12.0pt;font-family:"Times New Roman",serif'>&nbsp;</span></p>
+        <p><span
+                style='font-size:12.0pt;font-family:"Inter",serif'>&nbsp;</span></p>
 
-        <p style='margin-bottom:0cm;line-height:normal'><b><span style='font-size:12.0pt'>User Journey
-                    &amp; Analytics Layer</span></b></p>
+        <h3>User Journey &amp; Analytics Layer</h3>
 
-        <h3><span style='font-family:"Calibri",sans-serif'>&nbsp;</span></h3>
+        <h3><span style='font-family:"Inter",sans-serif'>&nbsp;</span></h3>
 
         <table class='table'>
             <thead class='table-light'>
@@ -2086,8 +1934,7 @@ font-family:"Calibri",sans-serif'>c)<span style='font:7.0pt "Times New Roman"'>&
             </tbody>
         </table>
 
-        <h3><span style='font-size:12.0pt;font-family:"Calibri",sans-serif'>Key metrics
-                in detail</span></h3>
+        <h3>Key metrics in detail</h3>
 
         <table class='table'>
             <thead class='table-light'>
@@ -2101,203 +1948,183 @@ font-family:"Calibri",sans-serif'>c)<span style='font:7.0pt "Times New Roman"'>&
                     <td><b>Click-through
                             Rate (CTR)</b></td>
                     <td>
-                        <p style='margin-bottom:0cm;line-height:normal'><i>Tracks
-                                effectiveness of product listings and ads</i></p>
+                        <p>Tracks
+                                effectiveness of product listings and ads</p>
                     </td>
                 </tr>
                 <tr>
                     <td><b>Bounce
                             Rate</b></td>
                     <td>
-                        <p style='margin-bottom:0cm;line-height:normal'><i>Indicates
-                                dissatisfaction or mismatch with intent</i></p>
+                        <p>Indicates
+                                dissatisfaction or mismatch with intent</p>
                     </td>
                 </tr>
                 <tr>
                     <td>
-                        <p style='margin-bottom:0cm;line-height:normal'><b>Search
+                        <p><b>Search
                                 Refinement Rate</b></p>
                     </td>
                     <td>
-                        <p style='margin-bottom:0cm;line-height:normal'><i>Measures
-                                usability of search and categorisation</i></p>
+                        <p>Measures
+                                usability of search and categorisation</p>
                     </td>
                 </tr>
                 <tr>
                     <td>
-                        <p style='margin-bottom:0cm;line-height:normal'><b>Time on
+                        <p><b>Time on
                                 Page</b></p>
                     </td>
                     <td>
-                        <p style='margin-bottom:0cm;line-height:normal'><i>Reflects
-                                user engagement with product content</i></p>
+                        <p>Reflects
+                                user engagement with product content</p>
                     </td>
                 </tr>
                 <tr>
                     <td>
-                        <p style='margin-bottom:0cm;line-height:normal'><b>Add-to-Wishlist
+                        <p><b>Add-to-Wishlist
                                 Rate</b></p>
                     </td>
                     <td>
-                        <p style='margin-bottom:0cm;line-height:normal'><i>Reveals
-                                user interest without immediate intent</i></p>
+                        <p>Reveals
+                                user interest without immediate intent</p>
                     </td>
                 </tr>
                 <tr>
                     <td>
-                        <p style='margin-bottom:0cm;line-height:normal'><b>Cart
+                        <p><b>Cart
                                 Abandonment Rate</b></p>
                     </td>
                     <td>
-                        <p style='margin-bottom:0cm;line-height:normal'><i>Highlights
-                                friction in the checkout process</i></p>
+                        <p>Highlights
+                                friction in the checkout process</p>
                     </td>
                 </tr>
                 <tr>
                     <td>
-                        <p style='margin-bottom:0cm;line-height:normal'><b>Checkout
+                        <p><b>Checkout
                                 Completion Rate</b></p>
                     </td>
                     <td>
-                        <p style='margin-bottom:0cm;line-height:normal'><i>Indicates
-                                how well the checkout funnel converts</i></p>
+                        <p>Indicates
+                                how well the checkout funnel converts</p>
                     </td>
                 </tr>
                 <tr>
                     <td>
-                        <p style='margin-bottom:0cm;line-height:normal'><b>Feedback
+                        <p><b>Feedback
                                 Response Rate</b></p>
                     </td>
                     <td>
-                        <p style='margin-bottom:0cm;line-height:normal'><i>Tracks
-                                participation in post-purchase feedback</i></p>
+                        <p>Tracks
+                                participation in post-purchase feedback</p>
                     </td>
                 </tr>
                 <tr>
                     <td>
-                        <p style='margin-bottom:0cm;line-height:normal'><b>Return
+                        <p><b>Return
                                 Rate</b></p>
                     </td>
                     <td>
-                        <p style='margin-bottom:0cm;line-height:normal'><i>Reveals possible
-                                dissatisfaction with product</i></p>
+                        <p>Reveals possible
+                                dissatisfaction with product</p>
                     </td>
                 </tr>
                 <tr>
                     <td>
-                        <p style='margin-bottom:0cm;line-height:normal'><b>CSAT / NPS</b></p>
+                        <p><b>CSAT / NPS</b></p>
                     </td>
                     <td>
-                        <p style='margin-bottom:0cm;line-height:normal'><i>Measures
-                                customer satisfaction and loyalty</i></p>
+                        <p>Measures
+                                customer satisfaction and loyalty</p>
                     </td>
                 </tr>
             </tbody>
         </table>
 
-        <h3><span style='font-family:"Calibri",sans-serif'>&nbsp;</span></h3>
+        <h3><span style='font-family:"Inter",sans-serif'>&nbsp;</span></h3>
 
-        <h3><span style='font-family:"Calibri",sans-serif'>Key Insights:</span></h3>
+        <h3><span style='font-family:"Inter",sans-serif'>Key Insights:</span></h3>
 
-        <p style='margin-left:36.0pt;text-indent:-18.0pt'><i><span style='font-family:
-"Calibri",sans-serif'>1.<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;
-                    </span></span></i><strong><i><span style='font-family:"Calibri",sans-serif'>User-Centric
-                        Development</span></i></strong></p>
+        <p><span style='font-family:
+"Inter",sans-serif'>1.<span>&nbsp;&nbsp;&nbsp;&nbsp;
+                    </span></span><strong><span style='font-family:"Inter",sans-serif'>User-Centric
+                        Development</span></strong></p>
 
-        <p style='margin-left:90.0pt;text-indent:-18.0pt'><span style='font-family:
-Symbol'>·<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-                </span></span><i><span style='font-family:"Calibri",sans-serif'>Make the user
-                    journey central to all product discussions, decisions, and priorities.</span></i></p>
+        <ul><li>Make the user
+                    journey central to all product discussions, decisions, and priorities.</li>
 
-        <p style='margin-left:90.0pt;text-indent:-18.0pt'><span style='font-family:
-Symbol'>·<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-                </span></span><i><span style='font-family:"Calibri",sans-serif'>Consistently
-                    revisit user journeys to maintain alignment with actual customer experiences.</span></i></p>
+            <li>Consistently
+                    revisit user journeys to maintain alignment with actual customer experiences.</li></ul>
 
-        <p style='margin-left:36.0pt;text-indent:-18.0pt'><i><span style='font-family:
-"Calibri",sans-serif'>2.<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;
-                    </span></span></i><strong><i><span style='font-family:"Calibri",sans-serif'>Journey-Driven
-                        Prioritisation</span></i></strong></p>
+        <p><span style='font-family:
+"Inter",sans-serif'>2.<span>&nbsp;&nbsp;&nbsp;&nbsp;
+                    </span></span><strong><span style='font-family:"Inter",sans-serif'>Journey-Driven
+                        Prioritisation</span></strong></p>
 
-        <p style='margin-left:90.0pt;text-indent:-18.0pt'><span style='font-family:
-Symbol'>·<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-                </span></span><i><span style='font-family:"Calibri",sans-serif'>Prioritise
+            <ul><li>Prioritise
                     development efforts based on their impact on critical stages of the user
-                    journey, particularly those tied directly to business outcomes.</span></i></p>
+                    journey, particularly those tied directly to business outcomes.</li></ul>
 
-        <p style='margin-left:36.0pt;text-indent:-18.0pt'><i><span style='font-family:
-"Calibri",sans-serif'>3.<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;
-                    </span></span></i><strong><i><span style='font-family:"Calibri",sans-serif'>Integrated
-                        Analytics</span></i></strong></p>
+        <p><span style='font-family:
+"Inter",sans-serif'>3.<span>&nbsp;&nbsp;&nbsp;&nbsp;
+                    </span></span><strong><span style='font-family:"Inter",sans-serif'>Integrated
+                        Analytics</span></strong></p>
 
-        <p style='margin-left:90.0pt;text-indent:-18.0pt'><span style='font-family:
-Symbol'>·<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-                </span></span><i><span style='font-family:"Calibri",sans-serif'>Leverage
+            <ul><li>Leverage
                     analytics at every journey stage to understand real user behaviour and quantify
                     the impact of changes or experiments. Use clickstream + feedback to guide
-                    experiments</span></i></p>
+                    experiments.</li></ul>
 
-        <p style='margin-left:36.0pt;text-indent:-18.0pt'><i><span style='font-family:
-"Calibri",sans-serif'>4.<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;
-                    </span></span></i><strong><i><span style='font-family:"Calibri",sans-serif'>Continuous
-                        Refinement</span></i></strong></p>
+        <p><span style='font-family:
+"Inter",sans-serif'>4.<span>&nbsp;&nbsp;&nbsp;&nbsp;
+                    </span></span><strong><span style='font-family:"Inter",sans-serif'>Continuous
+                        Refinement</span></strong></p>
 
-        <p style='margin-left:90.0pt;text-indent:-18.0pt'><span style='font-family:
-Symbol'>·<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-                </span></span><i><span style='font-family:"Calibri",sans-serif'>Regularly
+            <ul><li>Regularly
                     refine the user journey based on insights from user feedback, analytics, and
-                    experimentation to ensure ongoing improvement.</span></i></p>
+                    experimentation to ensure ongoing improvement.</li></ul>
 
-        <p><b><i>Types of Data</i></b></p>
-
-        <ul>
-            <li><b><i>User path data:</i></b><i> Detailed clickstream
-                    records.</i></li>
-            <li><b><i>Feedback data:</i></b><i> Customer reviews, in-app
-                    survey responses.</i></li>
-        </ul>
-
-        <p><b><i>Key Metrics</i></b></p>
+        <p><b>Types of Data</b></p>
 
         <ul>
-            <li><b><i>User Journey Completion Rate:</i></b><i> Percentage
-                    of users completing desired paths.</i></li>
-            <li><b><i>Net Promoter Score (NPS):</i></b><i> Likelihood of
-                    users recommending your product.</i></li>
+            <li><b>User path data:</b> Detailed clickstream
+                    records.</li>
+            <li><b>Feedback data:</b> Customer reviews, in-app
+                    survey responses.</li>
         </ul>
 
-        <p><b><i>AI Applications</i></b></p>
+        <p><b>Key Metrics</b></p>
 
         <ul>
-            <li><b><i>Anomaly Detection:</i></b><i> AI identifies unusual
-                    patterns signalling potential friction points.</i></li>
-            <li><b><i>Real-time Journey Adjustments:</i></b><i> AI
-                    automatically personalises journey flows based on user analytics.</i></li>
+            <li><b>User Journey Completion Rate:</b> Percentage
+                    of users completing desired paths.</li>
+            <li><b>Net Promoter Score (NPS):</b> Likelihood of
+                    users recommending your product.</li>
         </ul>
 
-        <h3 align=center style='text-align:center'><span style='font-size:11.0pt;
-font-family:"Calibri",sans-serif'>Practical Steps for E-commerce Product
-                Managers</span></h3>
+        <p><b>AI Applications</b></p>
 
-        <p style='margin-left:36.0pt;text-indent:-18.0pt'><span style='font-size:10.0pt;
-font-family:"Calibri",sans-serif'>a)<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;
-                </span></span><strong><span style='font-size:11.0pt;font-family:"Calibri",sans-serif'>Define
-                    Core User Journeys</span></strong><span style='font-size:11.0pt;font-family:
-"Calibri",sans-serif'>: Clearly document major user journeys (e.g., browsing,
+        <ul>
+            <li><b>Anomaly Detection:</b> AI identifies unusual
+                    patterns signalling potential friction points.</li>
+            <li><b>Real-time Journey Adjustments:</b> AI
+                    automatically personalises journey flows based on user analytics.</li>
+        </ul>
+
+        <h3 align=center>Practical Steps for E-commerce Product
+                Managers</h3>
+
+        <p><span>a)<span>&nbsp;</span></span><strong><span>Define
+                    Core User Journeys</span></strong><span>: Clearly document major user journeys (e.g., browsing,
                 purchasing, post-purchase).</span></p>
 
-        <p style='margin-left:36.0pt;text-indent:-18.0pt'><span style='font-size:10.0pt;
-font-family:"Calibri",sans-serif'>b)<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;
-                </span></span><strong><span style='font-size:11.0pt;font-family:"Calibri",sans-serif'>Analyse
-                    Behaviour with Data</span></strong><span style='font-size:11.0pt;font-family:
-"Calibri",sans-serif'>: Use analytics to track real user actions along these
+        <p><span>b)<span>&nbsp;</span></span><strong><span>Analyse
+                    Behaviour with Data</span></strong><span>: Use analytics to track real user actions along these
                 journeys.</span></p>
 
-        <p style='margin-left:36.0pt;text-indent:-18.0pt'><span style='font-size:10.0pt;
-font-family:"Calibri",sans-serif'>c)<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-                </span></span><strong><span style='font-size:11.0pt;font-family:"Calibri",sans-serif'>Identify
-                    High-Impact Opportunities</span></strong><span style='font-size:11.0pt;
-font-family:"Calibri",sans-serif'>: Pinpoint journey stages with significant
+        <p><span>c)<span>&nbsp;</span></span><strong><span>Identify
+                    High-Impact Opportunities</span></strong><span>: Pinpoint journey stages with significant
                 impact on conversion or retention, and prioritise improvements there</span></p>
 
         <p align=center>&nbsp;</p>
@@ -2315,29 +2142,24 @@ font-family:"Calibri",sans-serif'>: Pinpoint journey stages with significant
             outcomes. Consider managing an e-commerce furniture store. Your primary goal is
             increasing repeat purchases. Your analytics portfolio includes:</p>
 
-        <p style='margin-left:36.0pt;text-indent:-18.0pt'><span style='font-size:10.0pt;
-font-family:Symbol'>·<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-                </span></span><strong><span style='font-size:11.0pt;font-family:"Calibri",sans-serif'>Descriptive
-                    Analytics</span></strong><span style='font-size:11.0pt;font-family:"Calibri",sans-serif'>:
-                Repeat customer rate.</span></p>
+        <ul><li><strong><span>Descriptive
+                    Analytics</span></strong><span>:
+                Repeat customer rate.</span></li>
 
-        <p style='margin-left:36.0pt;text-indent:-18.0pt'><span style='font-size:10.0pt;
-font-family:Symbol'>·<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-                </span></span><strong><span style='font-size:11.0pt;font-family:"Calibri",sans-serif'>Diagnostic
-                    Analytics</span></strong><span style='font-size:11.0pt;font-family:"Calibri",sans-serif'>:
-                Surveys revealing why customers do or don’t return.</span></p>
+        <li><strong><span>Diagnostic
+                    Analytics</span></strong><span>:
+                Surveys revealing why customers do or don’t return.</span></li>
 
-        <p style='margin-left:36.0pt;text-indent:-18.0pt'><span style='font-size:10.0pt;
-font-family:Symbol'>·<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-                </span></span><strong><span style='font-size:11.0pt;font-family:"Calibri",sans-serif'>Predictive
-                    Analytics</span></strong><span style='font-size:11.0pt;font-family:"Calibri",sans-serif'>:
-                Models forecasting likelihood of repurchase.</span></p>
+        <li><strong><span>Predictive
+                    Analytics</span></strong><span>:
+                Models forecasting likelihood of repurchase.</span><</li>
 
-        <p style='margin-left:36.0pt;text-indent:-18.0pt'><span style='font-size:10.0pt;
-font-family:Symbol'>·<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-                </span></span><strong><span style='font-size:11.0pt;font-family:"Calibri",sans-serif'>Prescriptive
-                    Analytics</span></strong><span style='font-size:11.0pt;font-family:"Calibri",sans-serif'>:
-                Recommendations for personalised offers based on customer behaviour analytics.</span></p>
+        <li><strong><span>Prescriptive
+                    Analytics</span></strong><span>:
+                Recommendations for personalised offers based on customer behaviour analytics.</span></li>
+
+        </ul>
+
 
         <p align=center><br>
             <br>
@@ -2352,121 +2174,95 @@ font-family:Symbol'>·<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nb
             <br>
         </p>
 
-        <p><span style='font-size:11.0pt;font-family:"Calibri",sans-serif'>Through
+        <p><span>Through
                 systematically monitoring and adjusting your analytics portfolio, you can significantly
                 boost repeat sales.</span></p>
 
-        <h3><span style='font-size:11.0pt;font-family:"Calibri",sans-serif'>Key
+        <h3><span>Key
                 Insights:</span></h3>
 
-        <p style='margin-left:36.0pt;text-indent:-18.0pt'><i><span style='font-size:
-11.0pt;font-family:"Calibri",sans-serif'>1.<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;
-                    </span></span></i><strong><i><span
-                        style='font-size:11.0pt;font-family:"Calibri",sans-serif'>Structured
-                        Analytics Portfolio</span></i></strong></p>
+        <p><span style='font-size:
+11.0pt;font-family:"Inter",sans-serif'>1.<span>&nbsp;&nbsp;&nbsp;&nbsp;
+                    </span></span><strong><span
+                        >Structured
+                        Analytics Portfolio</span></strong></p>
 
-        <p style='margin-left:90.0pt;text-indent:-18.0pt'><span style='font-size:11.0pt;
-font-family:Symbol'>·<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-                </span></span><i><span style='font-size:11.0pt;font-family:"Calibri",sans-serif'>Create
+        <ul><li>Create
                     a structured collection of analytics aligned directly with your business goals
-                    and product hypotheses.</span></i></p>
+                    and product hypotheses.</li>
 
-        <p style='margin-left:90.0pt;text-indent:-18.0pt'><span style='font-size:11.0pt;
-font-family:Symbol'>·<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-                </span></span><i><span style='font-size:11.0pt;font-family:"Calibri",sans-serif'>Regularly
-                    maintain and update your portfolio to ensure its relevance and effectiveness.</span></i></p>
+        <li>Regularly
+                    maintain and update your portfolio to ensure its relevance and effectiveness.</li></ul>
 
-        <p style='margin-left:36.0pt;text-indent:-18.0pt'><i><span style='font-size:
-11.0pt;font-family:"Calibri",sans-serif'>2.<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;
-                    </span></span></i><strong><i><span
-                        style='font-size:11.0pt;font-family:"Calibri",sans-serif'>Actionable
-                        Metrics</span></i></strong></p>
+        <p><span style='font-size:
+11.0pt;font-family:"Inter",sans-serif'>2.<span>&nbsp;&nbsp;&nbsp;&nbsp;
+                    </span></span><strong><span
+                        >Actionable
+                        Metrics</span></strong></p>
 
-        <p style='margin-left:90.0pt;text-indent:-18.0pt'><span style='font-size:11.0pt;
-font-family:Symbol'>·<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-                </span></span><i><span style='font-size:11.0pt;font-family:"Calibri",sans-serif'>Prioritise
+            <ul><li>Prioritise
                     actionable metrics (like conversion rates, retention rates) over vanity metrics
-                    (like total visits or clicks without clear business context).</span></i></p>
+                    (like total visits or clicks without clear business context).</li></ul>
 
-        <p style='margin-left:36.0pt;text-indent:-18.0pt'><i><span style='font-size:
-11.0pt;font-family:"Calibri",sans-serif'>3.<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;
-                    </span></span></i><strong><i><span
-                        style='font-size:11.0pt;font-family:"Calibri",sans-serif'>Analytics
-                        Diversity</span></i></strong></p>
+        <p><span style='font-size:
+11.0pt;font-family:"Inter",sans-serif'>3.<span>&nbsp;&nbsp;&nbsp;&nbsp;
+                    </span></span><strong><span
+                        >Analytics
+                        Diversity</span></strong></p>
 
-        <p style='margin-left:90.0pt;text-indent:-18.0pt'><span style='font-size:11.0pt;
-font-family:Symbol'>·<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-                </span></span><i><span style='font-size:11.0pt;font-family:"Calibri",sans-serif'>Include
+            <ul><li>Include
                     diverse analytics types such as descriptive analytics (what happened),
                     diagnostic analytics (why it happened), predictive analytics (what might
-                    happen), and prescriptive analytics (what should be done).</span></i></p>
+                    happen), and prescriptive analytics (what should be done).</li></ul>
 
-        <p style='margin-left:36.0pt;text-indent:-18.0pt'><i><span style='font-size:
-11.0pt;font-family:"Calibri",sans-serif'>4.<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;
-                    </span></span></i><strong><i><span
-                        style='font-size:11.0pt;font-family:"Calibri",sans-serif'>Continuous
-                        Improvement</span></i></strong></p>
+        <p><span style='font-size:
+11.0pt;font-family:"Inter",sans-serif'>4.<span>&nbsp;&nbsp;&nbsp;&nbsp;
+                    </span></span><strong><span
+                        >Continuous
+                        Improvement</span></strong></p>
 
-        <p style='margin-left:90.0pt;text-indent:-18.0pt'><span style='font-size:11.0pt;
-font-family:Symbol'>·<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-                </span></span><i><span style='font-size:11.0pt;font-family:"Calibri",sans-serif'>Regularly
+            <ul><li>Regularly
                     revisit your analytics portfolio, refining your selection of metrics as product
-                    strategies evolve and insights deepen.</span></i></p>
+                    strategies evolve and insights deepen.</li></ul>
 
-        <p><b><i>Types of Data</i></b></p>
+        <p><b>Types of Data</b></p>
 
         <ul>
-            <li><b><i>Descriptive data:</i></b><i> Historical purchase and
-                    traffic data.</i></li>
-            <li><b><i>Predictive data:</i></b><i> Forecasts based on
-                    historical patterns.</i></li>
+            <li><b>Descriptive data:</b> Historical purchase and
+                    traffic data.</li>
+            <li><b>Predictive data:</b> Forecasts based on
+                    historical patterns.</li>
         </ul>
 
-        <p><b><i>Key Metrics</i></b></p>
+        <p><b>Key Metrics</b></p>
 
         <ul>
-            <li><b><i>Customer Lifetime Value (CLV):</i></b><i> Predict
-                    revenue from customer relationships.</i></li>
-            <li><b><i>Repeat Purchase Rate:</i></b><i> Frequency of
-                    returning customers.</i></li>
+            <li><b>Customer Lifetime Value (CLV):</b> Predict
+                    revenue from customer relationships.</li>
+            <li><b>Repeat Purchase Rate:</b> Frequency of
+                    returning customers.</li>
         </ul>
 
-        <p><b><i>AI Applications</i></b></p>
+        <p><b>AI Applications</b></p>
 
         <ul>
-            <li><b><i>Predictive Customer Modelling:</i></b><i> AI
+            <li><b>Predictive Customer Modelling:</b> AI
                     predicts CLV and repeat purchase likelihood, enhancing retention
-                    strategies.</i></li>
-            <li><b><i>Portfolio Management Automation:</i></b><i> AI tools
+                    strategies.</li>
+            <li><b>Portfolio Management Automation:</b> AI tools
                     automatically adjust your analytics portfolio based on evolving business
-                    goals.</i></li>
+                    goals.</li>
         </ul>
 
-        <h3 align=center style='text-align:center'><span style='font-size:11.0pt;
-font-family:"Calibri",sans-serif'>Practical Steps for E-commerce Product
-                Managers:</span></h3>
+        <h3 align=center>Practical Steps for E-commerce Product Managers</h3>
 
-        <p style='margin-left:36.0pt;text-indent:-18.0pt'><span style='font-size:10.0pt;
-font-family:Symbol'>·<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-                </span></span><strong><span style='font-size:11.0pt;font-family:"Calibri",sans-serif'>Define
-                    Clear Business Objectives</span></strong><span style='font-size:11.0pt;
-font-family:"Calibri",sans-serif'>: For instance, increasing repeat purchases,
+        <p>a)<span>&nbsp;</span><span>Define Clear Business Objectives</span></strong>: For instance, increasing repeat purchases,
                 enhancing average order value, or reducing cart abandonment.</span></p>
-
-        <p style='margin-left:36.0pt;text-indent:-18.0pt'><span style='font-size:10.0pt;
-font-family:Symbol'>·<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-                </span></span><strong><span style='font-size:11.0pt;font-family:"Calibri",sans-serif'>Identify
-                    Relevant Analytics</span></strong><span style='font-size:11.0pt;font-family:
-"Calibri",sans-serif'>: Choose analytics that align with these objectives, such
-                as cohort analysis, conversion rate funnels, or predictive analytics for
+        <p>b)<span>&nbsp;</span><span>Identify Relevant Analytics</span></strong><span style='font-size:11.0pt;font-family:
+                "Inter",sans-serif'>: Choose analytics that align with these objectives, such as cohort analysis, conversion rate funnels, or predictive analytics for
                 customer lifetime value.</span></p>
-
-        <p style='margin-left:36.0pt;text-indent:-18.0pt'><span style='font-size:10.0pt;
-font-family:Symbol'>·<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-                </span></span><strong><span style='font-size:11.0pt;font-family:"Calibri",sans-serif'>Regular
-                    Portfolio Reviews</span></strong><span style='font-size:11.0pt;font-family:
-"Calibri",sans-serif'>: Continuously reassess your analytics to ensure they
-                remain Designing Acy=aligned with changing business priorities and market
+        <p>c)<span>&nbsp;</span><span>Regular Portfolio Reviews</span></strong><span style='font-size:11.0pt;font-family:
+                "Inter",sans-serif'>: Continuously reassess your analytics to ensure they remain Designing Acy=aligned with changing business priorities and market
                 conditions.</span></p>
 
         <p>&nbsp;</p>
@@ -2475,7 +2271,7 @@ font-family:Symbol'>·<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nb
             Action</h2>
 
         <p style='line-height:normal'><b><span style='font-size:14.0pt'><br>
-                </span></b><b><span style='font-size:12.0pt'>Quick Definitions</span></b></p>
+                </span></b><b><span>Quick Definitions</span></b></p>
 
         <ul type=disc>
             <li><b>Independent Variable (IV):</b>
@@ -2544,11 +2340,11 @@ font-family:Symbol'>·<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nb
             </tbody>
         </table>
 
-        <p style='line-height:normal'><b><i>Action</i></b><i>:</i> A/B
+        <p style='line-height:normal'><b>Action</b>: A/B
             test different send times for segmented user profiles (e.g. working
             professionals vs students).</p>
 
-        <p style='margin-bottom:0cm;line-height:normal'>&nbsp;</p>
+        <p>&nbsp;</p>
 
         <p style='line-height:normal'><b>2. Homepage Layout Variation</b></p>
 
@@ -2570,7 +2366,7 @@ font-family:Symbol'>·<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nb
             </tbody>
         </table>
 
-        <p style='line-height:normal'><b><i>Action</i></b><i>:</i> Run
+        <p style='line-height:normal'><b>Action</b>: Run
             multivariate tests with different visual hierarchies to refine layout decisions
             across device types.</p>
 
@@ -2594,7 +2390,7 @@ font-family:Symbol'>·<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nb
             </tbody>
         </table>
 
-        <p style='line-height:normal'><b><i>Action:</i></b> Segment
+        <p style='line-height:normal'><b>Action:</b> Segment
             discount experiments by user tenure or loyalty tier to avoid margin erosion.</p>
 
         <p style='line-height:normal'><b>4. Product Page Visuals</b></p>
@@ -2613,21 +2409,23 @@ font-family:Symbol'>·<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nb
                     </td>
                 </tr>
             </thead>
+            <tbody>
             <tr>
-                <td>
+                
                 <td>Presence of lifestyle images.
                 </td>
-                <td>
+                
                 <td>Add-to-cart rate.
                 </td>
-                <td>
+                
                 <td>Pages with lifestyle images result in 10% higher
                     add-to-cart rates than technical-only images.</p>
                 </td>
             </tr>
+            </tbody>
         </table>
 
-        <p style='line-height:normal'><b><i>Action</i></b><i>:</i>
+        <p style='line-height:normal'><b>Action</b>:
             Develop an image-testing pipeline to compare impact across product categories
             (e.g. fashion vs electronics).</p>
 
@@ -2649,23 +2447,22 @@ font-family:Symbol'>·<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nb
                         </td>
                     </tr>
                 </thead>
+                <tbody>
                 <tr>
-                    <td>
-                    <td>Addition of brand filter
-                    </td>
-                    <td>
-                    <td>Filter usage rate
-                    </td>
-                    <td>
+                    <td>Addition of brand filter</td>
+                    
+                    <td>Filter usage rate</td>
+                    
                     <td>Introducing a brand filter doubles filter usage,
                         improving relevance of product discovery.
                     </td>
                 </tr>
+                </tbody>
             </table>
 
         </div>
 
-        <p style='line-height:normal'><b><i>Action:</i></b> Tie filter
+        <p style='line-height:normal'><b>Action:</b> Tie filter
             usage metrics to downstream conversion rates to optimise taxonomy and UX
             refinements.</p>
 
@@ -2693,117 +2490,91 @@ font-family:Symbol'>·<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nb
 
         <p><span style='font-size:20.0pt;line-height:107%;color:black'>&nbsp;</span></p>
 
-        <h3><span style='font-size:12.0pt;font-family:"Calibri",sans-serif'>Key
-                Insights:</span></h3>
+        <h3>Key Insights:</h3>
 
-        <p style='margin-left:36.0pt;text-indent:-18.0pt'><i><span style='font-family:
-"Calibri",sans-serif'>1.<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;
-                    </span></span></i><strong><i><span style='font-family:"Calibri",sans-serif'>Understanding
-                        Variables</span></i></strong></p>
+        <p><span style='font-family:
+"Inter",sans-serif'>1.<span>&nbsp;&nbsp;&nbsp;&nbsp;
+                    </span></span><strong><span style='font-family:"Inter",sans-serif'>Understanding
+                        Variables</span></strong></p>
 
-        <p style='margin-left:90.0pt;text-indent:-18.0pt'><span style='font-family:
-Symbol'>·<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-                </span></span><strong><i><span style='font-family:"Calibri",sans-serif'>Dependent
-                        Variables (DVs)</span></i></strong><i><span style='font-family:"Calibri",sans-serif'>:
+        <ul><li><strong><span style='font-family:"Inter",sans-serif'>Dependent
+                        Variables (DVs)</span></strong><span style='font-family:"Inter",sans-serif'>:
                     The outcomes you aim to influence (e.g., conversion rate, revenue, customer
-                    satisfaction).</span></i></p>
+                    satisfaction).</span></li>
 
-        <p style='margin-left:90.0pt;text-indent:-18.0pt'><span style='font-family:
-Symbol'>·<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-                </span></span><strong><i><span style='font-family:"Calibri",sans-serif'>Independent
-                        Variables (IVs)</span></i></strong><i><span style='font-family:"Calibri",sans-serif'>:
+        <li><strong><span style='font-family:"Inter",sans-serif'>Independent
+                        Variables (IVs)</span></strong><span style='font-family:"Inter",sans-serif'>:
                     The factors you manipulate or measure to understand their effect on DVs (e.g.,
-                    pricing, page layout, promotions).</span></i></p>
+                    pricing, page layout, promotions).</span></li></ul>
 
-        <p style='margin-left:36.0pt;text-indent:-18.0pt'><i><span style='font-family:
-"Calibri",sans-serif'>2.<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;
-                    </span></span></i><strong><i><span style='font-family:"Calibri",sans-serif'>Actionable
-                        Causality</span></i></strong></p>
+        <p><span style='font-family:
+"Inter",sans-serif'>2.<span>&nbsp;&nbsp;&nbsp;&nbsp;
+                    </span></span><strong><span style='font-family:"Inter",sans-serif'>Actionable
+                        Causality</span></strong></p>
 
-        <p style='margin-left:90.0pt;text-indent:-18.0pt'><span style='font-family:
-Symbol'>·<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-                </span></span><i><span style='font-family:"Calibri",sans-serif'>Clearly
+        <ul><li>Clearly
                     establish causality rather than just correlation. Understand if changes in IVs
-                    truly cause changes in your desired outcomes (DVs).</span></i></p>
+                    truly cause changes in your desired outcomes (DVs).</span></li></ul>
 
-        <p style='margin-left:36.0pt;text-indent:-18.0pt'><i><span style='font-family:
-"Calibri",sans-serif'>3.<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;
-                    </span></span></i><strong><i><span style='font-family:"Calibri",sans-serif'>Experimental
-                        Design</span></i></strong></p>
+        <p><span style='font-family:
+"Inter",sans-serif'>3.<span>&nbsp;&nbsp;&nbsp;&nbsp;
+                    </span></span><strong><span style='font-family:"Inter",sans-serif'>Experimental
+                        Design</span></strong></p>
 
-        <p style='margin-left:90.0pt;text-indent:-18.0pt'><span style='font-family:
-Symbol'>·<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-                </span></span><i><span style='font-family:"Calibri",sans-serif'>Use controlled
+        <ul><li>Use controlled
                     experiments, such as A/B tests, to validate causality, ensuring robust
-                    conclusions.</span></i></p>
+                    conclusions.</span></li>
 
-        <p style='margin-left:90.0pt;text-indent:-18.0pt'><span style='font-family:
-Symbol'>·<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-                </span></span><i><span style='font-family:"Calibri",sans-serif'>Ensure
-                    experiments are structured, measurable, and directly tied to business outcomes.</span></i></p>
+        <li>Ensure
+                    experiments are structured, measurable, and directly tied to business outcomes.</li></ul>
 
-        <p style='margin-left:36.0pt;text-indent:-18.0pt'><i><span style='font-family:
-"Calibri",sans-serif'>4.<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;
-                    </span></span></i><strong><i><span style='font-family:"Calibri",sans-serif'>Leveraging
-                        Analytics for Decisions</span></i></strong></p>
+        <p><span style='font-family:
+"Inter",sans-serif'>4.<span>&nbsp;&nbsp;&nbsp;&nbsp;
+                    </span></span><strong><span style='font-family:"Inter",sans-serif'>Leveraging
+                        Analytics for Decisions</span></strong></p>
 
-        <p style='margin-left:90.0pt;text-indent:-18.0pt'><span style='font-family:
-Symbol'>·<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-                </span></span><i><span style='font-family:"Calibri",sans-serif'>Transform
+        <ul><li>Transform
                     analytics into actionable insights by clearly interpreting how IV adjustments
-                    affect DVs.</span></i></p>
+                    affect DVs.</li></ul>
 
-        <p><b><i>Types of Data</i></b></p>
-
-        <ul>
-            <li><b><i>Experimental results:</i></b><i> Controlled testing
-                    data (e.g., A/B tests).</i></li>
-            <li><b><i>Causal Data:</i></b><i> Correlations between
-                    variables like price and conversion rates.</i></li>
-        </ul>
-
-        <p><b><i>Key Metrics</i></b></p>
+        <p><b>Types of Data</b></p>
 
         <ul>
-            <li><b><i>Average Order Value (AOV):</i></b><i> Track
-                    purchasing power per order.</i></li>
-            <li><b><i>Conversion Attribution:</i></b><i> Assign credit to
-                    specific actions influencing purchases.</i></li>
+            <li><b>Experimental results:</b> Controlled testing
+                    data (e.g., A/B tests).</li>
+            <li><b>Causal Data:</b> Correlations between
+                    variables like price and conversion rates.</li>
         </ul>
 
-        <p><b><i>AI Applications</i></b></p>
+        <p><b>Key Metrics</b></p>
 
         <ul>
-            <li><b><i>Causal Inference AI:</i></b><i> AI rapidly
-                    identifies true causal relationships from large datasets.</i></li>
-            <li><b><i>Optimised Pricing Algorithms:</i></b><i> AI
-                    experiments automatically adjust pricing, optimising AOV</i>.</li>
+            <li><b>Average Order Value (AOV):</b> Track
+                    purchasing power per order.</li>
+            <li><b>Conversion Attribution:</b> Assign credit to
+                    specific actions influencing purchases.</li>
         </ul>
 
-        <h3 align=center style='text-align:center'><span style='font-size:11.0pt;
-font-family:"Calibri",sans-serif'>Practical Steps for E-commerce Product
-                Managers</span></h3>
+        <p><b>AI Applications</b></p>
 
-        <p style='margin-left:36.0pt;text-indent:-18.0pt'><span style='font-size:10.0pt;
-font-family:Symbol'>·<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-                </span></span><strong><span style='font-size:11.0pt;font-family:"Calibri",sans-serif'>Clearly
-                    Define DVs</span></strong><span style='font-size:11.0pt;font-family:"Calibri",sans-serif'>:
-                Explicitly state the outcomes you want to improve (e.g., checkout completion
-                rates).</span></p>
+        <ul>
+            <li><b>Causal Inference AI:</b> AI rapidly
+                    identifies true causal relationships from large datasets.</li>
+            <li><b>Optimised Pricing Algorithms:</b> AI
+                    experiments automatically adjust pricing, optimising AOV.</li>
+        </ul>
 
-        <p style='margin-left:36.0pt;text-indent:-18.0pt'><span style='font-size:10.0pt;
-font-family:Symbol'>·<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-                </span></span><strong><span style='font-size:11.0pt;font-family:"Calibri",sans-serif'>Select
-                    IVs Thoughtfully</span></strong><span style='font-size:11.0pt;font-family:"Calibri",sans-serif'>:
-                Identify potential influencing factors (e.g., shipping costs, product
-                recommendations) for testing.</span></p>
+        <h3 align=center>Practical Steps for E-commerce Product
+                Managers</h3>
 
-        <p style='margin-left:36.0pt;text-indent:-18.0pt'><span style='font-size:10.0pt;
-font-family:Symbol'>·<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-                </span></span><strong><span style='font-size:11.0pt;font-family:"Calibri",sans-serif'>Run
-                    Controlled Experiments</span></strong><span style='font-size:11.0pt;font-family:
-"Calibri",sans-serif'>: Implement A/B testing or multivariate testing to
-                validate causal relationships clearly.</span></p>
+            <p>a)<span>&nbsp;</span><span><b>Clearly Define DVs:</b> Explicitly state the outcomes you want to improve (e.g., checkout completion
+                    rates).</span></p>
+    
+            <p>b)<span>&nbsp;</span><span><b>Select IVs Thoughtfully:</b> Identify potential influencing factors (e.g., shipping costs, product
+                    recommendations) for testing.</span></p>
+    
+            <p>c)<span>&nbsp;</span><span><b>Run Controlled Experiments:</b> Implement A/B testing or multivariate testing to
+                    validate causal relationships clearly.</span></p>
 
         <p>&nbsp;</p>
 
@@ -2862,15 +2633,10 @@ font-family:Symbol'>·<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nb
                         <p>Users who abandoned carts</p>
                     </td>
                     <td>
-                        <p><span style='font-family:Symbol'>·<span
-                                    style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-                                </span></span>Page load time</p>
-                        <p><span style='font-family:Symbol'>·<span
-                                    style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-                                </span></span>Payment flow complexity</p>
-                        <p><span style='font-family:Symbol'>·<span
-                                    style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-                                </span></span>Product price tier</p>
+                        <ul><li>Page load time</li>
+                        <li>Payment flow complexity</li>
+                        <li>Product price tier</li>
+                        </ul>
                     </td>
                 </tr>
                 <tr>
@@ -2888,7 +2654,7 @@ font-family:Symbol'>·<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nb
 
         </div>
 
-        <p><b><i>Actionable Insight</i></b><i>:</i> <br>
+        <p><b>Actionable Insight</b>: <br>
             Users abandoning carts had significantly longer load times and higher-priced
             products. Suggests performance optimisation and dynamic pricing are potential
             levers.</p>
@@ -2921,15 +2687,10 @@ font-family:Symbol'>·<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nb
                         <p>Users who churned in Q2</p>
                     </td>
                     <td>
-                        <p><span style='font-family:Symbol'>·<span
-                                    style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-                                </span></span>Onboarding duration</p>
-                        <p><span style='font-family:Symbol'>·<span
-                                    style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-                                </span></span>Feature usage frequency</p>
-                        <p><span style='font-family:Symbol'>·<span
-                                    style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-                                </span></span>Support ticket volume</p>
+                    <ul><li>Onboarding duration</li>
+                        <li>Feature usage frequency</li>
+                        <li>Support ticket volume</li>
+                    </ul>
                     </td>
                 </tr>
                 <tr>
@@ -2947,7 +2708,7 @@ font-family:Symbol'>·<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nb
 
         </div>
 
-        <p><b><i>Actionable Insight</i></b><i>:</i> <br>
+        <p><b>Actionable Insight</b>: <br>
             Churned users showed sparse feature usage and frequent unresolved tickets.
             Could guide onboarding redesign and proactive support interventions.</p>
 
@@ -3006,7 +2767,7 @@ font-family:Symbol'>·<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nb
 
         </div>
 
-        <p><b><i>Actionable Insight</i></b><i>:</i> <br>
+        <p><b>Actionable Insight</b>: <br>
             Retrospective analysis supports value-driven pricing—ideal to test dynamically
             next quarter with holdout segments.</p>
 
@@ -3056,7 +2817,7 @@ font-family:Symbol'>·<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nb
 
         </div>
 
-        <p><b><i>Actionable Insight</i></b><i>:</i> <br>
+        <p><b>Actionable Insight</b>: <br>
             Feature access correlates with positive user engagement. Retrospective
             experiment justifies deeper segmentation or future controlled rollout.</p>
 
@@ -3064,137 +2825,114 @@ font-family:Symbol'>·<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nb
 
         <p>&nbsp;</p>
 
-        <h3><span style='font-family:"Calibri",sans-serif'>Key Insights:</span></h3>
+        <h3><span style='font-family:"Inter",sans-serif'>Key Insights:</span></h3>
 
-        <p style='margin-left:36.0pt;text-indent:-18.0pt'><i><span style='font-family:
-"Calibri",sans-serif'>1.<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;
-                    </span></span></i><strong><i><span style='font-family:"Calibri",sans-serif'>Retrospective
-                        Experimentation</span></i></strong></p>
+        <p><span style='font-family:
+"Inter",sans-serif'>1.<span>&nbsp;&nbsp;&nbsp;&nbsp;
+                    </span></span><strong><span style='font-family:"Inter",sans-serif'>Retrospective
+                        Experimentation</span></strong></p>
 
-        <p style='margin-left:90.0pt;text-indent:-18.0pt'><span style='font-family:
-Symbol'>·<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-                </span></span><i><span style='font-family:"Calibri",sans-serif'>Use existing
+        <ul><li>Use existing
                     data to retrospectively analyse outcomes, validating or invalidating hypotheses
-                    without waiting for real-time experiments.</span></i></p>
+                    without waiting for real-time experiments.</li>
 
-        <p style='margin-left:90.0pt;text-indent:-18.0pt'><span style='font-family:
-Symbol'>·<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-                </span></span><i><span style='font-family:"Calibri",sans-serif'>Identify
-                    historical patterns or anomalies that inform future improvements.</span></i></p>
+        <li>Identify
+                    historical patterns or anomalies that inform future improvements.</li></ul>
 
-        <p style='margin-left:36.0pt;text-indent:-18.0pt'><i><span style='font-family:
-"Calibri",sans-serif'>2.<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;
-                    </span></span></i><strong><i><span style='font-family:"Calibri",sans-serif'>Leveraging
-                        Historical Data</span></i></strong></p>
+        <p><span style='font-family:
+"Inter",sans-serif'>2.<span>&nbsp;&nbsp;&nbsp;&nbsp;
+                    </span></span><strong><span style='font-family:"Inter",sans-serif'>Leveraging
+                        Historical Data</span></strong></p>
 
-        <p style='margin-left:90.0pt;text-indent:-18.0pt'><span style='font-family:
-Symbol'>·<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-                </span></span><i><span style='font-family:"Calibri",sans-serif'>Mine existing
-                    data to uncover opportunities and validate strategies quickly.</span></i></p>
+        <ul><li>Mine existing
+                    data to uncover opportunities and validate strategies quickly.</li>
 
-        <p style='margin-left:90.0pt;text-indent:-18.0pt'><span style='font-family:
-Symbol'>·<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-                </span></span><i><span style='font-family:"Calibri",sans-serif'>Identify successful
-                    strategies that can be replicated or enhanced moving forward.</span></i></p>
+        <li>Identify successful
+                    strategies that can be replicated or enhanced moving forward.</li></ul>
 
-        <p style='margin-left:36.0pt;text-indent:-18.0pt'><i><span style='font-family:
-"Calibri",sans-serif'>3.<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;
-                    </span></span></i><strong><i><span style='font-family:"Calibri",sans-serif'>AI-Enhanced
-                        Pattern Recognition</span></i></strong></p>
+        <p><span style='font-family:
+"Inter",sans-serif'>3.<span>&nbsp;&nbsp;&nbsp;&nbsp;
+                    </span></span><strong><span style='font-family:"Inter",sans-serif'>AI-Enhanced
+                        Pattern Recognition</span></strong></p>
 
-        <p style='margin-left:90.0pt;text-indent:-18.0pt'><span style='font-family:
-Symbol'>·<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-                </span></span><i><span style='font-family:"Calibri",sans-serif'>Apply AI and
+        <ul><li>Apply AI and
                     machine learning algorithms to quickly uncover deeper patterns, correlations,
-                    and causations in historical data that human analysis might miss.</span></i></p>
+                    and causations in historical data that human analysis might miss.</li>
 
-        <p style='margin-left:90.0pt;text-indent:-18.0pt'><span style='font-family:
-Symbol'>·<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-                </span></span><i><span style='font-family:"Calibri",sans-serif'>Automate
-                    retrospective analyses, making them faster, more accurate, and scalable.</span></i></p>
+        <li>Automate
+                    retrospective analyses, making them faster, more accurate, and scalable.</li></ul>
 
-        <p style='margin-left:36.0pt;text-indent:-18.0pt'><i><span style='font-family:
-"Calibri",sans-serif'>4.<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;
-                    </span></span></i><strong><i><span style='font-family:"Calibri",sans-serif'>Data-Driven
-                        Predictions</span></i></strong></p>
+        <p><span style='font-family:
+"Inter",sans-serif'>4.<span>&nbsp;&nbsp;&nbsp;&nbsp;
+                    </span></span><strong><span style='font-family:"Inter",sans-serif'>Data-Driven
+                        Predictions</span></strong></p>
 
-        <p><i>Use insights from retrospective experiments to predict
-                future outcomes, </i><b><i>Types of Data</i></b></p>
+        <p>Use insights from retrospective experiments to predict
+                future outcomes, <b>Types of Data</b></p>
 
         <ul>
-            <li><b><i>Historical Data:</i></b><i> Transaction histories,
-                    previous campaign results.</i></li>
-            <li><b><i>Behavioural Patterns:</i></b><i> User segment
-                    behaviour over time.</i></li>
+            <li><b>Historical Data:</b> Transaction histories,
+                    previous campaign results.</li>
+            <li><b>Behavioural Patterns:</b> User segment
+                    behaviour over time.</li>
         </ul>
 
-        <p><b><i>Key Metrics</i></b></p>
+        <p><b>Key Metrics</b></p>
 
         <ul>
-            <li><b><i>Historical Conversion Rate Trends:</i></b><i>
-                    Identify past patterns influencing current strategy.</i></li>
-            <li><b><i>Campaign Return on Investment (ROI):</i></b><i> Analyse
-                    effectiveness historically.</i></li>
+            <li><b>Historical Conversion Rate Trends:</b>
+                    Identify past patterns influencing current strategy.</li>
+            <li><b>Campaign Return on Investment (ROI):</b> Analyse
+                    effectiveness historically.</li>
         </ul>
 
-        <p><b><i>AI Applications</i></b></p>
+        <p><b>AI Applications</b></p>
 
         <ul>
-            <li><b><i>Retrospective Pattern Detection:</i></b><i> AI
-                    identifies historical successes and failures automatically.</i></li>
-            <li><b><i>Predictive Optimisation:</i></b><i> AI uses
-                    retrospective insights to optimise future campaigns dynamically.</i></li>
+            <li><b>Retrospective Pattern Detection:</b> AI
+                    identifies historical successes and failures automatically.</li>
+            <li><b>Predictive Optimisation:</b> AI uses
+                    retrospective insights to optimise future campaigns dynamically.</li>
         </ul>
 
-        <h3 align=center style='text-align:center'><span style='font-size:12.0pt;
-font-family:"Calibri",sans-serif'>Practical Steps for E-commerce Product
-                Managers:</span></h3>
+        <h3 align=center>Practical Steps for E-commerce Product Managers</h3>
 
-        <p style='margin-left:36.0pt;text-indent:-18.0pt'><span style='font-size:10.0pt;
-font-family:"Calibri",sans-serif'>a)<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;
-                </span></span><strong><span style='font-size:11.0pt;font-family:"Calibri",sans-serif;
-font-weight:normal'>Identify Key Historical Data</span></strong><b><span
-                    style='font-size:11.0pt;font-family:"Calibri",sans-serif'>:</span></b><span
-                style='font-size:11.0pt;font-family:"Calibri",sans-serif'> Transaction logs,
+        <p><span>a)<span>&nbsp;</span></span><strong><span>Identify Key Historical Data</span></strong><b><span
+                    >:</span></b><span
+                > Transaction logs,
                 customer interaction data, and past marketing performance metrics.</span></p>
 
-        <p style='margin-left:36.0pt;text-indent:-18.0pt'><span style='font-size:10.0pt;
-font-family:"Calibri",sans-serif'>b)<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;
-                </span></span><strong><span style='font-size:11.0pt;font-family:"Calibri",sans-serif;
-font-weight:normal'>Implement AI-Driven Analytics</span></strong><span
-                style='font-size:11.0pt;font-family:"Calibri",sans-serif'>: Deploy machine
+        <p><span>b)<span>&nbsp;</span></span><strong><span>Implement AI-Driven Analytics</span></strong><span
+                >: Deploy machine
                 learning tools for deep data analysis, segment identification, and predictive analytics.</span></p>
 
-        <p style='margin-left:36.0pt;text-indent:-18.0pt'><span style='font-size:10.0pt;
-font-family:"Calibri",sans-serif'>c)<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-                </span></span><strong><span style='font-size:11.0pt;font-family:"Calibri",sans-serif;
-font-weight:normal'>Conduct Retrospective Analyses Regularly</span></strong><span
-                style='font-size:11.0pt;font-family:"Calibri",sans-serif'>: Continuously apply
+        <p><span>c)<span>&nbsp;</span></span><strong><span>Conduct Retrospective Analyses Regularly</span></strong><span
+                >: Continuously apply
                 these insights to refine your product strategy and roadmap.</span></p>
 
-        <p style='margin-left:36.0pt;text-indent:-18.0pt'><span style='font-size:10.0pt;line-height:107%'>d)<span
-                    style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;
+        <p><span style='font-size:10.0pt;line-height:107%'>d)<span
+                    style='font:7.0pt "Inter"'>&nbsp;&nbsp;&nbsp;&nbsp;
                 </span></span>Map IVs and DVs to API endpoints to model behavioural
             correlations with clarity.</p>
 
-        <p style='margin-left:36.0pt;text-indent:-18.0pt'><span style='font-size:10.0pt;line-height:107%'>e)<span
-                    style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;
+        <p><span style='font-size:10.0pt;line-height:107%'>e)<span
+                    style='font:7.0pt "Inter"'>&nbsp;&nbsp;&nbsp;&nbsp;
                 </span></span>Use matching algorithms or propensity scoring to reduce selection
             bias in retrospective data.</p>
 
-        <p style='margin-left:36.0pt;text-indent:-18.0pt'><span style='font-size:10.0pt;line-height:107%'>f)<span
-                    style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+        <p><span style='font-size:10.0pt;line-height:107%'>f)<span
+                    style='font:7.0pt "Inter"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
                 </span></span>Anchor to Agile retrospectives and roadmap reviews for continuous
             insight loops.</p>
 
-        <p style='margin-left:36.0pt;text-indent:-18.0pt'><span style='font-size:10.0pt;line-height:107%'>g)<span
-                    style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;
+        <p><span style='font-size:10.0pt;line-height:107%'>g)<span
+                    style='font:7.0pt "Inter"'>&nbsp;&nbsp;&nbsp;&nbsp;
                 </span></span>Create stick-figure storyboards showing journey paths from case
             to control states—perfect for communicating causality across teams.</p>
 
         <h2 align=center id="productanalyticsai-consumer-analytics-prospective-testing">Prospective Testing</h2>
 
-        <p><em><span style='font-size:11.0pt;font-family:"Calibri",sans-serif;
+        <p><em><span style='font-size:11.0pt;font-family:"Inter",sans-serif;
 font-style:normal'>Great products are not just built on what users do today, they
                     are shaped by what they might want tomorrow. Prospective experiments give us a
                     way to peek into those future needs, test our boldest ideas early, and build
@@ -3206,8 +2944,8 @@ font-style:normal'>Great products are not just built on what users do today, the
                 alt="Create an image based on the following scenario: Miro tested interest in real-time video collaboration by placing a “Start Co-Editing Live” button in team whiteboards. Though the feature didn’t exist yet, clicks were tracked and follow-up surveys were triggered. The resulting demand signal validated a full-feature build, which later became core to Miro’s paid team plans. The image should visually represent the scenario, incorporating elements like team whiteboards, real-time video collaboration, and demand validation. Ensure the design aligns with Miro’s branding requirements.">
         </p>
 
-        <p><strong><span style='font-size:11.0pt;font-family:"Calibri",sans-serif'>Miro</span></strong><span
-                style='font-size:11.0pt;font-family:"Calibri",sans-serif'> tested interest in
+        <p><strong><span>Miro</span></strong><span
+                > tested interest in
                 real-time video collaboration by placing a “Start Co-Editing Live” button in
                 team whiteboards. Though the feature didn’t exist yet, clicks were tracked and
                 follow-up surveys were triggered. The resulting demand signal validated a full-feature
@@ -3260,7 +2998,7 @@ font-style:normal'>Great products are not just built on what users do today, the
             </tr>
         </table>
 
-        <p><b><i>Insight</i></b><i>:</i> <br>
+        <p><b>Insight</b>: <br>
             If loyalty members show a 25% higher repeat rate over 6 months, you’ve got
             observational evidence of program effectiveness.</p>
 
@@ -3306,7 +3044,7 @@ font-style:normal'>Great products are not just built on what users do today, the
             </tr>
         </table>
 
-        <p><b><i>Insight</i></b><i>:</i> <br>
+        <p><b>Insight</b>: <br>
             Tracking cohorts prospectively helps you understand long-term impact of feature
             exposure—without forcing assignment.</p>
 
@@ -3315,7 +3053,7 @@ font-style:normal'>Great products are not just built on what users do today, the
         <p><b>Prospective Experimental Study (Randomised Controlled)</b></p>
 
         <p><b>Definition:</b> <br>
-            You randomly assign users to treatment vs control groups <i>before</i>
+            You randomly assign users to treatment vs control groups before
             observing outcomes. This is the gold standard for proving causality.</p>
 
         <p><b>E-commerce Example: Homepage Personalisation Test</b></p>
@@ -3358,7 +3096,7 @@ font-style:normal'>Great products are not just built on what users do today, the
             </tr>
         </table>
 
-        <p><b><i>Insight</i></b><i>:</i> <br>
+        <p><b>Insight</b>: <br>
             If personalisation drives a statistically significant lift, you’ve got causal
             proof to scale the experience.</p>
 
@@ -3404,7 +3142,7 @@ font-style:normal'>Great products are not just built on what users do today, the
             </tr>
         </table>
 
-        <p><b><i>Insight</i></b><i>:</i> <br>
+        <p><b>Insight</b>: <br>
             Random assignment removes bias and confirms whether onboarding redesign truly
             improves activation.</p>
 
@@ -3421,7 +3159,7 @@ font-style:normal'>Great products are not just built on what users do today, the
                     journey stages</b> for precision tracking.</li>
         </ul>
 
-        <p><span style='font-size:11.0pt;font-family:"Calibri",sans-serif'>&nbsp;</span></p>
+        <p><span>&nbsp;</span></p>
 
         <p style='line-height:normal'><b>Core Insights</b></p>
 
@@ -3473,34 +3211,20 @@ font-style:normal'>Great products are not just built on what users do today, the
             </li>
         </ul>
 
-        <p align=center style='text-align:center;line-height:normal'><b>Practical
-                Steps for Product Managers:</b></p>
+        <h3 align=center>Practical Steps for Product Managers</h3>
 
-        <p style='margin-left:36.0pt;text-indent:-18.0pt;line-height:
-normal'><span style='font-size:10.0pt'>a)<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;
-                </span></span>Identify a <b>future-facing product bet</b> or unvalidated
+        <p>a)<span>&nbsp;</span>Identify a <b>future-facing product bet</b> or unvalidated
             opportunity.</p>
 
-        <p style='margin-left:36.0pt;text-indent:-18.0pt;line-height:
-normal'><span style='font-size:10.0pt'>b)<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;
-                </span></span>Choose a prospective test format (fake feature, prototype,
+        <p>b)<span>&nbsp;</span>Choose a prospective test format (fake feature, prototype,
             conditional survey).</p>
 
-        <p style='margin-left:36.0pt;text-indent:-18.0pt;line-height:
-normal'><span style='font-size:10.0pt'>c)<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-                </span></span>Define clear pass/fail signals based on user interaction.</p>
+        <p>c)<span>&nbsp;</span>Define clear pass/fail signals based on user interaction.</p>
 
-        <p style='margin-left:36.0pt;text-indent:-18.0pt;line-height:
-normal'><span style='font-size:10.0pt'>d)<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;
-                </span></span>Use AI tools to rapidly build and personalise the test asset.</p>
+        <p>d)<span>&nbsp;</span>Use AI tools to rapidly build and personalise the test asset.</p>
 
-        <p style='margin-left:36.0pt;text-indent:-18.0pt;line-height:
-normal'><span style='font-size:10.0pt;font-family:"Times New Roman",serif'>e)<span
-                    style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp; </span></span>Measure
-            interest, segment feedback, and revisit product assumptions accordingly<span
-                style='font-size:12.0pt;font-family:"Times New Roman",serif'>.<br>
-                <br>
-            </span></p>
+        <p>e)<span>&nbsp;</span>Measure
+            interest, segment feedback, and revisit product assumptions accordingly.</p>
 
         <h2 align=center id="productanalyticsai-consumer-analytics-stats-for-decisions">Stats for Decisions</h2>
 
@@ -3526,122 +3250,99 @@ normal'><span style='font-size:10.0pt;font-family:"Times New Roman",serif'>e)<sp
             layout. This clear, AI-enhanced insight helps you confidently roll out the
             design site-wide.</p>
 
-        <h3><span style='font-size:12.0pt;font-family:"Calibri",sans-serif'>Key
-                Insights:</span></h3>
+        <h3>Key Insights:</h3>
 
-        <p style='margin-left:36.0pt;text-indent:-18.0pt'><i><span style='font-size:
-11.0pt;font-family:"Calibri",sans-serif'>1.<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;
-                    </span></span></i><strong><i><span
-                        style='font-size:11.0pt;font-family:"Calibri",sans-serif'>Essential
-                        Statistical Literacy</span></i></strong></p>
+        <p><span style='font-size:
+11.0pt;font-family:"Inter",sans-serif'>1.<span>&nbsp;&nbsp;&nbsp;&nbsp;
+                    </span></span><strong><span
+                        >Essential
+                        Statistical Literacy</span></strong></p>
 
-        <p style='margin-left:90.0pt;text-indent:-18.0pt'><span style='font-size:11.0pt;
-font-family:Symbol'>·<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-                </span></span><i><span style='font-size:11.0pt;font-family:"Calibri",sans-serif'>Focus
+        <ul><li>Focus
                     on core statistical concepts: averages, variance, statistical significance, and
-                    confidence intervals.</span></i></p>
+                    confidence intervals.</li>
 
-        <p style='margin-left:90.0pt;text-indent:-18.0pt'><span style='font-size:11.0pt;
-font-family:Symbol'>·<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-                </span></span><i><span style='font-size:11.0pt;font-family:"Calibri",sans-serif'>Understand
-                    enough statistics to interpret data accurately and make informed decisions.</span></i></p>
+        <li>Understand
+                    enough statistics to interpret data accurately and make informed decisions.</li></ul>
 
-        <p style='margin-left:36.0pt;text-indent:-18.0pt'><i><span style='font-size:
-11.0pt;font-family:"Calibri",sans-serif'>2.<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;
-                    </span></span></i><strong><i><span
-                        style='font-size:11.0pt;font-family:"Calibri",sans-serif'>Statistical
-                        Significance</span></i></strong></p>
+        <p><span style='font-size:
+11.0pt;font-family:"Inter",sans-serif'>2.<span>&nbsp;&nbsp;&nbsp;&nbsp;
+                    </span></span><strong><span
+                        >Statistical
+                        Significance</span></strong></p>
 
-        <p style='margin-left:90.0pt;text-indent:-18.0pt'><span style='font-size:11.0pt;
-font-family:Symbol'>·<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-                </span></span><i><span style='font-size:11.0pt;font-family:"Calibri",sans-serif'>Recognise
-                    when experimental results are statistically meaningful and reliable.</span></i></p>
+        <ul><li>Recognise
+                    when experimental results are statistically meaningful and reliable.</li>
 
-        <p style='margin-left:90.0pt;text-indent:-18.0pt'><span style='font-size:11.0pt;
-font-family:Symbol'>·<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-                </span></span><i><span style='font-size:11.0pt;font-family:"Calibri",sans-serif'>Use
-                    this understanding to confidently drive decisions based on data insights.</span></i></p>
+        <li>Use
+                    this understanding to confidently drive decisions based on data insights.</li></ul>
 
-        <p style='margin-left:36.0pt;text-indent:-18.0pt'><i><span style='font-size:
-11.0pt;font-family:"Calibri",sans-serif'>3.<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;
-                    </span></span></i><strong><i><span
-                        style='font-size:11.0pt;font-family:"Calibri",sans-serif'>AI-Enhanced
-                        Statistical Analysis</span></i></strong></p>
+        <p><span style='font-size:
+11.0pt;font-family:"Inter",sans-serif'>3.<span>&nbsp;&nbsp;&nbsp;&nbsp;
+                    </span></span><strong><span
+                        >AI-Enhanced
+                        Statistical Analysis</span></strong></p>
 
-        <p style='margin-left:90.0pt;text-indent:-18.0pt'><span style='font-size:11.0pt;
-font-family:Symbol'>·<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-                </span></span><i><span style='font-size:11.0pt;font-family:"Calibri",sans-serif'>Leverage
+        <ul><li>Leverage
                     AI tools to automate statistical analyses, simplifying interpretation and
-                    reducing the risk of human error.</span></i></p>
+                    reducing the risk of human error.</li>
 
-        <p style='margin-left:90.0pt;text-indent:-18.0pt'><span style='font-size:11.0pt;
-font-family:Symbol'>·<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-                </span></span><i><span style='font-size:11.0pt;font-family:"Calibri",sans-serif'>AI
+        <li>AI
                     can quickly analyse large datasets, providing rapid insights and precise
-                    recommendations.</span></i></p>
+                    recommendations.</li></ul>
 
-        <p style='margin-left:36.0pt;text-indent:-18.0pt'><i><span style='font-size:
-11.0pt;font-family:"Calibri",sans-serif'>4.<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;
-                    </span></span></i><strong><i><span
-                        style='font-size:11.0pt;font-family:"Calibri",sans-serif'>Practical
-                        Decision-Making</span></i></strong></p>
+        <p><span style='font-size:
+11.0pt;font-family:"Inter",sans-serif'>4.<span>&nbsp;&nbsp;&nbsp;&nbsp;
+                    </span></span><strong><span
+                        >Practical
+                        Decision-Making</span></strong></p>
 
-        <p style='margin-left:90.0pt;text-indent:-18.0pt'><span style='font-size:11.0pt;
-font-family:Symbol'>·<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-                </span></span><i><span style='font-size:11.0pt;font-family:"Calibri",sans-serif'>Use
+        <ul><li>Use
                     statistics to validate experiments, ensuring decisions are rooted in evidence
-                    rather than assumptions or noise.</span></i></p>
+                    rather than assumptions or noise.</li></ul>
 
-        <p><b><i>Types of Data</i></b></p>
+        <p><b>Types of Data</b></p>
 
         <ul>
-            <li><b><i>Statistical Results:</i></b><i> Experiment and
-                    survey outcomes.</i></li>
-            <li><b><i>Aggregated User Metrics:</i></b><i> Averages,
-                    medians, standard deviations.</i></li>
+            <li><b>Statistical Results:</b> Experiment and
+                    survey outcomes.</li>
+            <li><b>Aggregated User Metrics:</b> Averages,
+                    medians, standard deviations.</li>
         </ul>
 
-        <p><b><i>Key Metrics</i></b></p>
+        <p><b>Key Metrics</b></p>
 
         <ul>
-            <li><b><i>Statistical Significance (p-value):</i></b><i>
-                    Confidence level in experimental results.</i></li>
-            <li><b><i>Confidence Interval:</i></b><i> Range of certainty
-                    in metric outcomes.</i></li>
+            <li><b>Statistical Significance (p-value):</b>
+                    Confidence level in experimental results.</li>
+            <li><b>Confidence Interval:</b> Range of certainty
+                    in metric outcomes.</li>
         </ul>
 
-        <p><b><i>AI Applications</i></b></p>
+        <p><b>AI Applications</b></p>
 
         <ul>
-            <li><b><i>Automated Statistical Analysis:</i></b><i> AI
-                    instantly calculates significance, reducing analysis time.</i></li>
-            <li><b><i>Predictive Statistical Modelling:</i></b><i> AI
+            <li><b>Automated Statistical Analysis:</b> AI
+                    instantly calculates significance, reducing analysis time.</li>
+            <li><b>Predictive Statistical Modelling:</b> AI
                     forecasts outcomes of proposed changes, enhancing proactive
-                    decision-making.</i></li>
+                    decision-making.</li>
         </ul>
 
-        <h3 align=center style='text-align:center'><span style='font-size:11.0pt;
-font-family:"Calibri",sans-serif'>Practical Steps for E-commerce Product
-                Managers</span></h3>
+        <h3 align=center>Practical Steps for E-commerce Product Managers</h3>
 
-        <p style='margin-left:36.0pt;text-indent:-18.0pt'><span style='font-size:10.0pt;
-font-family:"Calibri",sans-serif'>a)<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;
-                </span></span><strong><span style='font-size:11.0pt;font-family:"Calibri",sans-serif'>Understand
-                    Key Metrics</span></strong><span style='font-size:11.0pt;font-family:"Calibri",sans-serif'>:
+        <p><span>a)<span>&nbsp;</span></span><strong><span>Understand
+                    Key Metrics</span></strong><span>:
                 Familiarise yourself with basic statistics like conversion rate averages and
                 their variability.</span></p>
 
-        <p style='margin-left:36.0pt;text-indent:-18.0pt'><span style='font-size:10.0pt;
-font-family:"Calibri",sans-serif'>b)<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;
-                </span></span><strong><span style='font-size:11.0pt;font-family:"Calibri",sans-serif'>Apply
+        <p><span>b)<span>&nbsp;</span></span><strong><span>Apply
                     AI-Driven Analytics</span></strong><span style='font-size:11.0pt;font-family:
-"Calibri",sans-serif'>: Use AI tools to automate A/B testing analysis, detect
+"Inter",sans-serif'>: Use AI tools to automate A/B testing analysis, detect
                 significant changes, and recommend actionable insights.</span></p>
 
-        <p style='margin-left:36.0pt;text-indent:-18.0pt'><span style='font-size:10.0pt;
-font-family:"Calibri",sans-serif'>c)<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-                </span></span><strong><span style='font-size:11.0pt;font-family:"Calibri",sans-serif'>Communicate
-                    Clearly</span></strong><span style='font-size:11.0pt;font-family:"Calibri",sans-serif'>:
+        <p><span>c)<span>&nbsp;</span></span><strong><span>Communicate
+                    Clearly</span></strong><span>:
                 Clearly communicate statistical insights to stakeholders, emphasising practical
                 implications rather than statistical jargon.</span></p>
 
@@ -3675,165 +3376,117 @@ font-family:"Calibri",sans-serif'>c)<span style='font:7.0pt "Times New Roman"'>&
 
         <p><b><span style='color:black'>&nbsp;</span></b></p>
 
-        <h3><i><span style='font-size:11.0pt;font-family:"Calibri",sans-serif'>Key
-                    Insights:</span></i></h3>
+        <h3><span>Key
+                    Insights:</span></h3>
 
-        <p style='margin-left:36.0pt;text-indent:-18.0pt'><i><span style='font-size:
-11.0pt;font-family:"Calibri",sans-serif'>1.<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;
-                    </span></span></i><strong><i><span
-                        style='font-size:11.0pt;font-family:"Calibri",sans-serif'>Innovators
-                        vs. Laggards</span></i></strong></p>
+        <p><span style='font-size:
+11.0pt;font-family:"Inter",sans-serif'>1.<span>&nbsp;&nbsp;&nbsp;&nbsp;
+                    </span></span><strong><span
+                        >Innovators
+                        vs. Laggards</span></strong></p>
 
-        <p style='margin-left:90.0pt;text-indent:-18.0pt'><span style='font-size:11.0pt;
-font-family:Symbol'>·<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-                </span></span><i><span style='font-size:11.0pt;font-family:"Calibri",sans-serif'>Clearly
+        <ul><li>Clearly
                     identify and segment customers based on adoption speed, distinguishing
-                    innovators (early adopters) from laggards (late adopters).</span></i></p>
+                    innovators (early adopters) from laggards (late adopters).</li>
 
-        <p style='margin-left:90.0pt;text-indent:-18.0pt'><span style='font-size:11.0pt;
-font-family:Symbol'>·<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-                </span></span><i><span style='font-size:11.0pt;font-family:"Calibri",sans-serif'>Recognise
+        <li>Recognise
                     that these segments react differently to product changes, influencing analytics
-                    results.</span></i></p>
+                    results.</li></ul>
 
-        <p style='margin-left:36.0pt;text-indent:-18.0pt'><i><span style='font-size:
-11.0pt;font-family:"Calibri",sans-serif'>2.<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;
-                    </span></span></i><strong><i><span style='font-size:11.0pt;font-family:"Calibri",sans-serif'>Two
-                        Ways to Be Wrong</span></i></strong></p>
+        <p><span style='font-size:
+11.0pt;font-family:"Inter",sans-serif'>2.<span>&nbsp;&nbsp;&nbsp;&nbsp;
+                    </span></span><strong><span>Two
+                        Ways to Be Wrong</span></strong></p>
 
-        <p style='margin-left:90.0pt;text-indent:-18.0pt'><span style='font-size:11.0pt;
-font-family:Symbol'>·<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-                </span></span><strong><i><span style='font-size:11.0pt;font-family:"Calibri",sans-serif'>False
-                        Positives</span></i></strong><i><span
-                    style='font-size:11.0pt;font-family:"Calibri",sans-serif'>:
-                    Believing a product idea is good when it’s not.</span></i></p>
+        <ul><li><strong><span>False
+                        Positives</span></strong><span>:
+                    Believing a product idea is good when it’s not.</li>
 
-        <p style='margin-left:90.0pt;text-indent:-18.0pt'><span style='font-size:11.0pt;
-font-family:Symbol'>·<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-                </span></span><strong><i><span style='font-size:11.0pt;font-family:"Calibri",sans-serif'>False
-                        Negatives</span></i></strong><i><span
-                    style='font-size:11.0pt;font-family:"Calibri",sans-serif'>:
+        <li><strong><span>False
+                        Negatives</span></strong><span>:
                     Rejecting a promising idea due to incorrect interpretation or poor
-                    segmentation.</span></i></p>
+                    segmentation.</li></ul>
 
-        <p style='margin-left:36.0pt;text-indent:-18.0pt'><i><span style='font-size:
-11.0pt;font-family:"Calibri",sans-serif'>3.<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;
-                    </span></span></i><strong><i><span style='font-size:11.0pt;font-family:"Calibri",sans-serif'>Two
-                        Ways to Be Right</span></i></strong></p>
+        <p><span style='font-size:
+11.0pt;font-family:"Inter",sans-serif'>3.<span>&nbsp;&nbsp;&nbsp;&nbsp;
+                    </span></span><strong><span>Two
+                        Ways to Be Right</span></strong></p>
 
-        <p style='margin-left:90.0pt;text-indent:-18.0pt'><span style='font-size:11.0pt;
-font-family:Symbol'>·<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-                </span></span><i><span style='font-size:11.0pt;font-family:"Calibri",sans-serif'>Accurately
-                    confirming valuable product ideas (true positives).</span></i></p>
+        <ul><li>Accurately
+                    confirming valuable product ideas (true positives).</li>
 
-        <p style='margin-left:90.0pt;text-indent:-18.0pt'><span style='font-size:11.0pt;
-font-family:Symbol'>·<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-                </span></span><i><span style='font-size:11.0pt;font-family:"Calibri",sans-serif'>Correctly
-                    dismissing ineffective ideas (true negatives).</span></i></p>
+        <li>Correctly
+                    dismissing ineffective ideas (true negatives).</li></ul>
 
-        <p style='margin-left:36.0pt;text-indent:-18.0pt'><i><span style='font-size:
-11.0pt;font-family:"Calibri",sans-serif'>4.<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;
-                    </span></span></i><strong><i><span
-                        style='font-size:11.0pt;font-family:"Calibri",sans-serif'>AI-Enhanced
-                        Customer Segmentation</span></i></strong></p>
+        <p><span style='font-size:
+11.0pt;font-family:"Inter",sans-serif'>4.<span>&nbsp;&nbsp;&nbsp;&nbsp;
+                    </span></span><strong><span
+                        >AI-Enhanced
+                        Customer Segmentation</span></strong></p>
 
-        <p style='margin-left:90.0pt;text-indent:-18.0pt'><span style='font-size:11.0pt;
-font-family:Symbol'>·<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-                </span></span><i><span style='font-size:11.0pt;font-family:"Calibri",sans-serif'>Leverage
+        <ul><li>Leverage
                     AI-driven analytics to accurately segment customers based on behaviour,
-                    adoption speed, and responsiveness.</span></i></p>
+                    adoption speed, and responsiveness.</li>
 
-        <p style='margin-left:90.0pt;text-indent:-18.0pt'><span style='font-size:11.0pt;
-font-family:Symbol'>·<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-                </span></span><i><span style='font-size:11.0pt;font-family:"Calibri",sans-serif'>AI
+        <li>AI
                     algorithms quickly recognise and predict segment-specific patterns, improving
-                    decision accuracy and reducing risk.</span></i></p>
+                    decision accuracy and reducing risk.</li></ul>
 
-        <h3><strong><i><span style='font-size:11.0pt;font-family:"Calibri",sans-serif'>Types
-                        of Data</span></i></strong></h3>
+        <p><b>Types of Data</b></p>
 
-        <p style='margin-left:36.0pt;text-indent:-18.0pt'><span style='font-size:10.0pt;
-font-family:Symbol'>·<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-                </span></span><strong><i><span style='font-size:11.0pt;font-family:"Calibri",sans-serif'>Segmented
-                        User Data:</span></i></strong><i><span style='font-size:11.0pt;font-family:
-"Calibri",sans-serif'> Customer profiles, purchasing history by segment.</span></i></p>
+        <ul><li><strong><span>Segmented
+                        User Data:</span></strong>Customer profiles, purchasing history by segment.</li>
 
-        <p style='margin-left:36.0pt;text-indent:-18.0pt'><span style='font-size:10.0pt;
-font-family:Symbol'>·<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-                </span></span><strong><i><span style='font-size:11.0pt;font-family:"Calibri",sans-serif'>Adoption
-                        Rate Data:</span></i></strong><i><span style='font-size:11.0pt;font-family:
-"Calibri",sans-serif'> Speed and patterns of feature adoption.</span></i></p>
+        <li><strong><span>Adoption
+                        Rate Data:</span></strong> Speed and patterns of feature adoption.</li></ul>
 
-        <h3><strong><i><span style='font-size:11.0pt;font-family:"Calibri",sans-serif'>Key
-                        Metrics</span></i></strong></h3>
+        <p><b>Key Metrics</b></p>
 
-        <p style='margin-left:36.0pt;text-indent:-18.0pt'><span style='font-size:10.0pt;
-font-family:Symbol'>·<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-                </span></span><strong><i><span style='font-size:11.0pt;font-family:"Calibri",sans-serif'>Adoption
-                        Rate:</span></i></strong><i><span style='font-size:11.0pt;font-family:"Calibri",sans-serif'>
-                    Speed and scale of new feature uptake.</span></i></p>
+        <ul><li><strong><span>Adoption
+                        Rate:</span></strong>
+                    Speed and scale of new feature uptake.</li>
 
-        <p style='margin-left:36.0pt;text-indent:-18.0pt'><span style='font-size:10.0pt;
-font-family:Symbol'>·<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-                </span></span><strong><i><span style='font-size:11.0pt;font-family:"Calibri",sans-serif'>Customer
-                        Segment Growth Rate:</span></i></strong><i><span style='font-size:11.0pt;
-font-family:"Calibri",sans-serif'> Monitor growth of innovator vs laggard
-                    segments.</span></i></p>
+        <li><strong><span>Customer
+                        Segment Growth Rate:</span></strong> Monitor growth of innovator vs laggard
+                    segments.</li></ul>
 
-        <h3><strong><i><span style='font-size:11.0pt;font-family:"Calibri",sans-serif'>AI
-                        Applications</span></i></strong></h3>
+        <p><b>AI Applications</b></p>
 
-        <p style='margin-left:36.0pt;text-indent:-18.0pt'><span style='font-size:10.0pt;
-font-family:Symbol'>·<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-                </span></span><strong><i><span style='font-size:11.0pt;font-family:"Calibri",sans-serif'>Customer
-                        Segmentation Automation:</span></i></strong><i><span style='font-size:11.0pt;
-font-family:"Calibri",sans-serif'> AI dynamically segments customers into
-                    adoption categories based on behaviour.</span></i></p>
+        <ul><li><strong><span>Customer
+                        Segmentation Automation:</span></strong> AI dynamically segments customers into
+                    adoption categories based on behaviour.</li>
 
-        <p style='margin-left:36.0pt;text-indent:-18.0pt'><span style='font-size:10.0pt;
-font-family:Symbol'>·<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-                </span></span><strong><i><span style='font-size:11.0pt;font-family:"Calibri",sans-serif'>Real-time
-                        Feedback Loop:</span></i></strong><i><span style='font-size:11.0pt;font-family:
-"Calibri",sans-serif'> AI rapidly detects segment-specific reactions, enabling
-                    swift iteration.</span></i></p>
+        <li><strong><span>Real-time
+                        Feedback Loop:</span></strong> AI rapidly detects segment-specific reactions, enabling
+                    swift iteration.</li></ul>
 
-        <h3 align=center style='text-align:center'><span style='font-size:11.0pt;
-font-family:"Calibri",sans-serif'>Practical Steps for E-commerce Product
-                Managers</span></h3>
+        <h3 align=center>Practical Steps for E-commerce Product Managers</h3>
 
-        <p style='margin-left:36.0pt;text-indent:-18.0pt'><span style='font-size:10.0pt;
-font-family:"Calibri",sans-serif'>a)<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;
-                </span></span><strong><span style='font-size:11.0pt;font-family:"Calibri",sans-serif'>Segment
-                    Customer Data</span></strong><span style='font-size:11.0pt;font-family:"Calibri",sans-serif'>:
+        <p><span>a)<span>&nbsp;</span></span><strong><span>Segment
+                    Customer Data</span></strong><span>:
                 Clearly identify innovators and laggards through behaviour analytics.</span></p>
 
-        <p style='margin-left:36.0pt;text-indent:-18.0pt'><span style='font-size:10.0pt;
-font-family:"Calibri",sans-serif'>b)<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;
-                </span></span><strong><span style='font-size:11.0pt;font-family:"Calibri",sans-serif'>Deploy
+        <p><span>b)<span>&nbsp;</span></span><strong><span>Deploy
                     AI Segmentation Tools</span></strong><span style='font-size:11.0pt;font-family:
-"Calibri",sans-serif'>: Use AI to automate and enhance accuracy in segmenting
+"Inter",sans-serif'>: Use AI to automate and enhance accuracy in segmenting
                 customers based on purchasing behaviour, product usage, and feedback patterns.</span></p>
 
-        <p style='margin-left:36.0pt;text-indent:-18.0pt'><span style='font-size:10.0pt;
-font-family:"Calibri",sans-serif'>c)<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-                </span></span><strong><span style='font-size:11.0pt;font-family:"Calibri",sans-serif'>Targeted
-                    Experiments</span></strong><span style='font-size:11.0pt;font-family:"Calibri",sans-serif'>:
+        <p><span>c)<span>&nbsp;</span></span><strong><span>Targeted
+                    Experiments</span></strong><span>:
                 Tailor your product testing and analytics interpretation to each customer
                 segment, improving accuracy and reliability of outcomes.</span></p>
 
-        <p style='line-height:normal;background:white'><a name="_Hlk203098395"></a><span style='color:black'>Customer
+        <p>Customer
                 analytics drives
                 home the idea that product success is not about building more, it’s about
-                building what matters. It emphasises <em><span
-                        style='font-family:"Calibri",sans-serif'>Hypothesis-Driven
-                        Development</span></em> (HDD) as a mindset, where each feature is treated like
+                building what matters. It emphasises Hypothesis-Driven Development (HDD) as a mindset, where each feature is treated like
                 a testable bet. The key takeaway is that product managers should start with
                 validated demand before writing a line of code, and use both qualitative and
                 quantitative data to refine decisions. It also makes the point that analytics
                 and AI are best used to steer iterations towards measurable outcomes rather
                 than relying on gut feel. By grounding every stage in persona, problem, demand,
                 and usability in evidence, teams reduce waste, focus on high-value features,
-                and make faster, more confident product calls.</span></p>
+                and make faster, more confident product calls.</p>
 
             <p>&nbsp;</p>
 
@@ -3842,6 +3495,11 @@ font-family:"Calibri",sans-serif'>c)<span style='font:7.0pt "Times New Roman"'>&
         
     <h2 id="productanalyticsai-demand-value-analytics-demand-value-hypothesis" align="center">Demand &amp; Value
         Hypothesis (Would they like our solutions to solve their problem?)</h2>
+
+    <p align="center">
+        <img class="img-fluid rounded-corners mt-3" border="0" width="600" height="300"
+            src="./images/productsanalyticsai/demandvalueanalytics/image000.png">
+    </p>
 
     <p>A Demand/Value Hypothesis are assumptions based on the
         perceived or actual demand for a product or service and the value it provides
@@ -3896,7 +3554,7 @@ font-family:"Calibri",sans-serif'>c)<span style='font:7.0pt "Times New Roman"'>&
     </ul>
     <p><b>Here's an example of a Demand/Value Hypothesis</b>:</p>
 
-    <p>&quot;<i>When targeting [<b>25-35-year-old males</b>], there
+    <p>&quot;When targeting [<b>25-35-year-old males</b>], there
             is a significant demand for a [our durable trainers’ range] that effectively
             addresses [<b>gym and jogging use</b>]. Our product, offering [<b>our
                 competitive price points and product durability</b>], provides superior value
@@ -3905,7 +3563,7 @@ font-family:"Calibri",sans-serif'>c)<span style='font:7.0pt "Times New Roman"'>&
             demand and positive customer feedback. We will measure success through key
             metrics such as [<b>customer lifetime value, cost per lead, and cost per
                 acquisition],</b> and our testing/validation will involve [<b>Wizard of Oz and
-                a Landing page MVP</b></i>].&quot; </p>
+                a Landing page MVP</b>].&quot; </p>
 
     <p>The hypothesis gives room for further market research,
         product development, and testing. As data is gathered and analysed, adjustments
@@ -3915,8 +3573,8 @@ font-family:"Calibri",sans-serif'>c)<span style='font:7.0pt "Times New Roman"'>&
     <h2 align=center id="productanalyticsai-demand-value-analytics-lean-start-up-demand-hypothesis">Lean Startup
         Demand Hypothesis</h2>
 
-    <p align=center style='text-align:center'><i>Exploring how Lean
-            Start-up principles inform demand assumptions and validation.</i></p>
+    <p align=center style='text-align:center'>Exploring how Lean
+            Start-up principles inform demand assumptions and validation.</p>
 
     <p>Instead of building in the dark, the Lean Startup mindset
         hands you a flashlight. By testing your demand hypothesis early, you get
@@ -3932,92 +3590,86 @@ font-family:"Calibri",sans-serif'>c)<span style='font:7.0pt "Times New Roman"'>&
         based on early conversion rates suggest strong potential. These rapid insights
         enable confident investment into product development</p>
 
-    <p><b><span style='font-size:12.0pt;
-font-family:"Times New Roman",serif'>Core Insights:</span></b></p>
+    <p><b>Core Insights:</span></b></p>
 
-    <p><i><span style='font-size:12.0pt'>The
+    <p><span>The
                 Lean Startup methodology makes the point of testing quickly and validating
                 demand hypotheses which are assumptions about customer needs and desires before
                 investing heavily in product development. This iterative approach helps
                 businesses to avoid costly mistakes by ensuring products align closely with
-                market demand.</span></i></p>
+                market demand.</span></p>
 
-    <p><b><i><span style='font-size:
-12.0pt'>Key Principles for E-commerce Product Managers:</span></i></b></p>
+    <p><b><span style='font-size:
+12.0pt'>Key Principles for E-commerce Product Managers:</span></b></p>
 
     <ul type=disc>
-        <li><i><span style='font-size:12.0pt'>Clearly
-                    define your target customers and the problems you're solving.</span></i></li>
-        <li><i><span style='font-size:12.0pt'>Rapidly
-                    test demand hypotheses using minimal viable tests or experiments.</span></i></li>
-        <li><i><span style='font-size:12.0pt'>Validate
-                    assumptions quickly to determine actual market demand.</span></i></li>
+        <li><span>Clearly
+                    define your target customers and the problems you're solving.</span></li>
+        <li><span>Rapidly
+                    test demand hypotheses using minimal viable tests or experiments.</span></li>
+        <li><span>Validate
+                    assumptions quickly to determine actual market demand.</span></li>
     </ul>
 
-    <p><b><i><span style='font-size:
-12.0pt'>Types of Data:</span></i></b></p>
+    <p><b><span style='font-size:
+12.0pt'>Types of Data:</span></b></p>
 
     <ul type=disc>
-        <li><b><i><span style='font-size:
- 12.0pt'>Qualitative Data</span></i></b><i><span style='font-size:12.0pt'>:
+        <li><b><span style='font-size:
+ 12.0pt'>Qualitative Data</span></b><span>:
                     Customer interviews, feedback from potential users, initial reactions from
-                    market tests.</span></i></li>
-        <li><b><i><span style='font-size:
- 12.0pt'>Quantitative Data</span></i></b><i><span style='font-size:12.0pt'>:
+                    market tests.</span></li>
+        <li><b><span style='font-size:
+ 12.0pt'>Quantitative Data</span></b><span>:
                     Early engagement metrics, landing page conversion rates, clicks,
-                    pre-orders, or waitlist sign-ups.</span></i></li>
+                    pre-orders, or waitlist sign-ups.</span></li>
     </ul>
 
-    <p><b><i><span style='font-size:
-12.0pt'>Essential Customer Analytics Metrics:</span></i></b></p>
+    <p><b><span style='font-size:
+12.0pt'>Essential Customer Analytics Metrics:</span></b></p>
 
     <ul type=disc>
-        <li><b><i><span style='font-size:
- 12.0pt'>Landing Page Conversion Rate</span></i></b><i><span style='font-size:12.0pt'>: The percentage of visitors
+        <li><b><span style='font-size:
+ 12.0pt'>Landing Page Conversion Rate</span></b><span>: The percentage of visitors
                     who express interest
-                    (e.g., by signing up or pre-ordering).</span></i></li>
-        <li><b><i><span style='font-size:
- 12.0pt'>Customer Interest Score</span></i></b><i><span style='font-size:
+                    (e.g., by signing up or pre-ordering).</span></li>
+        <li><b><span style='font-size:
+ 12.0pt'>Customer Interest Score</span></b><span style='font-size:
  12.0pt'>: Qualitative measure derived from customer feedback and
-                    interviews to gauge initial excitement or interest.</span></i></li>
+                    interviews to gauge initial excitement or interest.</span></li>
     </ul>
 
-    <p><b><i><span style='font-size:
-12.0pt'>Practical AI Applications:</span></i></b></p>
+    <p><b><span style='font-size:
+12.0pt'>Practical AI Applications:</span></b></p>
 
     <ul type=disc>
-        <li><b><i><span style='font-size:
- 12.0pt'>Sentiment Analysis</span></i></b><i><span style='font-size:12.0pt'>:
+        <li><b><span style='font-size:
+ 12.0pt'>Sentiment Analysis</span></b><span>:
                     AI-driven NLP techniques automatically analyse qualitative data from
                     customer feedback or social media to quickly gauge market interest and
-                    sentiment.</span></i></li>
-        <li><b><i><span style='font-size:
- 12.0pt'>Predictive Demand Models</span></i></b><i><span style='font-size:
+                    sentiment.</span></li>
+        <li><b><span style='font-size:
+ 12.0pt'>Predictive Demand Models</span></b><span style='font-size:
  12.0pt'>: Machine learning models forecast potential demand using early
                     quantitative data, helping managers determine the likelihood of market
-                    success</span></i></li>
+                    success</span></li>
     </ul>
 
     <p>&nbsp;</p>
 
-    <p align=center style='text-align:center'><strong><span style='font-size:11.0pt;
-font-family:"Calibri",sans-serif'>Practical Steps for Product Managers</span></strong></p>
+    <h3 align=center>Practical Steps for Product Managers</h3>
 
-    <ul>
-        <li>Clarify
-            the specific customer problem your product is solving.</li>
+    <p>a)<span>&nbsp;</span><span>Clarify the specific customer problem your product is solving.</span></p>
 
-        <li>Draft
-            a <strong><span style='font-family:"Calibri",sans-serif'>demand hypothesis</span></strong>:
-            &quot;If we offer [X], [Y] people will use/pay for it.&quot;</li>
+    <p>b)<span>&nbsp;</span><span>Draft
+    a <strong><span style='font-family:"Inter",sans-serif'>demand hypothesis</span></strong>:
+    &quot;If we offer [X], [Y] people will use/pay for it.&quot;</span></p>
 
-        <li>Identify
-            your <strong><span style='font-family:"Calibri",sans-serif'>riskiest assumption</span></strong>
-            and how to test it early.</li>
+    <p>c)<span>&nbsp;</span><span>Identify
+    your <strong><span style='font-family:"Inter",sans-serif'>riskiest assumption</span></strong>
+    and how to test it early.</span></p>
 
-        <li>Use landing pages or customer interviews to gather early validation.
-        </li>
-    </ul>
+    <p>d)<span>&nbsp;</span><span>Use landing pages or customer interviews to gather early validation.</span></p>   
 
     <p>&nbsp;</p>
 
@@ -4054,70 +3706,58 @@ font-family:"Calibri",sans-serif'>Practical Steps for Product Managers</span></s
 
     <p><b>1. Landing Page Experiments</b></p>
 
-    <p style='margin-left:36.0pt;text-indent:-18.0pt;line-height:
-normal'><span style='font-size:10.0pt'>a)<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;
-            </span></span><i>Goal:</i> Test appeal of products or value propositions before
+    <p>a)<span>&nbsp;&nbsp;&nbsp;&nbsp;
+            </span></span>Goal: Test appeal of products or value propositions before
         full implementation.</p>
 
-    <p style='margin-left:36.0pt;text-indent:-18.0pt;line-height:
-normal'><span style='font-size:10.0pt'>b)<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;
+    <p>b)<span>&nbsp;&nbsp;&nbsp;&nbsp;
             </span></span>Use dynamic sections to highlight product collections (e.g.,
         “Best for Summer,” “Sustainable Picks”).</p>
 
-    <p style='margin-left:36.0pt;text-indent:-18.0pt;line-height:
-normal'><span style='font-size:10.0pt'>c)<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <p>c)<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
             </span></span>A/B test hero banners, calls-to-action, and layout.</p>
 
-    <p style='margin-left:36.0pt;text-indent:-18.0pt;line-height:
-normal'><span style='font-size:10.0pt'>d)<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;
+    <p>d)<span>&nbsp;&nbsp;&nbsp;&nbsp;
             </span></span>Measure scrolls depth, click-through rates, and time-on-page.</p>
 
     <p><b>2. Limited-Time Pre-Order
             Campaigns</b></p>
 
-    <p style='margin-left:36.0pt;text-indent:-18.0pt;line-height:
-normal'><span style='font-size:10.0pt'>a)<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;
-            </span></span><i>Goal:</i> Gauge buyer intent with a controlled offering.</p>
+    <p>a)<span>&nbsp;&nbsp;&nbsp;&nbsp;
+            </span></span>Goal: Gauge buyer intent with a controlled offering.</p>
 
-    <p style='margin-left:36.0pt;text-indent:-18.0pt;line-height:
-normal'><span style='font-size:10.0pt'>b)<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;
+    <p>b)<span>&nbsp;&nbsp;&nbsp;&nbsp;
             </span></span>Launch 3–5 products in a “coming soon” category.</p>
 
-    <p style='margin-left:36.0pt;text-indent:-18.0pt;line-height:
-normal'><span style='font-size:10.0pt'>c)<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <p>c)<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
             </span></span>Accept pre-orders or waitlist sign-ups to track interest.</p>
 
-    <p style='margin-left:36.0pt;text-indent:-18.0pt;line-height:
-normal'><span style='font-size:10.0pt'>d)<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;
+    <p>d)<span>&nbsp;&nbsp;&nbsp;&nbsp;
             </span></span>Use storytelling (e.g., origin story of a product, maker profile)
         to drive emotional connection.</p>
 
     <p><b>3. Fake Door Testing</b></p>
 
-    <p style='margin-left:36.0pt;text-indent:-18.0pt;line-height:
-normal'><span style='font-size:10.0pt'>a)<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;
-            </span></span><i>Goal:</i> Evaluate potential interest in new features or
+    <p>a)<span>&nbsp;&nbsp;&nbsp;&nbsp;
+            </span></span>Goal: Evaluate potential interest in new features or
         product lines.</p>
 
-    <p style='margin-left:36.0pt;text-indent:-18.0pt;line-height:
-normal'><span style='font-size:10.0pt'>b)<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;
+    <p>b)<span>&nbsp;&nbsp;&nbsp;&nbsp;
             </span></span>Display new filters, categories, or subscription models that
         don’t yet exist.</p>
 
-    <p style='margin-left:36.0pt;text-indent:-18.0pt;line-height:
-normal'><span style='font-size:10.0pt'>c)<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <p>c)<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
             </span></span>When clicked, redirect users to a short survey or a “coming soon”
         message.</p>
 
-    <p style='margin-left:36.0pt;text-indent:-18.0pt;line-height:
-normal'><span style='font-size:10.0pt'>d)<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;
+    <p>d)<span>&nbsp;&nbsp;&nbsp;&nbsp;
             </span></span>Analyse click data to prioritise development.</p>
 
     <p><b>4. Influencer
             Micro-Collaborations</b></p>
 
     <ul type=disc>
-        <li><i>Goal:</i> Use social
+        <li>Goal: Use social
             validation to test demand via trusted messengers.</li>
         <li>Partner with micro-influencers
             to “co-curate” a product selection.</li>
@@ -4130,7 +3770,7 @@ normal'><span style='font-size:10.0pt'>d)<span style='font:7.0pt "Times New Roma
     <p><b>5. Rapid Ads + CTA Testing</b></p>
 
     <ul type=disc>
-        <li><i>Goal:</i> Simulate demand
+        <li>Goal: Simulate demand
             and refine positioning before launch.</li>
         <li>Run paid ads across Instagram,
             TikTok, and Google Shopping.</li>
@@ -4144,7 +3784,7 @@ normal'><span style='font-size:10.0pt'>d)<span style='font:7.0pt "Times New Roma
             Simulation</b></p>
 
     <ul type=disc>
-        <li><i>Goal:</i> Validate UX flows
+        <li>Goal: Validate UX flows
             with minimal backend investment.</li>
         <li>Let user’s “checkout” from a
             mock storefront.</li>
@@ -4156,43 +3796,43 @@ normal'><span style='font-size:10.0pt'>d)<span style='font:7.0pt "Times New Roma
 
     <p><b>Core Insights:</b></p>
 
-    <p><i>This illustrates the importance of systematically testing
+    <p>This illustrates the importance of systematically testing
             market demand using small-scale experiments. This demonstrates how effective
             demand testing at the early stages provides critical validation before
-            significant product investments are made.</i></p>
+            significant product investments are made.</p>
 
-    <p><b><i>Key Principles for E-commerce Product Managers:</i></b></p>
+    <p><b>Key Principles for E-commerce Product Managers</b></p>
 
     <ul style='margin-top:0cm' type=disc>
-        <li><i>Conduct quick, low-cost experiments to validate
-                customer interest and demand.</i></li>
-        <li><i>Use real customer engagement data to inform go/no-go
-                product decisions.</i></li>
-        <li><i>Clearly define success criteria for demand tests.</i></li>
+        <li>Conduct quick, low-cost experiments to validate
+                customer interest and demand.</li>
+        <li>Use real customer engagement data to inform go/no-go
+                product decisions.</li>
+        <li>Clearly define success criteria for demand tests.</li>
     </ul>
 
-    <p><b><i>Types of Data:</i></b></p>
+    <p><b>Types of Data:</b></p>
 
     <ul style='margin-top:0cm' type=disc>
-        <li><b><i>Behavioural Data</i></b><i>: User interactions such
-                as clicks, engagement duration, page scroll depth.</i></li>
-        <li><b><i>Conversion Data</i></b><i>: Sign-ups, form
-                completions, and pre-orders indicating genuine demand.</i></li>
+        <li><b>Behavioural Data</b>: User interactions such
+                as clicks, engagement duration, page scroll depth.</li>
+        <li><b>Conversion Data</b>: Sign-ups, form
+                completions, and pre-orders indicating genuine demand.</li>
     </ul>
 
-    <p><b><i>Essential Customer Analytics Metrics:</i></b></p>
+    <p><b>Essential Customer Analytics Metrics:</b></p>
 
     <ul style='margin-top:0cm' type=disc>
-        <li><b><i>Early Adoption Rate</i></b><i>: Proportion of
-                initial users who sign up or show genuine interest.</i></li>
-        <li><b><i>Interest-to-Conversion Ratio</i></b><i>: Rate at
+        <li><b>Early Adoption Rate</b>: Proportion of
+                initial users who sign up or show genuine interest.</li>
+        <li><b>Interest-to-Conversion Ratio</b>: Rate at
                 which interested users (e.g., visitors who click through) take a concrete
-                action (sign-up, pre-order).</i></li>
+                action (sign-up, pre-order).</li>
     </ul>
 
-    <p><b><span style='font-size:12.0pt'>&nbsp;</span></b></p>
+    <p><b><span>&nbsp;</span></b></p>
 
-    <p><b><span style='font-size:12.0pt'>Key
+    <p><b><span>Key
                 Metrics to Track for eCommerce Demand Testing in Detail</span></b></p>
 
     <table class='table'>
@@ -4212,12 +3852,12 @@ normal'><span style='font-size:10.0pt'>d)<span style='font:7.0pt "Times New Roma
         <tr>
             <td valign=top style='border-top:none;border-left:none;border-bottom:solid #666666 1.0pt;
 border-right:solid #666666 1.0pt;background:#CCCCCC;padding:0cm 5.4pt 0cm 5.4pt'>
-                <p style='margin-bottom:0cm;line-height:normal'><b><span style='color:black'>Landing
+                <p><b><span style='color:black'>Landing
                             Page Experiments</span></b></p>
             </td>
             <td valign=top style='border-top:none;border-left:none;border-bottom:solid #666666 1.0pt;
 border-right:solid #666666 1.0pt;background:#CCCCCC;padding:0cm 5.4pt 0cm 5.4pt'>
-                <p style='margin-bottom:0cm;line-height:normal'><span style='color:black'>Click-through rate (CTR)
+                <p><span style='color:black'>Click-through rate (CTR)
                         on hero CTA.</span></p>
                 <p style='margin-bottom:0cm;line-height:
 normal'><span style='color:black'>Scroll depth.</span></p>
@@ -4235,12 +3875,12 @@ normal'><span style='color:black'>Time on page </span></p>
         <tr>
             <td valign=top style='border-top:none;border-left:none;border-bottom:solid #666666 1.0pt;
 border-right:solid #666666 1.0pt;padding:0cm 5.4pt 0cm 5.4pt'>
-                <p style='margin-bottom:0cm;line-height:normal'><b>Pre-Order
+                <p><b>Pre-Order
                         Campaigns</b></p>
             </td>
             <td valign=top style='border-top:none;border-left:none;border-bottom:solid #666666 1.0pt;
 border-right:solid #666666 1.0pt;padding:0cm 5.4pt 0cm 5.4pt'>
-                <p style='margin-bottom:0cm;line-height:normal'>Conversion
+                <p>Conversion
                     rate.</p>
                 <p style='margin-bottom:0cm;line-height:
 normal'>Pre-order volume. </p>
@@ -4249,19 +3889,18 @@ normal'>Pre-order volume. </p>
             </td>
             <td valign=top style='border:none;border-bottom:solid #666666 1.0pt;
 padding:0cm 5.4pt 0cm 5.4pt'>
-                <p align=center style='margin-bottom:0cm;text-align:center;
-line-height:normal'>Referral source breakdown     Bounce rate</p>
+                <p align=center>Referral source breakdown     Bounce rate</p>
             </td>
         </tr>
         <tr>
             <td valign=top style='border-top:none;border-left:none;border-bottom:solid #666666 1.0pt;
 border-right:solid #666666 1.0pt;background:#CCCCCC;padding:0cm 5.4pt 0cm 5.4pt'>
-                <p style='margin-bottom:0cm;line-height:normal'><b><span style='color:black'>Fake
+                <p><b><span style='color:black'>Fake
                             Door Tests</span></b></p>
             </td>
             <td valign=top style='border-top:none;border-left:none;border-bottom:solid #666666 1.0pt;
 border-right:solid #666666 1.0pt;background:#CCCCCC;padding:0cm 5.4pt 0cm 5.4pt'>
-                <p style='margin-bottom:0cm;line-height:normal'><span style='color:black'>Click rate on phantom
+                <p><span style='color:black'>Click rate on phantom
                         features.</span></p>
                 <p style='margin-bottom:0cm;line-height:
 normal'><span style='color:black'>Survey completion rate.</span></p>
@@ -4277,12 +3916,12 @@ normal'><span style='color:black'>Feedback sentiment (from surveys)</span></p>
         <tr>
             <td valign=top style='border-top:none;border-left:none;border-bottom:solid #666666 1.0pt;
 border-right:solid #666666 1.0pt;padding:0cm 5.4pt 0cm 5.4pt'>
-                <p style='margin-bottom:0cm;line-height:normal'><b>Micro-Influencer
+                <p><b>Micro-Influencer
                         Collaborations</b></p>
             </td>
             <td valign=top style='border-top:none;border-left:none;border-bottom:solid #666666 1.0pt;
 border-right:solid #666666 1.0pt;padding:0cm 5.4pt 0cm 5.4pt'>
-                <p style='margin-bottom:0cm;line-height:normal'>Referral
+                <p>Referral
                     traffic.</p>
                 <p style='margin-bottom:0cm;line-height:
 normal'>Engagement rate (likes/comments). </p>
@@ -4300,12 +3939,12 @@ normal'>Social shares</p>
         <tr>
             <td valign=top style='border-top:none;border-left:none;border-bottom:solid #666666 1.0pt;
 border-right:solid #666666 1.0pt;background:#CCCCCC;padding:0cm 5.4pt 0cm 5.4pt'>
-                <p style='margin-bottom:0cm;line-height:normal'><b><span style='color:black'>Paid Ad
+                <p><b><span style='color:black'>Paid Ad
                             Experiments</span></b></p>
             </td>
             <td valign=top style='border-top:none;border-left:none;border-bottom:solid #666666 1.0pt;
 border-right:solid #666666 1.0pt;background:#CCCCCC;padding:0cm 5.4pt 0cm 5.4pt'>
-                <p style='margin-bottom:0cm;line-height:normal'><span style='color:black'>Ad CTR.</span></p>
+                <p><span style='color:black'>Ad CTR.</span></p>
                 <p style='margin-bottom:0cm;line-height:
 normal'><span style='color:black'>Cost per click (CPC). </span></p>
                 <p style='margin-bottom:0cm;line-height:
@@ -4322,12 +3961,12 @@ normal'><span style='color:black'>Return on ad spend (ROAS)</span></p>
         <tr>
             <td valign=top style='border-top:none;border-left:none;border-bottom:solid #666666 1.0pt;
 border-right:solid #666666 1.0pt;padding:0cm 5.4pt 0cm 5.4pt'>
-                <p style='margin-bottom:0cm;line-height:normal'><b>Wizard of
+                <p><b>Wizard of
                         Oz Checkout</b></p>
             </td>
             <td valign=top style='border-top:none;border-left:none;border-bottom:solid #666666 1.0pt;
 border-right:solid #666666 1.0pt;padding:0cm 5.4pt 0cm 5.4pt'>
-                <p style='margin-bottom:0cm;line-height:normal'>Cart
+                <p>Cart
                     completion rate.</p>
                 <p style='margin-bottom:0cm;line-height:
 normal'>Abandonment rate.</p>
@@ -4345,12 +3984,12 @@ normal'>Feedback submissions</p>
         <tr>
             <td valign=top style='border-top:none;border-left:none;border-bottom:solid #666666 1.0pt;
 border-right:solid #666666 1.0pt;background:#CCCCCC;padding:0cm 5.4pt 0cm 5.4pt'>
-                <p style='margin-bottom:0cm;line-height:normal'><b><span style='color:black'>Journey
+                <p><b><span style='color:black'>Journey
                             Mapping Interviews</span></b></p>
             </td>
             <td valign=top style='border-top:none;border-left:none;border-bottom:solid #666666 1.0pt;
 border-right:solid #666666 1.0pt;background:#CCCCCC;padding:0cm 5.4pt 0cm 5.4pt'>
-                <p style='margin-bottom:0cm;line-height:normal'><span style='color:black'>Frequency of recurring
+                <p><span style='color:black'>Frequency of recurring
                         needs. or motivations. </span></p>
                 <p style='margin-bottom:0cm;line-height:
 normal'><span style='color:black'>Feature desirability rankings.</span></p>
@@ -4367,38 +4006,28 @@ normal'><span style='color:black'>Hypothesis alignment. score.</span></p>
 
     <p>&nbsp;</p>
 
-    <p><i>&nbsp;</i></p>
+    <p>&nbsp;</p>
 
-    <p><b><i>Practical AI Applications:</i></b></p>
+    <p><b>Practical AI Applications:</b></p>
 
     <ul style='margin-top:0cm' type=disc>
-        <li><b><i>Real-time Demand Prediction</i></b><i>: AI-driven
+        <li><b>Real-time Demand Prediction</b>: AI-driven
                 models rapidly analyse early test results, providing immediate insights
-                into potential market performance.</i></li>
-        <li><b><i>Automated Funnel Analysis</i></b><i>: AI tools
+                into potential market performance.</li>
+        <li><b>Automated Funnel Analysis</b>: AI tools
                 continuously track and analyse customer paths through early-stage demand
-                tests, quickly identifying friction points or drop-offs.</i></li>
+                tests, quickly identifying friction points or drop-offs.</li>
     </ul>
 
-    <p align=center style='margin-left:36.0pt;text-align:center'><strong><span
-                style='font-size:11.0pt;font-family:"Calibri",sans-serif'>Practical Steps for
-                Product Managers</span></strong></p>
-    <ul>
-        <li>Identify
-            the <strong><span style='font-family:"Calibri",sans-serif'>target buyer persona</span></strong>
-            and what motivates their decision.</li>
+    <h3 align=center>Practical Steps for Product Managers</h3>
+    
+    <p>a)<span>&nbsp;</span><span>Identify the <strong><span style='font-family:"Inter",sans-serif'>target buyer persona</span></strong>
+        and what motivates their decision.</span></p>
+    <p>b)<span>&nbsp;</span><span>Create simple demand tests (e.g., email signups, mock pricing pages).</span></p>
+    <p>c)<span>&nbsp;</span><span>Set <strong><span style='font-family:"Inter",sans-serif'>clear pass/fail criteria</span></strong>
+        for the test.</span></p>
+    <p>d)<span>&nbsp;</span><span>Use analytics (CTR, bounce rate) to understand intent.</span></p>
 
-        <li>Create
-            simple demand tests (e.g., email signups, mock pricing pages).</li>
-
-        <li>Set
-            <strong><span style='font-family:"Calibri",sans-serif'>clear pass/fail criteria</span></strong>
-            for the test.
-        </li>
-
-        <li>Use
-            analytics (CTR, bounce rate) to understand intent.</li>
-    </ul>
     <p align=center style='text-align:center'><b><span style='font-size:14.0pt;line-height:107%'>&nbsp;</span></b>
     </p>
 
@@ -4406,8 +4035,7 @@ normal'><span style='color:black'>Hypothesis alignment. score.</span></p>
 
     <h2 align=center id="productanalyticsai-demand-value-analytics-designing-experiments">Designing Experiments</h2>
 
-    <p style='margin-bottom:0cm;line-height:normal;background:white'><b><span
-                style='font-family:Roboto;color:#0F0F0F'>Experimental Design</span></b></p>
+    <p><b>Experimental Design</b></p>
 
     <p align=center style='text-align:center'><b><span style='font-size:14.0pt;line-height:107%'>&nbsp;</span></b>
     </p>
@@ -4427,10 +4055,10 @@ normal'><span style='color:black'>Hypothesis alignment. score.</span></p>
         learning. If you add AI into the mix, you are testing and learning faster than
         your competitors.</p>
 
-    <p>Suppose you manage an e commerce website and hypothesise “<i><span
+    <p>Suppose you manage an e commerce website and hypothesise “<span
                 style='font-size:12.0pt;line-height:107%'>We believe that removing paintpoints
                 from our customer journey by improving , our paid ads and landing page, will
-                increase total sales by 40% in the first three months</span></i></p>
+                increase total sales by 40% in the first three months</span></p>
 
     <p>You create a multivariate testing where one group sees different
         variations of paid ads and a landing page, and another sees other variations.
@@ -4439,18 +4067,18 @@ normal'><span style='color:black'>Hypothesis alignment. score.</span></p>
         This automated process significantly accelerates decision-making and optimises
         your e-commerce product listing</p>
 
-    <p><b><i><span style='font-size:12.0pt;line-height:107%'>Assumption</span></i></b></p>
+    <p><b><span style='font-size:12.0pt;line-height:107%'>Assumption</span></b></p>
 
     <p><span style='font-size:12.0pt;line-height:107%'>Total sales
             will increase by 40% if we improve the quality of our paid ads and landing
             pages</span></p>
 
-    <p><b><i><span style='font-size:12.0pt;line-height:107%'>Hypothesis</span></i></b></p>
+    <p><b><span style='font-size:12.0pt;line-height:107%'>Hypothesis</span></b></p>
 
-    <p><a name="_Hlk204143065"><i><span style='font-size:12.0pt;
+    <p><a name="_Hlk204143065"><span style='font-size:12.0pt;
 line-height:107%'>We believe that removing paintpoints from our customer
                     journey by improving , our paid ads and landing page, will increase total sales
-                    by 40% in the first three months</span></i></a></p>
+                    by 40% in the first three months</span></a></p>
 
     <p><span style='font-size:12.0pt;line-height:107%'>In our
             hypothesis, we are positing that making improvements to paid ads and landing
@@ -4467,106 +4095,105 @@ line-height:107%'>We believe that removing paintpoints from our customer
     <p><span style='font-size:12.0pt;line-height:107%'>&nbsp;</span></p>
 
     <table class='table'>
+        <thead class='table-light'>
         <tr>
-            <td width=301 valign=top style='width:225.45pt;padding:0cm 5.4pt 0cm 5.4pt'>
-                <p align=center style='margin-bottom:0cm;text-align:center;
-line-height:normal'><strong><span style='font-family:"Calibri",sans-serif'>Variable
-                            Type</span></strong></p>
+            <td align=center><b>Variable Type</b>
             </td>
-            <td width=301 valign=top style='width:225.85pt;padding:0cm 5.4pt 0cm 5.4pt'>
-                <p align=center style='margin-bottom:0cm;text-align:center;
-line-height:normal'><strong><span style='font-family:"Calibri",sans-serif'>Details</span></strong></p>
+            <td><b>Details</span></b>
             </td>
         </tr>
+        </thead>
+        <tbody>
         <tr>
             <td width=301 valign=top style='width:225.45pt;padding:0cm 5.4pt 0cm 5.4pt'>
-                <p style='margin-bottom:0cm;line-height:normal'><strong><span
-                            style='font-family:"Calibri",sans-serif'>Independent</span></strong></p>
+                <p><strong><span
+                            style='font-family:"Inter",sans-serif'>Independent</span></strong></p>
             </td>
             <td width=301 valign=top style='width:225.85pt;padding:0cm 5.4pt 0cm 5.4pt'>
-                <p style='margin-bottom:0cm;line-height:normal'><strong><span
-                            style='font-family:"Calibri",sans-serif'>Paid Ads Improvement</span></strong>
+                <p><strong><span
+                            style='font-family:"Inter",sans-serif'>Paid Ads Improvement</span></strong>
                     – Adjustments to ad design, targeting criteria, messaging, platform choice,
                     and campaign optimisation strategies. <br>
                     <br>
                 </p>
-                <p style='margin-bottom:0cm;line-height:normal'> <strong><span
-                            style='font-family:"Calibri",sans-serif'>Landing Page Improvement</span></strong>
+                <p> <strong><span
+                            style='font-family:"Inter",sans-serif'>Landing Page Improvement</span></strong>
                     – Modifications to visual layout, copy clarity, content structure, loading
                     speed, and mobile responsiveness.</p>
             </td>
         </tr>
         <tr>
             <td width=301 valign=top style='width:225.45pt;padding:0cm 5.4pt 0cm 5.4pt'>
-                <p style='margin-bottom:0cm;line-height:normal'><strong><span
-                            style='font-family:"Calibri",sans-serif'>Dependent</span></strong></p>
+                <p><strong><span
+                            style='font-family:"Inter",sans-serif'>Dependent</span></strong></p>
             </td>
             <td width=301 valign=top style='width:225.85pt;padding:0cm 5.4pt 0cm 5.4pt'>
-                <p style='margin-bottom:0cm;line-height:normal'><strong><span
-                            style='font-family:"Calibri",sans-serif'>Total Sales</span></strong> –
+                <p><strong><span
+                            style='font-family:"Inter",sans-serif'>Total Sales</span></strong> –
                     Expected to increase by <strong><span
-                            style='font-family:"Calibri",sans-serif'>40%</span></strong>
-                    within the first <strong><span style='font-family:"Calibri",sans-serif'>three
+                            style='font-family:"Inter",sans-serif'>40%</span></strong>
+                    within the first <strong><span style='font-family:"Inter",sans-serif'>three
                             months</span></strong> as a result of optimised paid ads and landing page
                     design.</p>
-                <p style='margin-bottom:0cm;line-height:normal'>&nbsp;</p>
+                <p>&nbsp;</p>
             </td>
         </tr>
         <tr>
             <td width=301 valign=top style='width:225.45pt;padding:0cm 5.4pt 0cm 5.4pt'>
-                <p style='margin-bottom:0cm;line-height:normal'><strong><span
-                            style='font-family:"Calibri",sans-serif'>Control</span></strong></p>
+                <p><strong><span
+                            style='font-family:"Inter",sans-serif'>Control</span></strong></p>
             </td>
             <td width=301 valign=top style='width:225.85pt;padding:0cm 5.4pt 0cm 5.4pt'>
-                <p style='margin-bottom:0cm;line-height:normal'><strong><span
-                            style='font-family:"Calibri",sans-serif'>Other Marketing Channels</span></strong>
+                <p><strong><span
+                            style='font-family:"Inter",sans-serif'>Other Marketing Channels</span></strong>
                     – Keep email, social media, SEO, and influencer efforts constant to isolate
                     impact. </p>
-                <p style='margin-bottom:0cm;line-height:normal'><strong><span
-                            style='font-family:"Calibri",sans-serif'>&nbsp;</span></strong></p>
-                <p style='margin-bottom:0cm;line-height:normal'><strong><span
-                            style='font-family:"Calibri",sans-serif'>External Conditions</span></strong>
+                <p><strong><span
+                            style='font-family:"Inter",sans-serif'>&nbsp;</span></strong></p>
+                <p><strong><span
+                            style='font-family:"Inter",sans-serif'>External Conditions</span></strong>
                     – Account for seasonal trends, economic shifts, and industry benchmarks that
                     may influence performance.</p>
             </td>
         </tr>
         <tr>
             <td width=301 valign=top style='width:225.45pt;padding:0cm 5.4pt 0cm 5.4pt'>
-                <p style='margin-bottom:0cm;line-height:normal'><strong><span
-                            style='font-family:"Calibri",sans-serif'>Moderating</span></strong></p>
+                <p><strong><span
+                            style='font-family:"Inter",sans-serif'>Moderating</span></strong></p>
             </td>
             <td width=301 valign=top style='width:225.85pt;padding:0cm 5.4pt 0cm 5.4pt'>
-                <p style='margin-bottom:0cm;line-height:normal'><strong><span
-                            style='font-family:"Calibri",sans-serif'>Customer Behaviour</span></strong> –
+                <p><strong><span
+                            style='font-family:"Inter",sans-serif'>Customer Behaviour</span></strong> –
                     Evolving preferences, purchase triggers, and external influences (e.g. social
                     proof, urgency). </p>
-                <p style='margin-bottom:0cm;line-height:normal'>&nbsp;</p>
-                <p style='margin-bottom:0cm;line-height:normal'> <strong><span
-                            style='font-family:"Calibri",sans-serif'>Competitor Actions</span></strong> –
+                <p>&nbsp;</p>
+                <p> <strong><span
+                            style='font-family:"Inter",sans-serif'>Competitor Actions</span></strong> –
                     Changes in competitors’ pricing, promotions, or advertising activity could
                     amplify or dampen the effect.</p>
             </td>
         </tr>
         <tr>
             <td width=301 valign=top style='width:225.45pt;padding:0cm 5.4pt 0cm 5.4pt'>
-                <p style='margin-bottom:0cm;line-height:normal'><strong><span
-                            style='font-family:"Calibri",sans-serif'>Mediating</span></strong></p>
+                <p><strong><span
+                            style='font-family:"Inter",sans-serif'>Mediating</span></strong></p>
             </td>
             <td width=301 valign=top style='width:225.85pt;padding:0cm 5.4pt 0cm 5.4pt'>
-                <p style='margin-bottom:0cm;line-height:normal'><strong><span
-                            style='font-family:"Calibri",sans-serif'>User Experience</span></strong> –
+                <p><strong><span
+                            style='font-family:"Inter",sans-serif'>User Experience</span></strong> –
                     Enhanced usability and brand clarity may drive higher engagement and customer
                     trust.  </p>
-                <p style='margin-bottom:0cm;line-height:normal'><strong><span
-                            style='font-family:"Calibri",sans-serif'>&nbsp;</span></strong></p>
-                <p style='margin-bottom:0cm;line-height:normal'><strong><span
-                            style='font-family:"Calibri",sans-serif'>Conversion Rate</span></strong> –
+                <p><strong><span
+                            style='font-family:"Inter",sans-serif'>&nbsp;</span></strong></p>
+                <p><strong><span
+                            style='font-family:"Inter",sans-serif'>Conversion Rate</span></strong> –
                     The landing page’s ability to convert visitors into customers directly links
                     improvements to sales outcomes.</p>
-                <p style='margin-bottom:0cm;line-height:normal'>&nbsp;</p>
-                <p style='margin-bottom:0cm;line-height:normal'>&nbsp;</p>
+                <p>&nbsp;</p>
+                <p>&nbsp;</p>
             </td>
         </tr>
+        </tbody>
     </table>
 
     <p>These variables collectively form the basis for our
@@ -4580,305 +4207,259 @@ line-height:normal'><strong><span style='font-family:"Calibri",sans-serif'>Detai
     <p><b>Demand Experiment Template —
             DeftAgile Style</b></p>
 
-    <p style='margin-bottom:0cm;line-height:normal'><b>Experiment
+    <p><b>Experiment
             Title  </b></p>
 
-    <p style='margin-bottom:0cm;line-height:normal'>[Give it a name
+    <p>[Give it a name
         that sparks curiosity, e.g., “Fast Fashion Filter Test” or “One-Click Checkout
         Sprint”]</p>
 
-    <p style='margin-bottom:0cm;line-height:normal'><b>&nbsp;</b></p>
+    <p><b>Hypothesis  </b></p>
 
-    <p style='margin-bottom:0cm;line-height:normal'><b>Hypothesis  </b></p>
-
-    <p style='margin-bottom:0cm;line-height:normal'>We believe that
+    <p>We believe that
         [specific user group] will [take a measurable action] because [core need or
         motivation].</p>
 
-    <p style='margin-bottom:0cm;line-height:normal'>&nbsp;</p>
+    <p><b>Example</b> </p>
 
-    <p style='margin-bottom:0cm;line-height:normal'><b>Example</b> </p>
-
-    <p style='margin-bottom:0cm;line-height:normal'>We believe
+    <p>We believe
         time-strapped urban shoppers will pre-order curated bundles because it
         simplifies their buying decisions.</p>
 
-    <p style='margin-bottom:0cm;line-height:normal'>&nbsp;</p>
-
-    <p style='margin-bottom:0cm;line-height:normal'><b>Success
+    <p><b>Success
             Metric  </b></p>
 
-    <p style='margin-bottom:0cm;line-height:normal'>Primary KPI
+    <p>Primary KPI
         [e.g., 5%+ pre-order conversion]  </p>
 
-    <p style='margin-bottom:0cm;line-height:normal'>Validation
+    <p>Validation
         Threshold [Define what ‘success’ looks like—e.g., &gt;50 sign-ups in 7 days]</p>
 
-    <p style='margin-bottom:0cm;line-height:normal'>&nbsp;</p>
 
-    <p style='margin-bottom:0cm;line-height:normal'><b>Experiment
+    <p><b>Experiment
             Type  </b></p>
 
-    <p style='margin-bottom:0cm;line-height:normal'>Choose one that
+    <p>Choose one that
         fits your goal:  </p>
 
     <p style='margin-top:0cm;margin-right:0cm;
 margin-bottom:0cm;margin-left:72.0pt;text-indent:-18.0pt;line-height:normal'>a.<span
-            style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp; </span>Landing
+            style='font:7.0pt "Inter"'>&nbsp;&nbsp;&nbsp;&nbsp; </span>Landing
         Page  </p>
 
     <p style='margin-top:0cm;margin-right:0cm;
 margin-bottom:0cm;margin-left:72.0pt;text-indent:-18.0pt;line-height:normal'>b.<span
-            style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp; </span>Pre-order/Crowdfunding 
+            style='font:7.0pt "Inter"'>&nbsp;&nbsp;&nbsp;&nbsp; </span>Pre-order/Crowdfunding 
     </p>
 
     <p style='margin-top:0cm;margin-right:0cm;
 margin-bottom:0cm;margin-left:72.0pt;text-indent:-18.0pt;line-height:normal'>c.<span
-            style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>Fake
+            style='font:7.0pt "Inter"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>Fake
         Feature Door  </p>
 
     <p style='margin-top:0cm;margin-right:0cm;
 margin-bottom:0cm;margin-left:72.0pt;text-indent:-18.0pt;line-height:normal'>d.<span
-            style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp; </span>Social
+            style='font:7.0pt "Inter"'>&nbsp;&nbsp;&nbsp;&nbsp; </span>Social
         Post Test  </p>
 
     <p style='margin-top:0cm;margin-right:0cm;
 margin-bottom:0cm;margin-left:72.0pt;text-indent:-18.0pt;line-height:normal'>e.<span
-            style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp; </span>Wizard of
+            style='font:7.0pt "Inter"'>&nbsp;&nbsp;&nbsp;&nbsp; </span>Wizard of
         Oz  </p>
 
     <p class=MsoListParagraphCxSpLast style='margin-top:0cm;margin-right:0cm;
 margin-bottom:0cm;margin-left:72.0pt;text-indent:-18.0pt;line-height:normal'>f.<span
-            style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>User
+            style='font:7.0pt "Inter"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>User
         Interview Sprint</p>
 
-    <p style='margin-bottom:0cm;line-height:normal'>&nbsp;</p>
+    <p>&nbsp;</p>
 
-    <p style='margin-bottom:0cm;line-height:normal'><b>Setup
+    <p><b>Setup
             Details  </b></p>
 
     <p style='margin-top:0cm;margin-right:0cm;
 margin-bottom:0cm;margin-left:72.0pt;text-indent:-18.0pt;line-height:normal'>a.<span
-            style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp; </span>Duration: e.g.,
+            style='font:7.0pt "Inter"'>&nbsp;&nbsp;&nbsp;&nbsp; </span>Duration: e.g.,
         7–10 days</p>
 
     <p style='margin-top:0cm;margin-right:0cm;
 margin-bottom:0cm;margin-left:72.0pt;text-indent:-18.0pt;line-height:normal'>b.<span
-            style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp; </span>tools
+            style='font:7.0pt "Inter"'>&nbsp;&nbsp;&nbsp;&nbsp; </span>tools
         Used: e.g., Figma, Notion, Typeform, Instagram  </p>
 
     <p style='margin-top:0cm;margin-right:0cm;
 margin-bottom:0cm;margin-left:72.0pt;text-indent:-18.0pt;line-height:normal'>c.<span
-            style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>Audience
+            style='font:7.0pt "Inter"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>Audience
         Segment., Gen Z, eco-conscious buyers, fashion-forward parents</p>
 
     <p class=MsoListParagraphCxSpLast style='margin-top:0cm;margin-right:0cm;
 margin-bottom:0cm;margin-left:72.0pt;text-indent:-18.0pt;line-height:normal'>d.<span
-            style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp; </span>Team
+            style='font:7.0pt "Inter"'>&nbsp;&nbsp;&nbsp;&nbsp; </span>Team
         Involved: Names/roles contributing to build &amp; analysis</p>
 
-    <p style='margin-bottom:0cm;line-height:normal'>&nbsp;</p>
-
-
-
-    <p style='margin-bottom:0cm;line-height:normal'><b>Design
+   
+    <p><b>Design
             Notes  </b></p>
 
-    <p style='margin-bottom:0cm;text-indent:-18.0pt;
-line-height:normal'>a)<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;
-        </span>Messaging: What tone are you testing? playful? direct? ethical? </p>
+    <p>a)<span>&nbsp;</span>Messaging: What tone are you testing? playful? direct? ethical? </p>
 
-    <p style='margin-bottom:0cm;text-indent:-18.0pt;
-line-height:normal'>b)<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;
-        </span>Visual Language: Stick figures? Diverse product imagery? Branded colours?</p>
+    <p>b)<span>&nbsp;</span>Visual Language: Stick figures? Diverse product imagery? Branded colours?</p>
 
-    <p class=MsoListParagraphCxSpLast style='margin-bottom:0cm;text-indent:-18.0pt;
-line-height:normal'>c)<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;
-        </span>Accessibility Checks: Alt text, button contrast, screen reader flow</p>
+    <p>c)<span>&nbsp;</span>Accessibility Checks: Alt text, button contrast, screen reader flow</p>
 
-    <p style='margin-bottom:0cm;line-height:normal'>&nbsp;</p>
+    
+    <p><b>Observations </b></p>
 
-    <p style='margin-bottom:0cm;line-height:normal'>&nbsp;</p>
-
-    <p style='margin-bottom:0cm;line-height:normal'><b>Observations 
-        </b></p>
-
-    <p style='margin-bottom:0cm;line-height:normal'><b>&nbsp;</b></p>
-
-    <table class=MsoTableGrid border=0 cellspacing=0 cellpadding=0 style='border-collapse:collapse;border:none'>
-        <tr>
-            <td width=200 valign=top style='width:150.25pt;padding:0cm 5.4pt 0cm 5.4pt'>
-                <p style='margin-bottom:0cm;line-height:normal'><b>Metric</b></p>
+    <table class='table'>
+        <thead class='table-light'>
+         <tr>
+            <td><b>Metric</b>
             </td>
-            <td width=200 valign=top style='width:150.25pt;padding:0cm 5.4pt 0cm 5.4pt'>
-                <p style='margin-bottom:0cm;line-height:normal'><b>Result </b></p>
+            <td><b>Result </b>
             </td>
-            <td width=200 valign=top style='width:150.3pt;padding:0cm 5.4pt 0cm 5.4pt'>
-                <p style='margin-bottom:0cm;line-height:normal'><b>Notes</b></p>
+            <td><b>Notes</b>
             </td>
         </tr>
+        </thead>
+        <tbody>
         <tr>
             <td width=200 valign=top style='width:150.25pt;padding:0cm 5.4pt 0cm 5.4pt'>
-                <p style='margin-bottom:0cm;line-height:normal'>CTA
+                <p>CTA
                     Clicks                </p>
             </td>
             <td width=200 valign=top style='width:150.25pt;padding:0cm 5.4pt 0cm 5.4pt'>
-                <p style='margin-bottom:0cm;line-height:normal'>x%        </p>
+                <p>x%        </p>
             </td>
             <td width=200 valign=top style='width:150.3pt;padding:0cm 5.4pt 0cm 5.4pt'>
-                <p style='margin-bottom:0cm;line-height:normal'>What drew
+                <p>What drew
                     attention, image, copy, timing?</p>
             </td>
         </tr>
         <tr>
             <td width=200 valign=top style='width:150.25pt;padding:0cm 5.4pt 0cm 5.4pt'>
-                <p style='margin-bottom:0cm;line-height:normal'>Conversions/Sign-ups     
+                <p>Conversions/Sign-ups     
                 </p>
             </td>
             <td width=200 valign=top style='width:150.25pt;padding:0cm 5.4pt 0cm 5.4pt'>
-                <p style='margin-bottom:0cm;line-height:normal'># or %</p>
+                <p># or %</p>
             </td>
             <td width=200 valign=top style='width:150.3pt;padding:0cm 5.4pt 0cm 5.4pt'>
-                <p style='margin-bottom:0cm;line-height:normal'>Interest
+                <p>Interest
                     expressed by users</p>
             </td>
         </tr>
         <tr>
             <td width=200 valign=top style='width:150.25pt;padding:0cm 5.4pt 0cm 5.4pt'>
-                <p style='margin-bottom:0cm;line-height:normal'>Bounce/Abandonment       
+                <p>Bounce/Abandonment       
                 </p>
             </td>
             <td width=200 valign=top style='width:150.25pt;padding:0cm 5.4pt 0cm 5.4pt'>
-                <p style='margin-bottom:0cm;line-height:normal'># or %</p>
+                <p># or %</p>
             </td>
             <td width=200 valign=top style='width:150.3pt;padding:0cm 5.4pt 0cm 5.4pt'>
-                <p style='margin-bottom:0cm;line-height:normal'>Where and why,
+                <p>Where and why,
                     it happened</p>
             </td>
         </tr>
         <tr>
             <td width=200 valign=top style='width:150.25pt;padding:0cm 5.4pt 0cm 5.4pt'>
-                <p style='margin-bottom:0cm;line-height:normal'>User
+                <p>User
                     Feedback             </p>
             </td>
             <td width=200 valign=top style='width:150.25pt;padding:0cm 5.4pt 0cm 5.4pt'>
-                <p style='margin-bottom:0cm;line-height:normal'>&quot;Quotes&quot; 
+                <p>&quot;Quotes&quot; 
                 </p>
             </td>
             <td width=200 valign=top style='width:150.3pt;padding:0cm 5.4pt 0cm 5.4pt'>
-                <p style='margin-bottom:0cm;line-height:normal'>Any
+                <p>Any
                     surprising feedback themes</p>
             </td>
         </tr>
+        </tbody>
     </table>
 
-    <p style='margin-bottom:0cm;line-height:normal'><b>&nbsp;</b></p>
 
-    <p style='margin-bottom:0cm;line-height:normal'>&nbsp;</p>
+    <p><b>Learnings  </b></p>
 
-    <p style='margin-bottom:0cm;line-height:normal'><b>Learnings  </b></p>
+    <p>a)<span>&nbsp;</span>What did this teach you about user behaviour?  </p>
 
-    <p style='margin-bottom:0cm;text-indent:-18.0pt;
-line-height:normal'>a)<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;
-        </span>What did this teach you about user behaviour?  </p>
+    <p>b)<span>&nbsp;</span>What felt validated?  </p>
 
-    <p style='margin-bottom:0cm;text-indent:-18.0pt;
-line-height:normal'>b)<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;
-        </span>What felt validated?  </p>
+    <p>c)<span>&nbsp;</span>What needs another round of testing?</p>
 
-    <p class=MsoListParagraphCxSpLast style='margin-bottom:0cm;text-indent:-18.0pt;
-line-height:normal'>c)<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;
-        </span>What needs another round of testing?</p>
 
-    <p style='margin-bottom:0cm;line-height:normal'>&nbsp;</p>
+    <p><b>Next Steps  </b></p>
 
-    <p style='margin-bottom:0cm;line-height:normal'>&nbsp;</p>
+    <p>a)<span>&nbsp;</span>Double down (it worked, so scale it!)  </p>
 
-    <p style='margin-bottom:0cm;line-height:normal'><b>Next Steps  </b></p>
+    <p>b)<span>&nbsp;</span>Tweak (good signal, room to refine)  </p>
 
-    <p style='margin-bottom:0cm;text-indent:-18.0pt;
-line-height:normal'>a)<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;
-        </span>Double down (it worked, so scale it!)  </p>
+    <p>c)<span>&nbsp;</span>Archive (low signal, try again later)</p>
 
-    <p style='margin-bottom:0cm;text-indent:-18.0pt;
-line-height:normal'>b)<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;
-        </span>Tweak (good signal, room to refine)  </p>
+   
 
-    <p class=MsoListParagraphCxSpLast style='margin-bottom:0cm;text-indent:-18.0pt;
-line-height:normal'>c)<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;
-        </span>Archive (low signal, try again later)</p>
+    <p><b>Core Insights:</b></p>
 
-    <p><span style='font-size:12.0pt;line-height:107%'>&nbsp;</span></p>
-
-    <p><b><span style='font-size:12.0pt'>Core
-                Insights:</span></b></p>
-
-    <p><i>This lays the emphasis on the
+    <p>This lays the emphasis on the
             importance of carefully designed experiments in agile product management.
             Structured experimentation allows you to validate critical hypotheses
-            effectively, significantly reducing risks and improving product outcomes.</i></p>
+            effectively, significantly reducing risks and improving product outcomes.</p>
 
-    <p><b><i>Key Principles for
-                E-commerce Product Managers:</i></b></p>
+    <p><b>Key Principles for E-commerce Product Managers:</b></p>
 
     <ul type=disc>
-        <li><i>Clearly articulate
-                hypotheses to test specific assumptions.</i></li>
-        <li><i>Design experiments with
-                well-defined control and treatment groups.</i></li>
-        <li><i>Ensure experiments provide
-                actionable insights to inform business decisions rapidly.</i></li>
+        <li>Clearly articulate
+                hypotheses to test specific assumptions.</li>
+        <li>Design experiments with
+                well-defined control and treatment groups.</li>
+        <li>Ensure experiments provide
+                actionable insights to inform business decisions rapidly.</li>
     </ul>
 
-    <p><b><i>Types of Data:</i></b></p>
+    <p><b>Types of Data:</b></p>
 
     <ul type=disc>
-        <li><b><i>Experimental Data</i></b><i>:
+        <li><b>Experimental Data</b>:
                 Results from controlled experiments, A/B tests, user engagement
-                variations.</i></li>
-        <li><b><i>User Interaction Data</i></b><i>:
-                Precise tracking of user interactions within controlled environments.</i></li>
+                variations.</li>
+        <li><b>User Interaction Data</b>:
+                Precise tracking of user interactions within controlled environments.</li>
     </ul>
 
-    <p><b><i>Essential Customer
-                Analytics Metrics:</i></b></p>
+    <p><b>Essential Customer
+                Analytics Metrics:</b></p>
 
     <ul type=disc>
-        <li><b><i>A/B Test Conversion Rate</i></b><i>:
+        <li><b>A/B Test Conversion Rate</b>:
                 Comparison between treatment (changed feature) and control (current
-                feature) groups.</i></li>
-        <li><b><i>Lift Percentage</i></b><i>:
+                feature) groups.</li>
+        <li><b>Lift Percentage</b>:
                 Measure the impact of a tested variable on customer behaviours or
-                conversions.</i></li>
+                conversions.</li>
     </ul>
 
-    <p><b><i>Practical AI Applications:</i></b></p>
+    <p><b>Practical AI Applications:</b></p>
 
     <ul type=disc>
-        <li><b><i>Experiment Automation</i></b><i>:
+        <li><b>Experiment Automation</b>:
                 AI tools automatically manage, track, and analyse A/B and multivariate
-                experiments, speeding up testing cycles and insights delivery.</i></li>
-        <li><b><i>Intelligent Experiment
-                    Recommendations</i></b><i>: Machine learning systems recommend optimal
-                experiments based on historical data and predictive modelling.</i></li>
+                experiments, speeding up testing cycles and insights delivery.</li>
+        <li><b>Intelligent Experiment
+                    Recommendations</b>: Machine learning systems recommend optimal
+                experiments based on historical data and predictive modelling.</li>
     </ul>
 
-    <p align=center style='text-align:center'><b>Practical Steps
-            for Product Managers</b></p>
-    <ul>
-        <li>Break
-            large ideas into testable hypotheses.</li>
+    <h3 align=center>Practical Steps for Product Managers</h3>
 
-        <li>Structure
-            your experiment with a clear control and variable.</li>
+    <p>a)<span>&nbsp;</span><span>Break large ideas into testable hypotheses.</span></p>
 
-        <li>Choose
-            a <strong><span style='font-family:"Calibri",sans-serif'>metric that directly
-                    supports your learning goal.</span></strong></li>
+    <p>b)<span>&nbsp;</span><span>Structure your experiment with a clear control and variable.</span></p>
 
-        <li>Pilot
-            tests with a small sample before full-scale rollout.</li>
-    </ul>
+    <p>c)<span>&nbsp;</span><span>Choose a <strong><span style='font-family:"Inter",sans-serif'>metric that directly
+                supports your learning goal.</strong></span></p>
+
+    <p>d)<span>&nbsp;</span><span>Pilot tests with a small sample before full-scale rollout.</span></p>
+
     <p>&nbsp;</p>
 
     <h2 align=center id="productanalyticsai-demand-value-analytics-mvp-experiments">MVP Experiments</h2>
@@ -4913,7 +4494,7 @@ line-height:normal'>c)<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nb
         the <b>test vehicle</b>. It’s not just a “bare-bones product”; it’s a
         deliberately crafted artefact to answer a <b>specific hypothesis</b>.</p>
 
-    <p><b>Key principle:</b> The MVP is <i>not</i>
+    <p><b>Key principle:</b> The MVP is not
         the goal — validated learning is.</p>
 
     <p><b> Why Use MVPs for Experiments</b></p>
@@ -4929,7 +4510,6 @@ line-height:normal'>c)<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nb
             Move beyond opinions to evidence-based decisions.</li>
     </ul>
 
-    <p style='margin-bottom:0cm;line-height:normal'>&nbsp;</p>
 
     <p><b>Steps to Designing an
             MVP-Based Experiment</b></p>
@@ -4941,15 +4521,15 @@ line-height:normal'>c)<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nb
             falsifiable hypothesis</b>:</p>
 
     <ul type=disc>
-        <li>Example: <i>&quot;If we allow
+        <li>Example: &quot;If we allow
                 customers to reserve items online for in-store pickup, then at least 20%
-                of them will complete the purchase within 24 hours.&quot;</i></li>
+                of them will complete the purchase within 24 hours.&quot;</li>
     </ul>
 
     <p>Your MVP will be designed to test
         this.</p>
 
-    <p style='margin-bottom:0cm;line-height:normal'>&nbsp;</p>
+    
 
     <p><b>Step 2 – Identify the Riskiest
             Assumption</b></p>
@@ -4962,22 +4542,22 @@ line-height:normal'>c)<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nb
     </ul>
 
     <p style='margin-left:72.0pt;text-indent:-18.0pt;line-height:
-normal'>a)<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp; </span>Demand
+normal'>a)<span>&nbsp;&nbsp;&nbsp;&nbsp; </span>Demand
         risk – Do customers want it?</p>
 
     <p style='margin-left:72.0pt;text-indent:-18.0pt;line-height:
-normal'>b)<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp; </span>Usability
+normal'>b)<span>&nbsp;&nbsp;&nbsp;&nbsp; </span>Usability
         risk – Can customers use it easily?</p>
 
     <p style='margin-left:72.0pt;text-indent:-18.0pt;line-height:
-normal'>c)<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp; </span>Feasibility
+normal'>c)<span>&nbsp;&nbsp;&nbsp;&nbsp; </span>Feasibility
         risk – Can it be built?</p>
 
     <p style='margin-left:72.0pt;text-indent:-18.0pt;line-height:
-normal'>d)<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp; </span>Business
+normal'>d)<span>&nbsp;&nbsp;&nbsp;&nbsp; </span>Business
         viability risk – Can it make money?</p>
 
-    <p style='margin-bottom:0cm;line-height:normal'>&nbsp;</p>
+
 
     <p><b>Step 3 – Select the Right MVP
             Format</b></p>
@@ -5040,7 +4620,6 @@ normal'>d)<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp; </
             functionality, polish, and scalability until after validation.</li>
     </ul>
 
-    <p style='margin-bottom:0cm;line-height:normal'>&nbsp;</p>
 
     <p><b>Step 6 – Run the Experiment</b></p>
 
@@ -5073,109 +4652,103 @@ normal'>d)<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp; </
             a different approach is needed.</li>
         <li><b>Kill</b> – Assumption
             disproved, so stop investing in this direction<span style='font-size:12.0pt;
- font-family:"Times New Roman",serif'>.</span></li>
+ font-family:"Inter",serif'>.</span></li>
     </ul>
 
     <p>&nbsp;</p>
 
-    <p><b><i>Core Insights:</i></b></p>
+    <p><b>Core Insights:</b></p>
 
-    <p><i>Alex Cowan emphasises
+    <p>Alex Cowan emphasises
             designing Minimum Viable Products (MVPs) strategically to test essential
             hypotheses with minimal investment. MVP experiments enable agile teams to
             validate product-market fit and customer value rapidly, focusing efforts on
-            features that truly matter.</i></p>
+            features that truly matter.</p>
 
-    <p><b><i>Key Principles for
-                E-commerce Product Managers:</i></b></p>
+    <p><b>Key Principles for E-commerce Product Managers:</b></p>
 
     <ul type=disc>
-        <li><i>Clearly define the minimal
-                feature set needed to test hypotheses.</i></li>
-        <li><i>Use MVPs to quickly gather
-                customer feedback and validate assumptions.</i></li>
-        <li><i>Continuously refine your MVP
-                based on actual user interactions.</i></li>
+        <li>Clearly define the minimal
+                feature set needed to test hypotheses.</li>
+        <li>Use MVPs to quickly gather
+                customer feedback and validate assumptions.</li>
+        <li>Continuously refine your MVP
+                based on actual user interactions.</li>
     </ul>
 
-    <p><b><i>Types of Data:</i></b></p>
+    <p><b>Types of Data:</b></p>
 
     <ul type=disc>
-        <li><b><i>Feedback Data</i></b><i>:
-                User surveys, reviews, and qualitative user reactions.</i></li>
-        <li><b><i>Behavioural Data</i></b><i>:
+        <li><b>Feedback Data</b>:
+                User surveys, reviews, and qualitative user reactions.</li>
+        <li><b>Behavioural Data</b>:
                 User engagement metrics like time on page, feature usage, interactions,
-                and conversion rates.</i></li>
+                and conversion rates.</li>
     </ul>
 
-    <p><b><i>Essential Customer
-                Analytics Metrics:</i></b></p>
+    <p><b>Essential Customer
+                Analytics Metrics:</b></p>
 
     <ul type=disc>
-        <li><b><i>Engagement Rate</i></b><i>:
-                Measures how actively users interact with MVP features.</i></li>
-        <li><b><i>Customer Validation Score</i></b><i>:
+        <li><b>Engagement Rate</b>:
+                Measures how actively users interact with MVP features.</li>
+        <li><b>Customer Validation Score</b>:
                 Quantifies positive user reactions to MVP features, based on surveys and
-                feedback.</i></li>
+                feedback.</li>
     </ul>
 
-    <p><b><i>Practical AI Applications:</i></b></p>
+    <p><b>Practical AI Applications:</b></p>
 
     <ul type=disc>
-        <li><b><i>Automated User Feedback
-                    Analysis</i></b><i>: AI-driven sentiment analysis swiftly processes
-                qualitative feedback, highlighting key themes and actionable insights.</i></li>
-        <li><b><i>AI-driven User Behaviour
-                    Modelling</i></b><i>: Machine learning algorithms predict feature adoption
-                and engagement, providing early validation signals.</i></li>
+        <li><b>Automated User Feedback
+                    Analysis</b>: AI-driven sentiment analysis swiftly processes
+                qualitative feedback, highlighting key themes and actionable insights.</li>
+        <li><b>AI-driven User Behaviour
+                    Modelling</b>: Machine learning algorithms predict feature adoption
+                and engagement, providing early validation signals.</li>
     </ul>
 
     <p align=center style='text-align:center;line-height:normal'><b>Example
             – E-Commerce MVP Experiment</b></p>
 
-    <p><b><span style='font-size:12.0pt'>Hypothesis:</span></b><span style='font-size:12.0pt'><br>
-            <i>&quot;If customers can see real-time stock levels, they will be more likely
-                to complete a purchase within the same session.&quot;</i></span></p>
+    <p><b><span>Hypothesis:</span></b><span><br>
+            &quot;If customers can see real-time stock levels, they will be more likely
+                to complete a purchase within the same session.&quot;</span></p>
 
-    <p><b><span style='font-size:12.0pt'>Risks:</span></b><span style='font-size:12.0pt'><br>
+    <p><b><span>Risks:</span></b><span><br>
             Demand (will they care?) and behaviour change (will it increase checkout
             completion?).</span></p>
 
-    <p><b><span style='font-size:12.0pt'>MVP
-                Type:</span></b><span style='font-size:12.0pt'><br>
+    <p><b><span>MVP
+                Type:</span></b><span><br>
             UI change + Fake Door MVP: Add “In Stock Now” messaging to product pages for
             select items.</span></p>
 
-    <p><b><span style='font-size:12.0pt'>Metrics:</span></b></p>
+    <p><b><span>Metrics:</span></b></p>
 
     <ul type=disc>
-        <li><span style='font-size:12.0pt'>+10%
+        <li><span>+10%
                 lift in add-to-cart rate</span></li>
-        <li><span style='font-size:12.0pt'>+5%
+        <li><span>+5%
                 lift in same-session checkout completions</span></li>
     </ul>
 
-    <p><b><span style='font-size:12.0pt'>Outcome:</span></b><span style='font-size:12.0pt'><br>
+    <p><b><span>Outcome:</span></b><span><br>
             If metrics hit, roll out to all products. If not, explore alternative
             confidence-boosting strategies</span></p>
 
-    <p align=center style='text-align:center;line-height:normal'><b>Practical
-            Steps for Product Managers</b></p>
-    <ul>
-        <li>Define
-            your MVP around one testable value hypothesis.</li>
+    <h3 align=center>Practical Steps for Product Managers</h3>
 
-        <li>Use
-            no-code tools or prototypes to simulate functionality.</li>
+    <p>a)<span>&nbsp;</span><span>Define your MVP around one testable value hypothesis.</span></p>
 
-        <li>Focus
-            MVPs on <strong><span style='font-family:"Calibri",sans-serif'>learning, not
-                    just delivery.</span></strong></li>
+        <p>b)<span>&nbsp;</span><span>Use no-code tools or prototypes to simulate functionality.</span></p>
 
-        <li>Measure
-            learning velocity, not just user uptake.</li>
-    </ul>
-    <p><span style='font-size:12.0pt'>.</span></p>
+        <p>c)<span>&nbsp;</span><span>Focus MVPs on <strong><span style='font-family:"Inter",sans-serif'>learning, not
+                    just delivery.</span></strong></span></p>
+
+        <p>d)<span>&nbsp;</span><span>Measure learning velocity, not just user uptake.</span></p>
+
+    <p><span>.</span></p>
 
     <h2 align=center id="productanalyticsai-demand-value-analytics-the-hook-framework">The Hook Framework</h2>
 
@@ -5187,8 +4760,8 @@ normal'>d)<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp; </
             alt="Nir Eyal’s Hook Model showing us the four phases that businesses can use to create habit forming products or services.">
     </p>
 
-    <p>Nir Eyal based on his bestselling <i>book Hooked: How to
-            Build Habit-Forming Products</i></p>
+    <p>Nir Eyal based on his bestselling book Hooked: How to
+            Build Habit-Forming Products</p>
 
     <p>Forming user habits isn't about chance—it's about
         thoughtfully designed triggers, effortless actions, rewarding experiences, and
@@ -5214,7 +4787,7 @@ normal'>d)<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp; </
             commitment and forming habits.</li>
     </ol>
 
-    <p>&nbsp;</p>
+   
 
     <p>Imagine you run an online fitness apparel store. Using the
         Hook Framework, your site sends personalised notifications (triggers) when new
@@ -5224,84 +4797,83 @@ normal'>d)<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp; </
         invest effort by setting style preferences, the AI further personalises
         triggers and rewards, solidifying customer habits around your brand.</p>
 
-    <p><b><i>Core Insights:</i></b></p>
+    <p><b>Core Insights:</b></p>
 
-    <p><i>This is an introduction to Nir
+    <p>This is an introduction to Nir
             Eyal’s &quot;Hook Framework,&quot; designed to help product managers create
             products that become integral to users' daily routines. The framework consists
             of four key components: Trigger, Action, Reward, and Investment. Properly
             designed hooks drive repeated user engagement, fostering strong habits around
-            your product.</i></p>
+            your product.</p>
 
-    <p><b><i>Key Principles for
-                E-commerce Product Managers:</i></b></p>
+    <p><b>Key Principles for E-commerce Product Managers:</b></p>
 
     <ul type=disc>
-        <li><i>Design clear, compelling
-                triggers to prompt user actions.</i></li>
-        <li><i>Provide simple, frictionless
-                actions leading users toward desired behaviours.</i></li>
-        <li><i>Offer variable, meaningful
-                rewards to reinforce user actions.</i></li>
-        <li><i>Encourage users to invest
-                effort, ensuring continued engagement and retention.</i></li>
+        <li>Design clear, compelling
+                triggers to prompt user actions.</li>
+        <li>Provide simple, frictionless
+                actions leading users toward desired behaviours.</li>
+        <li>Offer variable, meaningful
+                rewards to reinforce user actions.</li>
+        <li>Encourage users to invest
+                effort, ensuring continued engagement and retention.</li>
     </ul>
 
-    <p><b><i>Types of Data:</i></b></p>
+    <p><b>Types of Data:</b></p>
 
     <ul type=disc>
-        <li><b><i>Trigger Data:</i></b><i>
+        <li><b>Trigger Data:</b>
                 Metrics on the effectiveness of notifications, emails, and
-                calls-to-action.</i></li>
-        <li><b><i>Reward Data:</i></b><i>
-                Engagement rates following rewards, user satisfaction scores.</i></li>
-        <li><b><i>Investment Data:</i></b><i>
+                calls-to-action.</li>
+        <li><b>Reward Data:</b>
+                Engagement rates following rewards, user satisfaction scores.</li>
+        <li><b>Investment Data:</b>
                 Levels of user-generated content, repeat visits, account setup
-                completions.</i></li>
+                completions.</li>
     </ul>
 
-    <p><b><i>Essential Customer
-                Analytics Metrics:</i></b></p>
+    <p><b>Essential Customer
+                Analytics Metrics:</b></p>
 
     <ul type=disc>
-        <li><b><i>User Retention Rate:</i></b><i>
-                Frequency and consistency of return users.</i></li>
-        <li><b><i>Habit Formation Score:</i></b><i>
-                Measures the strength and consistency of user engagement over time.</i></li>
+        <li><b>User Retention Rate:</b>
+                Frequency and consistency of return users.</li>
+        <li><b>Habit Formation Score:</b>
+                Measures the strength and consistency of user engagement over time.</li>
     </ul>
 
-    <p><b><i>Practical AI Applications:</i></b></p>
+    <p><b>Practical AI Applications:</b></p>
 
     <ul type=disc>
-        <li><b><i>Personalised Triggers:</i></b><i>
+        <li><b>Personalised Triggers:</b>
                 AI analyses user behaviour and engagement patterns, crafting personalised
-                notifications and reminders to trigger desired actions effectively.</i></li>
-        <li><b><i>Reward Optimisation
-                    Algorithms:</i></b><i> Machine learning dynamically tests and identifies
-                optimal rewards to maximise user engagement and habit formation</i></li>
+                notifications and reminders to trigger desired actions effectively.</li>
+        <li><b>Reward Optimisation
+                    Algorithms:</b> Machine learning dynamically tests and identifies
+                optimal rewards to maximise user engagement and habit formation</li>
     </ul>
 
-    <p align=center style='text-align:center'><b>Practical Steps
-            for Product Managers</b></p>
-    <ul>
-        <li>Map
-            out your product's <strong><span style='font-family:"Calibri",sans-serif'>Trigger
-                    &gt; Action &gt; Reward &gt; Investment</span></strong> loop.</li>
+    <h3 align=center>Practical Steps for Product Managers</h3>
+    
+    <p>a)<span>&nbsp;</span><span>Map
+            out your product's <strong><span style='font-family:"Inter",sans-serif'>Trigger
+                    &gt; Action &gt; Reward &gt; Investment</span></strong> loop.</span></p>
 
-        <li>Identify
-            moments where habits can be reinforced (e.g., notifications).</li>
+        <p>b)<span>&nbsp;</span><span>Identify
+            moments where habits can be reinforced (e.g., notifications).</span></p>
 
-        <li>A/B
-            test different triggers and variable rewards.</li>
+        <p>c)<span>&nbsp;</span><span>A/B
+            test different triggers and variable rewards.</span></p>
 
-        <li>Use
-            behaviour analytics to refine habit formation loops.</li>
-    </ul>
+        <p>d)<span>&nbsp;</span><span>Use
+            behaviour analytics to refine habit formation loops.</span></p>
+
+
     <p><b>&nbsp;</b></p>
 
     <h2 align=center id="productanalyticsai-demand-value-analytics-6-experiment-charters">6 Experiment Charters</h2>
 
-    <p align=center style='text-align:center'><img class="img-fluid rounded-corners mt-3"  border=0 width="431" height="287" id="Picture 1689639731"
+    <p align=center style='text-align:center'><img class="img-fluid rounded-corners mt-3"  border=0 width="600" height="300" id="Picture 1689639731"
             src="./images/productsanalyticsai/demandvalueanalytics/image008.png" alt="Generated image"></p>
 
     <p align=center style='text-align:center'><b><span style='font-size:14.0pt;line-height:107%'>&nbsp;</span></b>
@@ -5323,13 +4895,13 @@ normal'>d)<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp; </
         strategy.
     </p>
 
-    <p>&nbsp;</p>
+   
 
     <p><b>1. Demand Experiment Charters</b></p>
 
-    <p><i>Purpose: Test if customers
+    <p>Purpose: Test if customers
             want or value the proposed solution before investing heavily in development.<br>
-            Examples</i>:</p>
+            Examples:</p>
 
     <ul type=disc>
         <li><b>Fake Door Test Charter</b> –
@@ -5346,9 +4918,9 @@ normal'>d)<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp; </
     <p><b>2. Usability Experiment
             Charters</b></p>
 
-    <p><i>Purpose: Validate whether
+    <p>Purpose: Validate whether
             customers can easily understand and use the product or feature.<br>
-            Examples</i>:</p>
+            Examples:</p>
 
     <ul type=disc>
         <li><b>Prototype Usability Test
@@ -5365,9 +4937,9 @@ normal'>d)<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp; </
     <p><b>3. Feasibility Experiment
             Charters</b></p>
 
-    <p><i>Purpose: Validate whether the
+    <p>Purpose: Validate whether the
             idea can be built with available technology, skills, and resources.<br>
-            Examples</i>:</p>
+            Examples:</p>
 
     <ul type=disc>
         <li><b>Technical Spike Charter</b>
@@ -5382,9 +4954,9 @@ normal'>d)<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp; </
 
     <p><b>4. Growth Experiment Charters</b></p>
 
-    <p><i>Purpose: Validate levers for
+    <p>Purpose: Validate levers for
             acquisition, activation, retention, and revenue.<br>
-            Examples</i>:</p>
+            Examples:</p>
 
     <ul type=disc>
         <li><b>Referral Mechanism Test
@@ -5400,9 +4972,9 @@ normal'>d)<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp; </
     <p><b>5. Behaviour Change Experiment
             Charters</b></p>
 
-    <p><i>Purpose: Understand if your
+    <p>Purpose: Understand if your
             solution can shift customer behaviours over time.<br>
-            Examples</i>:</p>
+            Examples:</p>
 
     <ul type=disc>
         <li><b>Hook Framework Test Charter</b>
@@ -5417,9 +4989,9 @@ normal'>d)<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp; </
     <p><b>6. Market Fit Experiment
             Charters</b></p>
 
-    <p><i>Purpose: Validate if the
+    <p>Purpose: Validate if the
             product meets a real market need and scales.<br>
-            Examples</i><b>:</b></p>
+            Examples<b>:</b></p>
 
     <ul type=disc>
         <li><b>Cohort Retention Test
@@ -5449,7 +5021,7 @@ normal'>d)<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp; </
             action you’ll take if the hypothesis is validated or invalidated.</li>
     </ol>
 
-    <p style='margin-bottom:0cm;line-height:normal'>&nbsp;</p>
+    <p>&nbsp;</p>
 
     <p><b>Other Types of Experiment
             Charters</b></p>
@@ -5460,166 +5032,150 @@ border:solid windowtext 1.0pt'>
             <tr>
                 <td width=175 style='width:131.1pt;border:solid windowtext 1.0pt;background:
 #E7E6E6;padding:.75pt .75pt .75pt .75pt'>
-                    <p align=center style='margin-bottom:0cm;text-align:center;
-line-height:normal'><b><span style='color:black'>Charter Type</span></b></p>
+                    <p align=center><b><span style='color:black'>Charter Type</span></b></p>
                 </td>
                 <td style='border:solid windowtext 1.0pt;padding:.75pt .75pt .75pt .75pt'>
-                    <p align=center style='margin-bottom:0cm;text-align:center;
-line-height:normal'><b>Purpose</b></p>
+                    <p align=center><b>Purpose</b></p>
                 </td>
                 <td style='border:solid windowtext 1.0pt;background:#E7E6E6;padding:.75pt .75pt .75pt .75pt'>
-                    <p align=center style='margin-bottom:0cm;text-align:center;
-line-height:normal'><b><span style='color:black'>Typical Use Case</span></b></p>
+                    <p align=center><b><span style='color:black'>Typical Use Case</span></b></p>
                 </td>
             </tr>
         </thead>
         <tr>
             <td width=175 style='width:131.1pt;border:solid windowtext 1.0pt;background:
 #E7E6E6;padding:.75pt .75pt .75pt .75pt'>
-                <p align=center style='margin-bottom:0cm;text-align:center;
-line-height:normal'><b><span style='color:black'>Conversion Optimisation
+                <p align=center><b><span style='color:black'>Conversion Optimisation
                             Charter</span></b></p>
             </td>
             <td style='border:solid windowtext 1.0pt;padding:.75pt .75pt .75pt .75pt'>
-                <p style='margin-bottom:0cm;line-height:normal'>Improve the
+                <p>Improve the
                     rate at which users complete a desired action</p>
             </td>
             <td style='border:solid windowtext 1.0pt;background:#E7E6E6;padding:.75pt .75pt .75pt .75pt'>
-                <p style='margin-bottom:0cm;line-height:normal'><span style='color:black'>A/B
+                <p><span style='color:black'>A/B
                         testing CTAs, pricing page layouts</span></p>
             </td>
         </tr>
         <tr>
             <td width=175 style='width:131.1pt;border:solid windowtext 1.0pt;background:
 #E7E6E6;padding:.75pt .75pt .75pt .75pt'>
-                <p align=center style='margin-bottom:0cm;text-align:center;
-line-height:normal'><b><span style='color:black'>Retention Experiment Charter</span></b></p>
+                <p align=center><b><span style='color:black'>Retention Experiment Charter</span></b></p>
             </td>
             <td style='border:solid windowtext 1.0pt;padding:.75pt .75pt .75pt .75pt'>
-                <p style='margin-bottom:0cm;line-height:normal'>Explore ways
+                <p>Explore ways
                     to increase user engagement and reduce churn</p>
             </td>
             <td style='border:solid windowtext 1.0pt;background:#E7E6E6;padding:.75pt .75pt .75pt .75pt'>
-                <p style='margin-bottom:0cm;line-height:normal'><span style='color:black'>Email
+                <p><span style='color:black'>Email
                         cadence tests, onboarding flow adjustments</span></p>
             </td>
         </tr>
         <tr>
             <td width=175 style='width:131.1pt;border:solid windowtext 1.0pt;background:
 #E7E6E6;padding:.75pt .75pt .75pt .75pt'>
-                <p align=center style='margin-bottom:0cm;text-align:center;
-line-height:normal'><b><span style='color:black'>Pricing Experiment Charter</span></b></p>
+                <p align=center><b><span style='color:black'>Pricing Experiment Charter</span></b></p>
             </td>
             <td style='border:solid windowtext 1.0pt;padding:.75pt .75pt .75pt .75pt'>
-                <p style='margin-bottom:0cm;line-height:normal'>Evaluate how
+                <p>Evaluate how
                     pricing changes affect user behaviour and revenue</p>
             </td>
             <td style='border:solid windowtext 1.0pt;background:#E7E6E6;padding:.75pt .75pt .75pt .75pt'>
-                <p style='margin-bottom:0cm;line-height:normal'><span style='color:black'>Tier
+                <p><span style='color:black'>Tier
                         restructuring, freemium vs paid trials</span></p>
             </td>
         </tr>
         <tr>
             <td width=175 style='width:131.1pt;border:solid windowtext 1.0pt;background:
 #E7E6E6;padding:.75pt .75pt .75pt .75pt'>
-                <p align=center style='margin-bottom:0cm;text-align:center;
-line-height:normal'><b><span style='color:black'>Feature Adoption Charter</span></b></p>
+                <p align=center><b><span style='color:black'>Feature Adoption Charter</span></b></p>
             </td>
             <td style='border:solid windowtext 1.0pt;padding:.75pt .75pt .75pt .75pt'>
-                <p style='margin-bottom:0cm;line-height:normal'>Measure how
+                <p>Measure how
                     and when users engage with a new or existing feature</p>
             </td>
             <td style='border:solid windowtext 1.0pt;background:#E7E6E6;padding:.75pt .75pt .75pt .75pt'>
-                <p style='margin-bottom:0cm;line-height:normal'><span style='color:black'>In-app
+                <p><span style='color:black'>In-app
                         nudges, feature placement tests</span></p>
             </td>
         </tr>
         <tr>
             <td width=175 style='width:131.1pt;border:solid windowtext 1.0pt;background:
 #E7E6E6;padding:.75pt .75pt .75pt .75pt'>
-                <p align=center style='margin-bottom:0cm;text-align:center;
-line-height:normal'><b><span style='color:black'>Channel Effectiveness
+                <p align=center><b><span style='color:black'>Channel Effectiveness
                             Charter</span></b></p>
             </td>
             <td style='border:solid windowtext 1.0pt;padding:.75pt .75pt .75pt .75pt'>
-                <p style='margin-bottom:0cm;line-height:normal'>Compare
+                <p>Compare
                     acquisition channels for cost-efficiency and conversion</p>
             </td>
             <td style='border:solid windowtext 1.0pt;background:#E7E6E6;padding:.75pt .75pt .75pt .75pt'>
-                <p style='margin-bottom:0cm;line-height:normal'><span style='color:black'>Paid ads
+                <p><span style='color:black'>Paid ads
                         vs organic, referral program testing</span></p>
             </td>
         </tr>
         <tr>
             <td width=175 style='width:131.1pt;border:solid windowtext 1.0pt;background:
 #E7E6E6;padding:.75pt .75pt .75pt .75pt'>
-                <p align=center style='margin-bottom:0cm;text-align:center;
-line-height:normal'><b><span style='color:black'>Messaging Experiment Charter</span></b></p>
+                <p align=center><b><span style='color:black'>Messaging Experiment Charter</span></b></p>
             </td>
             <td style='border:solid windowtext 1.0pt;padding:.75pt .75pt .75pt .75pt'>
-                <p style='margin-bottom:0cm;line-height:normal'>Test
+                <p>Test
                     different value propositions or copy to see what resonates</p>
             </td>
             <td style='border:solid windowtext 1.0pt;background:#E7E6E6;padding:.75pt .75pt .75pt .75pt'>
-                <p style='margin-bottom:0cm;line-height:normal'><span style='color:black'>Homepage
+                <p><span style='color:black'>Homepage
                         headlines, email subject lines</span></p>
             </td>
         </tr>
         <tr>
             <td width=175 style='width:131.1pt;border:solid windowtext 1.0pt;background:
 #E7E6E6;padding:.75pt .75pt .75pt .75pt'>
-                <p align=center style='margin-bottom:0cm;text-align:center;
-line-height:normal'><b><span style='color:black'>Workflow Efficiency Charter</span></b></p>
+                <p align=center><b><span style='color:black'>Workflow Efficiency Charter</span></b></p>
             </td>
             <td style='border:solid windowtext 1.0pt;padding:.75pt .75pt .75pt .75pt'>
-                <p style='margin-bottom:0cm;line-height:normal'>Improve
+                <p>Improve
                     internal team processes or delivery speed</p>
             </td>
             <td style='border:solid windowtext 1.0pt;background:#E7E6E6;padding:.75pt .75pt .75pt .75pt'>
-                <p style='margin-bottom:0cm;line-height:normal'><span style='color:black'>Agile
+                <p><span style='color:black'>Agile
                         ceremonies, backlog refinement practices</span></p>
             </td>
         </tr>
         <tr>
             <td width=175 style='width:131.1pt;border:solid windowtext 1.0pt;background:
 #E7E6E6;padding:.75pt .75pt .75pt .75pt'>
-                <p align=center style='margin-bottom:0cm;text-align:center;
-line-height:normal'><b><span style='color:black'>Segmentation Charter</span></b></p>
+                <p align=center><b><span style='color:black'>Segmentation Charter</span></b></p>
             </td>
             <td style='border:solid windowtext 1.0pt;padding:.75pt .75pt .75pt .75pt'>
-                <p style='margin-bottom:0cm;line-height:normal'>Explore how
+                <p>Explore how
                     different user segments respond to variations</p>
             </td>
             <td style='border:solid windowtext 1.0pt;background:#E7E6E6;padding:.75pt .75pt .75pt .75pt'>
-                <p style='margin-bottom:0cm;line-height:normal'><span style='color:black'>Persona-based experiments,
+                <p><span style='color:black'>Persona-based experiments,
                         geo-targeted offers</span></p>
             </td>
         </tr>
     </table>
 
-    <p style='margin-bottom:0cm;line-height:normal'>&nbsp;</p>
+    <p>&nbsp;</p>
 
-    <p align=center style='text-align:center;line-height:normal'><span style='font-size:12.0pt'>Each
+    <p align=center style='text-align:center;line-height:normal'><span>Each
             charter should include<b>:</b></span></p>
 
-    <p style='margin-left:36.0pt;text-indent:-18.0pt;line-height:
-normal'><span style='font-size:10.0pt'>a)<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;
+    <p>a)<span>&nbsp;&nbsp;&nbsp;&nbsp;
             </span></span>Hypothesis</p>
 
-    <p style='margin-left:36.0pt;text-indent:-18.0pt;line-height:
-normal'><span style='font-size:10.0pt'>b)<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;
+    <p>b)<span>&nbsp;&nbsp;&nbsp;&nbsp;
             </span></span>Metrics to track</p>
 
-    <p style='margin-left:36.0pt;text-indent:-18.0pt;line-height:
-normal'><span style='font-size:10.0pt'>c)<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <p>c)<span>&nbsp;&nbsp;&nbsp;&nbsp;
             </span></span>Target audience or segment</p>
 
-    <p style='margin-left:36.0pt;text-indent:-18.0pt;line-height:
-normal'><span style='font-size:10.0pt'>d)<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;
+    <p>d)<span>&nbsp;&nbsp;&nbsp;&nbsp;
             </span></span>Duration</p>
 
-    <p style='margin-left:36.0pt;text-indent:-18.0pt;line-height:
-normal'><span style='font-size:10.0pt'>e)<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;
+    <p>e)<span>&nbsp;&nbsp;&nbsp;&nbsp;
             </span></span>Success criteria</p>
 
     <p align=center style='text-align:center;line-height:normal'><b>Experiment
@@ -5631,270 +5187,260 @@ normal'><span style='font-size:10.0pt'>e)<span style='font:7.0pt "Times New Roma
             <tr>
                 <td width=308 style='width:231.05pt;border:solid windowtext 1.0pt;background:
 #EDEDED;padding:0cm 5.4pt 0cm 5.4pt'>
-                    <p align=center style='margin-bottom:0cm;text-align:center;
-line-height:normal'><b><span style='color:black'>Section</span></b></p>
+                    <p align=center><b><span style='color:black'>Section</span></b></p>
                 </td>
                 <td width=308 style='width:231.05pt;border:solid windowtext 1.0pt;border-left:
 none;padding:0cm 5.4pt 0cm 5.4pt'>
-                    <p align=center style='margin-bottom:0cm;text-align:center;
-line-height:normal'><b>Details</b></p>
+                    <p align=center><b>Details</b></p>
                 </td>
             </tr>
             <tr>
                 <td width=308 style='width:231.05pt;border:solid windowtext 1.0pt;border-top:
 none;background:#EDEDED;padding:0cm 5.4pt 0cm 5.4pt'>
-                    <p style='margin-bottom:0cm;line-height:normal'><b><span style='color:black'>Experiment
+                    <p><b><span style='color:black'>Experiment
                                 Name</span></b></p>
                 </td>
                 <td width=308 style='width:231.05pt;border-top:none;border-left:none;
 border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
 padding:0cm 5.4pt 0cm 5.4pt'>
-                    <p style='margin-bottom:0cm;line-height:normal'><i><span style='font-size:12.0pt'>Descriptive
+                    <p><span>Descriptive
                                 title (e.g., “Homepage CTA Conversion
-                                Test”)</span></i></p>
+                                Test”)</span></p>
                 </td>
             </tr>
             <tr>
                 <td width=308 style='width:231.05pt;border:solid windowtext 1.0pt;border-top:
 none;background:#EDEDED;padding:0cm 5.4pt 0cm 5.4pt'>
-                    <p style='margin-bottom:0cm;line-height:normal'><b><span style='color:black'>Owner(s)</span></b>
+                    <p><b><span style='color:black'>Owner(s)</span></b>
                     </p>
                 </td>
                 <td width=308 style='width:231.05pt;border-top:none;border-left:none;
 border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
 padding:0cm 5.4pt 0cm 5.4pt'>
-                    <p style='margin-bottom:0cm;line-height:normal'><i><span style='font-size:12.0pt'>Who is
-                                responsible for execution and analysis?</span></i>
+                    <p><span>Who is
+                                responsible for execution and analysis?</span>
                     </p>
                 </td>
             </tr>
             <tr>
                 <td width=308 style='width:231.05pt;border:solid windowtext 1.0pt;border-top:
 none;background:#EDEDED;padding:0cm 5.4pt 0cm 5.4pt'>
-                    <p style='margin-bottom:0cm;line-height:normal'><b><span
+                    <p><b><span
                                 style='color:black'>Hypothesis</span></b></p>
                 </td>
                 <td width=308 style='width:231.05pt;border-top:none;border-left:none;
 border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
 padding:0cm 5.4pt 0cm 5.4pt'>
-                    <p style='margin-bottom:0cm;line-height:normal'><i><span style='font-size:12.0pt'>We believe
+                    <p><span>We believe
                                 that [change] will result in [impact] for
-                                [segment] because [reason].</span></i></p>
+                                [segment] because [reason].</span></p>
                 </td>
             </tr>
             <tr>
                 <td width=308 style='width:231.05pt;border:solid windowtext 1.0pt;border-top:
 none;background:#EDEDED;padding:0cm 5.4pt 0cm 5.4pt'>
-                    <p style='margin-bottom:0cm;line-height:normal'><b><span style='color:black'>Type of
+                    <p><b><span style='color:black'>Type of
                                 Experiment</span></b></p>
                 </td>
                 <td width=308 style='width:231.05pt;border-top:none;border-left:none;
 border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
 padding:0cm 5.4pt 0cm 5.4pt'>
-                    <p style='margin-bottom:0cm;line-height:normal'><i><span style='font-size:12.0pt'>e.g., Demand
-                                Validation, Messaging, Retention</span></i>
+                    <p><span>e.g., Demand
+                                Validation, Messaging, Retention</span>
                     </p>
                 </td>
             </tr>
             <tr>
                 <td width=308 style='width:231.05pt;border:solid windowtext 1.0pt;border-top:
 none;background:#EDEDED;padding:0cm 5.4pt 0cm 5.4pt'>
-                    <p style='margin-bottom:0cm;line-height:normal'><b><span style='color:black'>Target
+                    <p><b><span style='color:black'>Target
                                 Segment</span></b></p>
                 </td>
                 <td width=308 style='width:231.05pt;border-top:none;border-left:none;
 border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
 padding:0cm 5.4pt 0cm 5.4pt'>
-                    <p style='margin-bottom:0cm;line-height:normal'><i><span style='font-size:12.0pt'>Which users,
-                                personas, or cohorts are involved?</span></i>
+                    <p><span>Which users,
+                                personas, or cohorts are involved?</span>
                     </p>
                 </td>
             </tr>
             <tr>
                 <td width=308 style='width:231.05pt;border:solid windowtext 1.0pt;border-top:
 none;background:#EDEDED;padding:0cm 5.4pt 0cm 5.4pt'>
-                    <p style='margin-bottom:0cm;line-height:normal'><b><span style='color:black'>Experiment
+                    <p><b><span style='color:black'>Experiment
                                 Design</span></b></p>
                 </td>
                 <td width=308 style='width:231.05pt;border-top:none;border-left:none;
 border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
 padding:0cm 5.4pt 0cm 5.4pt'>
-                    <p style='margin-bottom:0cm;line-height:normal'><i><span style='font-size:12.0pt'>What will be
-                                tested? How will it be implemented?</span></i>
+                    <p><span>What will be
+                                tested? How will it be implemented?</span>
                     </p>
                 </td>
             </tr>
             <tr>
                 <td width=308 style='width:231.05pt;border:solid windowtext 1.0pt;border-top:
 none;background:#EDEDED;padding:0cm 5.4pt 0cm 5.4pt'>
-                    <p style='margin-bottom:0cm;line-height:normal'><b><span style='color:black'>Metrics to
+                    <p><b><span style='color:black'>Metrics to
                                 Track</span></b></p>
                 </td>
                 <td width=308 style='width:231.05pt;border-top:none;border-left:none;
 border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
 padding:0cm 5.4pt 0cm 5.4pt'>
-                    <p style='margin-bottom:0cm;line-height:normal'><i><span style='font-size:12.0pt'>Quantitative
+                    <p><span>Quantitative
                                 and qualitative indicators (e.g.,
-                                conversion rate, NPS)</span></i></p>
+                                conversion rate, NPS)</span></p>
                 </td>
             </tr>
             <tr>
                 <td width=308 style='width:231.05pt;border:solid windowtext 1.0pt;border-top:
 none;background:#EDEDED;padding:0cm 5.4pt 0cm 5.4pt'>
-                    <p style='margin-bottom:0cm;line-height:normal'><b><span style='color:black'>Success
+                    <p><b><span style='color:black'>Success
                                 Criteria</span></b></p>
                 </td>
                 <td width=308 style='width:231.05pt;border-top:none;border-left:none;
 border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
 padding:0cm 5.4pt 0cm 5.4pt'>
-                    <p style='margin-bottom:0cm;line-height:normal'><i><span style='font-size:12.0pt'>What outcome
-                                would validate the hypothesis?</span></i></p>
+                    <p><span>What outcome
+                                would validate the hypothesis?</span></p>
                 </td>
             </tr>
             <tr>
                 <td width=308 style='width:231.05pt;border:solid windowtext 1.0pt;border-top:
 none;background:#EDEDED;padding:0cm 5.4pt 0cm 5.4pt'>
-                    <p style='margin-bottom:0cm;line-height:normal'><b><span style='color:black'>Duration</span></b>
+                    <p><b><span style='color:black'>Duration</span></b>
                     </p>
                 </td>
                 <td width=308 style='width:231.05pt;border-top:none;border-left:none;
 border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
 padding:0cm 5.4pt 0cm 5.4pt'>
-                    <p style='margin-bottom:0cm;line-height:normal'><i><span style='font-size:12.0pt'>Start and end
-                                dates or sprint-based timeframe</span></i>
+                    <p><span>Start and end
+                                dates or sprint-based timeframe</span>
                     </p>
                 </td>
             </tr>
             <tr>
                 <td width=308 style='width:231.05pt;border:solid windowtext 1.0pt;border-top:
 none;background:#EDEDED;padding:0cm 5.4pt 0cm 5.4pt'>
-                    <p style='margin-bottom:0cm;line-height:normal'><b><span style='color:black'>Risks &amp;
+                    <p><b><span style='color:black'>Risks &amp;
                                 Mitigations</span></b></p>
                 </td>
                 <td width=308 style='width:231.05pt;border-top:none;border-left:none;
 border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
 padding:0cm 5.4pt 0cm 5.4pt'>
-                    <p style='margin-bottom:0cm;line-height:normal'><i><span style='font-size:12.0pt'>What could go
+                    <p><span>What could go
                                 wrong, and how will you address
-                                it?</span></i></p>
+                                it?</span></p>
                 </td>
             </tr>
             <tr>
                 <td width=308 style='width:231.05pt;border:solid windowtext 1.0pt;border-top:
 none;background:#EDEDED;padding:0cm 5.4pt 0cm 5.4pt'>
-                    <p style='margin-bottom:0cm;line-height:normal'><b><span style='color:black'>Next Steps if
+                    <p><b><span style='color:black'>Next Steps if
                                 Successful</span></b></p>
                 </td>
                 <td width=308 style='width:231.05pt;border-top:none;border-left:none;
 border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
 padding:0cm 5.4pt 0cm 5.4pt'>
-                    <p style='margin-bottom:0cm;line-height:normal'><i><span style='font-size:12.0pt'>Actions to
+                    <p><span>Actions to
                                 take if goals are met (e.g., scale,
-                                iterate, launch)</span></i></p>
+                                iterate, launch)</span></p>
                 </td>
             </tr>
             <tr>
                 <td width=308 style='width:231.05pt;border:solid windowtext 1.0pt;border-top:
 none;background:#EDEDED;padding:0cm 5.4pt 0cm 5.4pt'>
-                    <p style='margin-bottom:0cm;line-height:normal'><b><span style='color:black'>Next Steps if
+                    <p><b><span style='color:black'>Next Steps if
                                 Unsuccessful</span></b></p>
                 </td>
                 <td width=308 style='width:231.05pt;border-top:none;border-left:none;
 border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
 padding:0cm 5.4pt 0cm 5.4pt'>
-                    <p style='margin-bottom:0cm;line-height:normal'><i><span style='font-size:12.0pt'>Learnings or
-                                pivots if goals are not met</span></i></p>
+                    <p><span>Learnings or
+                                pivots if goals are not met</span></p>
                 </td>
             </tr>
         </table>
 
     </div>
 
-    <p><b><span style='font-size:12.0pt'>Core
-                Insights:</span></b></p>
+   
 
-    <p><i><span style='font-size:12.0pt'>Each
+    <p><b><span>Core Insights:</span></b></p>
+
+    <p><span>Each
                 experiment charter defines a specific hypothesis to test, the method to test
                 it, and the success criteria. This tight alignment ensures experiments are
-                focused and actionable.</span></i></p>
+                focused and actionable.</span></p>
 
     <ul type=disc>
-        <li><i><span style='font-size:12.0pt'>Each
-                    charter tests one <b>hypothesis</b> at a time.</span></i></li>
-        <li><i><span style='font-size:12.0pt'>Use
-                    lightweight, rapid experiments to validate or invalidate assumptions.</span></i></li>
-        <li><i><span style='font-size:12.0pt'>A
-                    good charter minimises waste and maximises learning.</span></i></li>
+        <li><span>Each
+                    charter tests one <b>hypothesis</b> at a time.</span></li>
+        <li><span>Use
+                    lightweight, rapid experiments to validate or invalidate assumptions.</span></li>
+        <li><span>A
+                    good charter minimises waste and maximises learning.</span></li>
     </ul>
 
-    <p><b><i><span style='font-size:
-12.0pt'> Types of Data:</span></i></b></p>
+    <p><b><span style='font-size:
+12.0pt'> Types of Data:</span></b></p>
 
     <ul type=disc>
-        <li><b><i><span style='font-size:
- 12.0pt'>Hypothesis Validation Data</span></i></b><i><span style='font-size:12.0pt'> – e.g. “Did customers click
-                    the mock CTA?”</span></i></li>
-        <li><b><i><span style='font-size:
- 12.0pt'>Behavioural Indicators</span></i></b><i><span style='font-size:
- 12.0pt'> – e.g. Scroll depth, time on section, hover interactions.</span></i></li>
-        <li><b><i><span style='font-size:
- 12.0pt'>Experimental Outcome Data</span></i></b><i><span style='font-size:
- 12.0pt'> – e.g. Pre-order counts, demo requests, quote submissions.</span></i></li>
+        <li><b><span style='font-size:
+ 12.0pt'>Hypothesis Validation Data</span></b><span> – e.g. “Did customers click
+                    the mock CTA?”</span></li>
+        <li><b><span style='font-size:
+ 12.0pt'>Behavioural Indicators</span></b><span style='font-size:
+ 12.0pt'> – e.g. Scroll depth, time on section, hover interactions.</span></li>
+        <li><b><span style='font-size:
+ 12.0pt'>Experimental Outcome Data</span></b><span style='font-size:
+ 12.0pt'> – e.g. Pre-order counts, demo requests, quote submissions.</span></li>
     </ul>
 
-    <p><b><i><span style='font-size:
-12.0pt'> Key Customer Analytics Metrics:</span></i></b></p>
+    <p><b><span style='font-size:
+12.0pt'> Key Customer Analytics Metrics:</span></b></p>
 
     <ul type=disc>
-        <li><b><i><span style='font-size:
- 12.0pt'>Hypothesis Success Rate</span></i></b><i><span style='font-size:
- 12.0pt'>: % of experiments that confirm their hypotheses.</span></i></li>
-        <li><b><i><span style='font-size:
- 12.0pt'>Learning Velocity</span></i></b><i><span style='font-size:12.0pt'>:
-                    How many validated insights your team gains per sprint.</span></i></li>
-        <li><b><i><span style='font-size:
- 12.0pt'>Engagement Lift</span></i></b><i><span style='font-size:12.0pt'>:
+        <li><b><span style='font-size:
+ 12.0pt'>Hypothesis Success Rate</span></b><span style='font-size:
+ 12.0pt'>: % of experiments that confirm their hypotheses.</span></li>
+        <li><b><span style='font-size:
+ 12.0pt'>Learning Velocity</span></b><span>:
+                    How many validated insights your team gains per sprint.</span></li>
+        <li><b><span style='font-size:
+ 12.0pt'>Engagement Lift</span></b><span>:
                     Improvement in key metrics (e.g. click-through, opt-in) across tested
-                    variables.</span></i></li>
+                    variables.</span></li>
     </ul>
 
-    <p><b><i><span style='font-size:
-12.0pt'> AI Applications:</span></i></b></p>
+    <p><b><span style='font-size:
+12.0pt'> AI Applications:</span></b></p>
 
     <ul type=disc>
-        <li><b><i><span style='font-size:
- 12.0pt'>Auto-Tagging User Behaviour</span></i></b><i><span style='font-size:12.0pt'>: AI tools can detect patterns
+        <li><b><span style='font-size:
+ 12.0pt'>Auto-Tagging User Behaviour</span></b><span>: AI tools can detect patterns
                     in how users
-                    interact with experimental components, surfacing unexpected correlations.</span></i></li>
-        <li><b><i><span style='font-size:
- 12.0pt'>Outcome Prediction</span></i></b><i><span style='font-size:12.0pt'>:
+                    interact with experimental components, surfacing unexpected correlations.</span></li>
+        <li><b><span style='font-size:
+ 12.0pt'>Outcome Prediction</span></b><span>:
                     Use ML to predict which types of charters (e.g. feature vs. pricing) are
-                    more likely to succeed based on historical data.</span></i></li>
-        <li><b><i><span style='font-size:
- 12.0pt'>Charter Generator AI</span></i></b><i><span style='font-size:12.0pt'>:
+                    more likely to succeed based on historical data.</span></li>
+        <li><b><span style='font-size:
+ 12.0pt'>Charter Generator AI</span></b><span>:
                     Tools like ChatGPT or internal LLMs can generate draft experiment charters
-                    from backlog items or product goals.</span></i></li>
+                    from backlog items or product goals.</span></li>
     </ul>
 
-    <p align=center style='margin-left:36.0pt;text-align:center;
-line-height:normal'><a name="_Hlk203338138"><b><span style='font-size:12.0pt'>Practical
-                    Steps for Product Managers</span></b></a></p>
-    <ul>
-        <li>Use
-            the 6 charters to explore: value, usability, feasibility, adoption, and
-            retention.</li>
+    <h3 align=center>Practical Steps for Product Managers</h3>
+    
+    <p>a)<span>&nbsp;</span><span>Use the 6 charters to explore: value, usability, feasibility, adoption, and
+        retention.</span></p>
+    <p>b)<span>&nbsp;</span><span>Assign one charter per team cycle or sprint.</span></p>
+    <p>c)<span>&nbsp;</span><span>Prioritise experiments based on business impact and uncertainty.</span></p>
+    <p>d)<span>&nbsp;</span><span>Document learnings centrally to share insights.</span></p>
 
-        <li>Assign
-            one charter per team cycle or sprint.</li>
 
-        <li>Prioritise
-            experiments based on business impact and uncertainty.</li>
-
-        <li>Document
-            learnings centrally to share insights.</li>
-    </ul>
-    <p align=center style='text-align:center'><b><span style='font-size:14.0pt;line-height:107%'>The
-                Fake Feature Test</span></b></p>
+    <h2 align=center>The Fake Feature Test</h2>
 
     <p>The fake feature test is like throwing a party invite to see
         who shows up, without booking the venue yet. It's quick, clever, and incredibly
@@ -5914,77 +5460,69 @@ line-height:normal'><a name="_Hlk203338138"><b><span style='font-size:12.0pt'>Pr
         clustering reveals strong demand from users browsing furniture bundles. That’s
         your green light to build a prototype, focused on bundle shoppers</p>
 
-    <p><b>&nbsp;</b></p>
+    
 
     <p><b>Core Insights:</b></p>
 
-    <p><i>The fake feature test helps product teams test demand
+    <p>The fake feature test helps product teams test demand
             before investing in development. You simulate a new feature with just a button,
-            link, or prompt and then analyse user interaction with it.</i></p>
+            link, or prompt and then analyse user interaction with it.</p>
 
     <ul style='margin-top:0cm' type=disc>
-        <li><i>If users click, there’s demand.</i></li>
-        <li><i>If they bounce, maybe the feature isn't as exciting as
-                you thought.</i></li>
-        <li><i>It’s fast, inexpensive, and insightful.</i></li>
+        <li>If users click, there’s demand.</li>
+        <li>If they bounce, maybe the feature isn't as exciting as
+                you thought.</li>
+        <li>It’s fast, inexpensive, and insightful.</li>
     </ul>
 
-    <p><i>&nbsp;</i></p>
+    
 
-    <p><b><i>Types of Data:</i></b></p>
+    <p><b>Types of Data:</b></p>
 
     <ul style='margin-top:0cm' type=disc>
-        <li><b><i>Clickstream Data</i></b><i> – Do users try to access
-                the fake feature?</i></li>
-        <li><b><i>User Path Data</i></b><i> – What do users do after
-                hitting the fake prompt?</i></li>
-        <li><b><i>Feedback Data</i></b><i> – User comments or
-                reactions to seeing the non-existent feature.</i></li>
+        <li><b>Clickstream Data</b> – Do users try to access
+                the fake feature?</li>
+        <li><b>User Path Data</b> – What do users do after
+                hitting the fake prompt?</li>
+        <li><b>Feedback Data</b> – User comments or
+                reactions to seeing the non-existent feature.</li>
     </ul>
 
-    <p><i>&nbsp;</i></p>
+    
 
-    <p><b><i>Key Customer Analytics Metrics:</i></b></p>
+    <p><b>Key Customer Analytics Metrics:</b></p>
 
     <ul style='margin-top:0cm' type=disc>
-        <li><b><i>Click-Through Rate (CTR)</i></b><i> on the fake
-                feature.</i></li>
-        <li><b><i>Feature Curiosity Index</i></b><i>: % of total users
-                who engage with the simulated feature.</i></li>
-        <li><b><i>Drop-off After Click</i></b><i>: How many users
-                bounce when realising the feature isn’t live?</i></li>
+        <li><b>Click-Through Rate (CTR)</b> on the fake
+                feature.</li>
+        <li><b>Feature Curiosity Index</b>: % of total users
+                who engage with the simulated feature.</li>
+        <li><b>Drop-off After Click</b>: How many users
+                bounce when realising the feature isn’t live?</li>
     </ul>
 
-    <p><i>&nbsp;</i></p>
+    
 
-    <p><b><i>AI Applications:</i></b></p>
+    <p><b>AI Applications:</b></p>
 
     <ul style='margin-top:0cm' type=disc>
-        <li><b><i>Click Prediction AI</i></b><i>: Predict how likely
-                different personas are to engage with the feature.</i></li>
-        <li><b><i>Feedback Clustering</i></b><i>: AI can group user
+        <li><b>Click Prediction AI</b>: Predict how likely
+                different personas are to engage with the feature.</li>
+        <li><b>Feedback Clustering</b>: AI can group user
                 feedback or live chat messages to reveal reactions (e.g., surprise,
-                confusion, excitement).</i></li>
-        <li><b><i>Behavioural Pattern Matching</i></b><i>: Use machine
-                learning to compare engagement patterns with successful past tests.</i></li>
+                confusion, excitement).</li>
+        <li><b>Behavioural Pattern Matching</b>: Use machine
+                learning to compare engagement patterns with successful past tests.</li>
     </ul>
 
-    <p align=center style='margin-left:36.0pt;text-align:center;
-line-height:normal'><b><span style='font-size:12.0pt'>Practical Steps for
-                Product Managers</span></b></p>
-    <ul>
-        <li>Add
-            a non-functional UI element to gauge interest (e.g., &quot;coming soon&quot;).</li>
+    <h3 align=center>Practical Steps for Product Managers</h3>
+    
+    <p>a)<span>&nbsp;</span><span>Add a non-functional UI element to gauge interest (e.g., &quot;coming soon&quot;).</span></p>
+    <p>b)<span>&nbsp;</span><span>Track interactions (clicks, hovers, inquiries).</span></p>
+    <p>c)<span>&nbsp;</span><span>Use this signal to prioritise roadmap features.</span></p>
+    <p>d)<span>&nbsp;</span><span>Follow up with users who engaged for interviews.</span></p>
 
-        <li>Track
-            interactions (clicks, hovers, inquiries).</li>
 
-        <li>Use
-            this signal to prioritise roadmap features.</li>
-
-        <li>Follow
-            up with users who engaged for interviews.</li>
-    </ul>
     <p>&nbsp;</p>
 
     <h2 align=center id="productanalyticsai-demand-value-analytics-running-the-experiment">Running the
@@ -5995,7 +5533,7 @@ line-height:normal'><b><span style='font-size:12.0pt'>Practical Steps for
         lab assistant, you can track, analyse, and pivot in real-time—so you’re not
         just running tests, you’re running toward product success.</p>
 
-    <p>&nbsp;</p>
+    
 
     <p align=center style='text-align:center'><img class="img-fluid rounded-corners mt-3"  border=0 width="431" height="287"
             src="./images/productsanalyticsai/demandvalueanalytics/image010.png"
@@ -6008,74 +5546,60 @@ line-height:normal'><b><span style='font-size:12.0pt'>Practical Steps for
         mobile users engage significantly more than desktop users which prompted an
         optimised rollout for mobile-first design.</p>
 
-    <p><b><i>Core Insights:</i></b></p>
+    <p><b>Core Insights:</b></p>
 
-    <p><i>Successful experiments rely not just on what you test—but
+    <p>Successful experiments rely not just on what you test—but
             how you run the test. Execution includes defining your sample, control groups,
-            success metrics, and ensuring results aren’t biased or misread.</i></p>
+            success metrics, and ensuring results aren’t biased or misread.</p>
 
     <ul style='margin-top:0cm' type=disc>
-        <li><i>Define clear <b>test vs. control</b> groups.</i></li>
-        <li><i>Track the <b>right data</b> at every point in the flow.</i></li>
-        <li><i>Set pre-defined thresholds for success or failure.</i></li>
+        <li>Define clear <b>test vs. control</b> groups.</li>
+        <li>Track the <b>right data</b> at every point in the flow.</li>
+        <li>Set pre-defined thresholds for success or failure.</li>
     </ul>
 
-    <p><i>&nbsp;</i></p>
-
-    <p><b><i>Types of Data:</i></b></p>
+    <p><b>Types of Data:</b></p>
 
     <ul style='margin-top:0cm' type=disc>
-        <li><b><i>A/B Test Performance Data</i></b><i> – CTR, bounce
-                rates, conversion rates.</i></li>
-        <li><b><i>Event Data</i></b><i> – Clicks, scrolls, form
-                completions.</i></li>
-        <li><b><i>Time-Based Metrics</i></b><i> – Time on task, time
-                to convert, lag to action.</i></li>
+        <li><b>A/B Test Performance Data</b> – CTR, bounce
+                rates, conversion rates.</li>
+        <li><b>Event Data</b> – Clicks, scrolls, form
+                completions.</li>
+        <li><b>Time-Based Metrics</b> – Time on task, time
+                to convert, lag to action.</li>
     </ul>
 
-    <p><i>&nbsp;</i></p>
-
-    <p><b><i>Key Customer Analytics Metrics:</i></b></p>
+    
+    <p><b>Key Customer Analytics Metrics:</b></p>
 
     <ul style='margin-top:0cm' type=disc>
-        <li><b><i>Lift in Conversion</i></b><i>: % increase in
-                conversion rate for the test group vs. control.</i></li>
-        <li><b><i>Engagement Delta</i></b><i>: Change in user
-                interaction metrics between variants.</i></li>
-        <li><b><i>Test Significance Level (P-value)</i></b><i>:
-                Ensures that observed changes are statistically meaningful.</i></li>
+        <li><b>Lift in Conversion</b>: % increase in
+                conversion rate for the test group vs. control.</li>
+        <li><b>Engagement Delta</b>: Change in user
+                interaction metrics between variants.</li>
+        <li><b>Test Significance Level (P-value)</b>:
+                Ensures that observed changes are statistically meaningful.</li>
     </ul>
 
-    <p><i>&nbsp;</i></p>
-
-    <p><b><i>AI Applications:</i></b></p>
+    <p><b>AI Applications:</b></p>
 
     <ul style='margin-top:0cm' type=disc>
-        <li><b><i>Real-Time Performance Monitoring</i></b><i>: AI
-                detects test anomalies early (e.g., unusually high drop-off).</i></li>
-        <li><b><i>Automated Statistical Analysis</i></b><i>: AI
-                calculates statistical significance and confidence intervals instantly.</i></li>
-        <li><b><i>Segment-Specific Performance</i></b><i>: AI segments
+        <li><b>Real-Time Performance Monitoring</b>: AI
+                detects test anomalies early (e.g., unusually high drop-off).</li>
+        <li><b>Automated Statistical Analysis</b>: AI
+                calculates statistical significance and confidence intervals instantly.</li>
+        <li><b>Segment-Specific Performance</b>: AI segments
                 test results by behaviour, location, or demographics to reveal hidden
-                wins.</i></li>
+                wins.</li>
     </ul>
 
-    <p align=center style='margin-left:36.0pt;text-align:center;
-line-height:normal'><b><span style='font-size:12.0pt'>Practical Steps for
-                Product Managers</span></b></p>
-    <uL>
-        <li>Ensure
-            your team agrees on what success looks like before testing.</li>
+    <h3 align=center>Practical Steps for Product Managers</span></h3>
+    
+    <p>a)<span>&nbsp;</span><span>Ensure your team agrees on what success looks like before testing.</span></p>
+    <p>b)<span>&nbsp;</span><span>Assign roles for who monitors, documents, and synthesises.</span></p>
+    <p>c)<span>&nbsp;</span><span>Use tools like LaunchDarkly or Optimizely for feature gating.</span></p>
+    <p>d)<span>&nbsp;</span><span>Run post-experiment retrospectives to unpack results.</span></p>
 
-        <li>Assign
-            roles for who monitors, documents, and synthesises.</li>
-
-        <li>Use
-            tools like LaunchDarkly or Optimizely for feature gating.</li>
-
-        <li>Run
-            post-experiment retrospectives to unpack results.</li>
-    </uL>
     <p>&nbsp;</p>
 
     <h2 align=center id="productanalyticsai-demand-value-analytics-testing-funnels">Testing
@@ -6084,8 +5608,8 @@ line-height:normal'><b><span style='font-size:12.0pt'>Practical Steps for
     <p align=center style='text-align:center'><img class="img-fluid rounded-corners mt-3"  border=0 width="600" height="350" id="Picture 8"
             src="./images/productsanalyticsai/demandvalueanalytics/image011.png"></p>
 
-    <p align=left style='text-align:right'><b><i>Alex Cowan’s
-                ADAIOR funnel</i></b></p>
+    <p align=left style='text-align:right'><b>Alex Cowan’s
+                ADAIOR funnel</b></p>
 
     <p><b> This funnel is ideal for mapping the emotional and
             behavioural journey from awareness to habit formation.</b></p>
@@ -6094,36 +5618,36 @@ line-height:normal'><b><span style='font-size:12.0pt'>Practical Steps for
         <tr>
             <td width=104 valign=top style='width:77.75pt;border:solid windowtext 1.0pt;
 padding:0cm 5.4pt 0cm 5.4pt'>
-                <p style='margin-bottom:0cm;line-height:normal'><a name="_Hlk205711014">Awareness
+                <p><a name="_Hlk205711014">Awareness
                     </a></p>
             </td>
             <td width=497 valign=top style='width:373.05pt;border:solid windowtext 1.0pt;
 border-left:none;padding:0cm 5.4pt 0cm 5.4pt'>
-                <p style='margin-bottom:0cm;line-height:normal'>Run A/B tests
+                <p>Run A/B tests
                     on ad creatives or influencer campaigns to measure click-through rates.</p>
             </td>
         </tr>
         <tr>
             <td width=104 valign=top style='width:77.75pt;border:solid windowtext 1.0pt;
 border-top:none;padding:0cm 5.4pt 0cm 5.4pt'>
-                <p style='margin-bottom:0cm;line-height:normal'>Interest</p>
+                <p>Interest</p>
             </td>
             <td width=497 valign=top style='width:373.05pt;border-top:none;border-left:
 none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
 padding:0cm 5.4pt 0cm 5.4pt'>
-                <p style='margin-bottom:0cm;line-height:normal'>Use heatmaps
+                <p>Use heatmaps
                     and scroll tracking on product pages to see what captures</p>
             </td>
         </tr>
         <tr>
             <td width=104 valign=top style='width:77.75pt;border:solid windowtext 1.0pt;
 border-top:none;padding:0cm 5.4pt 0cm 5.4pt'>
-                <p style='margin-bottom:0cm;line-height:normal'>Desire</p>
+                <p>Desire</p>
             </td>
             <td width=497 valign=top style='width:373.05pt;border-top:none;border-left:
 none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
 padding:0cm 5.4pt 0cm 5.4pt'>
-                <p style='margin-bottom:0cm;line-height:normal'>Test
+                <p>Test
                     different product photography and benefit-led copy to see if add-to-cart
                     rates increase.</p>
             </td>
@@ -6131,25 +5655,25 @@ padding:0cm 5.4pt 0cm 5.4pt'>
         <tr>
             <td width=104 valign=top style='width:77.75pt;border:solid windowtext 1.0pt;
 border-top:none;padding:0cm 5.4pt 0cm 5.4pt'>
-                <p style='margin-bottom:0cm;line-height:normal'>Action</p>
+                <p>Action</p>
             </td>
             <td width=497 valign=top style='width:373.05pt;border-top:none;border-left:
 none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
 padding:0cm 5.4pt 0cm 5.4pt'>
-                <p style='margin-bottom:0cm;line-height:normal'>Run <em><span
-                            style='font-family:"Calibri",sans-serif'>checkout flow experiments</span></em>
+                <p>Run <em><span
+                            style='font-family:"Inter",sans-serif'>checkout flow experiments</span></em>
                     (one-page vs. multi-step) to reduce cart abandonment.</p>
             </td>
         </tr>
         <tr>
             <td width=104 valign=top style='width:77.75pt;border:solid windowtext 1.0pt;
 border-top:none;padding:0cm 5.4pt 0cm 5.4pt'>
-                <p style='margin-bottom:0cm;line-height:normal'>Onboarding</p>
+                <p>Onboarding</p>
             </td>
             <td width=497 valign=top style='width:373.05pt;border-top:none;border-left:
 none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
 padding:0cm 5.4pt 0cm 5.4pt'>
-                <p style='margin-bottom:0cm;line-height:normal'>Use
+                <p>Use
                     post-purchase emails to guide users through account setup or loyalty
                     programs.</p>
             </td>
@@ -6157,98 +5681,98 @@ padding:0cm 5.4pt 0cm 5.4pt'>
         <tr>
             <td width=104 valign=top style='width:77.75pt;border:solid windowtext 1.0pt;
 border-top:none;padding:0cm 5.4pt 0cm 5.4pt'>
-                <p style='margin-bottom:0cm;line-height:normal'>Retention</p>
+                <p>Retention</p>
             </td>
             <td width=497 valign=top style='width:373.05pt;border-top:none;border-left:
 none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
 padding:0cm 5.4pt 0cm 5.4pt'>
-                <p style='margin-bottom:0cm;line-height:normal'>Track repeat
+                <p>Track repeat
                     purchases and test personalised re-engagement emails.</p>
             </td>
         </tr>
     </table>
 
-    <p><i>E-Commerce Testing Strategies</i></p>
+    <p>E-Commerce Testing Strategies</p>
 
-    <p><i>&nbsp;</i></p>
+    <p>&nbsp;</p>
 
     <table class='table'>
         <tr>
             <td width=104 valign=top style='width:77.75pt;border:solid windowtext 1.0pt;
 padding:0cm 5.4pt 0cm 5.4pt'>
-                <p style='margin-bottom:0cm;line-height:normal'>Awareness </p>
+                <p>Awareness </p>
             </td>
             <td width=497 valign=top style='width:373.05pt;border:solid windowtext 1.0pt;
 border-left:none;padding:0cm 5.4pt 0cm 5.4pt'>
-                <p style='margin-bottom:0cm;line-height:normal'>Test landing
+                <p>Test landing
                     page headlines and hero images for conversion</p>
             </td>
         </tr>
         <tr>
             <td width=104 valign=top style='width:77.75pt;border:solid windowtext 1.0pt;
 border-top:none;padding:0cm 5.4pt 0cm 5.4pt'>
-                <p style='margin-bottom:0cm;line-height:normal'>Interest</p>
+                <p>Interest</p>
             </td>
             <td width=497 valign=top style='width:373.05pt;border-top:none;border-left:
 none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
 padding:0cm 5.4pt 0cm 5.4pt'>
-                <p style='margin-bottom:0cm;line-height:normal'>Use demo videos
+                <p>Use demo videos
                     or interactive tours to gauge engagement.</p>
             </td>
         </tr>
         <tr>
             <td width=104 valign=top style='width:77.75pt;border:solid windowtext 1.0pt;
 border-top:none;padding:0cm 5.4pt 0cm 5.4pt'>
-                <p style='margin-bottom:0cm;line-height:normal'>Desire</p>
+                <p>Desire</p>
             </td>
             <td width=497 valign=top style='width:373.05pt;border-top:none;border-left:
 none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
 padding:0cm 5.4pt 0cm 5.4pt'>
-                <p style='margin-bottom:0cm;line-height:normal'>Offer free
+                <p>Offer free
                     trials with premium feature previews to spark desire.</p>
             </td>
         </tr>
         <tr>
             <td width=104 valign=top style='width:77.75pt;border:solid windowtext 1.0pt;
 border-top:none;padding:0cm 5.4pt 0cm 5.4pt'>
-                <p style='margin-bottom:0cm;line-height:normal'>Action</p>
+                <p>Action</p>
             </td>
             <td width=497 valign=top style='width:373.05pt;border-top:none;border-left:
 none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
 padding:0cm 5.4pt 0cm 5.4pt'>
-                <p style='margin-bottom:0cm;line-height:normal'>Optimize
+                <p>Optimize
                     sign-up forms and onboarding flows to reduce friction.</p>
             </td>
         </tr>
         <tr>
             <td width=104 valign=top style='width:77.75pt;border:solid windowtext 1.0pt;
 border-top:none;padding:0cm 5.4pt 0cm 5.4pt'>
-                <p style='margin-bottom:0cm;line-height:normal'>Onboarding</p>
+                <p>Onboarding</p>
             </td>
             <td width=497 valign=top style='width:373.05pt;border-top:none;border-left:
 none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
 padding:0cm 5.4pt 0cm 5.4pt'>
-                <p style='margin-bottom:0cm;line-height:normal'>Use tooltips
+                <p>Use tooltips
                     and guided walkthroughs to activate users.</p>
             </td>
         </tr>
         <tr>
             <td width=104 valign=top style='width:77.75pt;border:solid windowtext 1.0pt;
 border-top:none;padding:0cm 5.4pt 0cm 5.4pt'>
-                <p style='margin-bottom:0cm;line-height:normal'>Retention</p>
+                <p>Retention</p>
             </td>
             <td width=497 valign=top style='width:373.05pt;border-top:none;border-left:
 none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
 padding:0cm 5.4pt 0cm 5.4pt'>
-                <p style='margin-bottom:0cm;line-height:normal'>Monitor usage
+                <p>Monitor usage
                     frequency and test nudges (e.g. “You haven’t logged in”) to boost retention</p>
             </td>
         </tr>
     </table>
 
-    <p><i>SaaS Testing Strategies</i></p>
+    <p>SaaS Testing Strategies</p>
 
-    <p><i>&nbsp;</i></p>
+    <p>&nbsp;</p>
 
     <p align=center style='text-align:center'><b>AIDA Funnel</b></p>
 
@@ -6265,12 +5789,12 @@ padding:0cm 5.4pt 0cm 5.4pt'>
         <tr>
             <td width=85 valign=top style='width:63.55pt;border:solid windowtext 1.0pt;
 padding:0cm 5.4pt 0cm 5.4pt'>
-                <p style='margin-bottom:0cm;line-height:normal'><a name="_Hlk205711610">Awareness
+                <p><a name="_Hlk205711610">Awareness
                     </a></p>
             </td>
             <td width=516 valign=top style='width:387.25pt;border:solid windowtext 1.0pt;
 border-left:none;padding:0cm 5.4pt 0cm 5.4pt'>
-                <p style='margin-bottom:0cm;line-height:normal'>Test influencer
+                <p>Test influencer
                     marketing vs. PPC for cost-per-visit.</p>
             </td>
         </tr>
@@ -6278,39 +5802,39 @@ border-left:none;padding:0cm 5.4pt 0cm 5.4pt'>
         <tr>
             <td width=85 valign=top style='width:63.55pt;border:solid windowtext 1.0pt;
 border-top:none;padding:0cm 5.4pt 0cm 5.4pt'>
-                <p style='margin-bottom:0cm;line-height:normal'>Interest</p>
+                <p>Interest</p>
             </td>
             <td width=516 valign=top style='width:387.25pt;border-top:none;border-left:
 none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
 padding:0cm 5.4pt 0cm 5.4pt'>
-                <p style='margin-bottom:0cm;line-height:normal'>Use A/B
+                <p>Use A/B
                     testing on category page layouts (filter positions, product sort order)</p>
-                <p style='margin-bottom:0cm;line-height:normal'>Use
+                <p>Use
                     retargeting ads and product comparison tools to test influence</p>
             </td>
         </tr>
         <tr>
             <td width=85 valign=top style='width:63.55pt;border:solid windowtext 1.0pt;
 border-top:none;padding:0cm 5.4pt 0cm 5.4pt'>
-                <p style='margin-bottom:0cm;line-height:normal'>Desire</p>
+                <p>Desire</p>
             </td>
             <td width=516 valign=top style='width:387.25pt;border-top:none;border-left:
 none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
 padding:0cm 5.4pt 0cm 5.4pt'>
-                <p style='margin-bottom:0cm;line-height:normal'>Add urgency
+                <p>Add urgency
                     badges (“Only 3 left!”) and test if conversion increases.</p>
             </td>
         </tr>
         <tr>
             <td width=85 valign=top style='width:63.55pt;border:solid windowtext 1.0pt;
 border-top:none;padding:0cm 5.4pt 0cm 5.4pt'>
-                <p style='margin-bottom:0cm;line-height:normal'>Action</p>
+                <p>Action</p>
             </td>
             <td width=516 valign=top style='width:387.25pt;border-top:none;border-left:
 none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
 padding:0cm 5.4pt 0cm 5.4pt'>
-                <p style='margin-bottom:0cm;line-height:normal'>Run <em><span
-                            style='font-family:"Calibri",sans-serif'>one-click checkout</span></em> vs.
+                <p>Run <em><span
+                            style='font-family:"Inter",sans-serif'>one-click checkout</span></em> vs.
                     traditional checkout flow to compare completion rate</p>
             </td>
         </tr>
@@ -6327,55 +5851,55 @@ padding:0cm 5.4pt 0cm 5.4pt'>
         <tr>
             <td width=85 valign=top style='width:63.55pt;border:solid windowtext 1.0pt;
 padding:0cm 5.4pt 0cm 5.4pt'>
-                <p style='margin-bottom:0cm;line-height:normal'>Awareness </p>
+                <p>Awareness </p>
             </td>
             <td width=516 valign=top style='width:387.25pt;border:solid windowtext 1.0pt;
 border-left:none;padding:0cm 5.4pt 0cm 5.4pt'>
-                <p style='margin-bottom:0cm;line-height:normal'>Split-test
+                <p>Split-test
                     SEO-optimised landing pages vs. paid ads for trial sign-ups.</p>
-                <p style='margin-bottom:0cm;line-height:normal'>Publish
+                <p>Publish
                     thought leadership content and measure traffic sources.</p>
             </td>
         </tr>
         <tr>
             <td width=85 valign=top style='width:63.55pt;border:solid windowtext 1.0pt;
 border-top:none;padding:0cm 5.4pt 0cm 5.4pt'>
-                <p style='margin-bottom:0cm;line-height:normal'>Interest</p>
+                <p>Interest</p>
             </td>
             <td width=516 valign=top style='width:387.25pt;border-top:none;border-left:
 none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
 padding:0cm 5.4pt 0cm 5.4pt'>
-                <p style='margin-bottom:0cm;line-height:normal'>Test webinar
+                <p>Test webinar
                     attendance vs. downloadable guides for mid-funnel engagement</p>
-                <p style='margin-bottom:0cm;line-height:normal'>Test free vs.
+                <p>Test free vs.
                     freemium models and feature gating</p>
             </td>
         </tr>
         <tr>
             <td width=85 valign=top style='width:63.55pt;border:solid windowtext 1.0pt;
 border-top:none;padding:0cm 5.4pt 0cm 5.4pt'>
-                <p style='margin-bottom:0cm;line-height:normal'>Desire</p>
+                <p>Desire</p>
             </td>
             <td width=516 valign=top style='width:387.25pt;border-top:none;border-left:
 none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
 padding:0cm 5.4pt 0cm 5.4pt'>
-                <p style='margin-bottom:0cm;line-height:normal'>Test <em><span
-                            style='font-family:"Calibri",sans-serif'>customer success story videos</span></em>
+                <p>Test <em><span
+                            style='font-family:"Inter",sans-serif'>customer success story videos</span></em>
                     vs. written case studies for sign-up intent.</p>
             </td>
         </tr>
         <tr>
             <td width=85 valign=top style='width:63.55pt;border:solid windowtext 1.0pt;
 border-top:none;padding:0cm 5.4pt 0cm 5.4pt'>
-                <p style='margin-bottom:0cm;line-height:normal'>Action</p>
+                <p>Action</p>
             </td>
             <td width=516 valign=top style='width:387.25pt;border-top:none;border-left:
 none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
 padding:0cm 5.4pt 0cm 5.4pt'>
-                <p style='margin-bottom:0cm;line-height:normal'>Experiment
-                    with <i>credit card required</i> vs. <i>no credit card required</i> free
+                <p>Experiment
+                    with credit card required vs. no credit card required free
                     trial sign-ups for quality lead conversion.</p>
-                <p style='margin-bottom:0cm;line-height:normal'>Run
+                <p>Run
                     experiments on pricing tiers and trial-to-paid conversion flows</p>
             </td>
         </tr>
@@ -6383,18 +5907,13 @@ padding:0cm 5.4pt 0cm 5.4pt'>
 
     <p>&nbsp;</p>
 
-    <p>&nbsp;</p>
-
-    <p>&nbsp;</p>
-
-    <p align=center style='text-align:center'>The AARRR (Pirate)
-        Funnel</p>
+    <p align=center>The AARRR (Pirate) Funnel</p>
 
     <p align=center style='text-align:center'>This funnel is
         especially useful for growth-stage SaaS and lean e-commerce experiments.</p>
 
-    <p style='text-align:justify'><b><i>Growth Metrics for Product
-                Management and Internet Marketing</i></b></p>
+    <p style='text-align:justify'><b>Growth Metrics for Product
+                Management and Internet Marketing</b></p>
 
     <p style='text-align:justify'>Developed by Dave Mclure to focus
         metrics on what should be relevant to Startups</p>
@@ -6415,8 +5934,6 @@ padding:0cm 5.4pt 0cm 5.4pt'>
 
     <p align=center style='text-align:center'>&nbsp;</p>
 
-    <p align=center style='text-align:center'>&nbsp;</p>
-
     <p align=center style='text-align:center'><img class="img-fluid rounded-corners mt-3"  border=0 width="600" height="300"
             src="./images/productsanalyticsai/demandvalueanalytics/image013.png"
             alt="Create an image of a horizontal AARRR Funnel"></p>
@@ -6430,69 +5947,69 @@ padding:0cm 5.4pt 0cm 5.4pt'>
         <tr>
             <td width=85 valign=top style='width:63.55pt;border:solid windowtext 1.0pt;
 padding:0cm 5.4pt 0cm 5.4pt'>
-                <p style='margin-bottom:0cm;line-height:normal'>Acquisition</p>
+                <p>Acquisition</p>
             </td>
             <td width=516 valign=top style='width:387.25pt;border:solid windowtext 1.0pt;
 border-left:none;padding:0cm 5.4pt 0cm 5.4pt'>
-                <p style='margin-bottom:0cm;line-height:normal'>Test ad
+                <p>Test ad
                     targeting segments to improve ROAS (Return on Ad Spend).</p>
-                <p style='margin-bottom:0cm;line-height:normal'>Test SEO
+                <p>Test SEO
                     keywords, influencer partnerships, and ad targeting.</p>
             </td>
         </tr>
         <tr>
             <td width=85 valign=top style='width:63.55pt;border:solid windowtext 1.0pt;
 border-top:none;padding:0cm 5.4pt 0cm 5.4pt'>
-                <p style='margin-bottom:0cm;line-height:normal'>Activation</p>
+                <p>Activation</p>
             </td>
             <td width=516 valign=top style='width:387.25pt;border-top:none;border-left:
 none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
 padding:0cm 5.4pt 0cm 5.4pt'>
-                <p style='margin-bottom:0cm;line-height:normal'>Experiment
+                <p>Experiment
                     with welcome pop-ups vs. email sequences for first-purchase rates.</p>
-                <p style='margin-bottom:0cm;line-height:normal'>Measure first
+                <p>Measure first
                     purchase speed and test onboarding emails.</p>
             </td>
         </tr>
         <tr>
             <td width=85 valign=top style='width:63.55pt;border:solid windowtext 1.0pt;
 border-top:none;padding:0cm 5.4pt 0cm 5.4pt'>
-                <p style='margin-bottom:0cm;line-height:normal'>Retention</p>
+                <p>Retention</p>
             </td>
             <td width=516 valign=top style='width:387.25pt;border-top:none;border-left:
 none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
 padding:0cm 5.4pt 0cm 5.4pt'>
-                <p style='margin-bottom:0cm;line-height:normal'>Test loyalty
+                <p>Test loyalty
                     program tiers to improve repeat purchase frequency.</p>
-                <p style='margin-bottom:0cm;line-height:normal'>Use cohort analysis
+                <p>Use cohort analysis
                     to test reorder incentives and seasonal campaigns.</p>
             </td>
         </tr>
         <tr>
             <td width=85 valign=top style='width:63.55pt;border:solid windowtext 1.0pt;
 border-top:none;padding:0cm 5.4pt 0cm 5.4pt'>
-                <p style='margin-bottom:0cm;line-height:normal'>Referral</p>
+                <p>Referral</p>
             </td>
             <td width=516 valign=top style='width:387.25pt;border-top:none;border-left:
 none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
 padding:0cm 5.4pt 0cm 5.4pt'>
-                <p style='margin-bottom:0cm;line-height:normal'>A/B test
+                <p>A/B test
                     referral incentives (discount vs. free gift) for referral sign-ups.</p>
-                <p style='margin-bottom:0cm;line-height:normal'>A/B test
+                <p>A/B test
                     referral program messaging and reward structures.</p>
             </td>
         </tr>
         <tr>
             <td width=85 valign=top style='width:63.55pt;border:solid windowtext 1.0pt;
 border-top:none;padding:0cm 5.4pt 0cm 5.4pt'>
-                <p style='margin-bottom:0cm;line-height:normal'>Revenue</p>
+                <p>Revenue</p>
             </td>
             <td width=516 valign=top style='width:387.25pt;border-top:none;border-left:
 none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
 padding:0cm 5.4pt 0cm 5.4pt'>
-                <p style='margin-bottom:0cm;line-height:normal'>Use pricing
+                <p>Use pricing
                     experiments and upsell recommendations to boost Average Order Value (AOV).</p>
-                <p style='margin-bottom:0cm;line-height:normal'>Experiment
+                <p>Experiment
                     with upsells, cross-sells, and dynamic pricing.</p>
             </td>
         </tr>
@@ -6506,69 +6023,69 @@ padding:0cm 5.4pt 0cm 5.4pt'>
         <tr>
             <td width=94 valign=top style='width:70.65pt;border:solid windowtext 1.0pt;
 padding:0cm 5.4pt 0cm 5.4pt'>
-                <p style='margin-bottom:0cm;line-height:normal'>Acquisition</p>
+                <p>Acquisition</p>
             </td>
             <td width=507 valign=top style='width:380.15pt;border:solid windowtext 1.0pt;
 border-left:none;padding:0cm 5.4pt 0cm 5.4pt'>
-                <p style='margin-bottom:0cm;line-height:normal'>Test ad
+                <p>Test ad
                     channels, landing pages, and lead magnets</p>
-                <p style='margin-bottom:0cm;line-height:normal'>Compare cost
+                <p>Compare cost
                     per lead between webinar ads and Google search ads.</p>
             </td>
         </tr>
         <tr>
             <td width=94 valign=top style='width:70.65pt;border:solid windowtext 1.0pt;
 border-top:none;padding:0cm 5.4pt 0cm 5.4pt'>
-                <p style='margin-bottom:0cm;line-height:normal'>Activation</p>
+                <p>Activation</p>
             </td>
             <td width=507 valign=top style='width:380.15pt;border-top:none;border-left:
 none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
 padding:0cm 5.4pt 0cm 5.4pt'>
-                <p style='margin-bottom:0cm;line-height:normal'>Measure
+                <p>Measure
                     time-to-first-value and test onboarding flows.</p>
-                <p style='margin-bottom:0cm;line-height:normal'>Test in-app
+                <p>Test in-app
                     guided setup vs. onboarding webinars for first feature completion</p>
             </td>
         </tr>
         <tr>
             <td width=94 valign=top style='width:70.65pt;border:solid windowtext 1.0pt;
 border-top:none;padding:0cm 5.4pt 0cm 5.4pt'>
-                <p style='margin-bottom:0cm;line-height:normal'>Retention</p>
+                <p>Retention</p>
             </td>
             <td width=507 valign=top style='width:380.15pt;border-top:none;border-left:
 none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
 padding:0cm 5.4pt 0cm 5.4pt'>
-                <p style='margin-bottom:0cm;line-height:normal'>Use feature
+                <p>Use feature
                     usage tracking and test engagement nudges.</p>
-                <p style='margin-bottom:0cm;line-height:normal'>Use <em><span
-                            style='font-family:"Calibri",sans-serif'>churn prediction models</span></em>
+                <p>Use <em><span
+                            style='font-family:"Inter",sans-serif'>churn prediction models</span></em>
                     to test targeted re-engagement campaigns.</p>
             </td>
         </tr>
         <tr>
             <td width=94 valign=top style='width:70.65pt;border:solid windowtext 1.0pt;
 border-top:none;padding:0cm 5.4pt 0cm 5.4pt'>
-                <p style='margin-bottom:0cm;line-height:normal'>Referral</p>
+                <p>Referral</p>
             </td>
             <td width=507 valign=top style='width:380.15pt;border-top:none;border-left:
 none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
 padding:0cm 5.4pt 0cm 5.4pt'>
-                <p style='margin-bottom:0cm;line-height:normal'>Run
+                <p>Run
                     experiments on referral prompts and social sharing buttons.</p>
-                <p style='margin-bottom:0cm;line-height:normal'>Experiment
-                    with <em><span style='font-family:"Calibri",sans-serif'>in-app referral
+                <p>Experiment
+                    with <em><span style='font-family:"Inter",sans-serif'>in-app referral
                             prompts</span></em> vs. post-payment email referral prompts</p>
             </td>
         </tr>
         <tr>
             <td width=94 valign=top style='width:70.65pt;border:solid windowtext 1.0pt;
 border-top:none;padding:0cm 5.4pt 0cm 5.4pt'>
-                <p style='margin-bottom:0cm;line-height:normal'>Revenue</p>
+                <p>Revenue</p>
             </td>
             <td width=507 valign=top style='width:380.15pt;border-top:none;border-left:
 none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
 padding:0cm 5.4pt 0cm 5.4pt'>
-                <p><span style='font-size:11.0pt;font-family:"Calibri",sans-serif'>Test
+                <p><span>Test
                         pricing models, upgrade paths, and churn-reduction tactics.<br>
                         Test monthly vs. annual pricing offers to see which drives higher Lifetime
                         Value (LTV).</span></p>
@@ -6651,8 +6168,7 @@ padding:0cm 5.4pt 0cm 5.4pt'>
         </tr>
     </table>
 
-    <p><b><span style='font-size:12.0pt'>SaaS
-                Testing Strategies:</span></b></p>
+    <p><b>SaaS Testing Strategies:</b></p>
 
     <table class='table'>
         <tr>
@@ -6716,14 +6232,14 @@ padding:0cm 5.4pt 0cm 5.4pt'>
         </tr>
     </table>
 
-    <p>&nbsp;</p>
+   
 
     <p>Funnels are more than paths they are also conversations with
         your customer. By breaking down the steps and testing each one, you get clearer
         answers, faster results, and smarter strategies. And with AI by your side, you
         are not just optimising funnels, you’re shaping experiences that flow.</p>
 
-    <p><span style='font-size:11.0pt;font-family:"Calibri",sans-serif'>Your fashion
+    <p><span>Your fashion
             e-commerce store has a three-step checkout funnel. AI analytics reveal a 38%
             drop-off after users enter shipping info. Testing shows users hesitate due to
             unclear return policies. You A/B test revised messaging and AI confirms a 22%
@@ -6731,78 +6247,68 @@ padding:0cm 5.4pt 0cm 5.4pt'>
 
     <p><b>Core Insights:</b></p>
 
-    <p><i>Instead of treating the funnel
+    <p>Instead of treating the funnel
             as one big metric (like “conversion rate”), break it down into individual
-            steps. Then test and improve each stage independently using structured experiments.</i></p>
+            steps. Then test and improve each stage independently using structured experiments.</p>
 
     <ul type=disc>
-        <li><i>Analyse funnels step-by-step
-                (e.g., product view → add to cart → checkout).</i></li>
-        <li><i>Identify and isolate
-                drop-off points.</i></li>
-        <li><i>Test changes in
-                micro-conversions to improve the overall funnel.</i></li>
+        <li>Analyse funnels step-by-step
+                (e.g., product view → add to cart → checkout).</li>
+        <li>Identify and isolate
+                drop-off points.</li>
+        <li>Test changes in
+                micro-conversions to improve the overall funnel.</li>
     </ul>
 
-    <p><b><i>Types of Data:</i></b></p>
+    <p><b>Types of Data:</b></p>
 
     <ul type=disc>
-        <li><b><i>Step-Level Conversion
-                    Data</i></b><i> – Progression rates through funnel stages.</i></li>
-        <li><b><i>Time-Based Data</i></b><i>
-                – How long users take to complete steps.</i></li>
-        <li><b><i>Event-Based Data</i></b><i>
-                – Clicks, hovers, exits at each funnel step.</i></li>
+        <li><b>Step-Level Conversion
+                    Data</b> – Progression rates through funnel stages.</li>
+        <li><b>Time-Based Data</b>
+                – How long users take to complete steps.</li>
+        <li><b>Event-Based Data</b>
+                – Clicks, hovers, exits at each funnel step.</li>
     </ul>
 
-    <p><b><i>Key Customer Analytics
-                Metrics:</i></b></p>
+    <p><b>Key Customer Analytics
+                Metrics:</b></p>
 
     <ul type=disc>
-        <li><b><i>Step Drop-Off Rate</i></b><i>:
-                % of users who abandon between stages (e.g., product page → cart).</i></li>
-        <li><b><i>Funnel Completion Rate</i></b><i>:
-                % of users who move from start to finish.</i></li>
-        <li><b><i>Time-to-Conversion</i></b><i>:
-                Avg. time users take to complete funnel.</i></li>
+        <li><b>Step Drop-Off Rate</b>:
+                % of users who abandon between stages (e.g., product page → cart).</li>
+        <li><b>Funnel Completion Rate</b>:
+                % of users who move from start to finish.</li>
+        <li><b>Time-to-Conversion</b>:
+                Avg. time users take to complete funnel.</li>
     </ul>
 
-    <p style='margin-bottom:0cm;line-height:normal'><b><i>AI
-                Applications:</i></b></p>
+    <p><b>AI
+                Applications:</b></p>
 
     <ul type=disc>
-        <li><b><i>Funnel Leak Detection</i></b><i>:
+        <li><b>Funnel Leak Detection</b>:
                 AI scans user paths to highlight where users most commonly exit or
-                hesitate.</i></li>
-        <li><b><i>Micro-Metric Optimisation</i></b><i>:
+                hesitate.</li>
+        <li><b>Micro-Metric Optimisation</b>:
                 AI recommends changes at specific funnel points that will have the biggest
-                impact.</i></li>
-        <li><b><i>Personalised Funnel
-                    Routing</i></b><i>: Machine learning dynamically adjusts funnel paths for
-                different user segments</i><i><span style='font-size:12.0pt;font-family:
- "Times New Roman",serif'>.</span></i></li>
+                impact.</li>
+        <li><b>Personalised Funnel
+                    Routing</b>: Machine learning dynamically adjusts funnel paths for
+                different user segments<span style='font-size:12.0pt;font-family:
+ "Inter",serif'>.</span></li>
     </ul>
 
     <p align=center style='text-align:center'><b><span style='font-size:14.0pt;line-height:107%'>&nbsp;</span></b>
     </p>
 
-    <p align=center style='text-align:center;line-height:
-normal'><b><span style='font-size:12.0pt'>Practical Steps for Product Managers</span></b></p>
-    <ul>
-        <li>Map
-            out each step of the funnel (awareness &gt; action &gt; conversion).</li>
+    <h3 align=center>Practical Steps for Product Managers</h3>
+    
+    <p>a)<span>&nbsp;</span><span>Map out each step of the funnel (awareness &gt; action &gt; conversion).</span></p>
+    <p>b)<span>&nbsp;</span><span>Identify drop-off points using tools like Mixpanel or Heap.</span></p>
+    <p>c)<span>&nbsp;</span><span>Run A/B tests targeting specific friction points.</span></p>
+    <p>d)<span>&nbsp;</span><span>Use AI tools to cluster user behaviour and predict drop-offs.</span></p>
 
-        <li>Identify
-            drop-off points using tools like Mixpanel or Heap.</li>
-
-        <li>Run
-            A/B tests targeting specific friction points.</li>
-
-        <li>Use
-            AI tools to cluster user behaviour and predict drop-offs</span>.<br>
-            <br>
-        </li>
-    </ul>
     <p align=center style='text-align:center'><b><span style='font-size:14.0pt;line-height:107%'>&nbsp;</span></b>
     </p>
 
@@ -6829,97 +6335,89 @@ normal'><b><span style='font-size:12.0pt'>Practical Steps for Product Managers</
             alt="Create a descriptive image illustrating a home décor store's flat revenue scenario. Depict AI-powered cohort analysis revealing high engagement but poor conversion among users from a Pinterest campaign two months ago. Highlight the launch of a targeted free shipping test for this cohort, resulting in an 18% boost in purchases.">
     </p>
 
-    <p><b>&nbsp;</b></p>
 
     <p><b>Core Insights:</b></p>
 
-    <p><i>Cohort testing goes beyond
+    <p>Cohort testing goes beyond
             broad averages. It segments users into logical groups (cohorts) to test how
-            experiences impact specific segments over time.</i></p>
+            experiences impact specific segments over time.</p>
 
     <ul type=disc>
-        <li><i>Compare user behaviour
-                across sign-up dates, acquisition channels, or usage levels.</i></li>
-        <li><i>Detect trends like retention
-                decay or delayed engagement.</i></li>
-        <li><i>Use experiments to improve
-                specific cohort performance, not just the overall average.</i></li>
+        <li>Compare user behaviour
+                across sign-up dates, acquisition channels, or usage levels.</li>
+        <li>Detect trends like retention
+                decay or delayed engagement.</li>
+        <li>Use experiments to improve
+                specific cohort performance, not just the overall average.</li>
     </ul>
 
-    <p style='margin-bottom:0cm;line-height:normal'><i>&nbsp;</i></p>
 
-    <p><b><i>Types of Data:</i></b></p>
+    <p><b>Types of Data:</b></p>
 
     <ul type=disc>
-        <li><b><i>Temporal Data</i></b><i>
-                – User sign-up date, purchase timeline, product interaction history.</i></li>
-        <li><b><i>Segmentation Data</i></b><i>
-                – Acquisition source, device type, geography.</i></li>
-        <li><b><i>Retention Data</i></b><i>
-                – Return frequency, repeat purchase rate by cohort.</i></li>
+        <li><b>Temporal Data</b>
+                – User sign-up date, purchase timeline, product interaction history.</li>
+        <li><b>Segmentation Data</b>
+                – Acquisition source, device type, geography.</li>
+        <li><b>Retention Data</b>
+                – Return frequency, repeat purchase rate by cohort.</li>
     </ul>
 
-    <p><b><i>Key Customer Analytics
-                Metrics:</i></b></p>
+    <p><b>Key Customer Analytics
+                Metrics:</b></p>
 
     <ul type=disc>
-        <li><b><i>Cohort Retention Curve</i></b><i>:
-                Measures return rate or engagement drop-off over time.</i></li>
-        <li><b><i>Cohort-Specific
-                    Conversion Rate</i></b><i>: Tracks how each cohort performs on goals
-                (e.g., first purchase).</i></li>
-        <li><b><i>Cohort Lifetime Value
-                    (CLV)</i></b><i>: Calculates revenue generated per cohort.</i></li>
+        <li><b>Cohort Retention Curve</b>:
+                Measures return rate or engagement drop-off over time.</li>
+        <li><b>Cohort-Specific
+                    Conversion Rate</b>: Tracks how each cohort performs on goals
+                (e.g., first purchase).</li>
+        <li><b>Cohort Lifetime Value
+                    (CLV)</b>: Calculates revenue generated per cohort.</li>
     </ul>
 
-    <p><b><i>AI Applications:</i></b></p>
+    <p><b>AI Applications:</b></p>
 
     <ul type=disc>
-        <li><b><i>Dynamic Cohort Clustering</i></b><i>:
+        <li><b>Dynamic Cohort Clustering</b>:
                 AI automatically groups users into high-signal clusters based on
-                behavioural similarities.</i></li>
-        <li><b><i>Predictive Retention
-                    Modelling</i></b><i>: AI forecasts which cohorts are likely to churn—and
-                when.</i></li>
-        <li><b><i>Cohort Anomaly Detection</i></b><i>:
+                behavioural similarities.</li>
+        <li><b>Predictive Retention
+                    Modelling</b>: AI forecasts which cohorts are likely to churn—and
+                when.</li>
+        <li><b>Cohort Anomaly Detection</b>:
                 Machine learning detects unusual performance in specific cohorts that may
-                require further testing or action.</i></li>
+                require further testing or action.</li>
     </ul>
-    <p><b>&nbsp;</b></p>
+    
 
-    <p align=center style='text-align:center;line-height:
-normal'><b><span style='font-size:12.0pt'>Practical Steps for Product Managers</span></b></p>
-    <ul>
-        <li>Define
-            cohorts by behaviour, not just demographics.</li>
+    <h3 align=center>Practical Steps for Product Managers</h3>
+    
+    <p>a)<span>&nbsp;</span><span>Define cohorts by behaviour, not just demographics.</span></p>
+    <p>b)<span>&nbsp;</span><span>Compare feature impact across different user journeys.</span></p>
+    <p>c)<span>&nbsp;</span><span>Monitor retention curves over time.</span></p>
+    <p>d)<span>&nbsp;</span><span>Use cohort feedback to tailor onboarding or engagement tactics.</span></p>
 
-        <li>Compare
-            feature impact across different user journeys.</li>
+    <p>&nbsp;</p>
 
-        <li>Monitor
-            retention curves over time.</li>
-
-        <li>Use
-            cohort feedback to tailor onboarding or engagement tactics.</li>
-    </ul>
     <h2 align=center id="productanalyticsai-demand-value-analytics-part-1-experiment-design">Part 1 –
         Experiment Design: Testing a New Electronic
         Product for Designers &amp; Managers</h2>
 
-    <p><span style='font-size:12.0pt'>This
+    <p><span>This
             approach is not about cutting corners, it’s about cutting waste. By testing the
             question before building the answer, you focus your energy where the demand is
             loudest. And with AI sharpening your message and profiling your audience,
             you’re not guessing, you’re building exactly what your best customers are
             already asking for.</span></p>
 
-    <p><span style='font-size:12.0pt'>You
+    <p><span>You
             don’t need a finished product to ask a powerful question. Well-designed
             experiments give you high-confidence answers from minimal effort. And with AI
             surfacing trends and guiding iteration, your lean tests become launchpads for
             products people actually want.</span></p>
 
-    <p><span style='font-size:12.0pt'>You’re
+    <p><span>You’re
             thinking about launching a <b>modular AI-powered design tablet</b> for
             professionals. Instead of manufacturing it, you create a landing page
             showcasing concept renders. AI tools optimise CTAs in real time and analyse
@@ -6927,85 +6425,82 @@ normal'><b><span style='font-size:12.0pt'>Practical Steps for Product Managers</
             pre-order interest. The experiment reveals that freelance designers are more
             price-sensitive but far more engaged, hence guiding your first production run.</span></p>
 
-    <p style='margin-bottom:0cm;line-height:normal'><span style='font-size:12.0pt'>&nbsp;</span></p>
+    
+    <p align=center><b><span style='font-size:13.5pt'><img class="img-fluid rounded-corners mt-3"  border=0 width="431" height="287" id="Picture 2"
+                        src="./images/productsanalyticsai/demandvalueanalytics/image017.png"></span></b></p>
 
-    <p align=center style='margin-bottom:0cm;text-align:center;
-line-height:normal'><b><i><span style='font-size:13.5pt'><img class="img-fluid rounded-corners mt-3"  border=0 width="431" height="287" id="Picture 2"
-                        src="./images/productsanalyticsai/demandvalueanalytics/image017.png"></span></i></b></p>
+    <p>&nbsp;</p>
 
-    <p><b><i><span style='font-size:
-13.5pt'>Core Insights:</span></i></b></p>
+    <p><b><span style='font-size:
+13.5pt'>Core Insights:</span></b></p>
 
-    <p><i><span style='font-size:12.0pt'>You
+    <p><span>You
                 don’t need a perfect product to test a perfect question. The focus is on
                 designing scrappy, high-signal experiments to measure <b>real demand</b> and
-                interest before investing in full production.</span></i></p>
+                interest before investing in full production.</span></p>
 
     <ul type=disc>
-        <li><i><span style='font-size:12.0pt'>Define
+        <li><span>Define
                     a clear target user (e.g., industrial designers or product managers
-                    looking for cutting-edge electronics).</span></i></li>
-        <li><i><span style='font-size:12.0pt'>Frame
-                    the demand hypothesis around user value, not features.</span></i></li>
-        <li><i><span style='font-size:12.0pt'>Measure
+                    looking for cutting-edge electronics).</span></li>
+        <li><span>Frame
+                    the demand hypothesis around user value, not features.</span></li>
+        <li><span>Measure
                     early indicators like clicks, sign-ups, and demo requests as proxies for
-                    deeper interest.</span></i></li>
+                    deeper interest.</span></li>
     </ul>
 
-    <p style='margin-bottom:0cm;line-height:normal'><i><span style='font-size:12.0pt'>&nbsp;</span></i></p>
 
-    <p><b><i><span style='font-size:
-13.5pt'>Types of Data:</span></i></b></p>
+    <p><b><span style='font-size:
+13.5pt'>Types of Data:</span></b></p>
 
     <ul type=disc>
-        <li><b><i><span style='font-size:
- 12.0pt'>Engagement Data</span></i></b><i><span style='font-size:12.0pt'> –
-                    Email opens, landing page visits, link clicks.</span></i></li>
-        <li><b><i><span style='font-size:
- 12.0pt'>Intent Data</span></i></b><i><span style='font-size:12.0pt'> –
-                    Sign-ups for beta access, waitlists, pre-orders, or demo requests.</span></i></li>
-        <li><b><i><span style='font-size:
- 12.0pt'>Segment Data</span></i></b><i><span style='font-size:12.0pt'> –
-                    Role-based targeting (e.g., “designer,” “PM,” “hardware lead”).</span></i></li>
+        <li><b><span style='font-size:
+ 12.0pt'>Engagement Data</span></b><span> –
+                    Email opens, landing page visits, link clicks.</span></li>
+        <li><b><span style='font-size:
+ 12.0pt'>Intent Data</span></b><span> –
+                    Sign-ups for beta access, waitlists, pre-orders, or demo requests.</span></li>
+        <li><b><span style='font-size:
+ 12.0pt'>Segment Data</span></b><span> –
+                    Role-based targeting (e.g., “designer,” “PM,” “hardware lead”).</span></li>
     </ul>
 
-    <p><b><i><span style='font-size:
-13.5pt'>Key Customer Analytics Metrics:</span></i></b></p>
+    <p><b><span style='font-size:
+13.5pt'>Key Customer Analytics Metrics:</span></b></p>
 
     <ul type=disc>
-        <li><b><i><span style='font-size:
- 12.0pt'>Interest Conversion Rate</span></i></b><i><span style='font-size:
- 12.0pt'> – % of targeted users who express interest in the concept.</span></i></li>
-        <li><b><i><span style='font-size:
- 12.0pt'>Segment Demand Index</span></i></b><i><span style='font-size:12.0pt'>
-                    – Strength of signal from different personas or job titles.</span></i></li>
-        <li><b><i><span style='font-size:
- 12.0pt'>Experiment Validation Score</span></i></b><i><span style='font-size:12.0pt'> – Did this experiment clearly
+        <li><b><span style='font-size:
+ 12.0pt'>Interest Conversion Rate</span></b><span style='font-size:
+ 12.0pt'> – % of targeted users who express interest in the concept.</span></li>
+        <li><b><span style='font-size:
+ 12.0pt'>Segment Demand Index</span></b><span>
+                    – Strength of signal from different personas or job titles.</span></li>
+        <li><b><span style='font-size:
+ 12.0pt'>Experiment Validation Score</span></b><span> – Did this experiment clearly
                     validate or
-                    invalidate the idea?</span></i></li>
+                    invalidate the idea?</span></li>
     </ul>
 
-    <p><b><i><span style='font-size:
-13.5pt'>AI Applications:</span></i></b></p>
+    <p><b><span style='font-size:
+13.5pt'>AI Applications:</span></b></p>
 
     <ul type=disc>
-        <li><b><i><span style='font-size:
- 12.0pt'>Audience Profiling</span></i></b><i><span style='font-size:12.0pt'>
+        <li><b><span style='font-size:
+ 12.0pt'>Audience Profiling</span></b><span>
                     – AI clusters customer responses into actionable personas (e.g.,
-                    “prototype-focused designer” vs. “budget-conscious manager”).</span></i></li>
-        <li><b><i><span style='font-size:
- 12.0pt'>Language Optimisation</span></i></b><i><span style='font-size:
+                    “prototype-focused designer” vs. “budget-conscious manager”).</span></li>
+        <li><b><span style='font-size:
+ 12.0pt'>Language Optimisation</span></b><span style='font-size:
  12.0pt'> – NLP tools automatically test headline and CTA variations to
-                    maximise engagement.</span></i></li>
-        <li><b><i><span style='font-size:
- 12.0pt'>Predictive Fit Modelling</span></i></b><i><span style='font-size:
+                    maximise engagement.</span></li>
+        <li><b><span style='font-size:
+ 12.0pt'>Predictive Fit Modelling</span></b><span style='font-size:
  12.0pt'> – Machine learning estimates long-term adoption likelihood based
-                    on early interest behaviour.</span></i></li>
+                    on early interest behaviour.</span></li>
     </ul>
 
-    <p style='margin-bottom:0cm;line-height:normal'><span style='font-size:12.0pt'>&nbsp;</span></p>
-
-    <p style='margin-bottom:0cm;line-height:normal'><span style='font-size:12.0pt'>&nbsp;</span></p>
+    <p><span>&nbsp;</span></p>
 
     <h2 align=center id="productanalyticsai-demand-value-analytics-part-2-experiment-execution">Part 2 –
         Experiment Execution: Testing a New Electronic
@@ -7013,19 +6508,19 @@ line-height:normal'><b><i><span style='font-size:13.5pt'><img class="img-fluid r
 
     <p><b><span style='font-size:13.5pt'>Introduction:</span></b></p>
 
-    <p><span style='font-size:12.0pt'>Execution
+    <p><span>Execution
             is where ideas meet reality. By running experiments with a tight plan and
             AI-powered observation, you see exactly what lands and what needs work. The
             beauty? You’re not just collecting data—you’re collecting decisions, ready for
             the next iteration.</span></p>
 
-    <p><span style='font-size:12.0pt'>Executing
+    <p><span>Executing
             a good experiment is like staging a scientific play, you’ve got your script,
             your actors, your stage, and now the performance tells you what’s real. With AI
             helping you watch the audience and read the reviews, you’re no longer guessing
-            what worked. You <i>know</i>. And you’re ready for the next scene.</span></p>
+            what worked. You know. And you’re ready for the next scene.</span></p>
 
-    <p><span style='font-size:12.0pt'>You’re
+    <p><span>You’re
             testing your <b>modular AI-powered design tablet</b> for designers and
             managers. Instead of full production, you launch a limited beta sign-up page
             featuring 3 concept videos. AI monitors visitor journeys and sees that while
@@ -7033,85 +6528,83 @@ line-height:normal'><b><i><span style='font-size:13.5pt'><img class="img-fluid r
             analysis shows managers feel unsure about the ROI. Your takeaway? Position the
             product with stronger business productivity benefits before the next test.</span></p>
 
-    <p align=center style='margin-bottom:0cm;text-align:center;
-line-height:normal'><span style='font-size:12.0pt'><img class="img-fluid rounded-corners mt-3"  border=0 width="431" height="287"
+    <p align=center><span><img class="img-fluid rounded-corners mt-3"  border=0 width="431" height="287"
                 src="./images/productsanalyticsai/demandvalueanalytics/image018.png"></span></p>
+
+    <p><span>&nbsp;</span></p>
 
     <p><b><span style='font-size:13.5pt'>Core
                 Insights:</span></b></p>
 
-    <p><span style='font-size:12.0pt'>Execution
+    <p><span>Execution
             isn’t just “launching”, it is also a structured observation. You need a defined
             timeline, test conditions, a data plan, and a response strategy based on
             outcomes.</span></p>
 
     <ul type=disc>
-        <li><span style='font-size:12.0pt'>Set
+        <li><span>Set
                 up tools to capture both <b>qualitative</b> and <b>quantitative</b>
                 feedback.</span></li>
-        <li><span style='font-size:12.0pt'>Align
+        <li><span>Align
                 team roles so everyone knows how to respond to experiment signals.</span></li>
-        <li><span style='font-size:12.0pt'>Document
+        <li><span>Document
                 every part of the process so you can replicate success—or avoid repeating
                 mistakes.</span></li>
     </ul>
 
-    <p style='margin-bottom:0cm;line-height:normal'><span style='font-size:12.0pt'>&nbsp;</span></p>
-
-    <p><b><i><span style='font-size:
-13.5pt'>Types of Data:</span></i></b></p>
+    
+    <p><b><span style='font-size:
+13.5pt'>Types of Data:</span></b></p>
 
     <ul type=disc>
-        <li><b><i><span style='font-size:
- 12.0pt'>Landing Page Analytics</span></i></b><i><span style='font-size:
- 12.0pt'> – Clicks, scroll depth, sign-ups, bounce rates.</span></i></li>
-        <li><b><i><span style='font-size:
- 12.0pt'>Survey Responses</span></i></b><i><span style='font-size:12.0pt'>
-                    – Post-test interviews or quick forms to capture user sentiment.</span></i></li>
-        <li><b><i><span style='font-size:
- 12.0pt'>Funnel Flow Data</span></i></b><i><span style='font-size:12.0pt'>
-                    – The paths users take after interacting with your test feature or CTA.</span></i></li>
+        <li><b><span style='font-size:
+ 12.0pt'>Landing Page Analytics</span></b><span style='font-size:
+ 12.0pt'> – Clicks, scroll depth, sign-ups, bounce rates.</span></li>
+        <li><b><span style='font-size:
+ 12.0pt'>Survey Responses</span></b><span>
+                    – Post-test interviews or quick forms to capture user sentiment.</span></li>
+        <li><b><span style='font-size:
+ 12.0pt'>Funnel Flow Data</span></b><span>
+                    – The paths users take after interacting with your test feature or CTA.</span></li>
     </ul>
 
-    <p style='margin-bottom:0cm;line-height:normal'><i><span style='font-size:12.0pt'>&nbsp;</span></i></p>
 
-    <p><b><i><span style='font-size:
-13.5pt'>Key Customer Analytics Metrics:</span></i></b></p>
+    <p><b><span style='font-size:
+13.5pt'>Key Customer Analytics Metrics:</span></b></p>
 
     <ul type=disc>
-        <li><b><i><span style='font-size:
- 12.0pt'>Response Rate</span></i></b><i><span style='font-size:12.0pt'> – %
-                    of users engaging with the test (sign-ups, info requests).</span></i></li>
-        <li><b><i><span style='font-size:
- 12.0pt'>Signal Quality</span></i></b><i><span style='font-size:12.0pt'> –
-                    Strength and clarity of data collected during the test.</span></i></li>
-        <li><b><i><span style='font-size:
- 12.0pt'>Actionability Score</span></i></b><i><span style='font-size:12.0pt'>
-                    – How clear the results are for making a confident product decision.</span></i></li>
+        <li><b><span style='font-size:
+ 12.0pt'>Response Rate</span></b><span> – %
+                    of users engaging with the test (sign-ups, info requests).</span></li>
+        <li><b><span style='font-size:
+ 12.0pt'>Signal Quality</span></b><span> –
+                    Strength and clarity of data collected during the test.</span></li>
+        <li><b><span style='font-size:
+ 12.0pt'>Actionability Score</span></b><span>
+                    – How clear the results are for making a confident product decision.</span></li>
     </ul>
 
-    <p style='margin-bottom:0cm;line-height:normal'><i><span style='font-size:12.0pt'>&nbsp;</span></i></p>
 
-    <p><b><i><span style='font-size:
-13.5pt'>AI Applications:</span></i></b></p>
+    <p><b><span style='font-size:
+13.5pt'>AI Applications:</span></b></p>
 
     <ul type=disc>
-        <li><b><i><span style='font-size:
- 12.0pt'>Real-Time Insight Dashboards</span></i></b><i><span style='font-size:12.0pt'> – AI aggregates data from
+        <li><b><span style='font-size:
+ 12.0pt'>Real-Time Insight Dashboards</span></b><span> – AI aggregates data from
                     web, email, chat, and
-                    survey channels, visualising it for rapid decision-making.</span></i></li>
-        <li><b><i><span style='font-size:
- 12.0pt'>Natural Language Feedback Analysis</span></i></b><i><span style='font-size:12.0pt'> – NLP automatically
+                    survey channels, visualising it for rapid decision-making.</span></li>
+        <li><b><span style='font-size:
+ 12.0pt'>Natural Language Feedback Analysis</span></b><span> – NLP automatically
                     categorises free-text survey
-                    responses into themes like excitement, confusion, or scepticism.</span></i></li>
-        <li><b><i><span style='font-size:
- 12.0pt'>Outcome Scenario Modelling</span></i></b><i><span style='font-size:12.0pt'> – Machine learning predicts
+                    responses into themes like excitement, confusion, or scepticism.</span></li>
+        <li><b><span style='font-size:
+ 12.0pt'>Outcome Scenario Modelling</span></b><span> – Machine learning predicts
                     the likely impact of
-                    various next steps, from feature refinement to pricing changes.</span></i></li>
+                    various next steps, from feature refinement to pricing changes.</span></li>
     </ul>
 
     <p style='margin-left:36.0pt;line-height:normal'><span
-            style='font-size:12.0pt;font-family:"Times New Roman",serif'>&nbsp;</span></p>
+            style='font-size:12.0pt;font-family:"Inter",serif'>&nbsp;</span></p>
 
 
 
@@ -7124,10 +6617,10 @@ line-height:normal'><span style='font-size:12.0pt'><img class="img-fluid rounded
             src="./images/productsanalyticsai/demandvalueanalytics/image019.png"
             alt="Make the font size bigger and improve the AI-Enhanced Experiment Lifecycle For DeftAgile"></p>
 
-    <p><b><span style='font-size:12.0pt'>Why
-                This Is Important</span></b><span style='font-size:12.0pt'><br>
+    <p><b><span>Why
+                This Is Important</span></b><span><br>
             Bringing a new product to market does not start with manufacturing, it also
-            starts with <i>testing the right question</i>. At DeftAgile, we use a proven,
+            starts with testing the right question. At DeftAgile, we use a proven,
             AI-enhanced lifecycle that moves from design to execution, insight, and
             iteration. This ensures every decision is grounded in validated learning, not
             guesswork.</span></p>
@@ -7138,109 +6631,107 @@ line-height:normal'><span style='font-size:12.0pt'><img class="img-fluid rounded
     <p><b><span style='font-size:13.5pt'>1
                 Experiment Design</span></b></p>
 
-    <p><span style='font-size:12.0pt'>You
+    <p><span>You
             don’t need a finished product to ask a powerful question. We design lean,
             high-signal experiments to measure <b>real demand</b> and interest before
             committing to full production.</span></p>
 
     <ul type=disc>
-        <li><span style='font-size:12.0pt'>Define
+        <li><span>Define
                 <b>target user</b> profiles (e.g., industrial designers, product
                 managers).</span></li>
-        <li><span style='font-size:12.0pt'>Frame
+        <li><span>Frame
                 the demand hypothesis around <b>value</b>, not features.</span></li>
-        <li><span style='font-size:12.0pt'>Measure
+        <li><span>Measure
                 early indicators like clicks, sign-ups, or demo requests.</span></li>
     </ul>
 
-    <p><b><span style='font-size:12.0pt'>AI
-                Superpower:</span></b><span style='font-size:12.0pt'> Audience profiling and
+    <p><b><span>AI
+                Superpower:</span></b><span> Audience profiling and
             language optimisation to ensure the right message hits the right segment.</span></p>
 
     <p><b><span style='font-size:13.5pt'>2
                 Experiment Execution</span></b></p>
 
-    <p><span style='font-size:12.0pt'>Execution
+    <p><span>Execution
             is more than just the launch; it is also about a structured observation.</span></p>
 
     <ul type=disc>
-        <li><span style='font-size:12.0pt'>Run
+        <li><span>Run
                 the test with clearly defined conditions and timelines.</span></li>
-        <li><span style='font-size:12.0pt'>Capture
+        <li><span>Capture
                 both quantitative and qualitative feedback.</span></li>
-        <li><span style='font-size:12.0pt'>Align
+        <li><span>Align
                 team roles for rapid response to signals.</span></li>
     </ul>
 
-    <p><b><span style='font-size:12.0pt'>AI
-                Superpower:</span></b><span style='font-size:12.0pt'> Real-time dashboards,
+    <p><b><span>AI
+                Superpower:</span></b><span> Real-time dashboards,
             natural language feedback analysis, and outcome scenario modelling.</span></p>
 
     <p><b><span style='font-size:13.5pt'>3
                 Insight Gathering</span></b></p>
 
-    <p><span style='font-size:12.0pt'>This
+    <p><span>This
             is where data becomes decision-making fuel.</span></p>
 
     <ul type=disc>
-        <li><span style='font-size:12.0pt'>Analyse
+        <li><span>Analyse
                 both numerical trends and contextual feedback.</span></li>
-        <li><span style='font-size:12.0pt'>Segment
+        <li><span>Segment
                 results by role, industry, or behaviour.</span></li>
-        <li><span style='font-size:12.0pt'>Identify
+        <li><span>Identify
                 validated learning that can be applied immediately.</span></li>
     </ul>
 
-    <p><b><span style='font-size:12.0pt'>AI
-                Superpower:</span></b><span style='font-size:12.0pt'> Predictive analytics to
+    <p><b><span>AI
+                Superpower:</span></b><span> Predictive analytics to
             highlight hidden opportunities or risks before scaling.</span></p>
 
     <p><b><span style='font-size:13.5pt'>4
                 Iteration &amp; Refinement</span></b></p>
 
-    <p><span style='font-size:12.0pt'>We
+    <p><span>We
             turn insights into next steps—quickly.</span></p>
 
     <ul type=disc>
-        <li><span style='font-size:12.0pt'>Refine
+        <li><span>Refine
                 product features, messaging, or positioning.</span></li>
-        <li><span style='font-size:12.0pt'>Plan
+        <li><span>Plan
                 the next experiment to confirm adjustments.</span></li>
-        <li><span style='font-size:12.0pt'>Keep
+        <li><span>Keep
                 learning cycles short to stay ahead of the market.</span></li>
     </ul>
 
-    <p><b><span style='font-size:12.0pt'>AI
-                Superpower:</span></b><span style='font-size:12.0pt'> Simulation tools to
+    <p><b><span>AI
+                Superpower:</span></b><span> Simulation tools to
             forecast the impact of proposed changes before they go live.</span></p>
-
-    <p style='margin-bottom:0cm;line-height:normal'><span style='font-size:12.0pt'>&nbsp;</span></p>
 
     <p><b><span style='font-size:13.5pt'>Case
                 Example: Modular AI-Powered Design Tablet</span></b></p>
 
     <ul type=disc>
-        <li><b><span style='font-size:12.0pt'>Design:</span></b><span style='font-size:12.0pt'> Created a concept
+        <li><b><span>Design:</span></b><span> Created a concept
                 landing page with targeted
                 messaging for designers vs. managers.</span></li>
-        <li><b><span style='font-size:12.0pt'>Execution:</span></b><span style='font-size:12.0pt'> AI-monitored
+        <li><b><span>Execution:</span></b><span> AI-monitored
                 sign-ups and behaviour flow.</span></li>
-        <li><b><span style='font-size:12.0pt'>Insight:</span></b><span style='font-size:12.0pt'> High interest from
+        <li><b><span>Insight:</span></b><span> High interest from
                 designers; managers needed
                 clearer ROI framing.</span></li>
-        <li><b><span style='font-size:12.0pt'>Iteration:</span></b><span style='font-size:12.0pt'> Refined messaging
+        <li><b><span>Iteration:</span></b><span> Refined messaging
                 to highlight productivity
                 gains for managers before full launch.</span></li>
     </ul>
 
     <p><b><span style='font-size:12.0pt;
-font-family:"Times New Roman",serif'>In a Nutshell</span></b><span
-            style='font-size:12.0pt;font-family:"Times New Roman",serif'><br>
+font-family:"Inter",serif'>In a Nutshell</b><span
+            style='font-size:12.0pt;font-family:"Inter",serif'><br>
         </span>With this lifecycle, you are not gambling on product-market fit, you are
         engineering it. AI doesn’t just make the process faster; it makes it smarter,
         sharper, and far more likely to succeed.</p>
 
-    <p><i>&nbsp;</i></p>
+    <p>&nbsp;</p>
 
     <h2 align=center id="productanalyticsai-demand-value-analytics-diverging-your-ideas-with-generative-ai">
         Diverging Your
@@ -7261,93 +6752,87 @@ font-family:"Times New Roman",serif'>In a Nutshell</span></b><span
     <p align=center style='text-align:center'><img class="img-fluid rounded-corners mt-3"  border=0 width="431" height="287" id="Picture 854529718"
             src="./images/productsanalyticsai/demandvalueanalytics/image020.jpg" alt="Generated image"></p>
 
-    <p><b><i><span style='font-size:
-12.0pt'>Core Insights:</span></i></b></p>
+    <p><b><span style='font-size:
+12.0pt'>Core Insights:</span></b></p>
 
-    <p><i><span style='font-size:12.0pt'>Divergent
+    <p><span>Divergent
                 thinking is the first step in innovation. Rather than optimising too early,
-                generative AI enables you to explore a broader set of ideas fast.</span></i></p>
+                generative AI enables you to explore a broader set of ideas fast.</span></p>
 
     <ul type=disc>
-        <li><i><span style='font-size:12.0pt'>Use
+        <li><span>Use
                     AI as a co-pilot to brainstorm new solutions, not just refine existing
-                    ones.</span></i></li>
-        <li><i><span style='font-size:12.0pt'>Frame
+                    ones.</span></li>
+        <li><span>Frame
                     your prompt with the hypothesis or problem in mind (e.g., “How might
-                    we…”).</span></i></li>
-        <li><i><span style='font-size:12.0pt'>Encourage
-                    quantity over quality in early stages, filter and converge later.</span></i></li>
+                    we…”).</span></li>
+        <li><span>Encourage
+                    quantity over quality in early stages, filter and converge later.</span></li>
     </ul>
 
-    <p><b><i><span style='font-size:
-12.0pt'>Types of Data:</span></i></b></p>
+    <p><b><span style='font-size:
+12.0pt'>Types of Data:</span></b></p>
 
     <ul type=disc>
-        <li><b><i><span style='font-size:
- 12.0pt'>Prompt Logs</span></i></b><i><span style='font-size:12.0pt'> –
-                    Track what types of prompts generate the most useful ideas.</span></i></li>
-        <li><b><i><span style='font-size:
- 12.0pt'>Theme Clusters</span></i></b><i><span style='font-size:12.0pt'> –
-                    Analyse AI-generated ideas for patterns (categories, tone, audience).</span></i></li>
-        <li><b><i><span style='font-size:
- 12.0pt'>Team Preference Feedback</span></i></b><i><span style='font-size:
- 12.0pt'> – Capture human response to different AI-suggested directions.</span></i></li>
+        <li><b><span style='font-size:
+ 12.0pt'>Prompt Logs</span></b><span> –
+                    Track what types of prompts generate the most useful ideas.</span></li>
+        <li><b><span style='font-size:
+ 12.0pt'>Theme Clusters</span></b><span> –
+                    Analyse AI-generated ideas for patterns (categories, tone, audience).</span></li>
+        <li><b><span style='font-size:
+ 12.0pt'>Team Preference Feedback</span></b><span style='font-size:
+ 12.0pt'> – Capture human response to different AI-suggested directions.</span></li>
     </ul>
 
-    <p><b><i><span style='font-size:
-12.0pt'>Key Innovation Metrics:</span></i></b></p>
+    <p><b><span style='font-size:
+12.0pt'>Key Innovation Metrics:</span></b></p>
 
     <ul type=disc>
-        <li><b><i><span style='font-size:
- 12.0pt'>Idea Diversity Index</span></i></b><i><span style='font-size:12.0pt'>:
-                    Measures uniqueness and spread of AI-generated outputs.</span></i></li>
-        <li><b><i><span style='font-size:
- 12.0pt'>Prompt-to-Insight Ratio</span></i></b><i><span style='font-size:
- 12.0pt'>: How many useful ideas are generated per prompt iteration.</span></i></li>
-        <li><b><i><span style='font-size:
- 12.0pt'>Adoption Potential Score</span></i></b><i><span style='font-size:
- 12.0pt'>: Rate of team consensus or customer resonance with new ideas.</span></i></li>
+        <li><b><span style='font-size:
+ 12.0pt'>Idea Diversity Index</span></b><span>:
+                    Measures uniqueness and spread of AI-generated outputs.</span></li>
+        <li><b><span style='font-size:
+ 12.0pt'>Prompt-to-Insight Ratio</span></b><span style='font-size:
+ 12.0pt'>: How many useful ideas are generated per prompt iteration.</span></li>
+        <li><b><span style='font-size:
+ 12.0pt'>Adoption Potential Score</span></b><span style='font-size:
+ 12.0pt'>: Rate of team consensus or customer resonance with new ideas.</span></li>
     </ul>
 
-    <p><b><i><span style='font-size:
-12.0pt'>AI Applications:</span></i></b></p>
+    <p><b><span style='font-size:
+12.0pt'>AI Applications:</span></b></p>
 
     <ul type=disc>
-        <li><b><i><span style='font-size:
- 12.0pt'>Prompt Engineering Templates</span></i></b><i><span style='font-size:12.0pt'>: Structured prompts help
+        <li><b><span style='font-size:
+ 12.0pt'>Prompt Engineering Templates</span></b><span>: Structured prompts help
                     guide idea generation
-                    for different personas or problem types.</span></i></li>
-        <li><b><i><span style='font-size:
- 12.0pt'>Idea Clustering</span></i></b><i><span style='font-size:12.0pt'>:
+                    for different personas or problem types.</span></li>
+        <li><b><span style='font-size:
+ 12.0pt'>Idea Clustering</span></b><span>:
                     AI groups suggestions thematically so teams can spot gaps or themes
-                    faster.</span></i></li>
-        <li><b><i><span style='font-size:
- 12.0pt'>Rapid Validation Pairing</span></i></b><i><span style='font-size:
+                    faster.</span></li>
+        <li><b><span style='font-size:
+ 12.0pt'>Rapid Validation Pairing</span></b><span style='font-size:
  12.0pt'>: Combine AI idea generation with automated validation tools
-                    (e.g., landing page builder + analytics).</span></i></li>
+                    (e.g., landing page builder + analytics).</span></li>
     </ul>
 
-    <p align=center style='text-align:center;line-height:
-normal'><b>Practical Steps for Product Managers</b></p>
-    <ul>
-        <li>Use
-            prompts to generate a wide range of UX patterns or value props.</li>
+    <h3 align=center>Practical Steps for Product Managers</h3>
+    
+    <p>a)<span>&nbsp;</span><span>Use prompts to generate a wide range of UX patterns or value props.</span></p>
+    <p>b)<span>&nbsp;</span><span>Involve your team in <strong><span style='font-family:"Inter",sans-serif'>AI-driven
+                    ideation sprints.</span></strong></span></p>
+    <p>c)<span>&nbsp;</span><span>Cluster AI-generated ideas into themes to test.</span></p>
+    <p>d)<span>&nbsp;</span><span>Use these outputs to refresh the backlog and unlock bold experiments.</span></p>
 
-        <li>Involve
-            your team in <strong><span style='font-family:"Calibri",sans-serif'>AI-driven
-                    ideation sprints.</span></strong></li>
+    <p><span>&nbsp;</span></p>
 
-        <li>Cluster
-            AI-generated ideas into themes to test.</li>
-
-        <li>Use
-            these outputs to refresh the backlog and unlock bold experiments.</li>
-    </ul>
-    <p><span style='font-size:11.0pt;font-family:"Calibri",sans-serif'>Demand &amp;
+    <p><span>Demand &amp;
             Value Analytics is all about proving people actually want and will pay for, not
             to mention what you’re planning to build. It frames the demand/value hypothesis
-            as a simple but powerful tool: <i>If we offer X to Y audience, they’ll do Z
-                because it solves a meaningful problem.</i> The strongest point is that you can
+            as a simple but powerful tool: If we offer X to Y audience, they’ll do Z
+                because it solves a meaningful problem. The strongest point is that you can
             test this early and cheaply through landing pages, fake features, pre-orders,
             or limited campaigns before making big investments. It leans heavily on Lean
             Startup thinking, advocating small, rapid experiments that validate your
@@ -7355,7 +6840,7 @@ normal'><b>Practical Steps for Product Managers</b></p>
             there’s no demand. Use analytics, AI-driven sentiment analysis, and MVP
             experiments to spot the winners early and cut what won’t work.</span></p>
 
-    <p><span style='font-size:11.0pt;font-family:"Calibri",sans-serif'>&nbsp;</span></p>
+    <p><span>&nbsp;</span></p>
         
     <p>&nbsp;</p>            
 
@@ -7364,6 +6849,11 @@ normal'><b>Practical Steps for Product Managers</b></p>
                         
     <h2 align=center id="productanalyticsai-usability-analytics-usability-hypothesis">Usability Hypothesis (Is Our
         Interface Easy to Use?)</h2>
+
+    <p align="center">
+        <img class="img-fluid rounded-corners mt-3" border="0" width="600" height="300"
+            src="./images/productsanalyticsai/usabilityanalytics/image000.png">
+    </p>
 
     <p>A Usability Hypothesis is a statement that outlines
         assumptions or expectations about the usability of a product, system, or
@@ -7375,47 +6865,46 @@ normal'><b>Practical Steps for Product Managers</b></p>
     <p><b>Here's a breakdown of the components of a Usability
             Hypothesis</b>:</p>
 
-    <p>a)<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp; </span><b>Usability
+    <p>a)<span>&nbsp;&nbsp;&nbsp;&nbsp; </span><b>Usability
             Aspect</b>:</p>
 
-    <p><i>What specific aspect of usability are
+    <p>What specific aspect of usability are
             you addressing? (e.g., navigation, information architecture, task efficiency,
-            etc.)</i></p>
+            etc.)</p>
 
-    <p>b)<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp; </span><b>User
+    <p>b)<span>&nbsp;&nbsp;&nbsp;&nbsp; </span><b>User
             Persona or Audience</b>:</p>
 
-    <p><i>Who are the target users or audience for
-            the Ecommerce website?</i></p>
+    <p>Who are the target users or audience for
+            the Ecommerce website?</p>
 
-    <p>c)<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp; </span><b>Expected
+    <p>c)<span>&nbsp;&nbsp;&nbsp;&nbsp; </span><b>Expected
             Outcome</b>:</p>
 
-    <p><i>What is the expected improvement or
-            impact on usability that you anticipate?</i></p>
+    <p>What is the expected improvement or
+            impact on usability that you anticipate?</p>
 
-    <p>d)<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp; </span><b>Assumptions</b>:</p>
+    <p>d)<span>&nbsp;&nbsp;&nbsp;&nbsp; </span><b>Assumptions</b>:</p>
 
-    <p><i>What assumptions are you making about
-            user behaviour, preferences, or needs related to the usability aspect?</i></p>
+    <p>What assumptions are you making about
+            user behaviour, preferences, or needs related to the usability aspect?</p>
 
-    <p><b>e)<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp; </span></b><b>Measurement
+    <p><b>e)<span>&nbsp;&nbsp;&nbsp;&nbsp; </span></b><b>Measurement
             Metrics:</b></p>
 
-    <p><i>How will you measure the usability of
+    <p>How will you measure the usability of
             the product or system? (e.g., completion rates, time on task, error rates, user
-            satisfaction scores, etc.)</i></p>
+            satisfaction scores, etc.)</p>
 
-    <p><b><i>f)<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-                </span></i></b><b><i>Testing
-                and Validation:</i></b></p>
+    <p><b>f)<span>&nbsp;</span></b><b>Testing
+                and Validation:</b></p>
 
-    <p><i>What methods or tests will be used to
-            assess and validate the usability hypothesis?</i></p>
+    <p>What methods or tests will be used to
+            assess and validate the usability hypothesis?</p>
 
     <p><b>Here's an example of a Usability Hypothesis</b>:</p>
 
-    <p><i>&quot;For our e-commerce website, we hypothesise that by
+    <p>&quot;For our e-commerce website, we hypothesise that by
             improving the navigation and simplifying the checkout process (<b>including
                 landing pages</b>), we will see a 60% increase in the conversion rates of the
             purchasing process among our target users (<b>Miles the Miser</b>). We assume
@@ -7424,7 +6913,7 @@ normal'><b>Practical Steps for Product Managers</b></p>
             We will measure success by tracking conversion rates and collecting user
             feedback through usability testing sessions. Testing will involve iterative
             design changes and user observations to validate our hypothesis. (<b>Discount
-                Usability</b></i>)&quot;</p>
+                Usability</b>)&quot;</p>
 
     <p>This hypothesis serves as a guide for usability testing and
         design improvements. It helps the team focus on specific aspects of the user
@@ -7444,265 +6933,265 @@ normal'><b>Practical Steps for Product Managers</b></p>
         matters. And that’s when your product work gets sharper, faster, and way more
         focused</p>
 
-    <p><strong><span style='font-size:11.0pt;font-family:"Calibri",sans-serif'>Calendly</span></strong><span
-            style='font-size:11.0pt;font-family:"Calibri",sans-serif'> was trying to
+    <p><strong><span>Calendly</span></strong><span
+            > was trying to
             improve onboarding success. Rather than tracking time spent or bounce rate,
             they focused on a dependent variable: “first event successfully scheduled.”
             Using GA + ML overlays, they discovered that users who watched the short
             explainer video were twice as likely to reach this outcome. They moved the
             video up in the flow and increased completion of that goal by 22%.</span></p>
 
-    <p><span style='font-size:11.0pt;font-family:"Calibri",sans-serif'>identifying </span><strong><span
-                style='font-size:11.0pt;font-family:"Calibri",sans-serif'>dependent variables</span></strong><span
-            style='font-size:11.0pt;font-family:"Calibri",sans-serif'> that reflect actual
+    <p><span>identifying </span><strong><span
+                >dependent variables</span></strong><span
+            > that reflect actual
             product outcomes. When teams focus on the right dependent variables in tools
             like Google Analytics, they stop measuring noise and start tracking meaningful
             change.</span></p>
 
-    <p><i><span style='font-size:11.0pt;font-family:"Calibri",sans-serif'>SaaS
-                Product Variables Table</span></i></p>
+    <p><span>SaaS Product Variables Table</span></p>
 
-    <table class=MsoTableGrid border=0 cellspacing=0 cellpadding=0 style='border-collapse:collapse;border:none'>
+    <table class='table'>
+        <thead class='table-light'>
         <tr>
-            <td valign=top style='padding:0cm 5.4pt 0cm 5.4pt'>
-                <p align=center style='margin-bottom:0cm;text-align:center;
-line-height:normal'><b><span style='font-size:12.0pt'>Category</span></b></p>
+            <td>
+                <p align=center><b><span>Category</span></b></p>
             </td>
-            <td valign=top style='padding:0cm 5.4pt 0cm 5.4pt'>
-                <p align=center style='margin-bottom:0cm;text-align:center;
-line-height:normal'><b><span style='font-size:12.0pt'>Independent Variables
+            <td>
+                <p align=center><b><span>Independent Variables
                             (Inputs)</span></b></p>
             </td>
-            <td valign=top style='padding:0cm 5.4pt 0cm 5.4pt'>
-                <p align=center style='margin-bottom:0cm;text-align:center;
-line-height:normal'><b><span style='font-size:12.0pt'>Dependent Variables
+            <td>
+                <p align=center><b><span>Dependent Variables
                             (Outcomes)</span></b></p>
             </td>
         </tr>
+        </thead>
+        <tbody>
         <tr>
-            <td valign=top style='padding:0cm 5.4pt 0cm 5.4pt'>
-                <p style='margin-bottom:0cm;line-height:normal'><b>Onboarding
+            <td>
+                <p><b>Onboarding
                         Experience</b></p>
             </td>
-            <td valign=top style='padding:0cm 5.4pt 0cm 5.4pt'>
-                <p style='margin-bottom:0cm;line-height:normal'>Onboarding
+            <td>
+                <p>Onboarding
                     flow design.</p>
-                <p style='margin-bottom:0cm;line-height:normal'>Tooltips
+                <p>Tooltips
                     &amp; walkthroughs.</p>
-                <p style='margin-bottom:0cm;line-height:normal'>Signup fields
+                <p>Signup fields
                     required.</p>
             </td>
-            <td valign=top style='padding:0cm 5.4pt 0cm 5.4pt'>
-                <p style='margin-bottom:0cm;line-height:normal'>Time to first
+            <td>
+                <p>Time to first
                     value.</p>
-                <p style='margin-bottom:0cm;line-height:normal'>Signup
+                <p>Signup
                     completion rate.</p>
             </td>
         </tr>
         <tr>
-            <td valign=top style='padding:0cm 5.4pt 0cm 5.4pt'>
-                <p style='margin-bottom:0cm;line-height:normal'><b>Pricing
+            <td>
+                <p><b>Pricing
                         Strategy</b></p>
             </td>
-            <td valign=top style='padding:0cm 5.4pt 0cm 5.4pt'>
-                <p style='margin-bottom:0cm;line-height:normal'>Tier
+            <td>
+                <p>Tier
                     structure.</p>
-                <p style='margin-bottom:0cm;line-height:normal'>Freemium
+                <p>Freemium
                     model presence.</p>
-                <p style='margin-bottom:0cm;line-height:normal'>Annual
+                <p>Annual
                     discounting.</p>
             </td>
-            <td valign=top style='padding:0cm 5.4pt 0cm 5.4pt'>
-                <p style='margin-bottom:0cm;line-height:normal'>Conversion to
+            <td>
+                <p>Conversion to
                     paid.</p>
-                <p style='margin-bottom:0cm;line-height:normal'>Revenue per
+                <p>Revenue per
                     user (ARPU).</p>
             </td>
         </tr>
         <tr>
-            <td valign=top style='padding:0cm 5.4pt 0cm 5.4pt'>
-                <p style='margin-bottom:0cm;line-height:normal'><b>Product
+            <td>
+                <p><b>Product
                         Features</b></p>
             </td>
-            <td valign=top style='padding:0cm 5.4pt 0cm 5.4pt'>
-                <p style='margin-bottom:0cm;line-height:normal'>Feature
+            <td>
+                <p>Feature
                     release cadence.</p>
-                <p style='margin-bottom:0cm;line-height:normal'>Personalisation
+                <p>Personalisation
                     options.</p>
-                <p style='margin-bottom:0cm;line-height:normal'>API
+                <p>API
                     availability.</p>
             </td>
-            <td valign=top style='padding:0cm 5.4pt 0cm 5.4pt'>
-                <p style='margin-bottom:0cm;line-height:normal'>Feature
+            <td>
+                <p>Feature
                     adoption rate.</p>
-                <p style='margin-bottom:0cm;line-height:normal'>Session
+                <p>Session
                     frequency.</p>
             </td>
         </tr>
         <tr>
-            <td valign=top style='padding:0cm 5.4pt 0cm 5.4pt'>
-                <p style='margin-bottom:0cm;line-height:normal'><b>User
+            <td>
+                <p><b>User
                         Engagement</b></p>
             </td>
-            <td valign=top style='padding:0cm 5.4pt 0cm 5.4pt'>
-                <p style='margin-bottom:0cm;line-height:normal'>Email
+            <td>
+                <p>Email
                     notification frequency.</p>
-                <p style='margin-bottom:0cm;line-height:normal'>In-app nudges.</p>
-                <p style='margin-bottom:0cm;line-height:normal'>Gamification elements.</p>
+                <p>In-app nudges.</p>
+                <p>Gamification elements.</p>
             </td>
-            <td valign=top style='padding:0cm 5.4pt 0cm 5.4pt'>
-                <p style='margin-bottom:0cm;line-height:normal'>Daily active
+            <td>
+                <p>Daily active
                     users (DAU).</p>
-                <p style='margin-bottom:0cm;line-height:normal'>Retention
+                <p>Retention
                     rate.</p>
             </td>
         </tr>
         <tr>
-            <td valign=top style='padding:0cm 5.4pt 0cm 5.4pt'>
-                <p style='margin-bottom:0cm;line-height:normal'><b>Support
+            <td>
+                <p><b>Support
                         Systems</b></p>
             </td>
-            <td valign=top style='padding:0cm 5.4pt 0cm 5.4pt'>
-                <p style='margin-bottom:0cm;line-height:normal'>Knowledge
+            <td>
+                <p>Knowledge
                     base depth.</p>
-                <p style='margin-bottom:0cm;line-height:normal'>Chatbot vs
+                <p>Chatbot vs
                     live support.</p>
-                <p style='margin-bottom:0cm;line-height:normal'>Response time.</p>
+                <p>Response time.</p>
             </td>
-            <td valign=top style='padding:0cm 5.4pt 0cm 5.4pt'>
-                <p style='margin-bottom:0cm;line-height:normal'>Ticket
+            <td>
+                <p>Ticket
                     deflection rate.</p>
-                <p style='margin-bottom:0cm;line-height:normal'>CSAT
+                <p>CSAT
                     (Customer Satisfaction).</p>
             </td>
         </tr>
         <tr>
-            <td valign=top style='padding:0cm 5.4pt 0cm 5.4pt'>
-                <p style='margin-bottom:0cm;line-height:normal'><b>Performance
+            <td>
+                <p><b>Performance
                         &amp; Reliability</b></p>
             </td>
-            <td valign=top style='padding:0cm 5.4pt 0cm 5.4pt'>
-                <p style='margin-bottom:0cm;line-height:normal'>Uptime SLA.</p>
-                <p style='margin-bottom:0cm;line-height:normal'>Page load
+            <td>
+                <p>Uptime SLA.</p>
+                <p>Page load
                     speed.</p>
-                <p style='margin-bottom:0cm;line-height:normal'>Error message
+                <p>Error message
                     clarity.</p>
             </td>
-            <td valign=top style='padding:0cm 5.4pt 0cm 5.4pt'>
-                <p style='margin-bottom:0cm;line-height:normal'>Net Promoter
+            <td>
+                <p>Net Promoter
                     Score (NPS).</p>
-                <p style='margin-bottom:0cm;line-height:normal'>Churn rate.</p>
+                <p>Churn rate.</p>
             </td>
         </tr>
         <tr>
-            <td valign=top style='padding:0cm 5.4pt 0cm 5.4pt'>
-                <p style='margin-bottom:0cm;line-height:normal'><b>Marketing
+            <td>
+                <p><b>Marketing
                         &amp; Acquisition</b></p>
             </td>
-            <td valign=top style='padding:0cm 5.4pt 0cm 5.4pt'>
-                <p style='margin-bottom:0cm;line-height:normal'>Campaign targeting.</p>
-                <p style='margin-bottom:0cm;line-height:normal'>Ad copy.</p>
-                <p style='margin-bottom:0cm;line-height:normal'>Channel
+            <td>
+                <p>Campaign targeting.</p>
+                <p>Ad copy.</p>
+                <p>Channel
                     diversification.</p>
             </td>
-            <td valign=top style='padding:0cm 5.4pt 0cm 5.4pt'>
-                <p style='margin-bottom:0cm;line-height:normal'>Lead
+            <td>
+                <p>Lead
                     conversion rate.</p>
-                <p style='margin-bottom:0cm;line-height:normal'>CAC (Customer
+                <p>CAC (Customer
                     Acquisition Cost).</p>
             </td>
         </tr>
         <tr>
-            <td valign=top style='padding:0cm 5.4pt 0cm 5.4pt'>
-                <p style='margin-bottom:0cm;line-height:normal'><b>Billing
+            <td>
+                <p><b>Billing
                         &amp; Compliance</b></p>
             </td>
-            <td valign=top style='padding:0cm 5.4pt 0cm 5.4pt'>
-                <p style='margin-bottom:0cm;line-height:normal'>Payment
+            <td>
+                <p>Payment
                     gateway options.</p>
-                <p style='margin-bottom:0cm;line-height:normal'>Invoice
+                <p>Invoice
                     frequency.</p>
-                <p style='margin-bottom:0cm;line-height:normal'>Data security
+                <p>Data security
                     policies.</p>
             </td>
-            <td valign=top style='padding:0cm 5.4pt 0cm 5.4pt'>
-                <p style='margin-bottom:0cm;line-height:normal'>Payment
+            <td>
+                <p>Payment
                     success rate.</p>
-                <p style='margin-bottom:0cm;line-height:normal'>Customer
+                <p>Customer
                     trust &amp; renewal rate.</p>
             </td>
         </tr>
         <tr>
-            <td valign=top style='padding:0cm 5.4pt 0cm 5.4pt'>
-                <p style='margin-bottom:0cm;line-height:normal'><b>Trial Experience</b></p>
+            <td>
+                <p><b>Trial Experience</b></p>
             </td>
-            <td valign=top style='padding:0cm 5.4pt 0cm 5.4pt'>
-                <p style='margin-bottom:0cm;line-height:normal'>Trial length.</p>
-                <p style='margin-bottom:0cm;line-height:normal'>Feature
+            <td>
+                <p>Trial length.</p>
+                <p>Feature
                     access during trial.</p>
-                <p style='margin-bottom:0cm;line-height:normal'>Follow-up
+                <p>Follow-up
                     strategy.</p>
             </td>
-            <td valign=top style='padding:0cm 5.4pt 0cm 5.4pt'>
-                <p style='margin-bottom:0cm;line-height:normal'>Trial-to-paid
+            <td>
+                <p>Trial-to-paid
                     conversion.</p>
-                <p style='margin-bottom:0cm;line-height:normal'>User feedback
+                <p>User feedback
                     score.</p>
             </td>
         </tr>
+        </tbody>
     </table>
 
-    <p><b><i>Core Insights</i></b></p>
+    <p><b>Core Insights</b></p>
 
     <ul type=disc>
-        <li><i>A <b>dependent variable</b>
+        <li>A <b>dependent variable</b>
                 is the thing you want to influence like signups, conversion rate, or task
-                completion.</i></li>
-        <li><i>It must be measurable,
-                directly impacted by product changes, and tightly aligned to user value.</i></li>
-        <li><i>The right variable makes
-                experiments, A/B tests, and usability improvements clear and focused.</i></li>
+                completion.</li>
+        <li>It must be measurable,
+                directly impacted by product changes, and tightly aligned to user value.</li>
+        <li>The right variable makes
+                experiments, A/B tests, and usability improvements clear and focused.</li>
     </ul>
 
-    <p><b><i>Type of Data</i></b></p>
+    <p><b>Type of Data</b></p>
 
     <ul type=disc>
-        <li><b><i>Outcome Metrics</i></b><i>:
-                Account activations, demo bookings, trial-to-paid conversions.</i></li>
-        <li><b><i>Interaction Data</i></b><i>:
-                Completion of flows (onboarding, payment, configuration).</i></li>
-        <li><i> <b>Behavioural Segments</b>:
-                Who completed vs. who didn’t—and how they behaved differently.</i></li>
+        <li><b>Outcome Metrics</b>:
+                Account activations, demo bookings, trial-to-paid conversions.</li>
+        <li><b>Interaction Data</b>:
+                Completion of flows (onboarding, payment, configuration).</li>
+        <li> <b>Behavioural Segments</b>:
+                Who completed vs. who didn’t—and how they behaved differently.</li>
     </ul>
 
-    <p><b><i>Key Usability Analytics
-                Metric</i></b></p>
+    <p><b>Key Usability Analytics
+                Metric</b></p>
 
     <ul type=disc>
-        <li><b><i>Conversion Funnel
-                    Completion Rate</i></b><i>: Tracks how many users successfully move
-                through a goal-oriented sequence.</i></li>
-        <li><b><i>Delta After Change</i></b><i>:
+        <li><b>Conversion Funnel
+                    Completion Rate</b>: Tracks how many users successfully move
+                through a goal-oriented sequence.</li>
+        <li><b>Delta After Change</b>:
                 Measures improvement (or regression) in the dependent variable
-                post-feature release.</i></li>
-        <li><b><i>Abandonment by Segment</i></b><i>:
-                Which types of users aren’t making it through, and where do they drop off?</i></li>
+                post-feature release.</li>
+        <li><b>Abandonment by Segment</b>:
+                Which types of users aren’t making it through, and where do they drop off?</li>
     </ul>
 
-    <p><b><i>AI Application</i></b></p>
+    <p><b>AI Application</b></p>
 
     <ul type=disc>
-        <li><b><i>Automatic Variable
-                    Mapping</i></b><i>: AI helps link events to business-relevant outcomes.</i></li>
-        <li><b><i>Change Impact Modelling</i></b><i>:
+        <li><b>Automatic Variable
+                    Mapping</b>: AI helps link events to business-relevant outcomes.</li>
+        <li><b>Change Impact Modelling</b>:
                 ML identifies which UI changes correlate most strongly with movement in
-                dependent variables.</i></li>
-        <li><b><i>User Journey Comparison</i></b><i>:
+                dependent variables.</li>
+        <li><b>User Journey Comparison</b>:
                 AI detects subtle differences in paths between converters and
-                non-converters</i></li>
+                non-converters</li>
     </ul>
 
-    <p><i><span style='font-size:11.0pt;font-family:"Calibri",sans-serif'>&nbsp;</span></i></p>
+    <p><span>&nbsp;</span></p>
 
     <h2 align=center id="productanalyticsai-usability-analytics-google-analytics-for-usability">Google Analytics for
         Usability</h2>
@@ -7715,74 +7204,74 @@ line-height:normal'><b><span style='font-size:12.0pt'>Dependent Variables
         events, clear goals, and a little curiosity go a long way. And when you keep it
         simple, your team actually uses the data every day.</p>
 
-    <p><strong><span style='font-family:"Calibri",sans-serif'>Typeform</span></strong>
+    <p><strong><span style='font-family:"Inter",sans-serif'>Typeform</span></strong>
         needed to track which users were successfully launching their first survey.
         Instead of implementing complex GA setups, they focused on a minimal set of
         events: form started, form saved, form shared. This clarity let their team
         respond faster when “form shared” rates dipped—leading to a cleaner CTA
         redesign and a 16% improvement in share completions.</p>
 
-    <p><b><i><span style='font-size:
-12.0pt'>Core Insights</span></i></b></p>
+    <p><b><span style='font-size:
+12.0pt'>Core Insights</span></b></p>
 
     <ul type=disc>
-        <li><i><span style='font-size:12.0pt'>Google
+        <li><span>Google
                     Analytics is most valuable when you treat it as a behavioural listening
-                    tool and not just a traffic counter.</span></i></li>
-        <li><i><span style='font-size:12.0pt'>You
+                    tool and not just a traffic counter.</span></li>
+        <li><span>You
                     don’t need every event or dimension, just the ones that tie directly to
-                    your product’s value moments.</span></i></li>
-        <li><i><span style='font-size:12.0pt'>Use
+                    your product’s value moments.</span></li>
+        <li><span>Use
                     it to support simple questions: “Are users doing the thing we expect them
-                    to do?”</span></i></li>
+                    to do?”</span></li>
     </ul>
 
-    <p><b><i><span style='font-size:
-12.0pt'>Type of Data</span></i></b></p>
+    <p><b><span style='font-size:
+12.0pt'>Type of Data</span></b></p>
 
     <ul type=disc>
-        <li><b><i><span style='font-size:
- 12.0pt'>Pageview and Screen view Events</span></i></b><i><span style='font-size:12.0pt'>: Where users land, what
-                    they skip.</span></i></li>
-        <li><b><i><span style='font-size:
- 12.0pt'>Custom Events</span></i></b><i><span style='font-size:12.0pt'>:
-                    Button clicks, form submissions, error triggers.</span></i></li>
-        <li><b><i><span style='font-size:
- 12.0pt'>Flow Navigation Data</span></i></b><i><span style='font-size:12.0pt'>:
-                    Step-by-step journey through a user goal.</span></i></li>
+        <li><b><span style='font-size:
+ 12.0pt'>Pageview and Screen view Events</span></b><span>: Where users land, what
+                    they skip.</span></li>
+        <li><b><span style='font-size:
+ 12.0pt'>Custom Events</span></b><span>:
+                    Button clicks, form submissions, error triggers.</span></li>
+        <li><b><span style='font-size:
+ 12.0pt'>Flow Navigation Data</span></b><span>:
+                    Step-by-step journey through a user goal.</span></li>
     </ul>
 
-    <p><b><i><span style='font-size:
-12.0pt'>Key Usability Analytics Metric</span></i></b></p>
+    <p><b><span style='font-size:
+12.0pt'>Key Usability Analytics Metric</span></b></p>
 
     <ul type=disc>
-        <li><b><i><span style='font-size:
- 12.0pt'>Goal Completion Rate</span></i></b><i><span style='font-size:12.0pt'>:
+        <li><b><span style='font-size:
+ 12.0pt'>Goal Completion Rate</span></b><span>:
                     % of users who reach a defined end-state (e.g., project created, invite
-                    sent). </span></i></li>
-        <li><b><i><span style='font-size:
- 12.0pt'>Event Flow Abandonment</span></i></b><i><span style='font-size:
- 12.0pt'>: Where users leave a journey prematurely</span></i></li>
-        <li><i><span style='font-size:12.0pt'> <b>Average
+                    sent). </span></li>
+        <li><b><span style='font-size:
+ 12.0pt'>Event Flow Abandonment</span></b><span style='font-size:
+ 12.0pt'>: Where users leave a journey prematurely</span></li>
+        <li><span> <b>Average
                         Time to Goal</b>: How quickly users accomplish the main thing they came to
-                    do.</span></i></li>
+                    do.</span></li>
     </ul>
 
-    <p><b><i><span style='font-size:
-12.0pt'>AI Application</span></i></b></p>
+    <p><b><span style='font-size:
+12.0pt'>AI Application</span></b></p>
 
     <ul type=disc>
-        <li><b><i><span style='font-size:
- 12.0pt'>Smart Funnel Recommendations</span></i></b><i><span style='font-size:12.0pt'>: AI suggests the most
+        <li><b><span style='font-size:
+ 12.0pt'>Smart Funnel Recommendations</span></b><span>: AI suggests the most
                     common, and most painful paths
-                    to prioritise.</span></i></li>
-        <li><b><i><span style='font-size:
- 12.0pt'>Anomaly Spotting in Key Events</span></i></b><i><span style='font-size:12.0pt'>: Real-time alerts when
-                    performance drops. </span></i></li>
-        <li><b><i><span style='font-size:
- 12.0pt'>User Cohort Modelling</span></i></b><i><span style='font-size:
+                    to prioritise.</span></li>
+        <li><b><span style='font-size:
+ 12.0pt'>Anomaly Spotting in Key Events</span></b><span>: Real-time alerts when
+                    performance drops. </span></li>
+        <li><b><span style='font-size:
+ 12.0pt'>User Cohort Modelling</span></b><span style='font-size:
  12.0pt'>: Group users by how they behave in early sessions and compare
-                    goal achievement rates.</span></i></li>
+                    goal achievement rates.</span></li>
     </ul>
 
     <h2 align=center id="productanalyticsai-usability-analytics-design-to-code-tracking">Design to Code Tracking
@@ -7793,7 +7282,7 @@ line-height:normal'><b><span style='font-size:12.0pt'>Dependent Variables
         instrumentation into their shared process, they don’t just ship features, they also
         ship insights.</p>
 
-    <p><strong><span style='font-family:"Calibri",sans-serif'>Amplitude</span></strong>
+    <p><strong><span style='font-family:"Inter",sans-serif'>Amplitude</span></strong>
         launched a new analysis module and saw slower-than-expected adoption. Engineers
         had embedded analytics events based on real user stories. AI models later
         revealed that one dropdown menu which is critical for setup was being skipped
@@ -7805,54 +7294,54 @@ line-height:normal'><b><span style='font-size:12.0pt'>Dependent Variables
             alt="Create a descriptive image illustrating Amplitude's launch of a new analysis module with slower-than-expected adoption. Depict engineers embedding analytics events based on real user stories. Highlight AI models revealing that one dropdown menu, critical for setup, was being skipped due to a missing default option. Emphasize the post-fix success with a 24% increase in module usage within a week.">
     </p>
 
-    <p><b><i>Core Insights</i></b></p>
+    <p><b>Core Insights</b></p>
 
     <ul type=disc>
-        <li><i>The transition from design
+        <li>The transition from design
                 to code is the best time to define your tracking strategy and, not after
-                launch.</i></li>
-        <li><i>Analytics tags should be
-                part of the development brief, alongside design specs. </i></li>
-        <li><i>Measuring usability starts
+                launch.</li>
+        <li>Analytics tags should be
+                part of the development brief, alongside design specs. </li>
+        <li>Measuring usability starts
                 by baking events directly into the features being built, not retrofitting
-                later.</i></li>
+                later.</li>
     </ul>
 
-    <p><b><i>Type of Data</i></b></p>
+    <p><b>Type of Data</b></p>
 
     <ul type=disc>
-        <li><b><i>Feature-Specific Custom
-                    Events</i></b><i>: Toggle use, modal opens, multi-step form progress.</i></li>
-        <li><b><i>Contextual UI Triggers</i></b><i>:
-                Visibility of tooltips, triggered dropdowns, dismissed warnings.</i></li>
-        <li><b><i>Code-Level Analytics
-                    Hooks</i></b><i>: Events tied to component interaction, not just
-                pageviews.</i></li>
+        <li><b>Feature-Specific Custom
+                    Events</b>: Toggle use, modal opens, multi-step form progress.</li>
+        <li><b>Contextual UI Triggers</b>:
+                Visibility of tooltips, triggered dropdowns, dismissed warnings.</li>
+        <li><b>Code-Level Analytics
+                    Hooks</b>: Events tied to component interaction, not just
+                pageviews.</li>
     </ul>
 
-    <p><b><i>Key Usability Analytics
-                Metric</i></b></p>
+    <p><b>Key Usability Analytics
+                Metric</b></p>
 
     <ul type=disc>
-        <li><b><i>Interaction Completion
-                    Rate</i></b><i>: % of users who interact with a feature and complete the
-                task.</i></li>
-        <li><b><i>Drop-off at Interaction
-                    Step</i></b><i>: Where users abandon a multi-step action.</i></li>
-        <li><b><i>Feature Activation Rate</i></b><i>:
-                % of users who try a feature and return to use it again.</i></li>
+        <li><b>Interaction Completion
+                    Rate</b>: % of users who interact with a feature and complete the
+                task.</li>
+        <li><b>Drop-off at Interaction
+                    Step</b>: Where users abandon a multi-step action.</li>
+        <li><b>Feature Activation Rate</b>:
+                % of users who try a feature and return to use it again.</li>
     </ul>
 
-    <p><b><i>AI Application</i></b></p>
+    <p><b>AI Application</b></p>
 
     <ul type=disc>
-        <li><b><i>Auto-Instrumentation
-                    Suggestions</i></b><i>: AI recommends what to tag based on past product
-                behaviour.</i></li>
-        <li><i> <b>Implementation QA Bots</b>:
-                Detect broken or duplicate event tags. </i></li>
-        <li><b><i>Interaction Hotspot
-                    Clustering</i></b><i>: Identify underused components within live features.</i></li>
+        <li><b>Auto-Instrumentation
+                    Suggestions</b>: AI recommends what to tag based on past product
+                behaviour.</li>
+        <li> <b>Implementation QA Bots</b>:
+                Detect broken or duplicate event tags. </li>
+        <li><b>Interaction Hotspot
+                    Clustering</b>: Identify underused components within live features.</li>
     </ul>
 
     <p><b><span style='font-size:14.0pt;line-height:107%'>&nbsp;</span></b></p>
@@ -7862,13 +7351,13 @@ line-height:normal'><b><span style='font-size:12.0pt'>Dependent Variables
             manage it. And if you didn’t track it, did it even happen? Embedding analytics
             from the start ensures that every feature isn’t just shipped, but understood.</span></p>
 
-    <p><span style='font-size:12.0pt'>Analytics
+    <p><span>Analytics
             isn’t something you bolt on after delivery, it’s something you build into the
             product from the start. The aim is to walk through how teams can ensure proper
             analytics implementation through early collaboration between product,
             engineering, and data teams.</span></p>
 
-    <p><b><span style='font-size:12.0pt'>Dropbox</span></b><span style='font-size:12.0pt'> built an internal tool
+    <p><b><span>Dropbox</span></b><span> built an internal tool
             that syncs tracking specs with
             actual code deployment. It highlights gaps between what was supposed to be
             tracked and what actually was. This reduced post-release tracking bugs by 60%
@@ -7879,97 +7368,90 @@ line-height:normal'><b><span style='font-size:12.0pt'>Dependent Variables
     <p align=center><img class="img-fluid rounded-corners mt-3"  width="431" height="287" id="Picture 1155407867"
             src="./images/productsanalyticsai/usabilityanalytics/image004.png" alt="Generated image"></p>
 
-    <p><span style='font-size:12.0pt'><br>
-            <b><i>Core Insights</i></b></span></p>
+    <p><span><b>Core Insights</b></span></p>
 
     <ul type=disc>
-        <li><i><span style='font-size:12.0pt'>Analytics
-                    work begins in the <b>planning phase</b>, not after release. </span></i></li>
-        <li><i><span style='font-size:12.0pt'>It’s
-                    vital to align <b>product hypotheses with tracking plans</b>. </span></i></li>
-        <li><i><span style='font-size:12.0pt'>Poor
+        <li><span>Analytics
+                    work begins in the <b>planning phase</b>, not after release. </span></li>
+        <li><span>It’s
+                    vital to align <b>product hypotheses with tracking plans</b>. </span></li>
+        <li><span>Poor
                     implementation leads to lost data, broken funnels, and missed
-                    opportunities for learning. </span></i></li>
-        <li><b><i><span style='font-size:
- 12.0pt'>Instrumentation debt</span></i></b><i><span style='font-size:12.0pt'>
-                    is real and it hurts your ability to make decisions later.</span></i></li>
+                    opportunities for learning. </span></li>
+        <li><b><span style='font-size:
+ 12.0pt'>Instrumentation debt</span></b><span>
+                    is real and it hurts your ability to make decisions later.</span></li>
     </ul>
 
-    <p><b><i><span style='font-size:
-12.0pt'>Type of Data</span></i></b></p>
+    <p><b><span style='font-size:
+12.0pt'>Type of Data</span></b></p>
 
     <ul type=disc>
-        <li><b><i><span style='font-size:
- 12.0pt'>Event-level data</span></i></b><i><span style='font-size:12.0pt'>:
-                    Clicks, page views, input submissions. </span></i></li>
-        <li><b><i><span style='font-size:
- 12.0pt'>Metadata</span></i></b><i><span style='font-size:12.0pt'>: User
-                    ID, timestamp, device, experiment variant. </span></i></li>
-        <li><b><i><span style='font-size:
- 12.0pt'>Custom event payloads</span></i></b><i><span style='font-size:
- 12.0pt'>: Business-context fields like plan type, campaign source, etc.</span></i></li>
+        <li><b><span style='font-size:
+ 12.0pt'>Event-level data</span></b><span>:
+                    Clicks, page views, input submissions. </span></li>
+        <li><b><span style='font-size:
+ 12.0pt'>Metadata</span></b><span>: User
+                    ID, timestamp, device, experiment variant. </span></li>
+        <li><b><span style='font-size:
+ 12.0pt'>Custom event payloads</span></b><span style='font-size:
+ 12.0pt'>: Business-context fields like plan type, campaign source, etc.</span></li>
     </ul>
 
-    <p><b><i><span style='font-size:
-12.0pt'>Key Usability Analytics Metric</span></i></b></p>
+    <p><b><span style='font-size:
+12.0pt'>Key Usability Analytics Metric</span></b></p>
 
     <ul type=disc>
-        <li><b><i><span style='font-size:
- 12.0pt'>Tracking Coverage Ratio</span></i></b><i><span style='font-size:
- 12.0pt'>: % of key user actions that are tracked correctly.</span></i></li>
-        <li><b><i><span style='font-size:
- 12.0pt'>Instrumentation Debt Log</span></i></b><i><span style='font-size:
- 12.0pt'>: Count of features with missing/incomplete tracking.</span></i></li>
-        <li><b><i><span style='font-size:
- 12.0pt'>Lag to Insight</span></i></b><i><span style='font-size:12.0pt'>:
-                    Time from feature launch to validated usage insight.</span></i></li>
+        <li><b><span style='font-size:
+ 12.0pt'>Tracking Coverage Ratio</span></b><span style='font-size:
+ 12.0pt'>: % of key user actions that are tracked correctly.</span></li>
+        <li><b><span style='font-size:
+ 12.0pt'>Instrumentation Debt Log</span></b><span style='font-size:
+ 12.0pt'>: Count of features with missing/incomplete tracking.</span></li>
+        <li><b><span style='font-size:
+ 12.0pt'>Lag to Insight</span></b><span>:
+                    Time from feature launch to validated usage insight.</span></li>
     </ul>
 
-    <p><b><i><span style='font-size:
-12.0pt'>AI Application</span></i></b></p>
+    <p><b><span style='font-size:
+12.0pt'>AI Application</span></b></p>
 
     <ul type=disc>
-        <li><b><i><span style='font-size:
- 12.0pt'>Event Suggestion Engines</span></i></b><i><span style='font-size:
+        <li><b><span style='font-size:
+ 12.0pt'>Event Suggestion Engines</span></b><span style='font-size:
  12.0pt'>: AI recommends missing tracking events based on feature
-                    descriptions. </span></i></li>
-        <li><b><i><span style='font-size:
- 12.0pt'>Auto-Tagging Scripts</span></i></b><i><span style='font-size:12.0pt'>:
-                    Generate tracking code stubs automatically from specs.</span></i></li>
-        <li><b><i><span style='font-size:
- 12.0pt'>Anomaly Detection</span></i></b><i><span style='font-size:12.0pt'>:
-                    Spot inconsistencies in event volume or data fidelity post-release.</span></i></li>
+                    descriptions. </span></li>
+        <li><b><span style='font-size:
+ 12.0pt'>Auto-Tagging Scripts</span></b><span>:
+                    Generate tracking code stubs automatically from specs.</span></li>
+        <li><b><span style='font-size:
+ 12.0pt'>Anomaly Detection</span></b><span>:
+                    Spot inconsistencies in event volume or data fidelity post-release.</span></li>
     </ul>
 
-    <p><b><span style='font-size:12.0pt'>Practical
-                Steps for Product Managers</span></b></p>
+    <h3 align=center>Practical Steps for Product Managers</h3>
 
-    <p style='margin-left:36.0pt;text-indent:-18.0pt;line-height:
-normal'><span style='font-size:10.0pt'>a)<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;
-            </span></span><span style='font-size:12.0pt'>Collaborate early with engineers
+    <p>a)<span>&nbsp;&nbsp;&nbsp;&nbsp;
+            </span></span><span>Collaborate early with engineers
             to define <b>tracking requirements</b> before sprint kick-off.</span></p>
 
-    <p style='margin-left:36.0pt;text-indent:-18.0pt;line-height:
-normal'><span style='font-size:10.0pt'>b)<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;
-            </span></span><span style='font-size:12.0pt'>Create and maintain a <b>shared
+    <p>b)<span>&nbsp;&nbsp;&nbsp;&nbsp;
+            </span></span><span>Create and maintain a <b>shared
                 tracking spec</b>—documented in Confluence, Notion, or similar.</span></p>
 
-    <p style='margin-left:36.0pt;text-indent:-18.0pt;line-height:
-normal'><span style='font-size:10.0pt'>c)<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-            </span></span><span style='font-size:12.0pt'> Prioritise <b>instrumentation in
+    <p>c)<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+            </span></span><span> Prioritise <b>instrumentation in
                 MVPs</b> to capture usage and feedback loops.</span></p>
 
-    <p style='margin-left:36.0pt;text-indent:-18.0pt;line-height:
-normal'><span style='font-size:10.0pt'>d)<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;
-            </span></span><span style='font-size:12.0pt'>Review logs regularly to spot
+    <p>d)<span>&nbsp;&nbsp;&nbsp;&nbsp;
+            </span></span><span>Review logs regularly to spot
             tracking gaps or mislabelled events.</span></p>
 
-    <p style='margin-left:36.0pt;text-indent:-18.0pt;line-height:
-normal'><span style='font-size:10.0pt'>e)<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;
-            </span></span><span style='font-size:12.0pt'>Use AI analytics assistants to
+    <p>e)<span>&nbsp;&nbsp;&nbsp;&nbsp;
+            </span></span><span>Use AI analytics assistants to
             query user behaviour and uncover insight patterns.</span></p>
 
-    <p><span style='font-size:12.0pt'>&nbsp;</span></p>
+    <p><span>&nbsp;</span></p>
 
     <h2 align=center id="productanalyticsai-usability-analytics-ab-testing">A/B Testing</h2>
 
@@ -7986,7 +7468,7 @@ normal'><span style='font-size:10.0pt'>e)<span style='font:7.0pt "Times New Roma
         what works best for everyone, you are also finding what works best for each
         type of user. That’s where good UX becomes great product strategy.</p>
 
-    <p><strong><span style='font-family:"Calibri",sans-serif'>Dropbox</span></strong>
+    <p><strong><span style='font-family:"Inter",sans-serif'>Dropbox</span></strong>
         tested a redesign of its “Share File” dialog. Two versions competed: one with a
         simplified interface, and one with an added permission tooltip. Initial results
         were close, but AI-driven segmentation revealed that enterprise users engaged
@@ -7997,56 +7479,56 @@ normal'><span style='font-size:10.0pt'>e)<span style='font:7.0pt "Times New Roma
     <p align=center><img class="img-fluid rounded-corners mt-3"  width="431" height="287" src="./images/productsanalyticsai/usabilityanalytics/image007.png"
             alt="Generated image"></p>
 
-    <p><b><i>Core Insights</i></b></p>
+    <p><b>Core Insights</b></p>
 
     <ul type=disc>
-        <li><i>A/B testing helps you
+        <li>A/B testing helps you
                 compare two (or more) product variations by measuring their impact on a
-                defined outcome.</i></li>
-        <li><i>The key is choosing the <b>right
+                defined outcome.</li>
+        <li>The key is choosing the <b>right
                     metric</b> and ensuring your sample size is large enough for trustable
-                results.</i></li>
-        <li><i> It’s not just about proving
-                you were right, it’s about learning what works better for your users.</i></li>
+                results.</li>
+        <li> It’s not just about proving
+                you were right, it’s about learning what works better for your users.</li>
     </ul>
 
-    <p><b><i>Type of Data</i></b></p>
+    <p><b>Type of Data</b></p>
 
     <ul type=disc>
-        <li><b><i>Split-Group Behaviour
-                    Data</i></b><i>: How each version performs (engagement, drop-off, success)</i></li>
-        <li><b><i>Conversion Funnel
-                    Tracking</i></b><i>: Completion or abandonment per variant.</i></li>
-        <li><b><i>Interaction Quality Data</i></b><i>:
-                Time to interact, retries, hesitation points.</i></li>
+        <li><b>Split-Group Behaviour
+                    Data</b>: How each version performs (engagement, drop-off, success)</li>
+        <li><b>Conversion Funnel
+                    Tracking</b>: Completion or abandonment per variant.</li>
+        <li><b>Interaction Quality Data</b>:
+                Time to interact, retries, hesitation points.</li>
     </ul>
 
-    <p><b><i>Key Usability Analytics
-                Metric</i></b></p>
+    <p><b>Key Usability Analytics
+                Metric</b></p>
 
     <ul type=disc>
-        <li><b><i>Variant Conversion Rate</i></b><i>:
-                % of users who reach the intended goal per version.</i></li>
-        <li><b><i>Time to Completion</i></b><i>:
-                Speed of task or funnel progression. </i></li>
-        <li><b><i>Frustration Indicators by
-                    Variant</i></b><i>: Errors, rage clicks, backtracking.</i></li>
+        <li><b>Variant Conversion Rate</b>:
+                % of users who reach the intended goal per version.</li>
+        <li><b>Time to Completion</b>:
+                Speed of task or funnel progression. </li>
+        <li><b>Frustration Indicators by
+                    Variant</b>: Errors, rage clicks, backtracking.</li>
     </ul>
 
-    <p><b><i>AI Application</i></b></p>
+    <p><b>AI Application</b></p>
 
     <ul type=disc>
-        <li><b><i>Automated Test Monitoring</i></b><i>:
-                Alerts when one variant begins to outperform significantly.</i></li>
-        <li><b><i>Personalised A/B Outcomes</i></b><i>:
+        <li><b>Automated Test Monitoring</b>:
+                Alerts when one variant begins to outperform significantly.</li>
+        <li><b>Personalised A/B Outcomes</b>:
                 AI segments result to uncover which version works best for specific
-                cohorts.</i></li>
-        <li><b><i>Predictive Lift
-                    Forecasting</i></b><i>: Estimate the impact of rolling out a variant
-                sitewide</i><span style='font-size:12.0pt;font-family:"Times New Roman",serif'>.</span></li>
+                cohorts.</li>
+        <li><b>Predictive Lift
+                    Forecasting</b>: Estimate the impact of rolling out a variant
+                sitewide<span style='font-size:12.0pt;font-family:"Inter",serif'>.</span></li>
     </ul>
 
-    <p><span style='font-size:12.0pt;font-family:"Times New Roman",serif'>&nbsp;</span></p>
+    <p><span style='font-size:12.0pt;font-family:"Inter",serif'>&nbsp;</span></p>
 
     <h2 align=center id="productanalyticsai-usability-analytics-mapping-for-insights">Mapping for Insights</h2>
 
@@ -8057,7 +7539,7 @@ normal'><span style='font-size:10.0pt'>e)<span style='font:7.0pt "Times New Roma
 
     <p>Product teams can make better decisions when every user
         story is linked to meaningful analytics. By pairing user stories with metrics, <strong><span
-                style='font-family:"Calibri",sans-serif'>product managers, Agile coaches, and
+                style='font-family:"Inter",sans-serif'>product managers, Agile coaches, and
                 analysts</span></strong> can validate if new features deliver the intended
         value and adjust course based on real data. This report explains why linking
         user stories to analytics is important, outlines a step-by-step framework for
@@ -8075,53 +7557,53 @@ normal'><span style='font-size:10.0pt'>e)<span style='font:7.0pt "Times New Roma
     <p align=center><img class="img-fluid rounded-corners mt-3"  width="431" height="287" src="./images/productsanalyticsai/usabilityanalytics/image008.png"
             alt="Generated image"></p>
 
-    <p><b><i>Core Insights</i></b></p>
+    <p><b>Core Insights</b></p>
 
     <ul type=disc>
-        <li><i>Analytics are most effective
-                when mapped to specific <b>user stories, goals, and intentions</b>.</i></li>
-        <li><i> Sales and support teams
+        <li>Analytics are most effective
+                when mapped to specific <b>user stories, goals, and intentions</b>.</li>
+        <li> Sales and support teams
                 often understand the customer's mental model better than anyone, use that
-                to inform what (and how) you track.</i></li>
-        <li><i>Mapping analytics turns
-                events from “data exhaust” into product storytelling.</i></li>
+                to inform what (and how) you track.</li>
+        <li>Mapping analytics turns
+                events from “data exhaust” into product storytelling.</li>
     </ul>
 
-    <p><b><i>Type of Data</i></b></p>
+    <p><b>Type of Data</b></p>
 
     <ul type=disc>
-        <li><b><i>Goal-Oriented Events</i></b><i>:
-                Tied to real user objectives (e.g., “setup workspace,” “invite teammate”).</i></li>
-        <li><b><i>Sales Call Themes</i></b><i>:
-                Common objections, questions, or confusion.</i></li>
-        <li><b><i>Pathway Events</i></b><i>:
-                Series of steps taken before a goal is reached or dropped.</i></li>
+        <li><b>Goal-Oriented Events</b>:
+                Tied to real user objectives (e.g., “setup workspace,” “invite teammate”).</li>
+        <li><b>Sales Call Themes</b>:
+                Common objections, questions, or confusion.</li>
+        <li><b>Pathway Events</b>:
+                Series of steps taken before a goal is reached or dropped.</li>
     </ul>
 
-    <p><b><i>Key Usability Analytics
-                Metric</i></b></p>
+    <p><b>Key Usability Analytics
+                Metric</b></p>
 
     <ul type=disc>
-        <li><b><i>Mapped Goal Completion
-                    Rate</i></b><i>: % of users achieving a meaningful product outcome.</i></li>
-        <li><b><i>Deviation Path Count</i></b><i>:
-                How often users deviate from the expected route.</i></li>
-        <li><b><i>Sales-Aligned Friction
-                    Points</i></b><i>: UX issues echoed in both metrics and conversations.</i></li>
+        <li><b>Mapped Goal Completion
+                    Rate</b>: % of users achieving a meaningful product outcome.</li>
+        <li><b>Deviation Path Count</b>:
+                How often users deviate from the expected route.</li>
+        <li><b>Sales-Aligned Friction
+                    Points</b>: UX issues echoed in both metrics and conversations.</li>
     </ul>
 
-    <p><b><i>AI Application</i></b></p>
+    <p><b>AI Application</b></p>
 
     <ul type=disc>
-        <li><b><i>Journey Map Visualisers</i></b><i>:
-                AI automatically lays out user paths and flags unusual ones.</i></li>
-        <li><b><i>Call-to-Click Correlation</i></b><i>:
-                Links what users say on calls to how they behave in the product.</i></li>
-        <li><b><i>Feature Attribution
-                    Modelling</i></b><i>: Which actions most influence key outcomes.</i></li>
+        <li><b>Journey Map Visualisers</b>:
+                AI automatically lays out user paths and flags unusual ones.</li>
+        <li><b>Call-to-Click Correlation</b>:
+                Links what users say on calls to how they behave in the product.</li>
+        <li><b>Feature Attribution
+                    Modelling</b>: Which actions most influence key outcomes.</li>
     </ul>
 
-    <p><i>&nbsp;</i></p>
+    <p>&nbsp;</p>
 
     <h2 align=center id="productanalyticsai-usability-analytics-user-stories-analytics-e-commerce">User
         Stories &amp; Analytics (E-commerce)</h2>
@@ -8131,14 +7613,14 @@ normal'><span style='font-size:10.0pt'>e)<span style='font:7.0pt "Times New Roma
             src="./images/productsanalyticsai/usabilityanalytics/image010.png" alt="Generated image"></p>
 
     <p><strong><span style='font-size:14.0pt;line-height:107%;
-font-family:"Calibri",sans-serif'>&nbsp;</span></strong></p>
+font-family:"Inter",sans-serif'>&nbsp;</span></strong></p>
 
     <p>User stories are promises we make to our users. Analytics
         help us keep them honest. When stories come with built-in measurement and
         you’ve got the tools to track them in real time—you stop guessing what success
         looks like. You see it. Or you spot what needs fixing, fast.</p>
 
-    <p><strong><span style='font-family:"Calibri",sans-serif'>Slack</span></strong>
+    <p><strong><span style='font-family:"Inter",sans-serif'>Slack</span></strong>
         shipped a new onboarding story meant to encourage new users to send a message
         right after joining a workspace. After launch, they paired the story with a
         usage metric: first-message-sent within 5 minutes. Analytics showed success
@@ -8154,26 +7636,26 @@ font-family:"Calibri",sans-serif'>&nbsp;</span></strong></p>
     <p>&nbsp;</p>
 
     <p>Aligning user stories with analytics ensures teams focus on <strong><span
-                style='font-family:"Calibri",sans-serif;font-weight:normal'>outcomes over
+                style='font-family:"Inter",sans-serif;font-weight:normal'>outcomes over
                 output</span></strong>. Rather than just delivering features, teams measure the
         impact of those features on user behaviour and business goals. By defining
         metrics for each story, you can tell if a story actually delivered its intended
         business value (e.g. improved conversion, engagement, revenue). This <strong><span
-                style='font-family:"Calibri",sans-serif;font-weight:normal'>data-driven
+                style='font-family:"Inter",sans-serif;font-weight:normal'>data-driven
                 approach</span></strong> turns development into a learning cycle with every
         release becoming an experiment with measurable results. It addresses the adage
         &quot;you can’t improve what you don’t measure&quot;: if a new feature (from a
         user story) is instrumented with analytics, the team can see how users respond
         and make informed decisions. Moreover, explicitly stating the <strong><span
-                style='font-family:"Calibri",sans-serif'>“</span></strong><strong><i><span
-                    style='font-family:"Calibri",sans-serif;font-weight:normal'>why</span></i></strong><strong><span
-                style='font-family:"Calibri",sans-serif'>”</span></strong> (the goal or KPI
+                style='font-family:"Inter",sans-serif'>“</span></strong><strong><span
+                    style='font-family:"Inter",sans-serif;font-weight:normal'>why</span></strong><strong><span
+                style='font-family:"Inter",sans-serif'>”</span></strong> (the goal or KPI
         behind a story) increases transparency and buy-in. Teams must avoid collecting
         vanity metrics with no context. Instead, each metric must have purpose tied to
         a user outcome. In short, linking stories to analytics embeds a culture of evidence-based
         decision-making throughout the product development process.</p>
 
-    <p><i>Mapping User Stories to Metrics: A Step-by-Step Framework</i></p>
+    <p>Mapping User Stories to Metrics: A Step-by-Step Framework</p>
 
     <p>To effectively map user stories to analytics, teams can
         follow a structured framework:</p>
@@ -8182,14 +7664,14 @@ font-family:"Calibri",sans-serif'>&nbsp;</span></strong></p>
         <li><b>Define Clear Outcomes and Metrics for the Story</b> –
             When writing a user story (persona + need + purpose), also identify how
             you’ll measure success. Add a success metric or KPI as part of the story’s
-            criteria. For example, a story <i>“As a shopper, I want to save items to a
-                Wishlist so I can purchase later”</i> might have a success metric of
+            criteria. For example, a story “As a shopper, I want to save items to a
+                Wishlist so I can purchase later” might have a success metric of
             increasing repeat visits or purchase rate from Wishlist. Teams can create
-            a story attribute for this, such as <i>“Success is 20% of users use the
-                Wishlist within first week”</i>. By weaving metrics into the<b> </b>story
+            a story attribute for this, such as “Success is 20% of users use the
+                Wishlist within first week”. By weaving metrics into the<b> </b>story
             definition, you clarify what user behaviour indicates the feature is a
-            success. If possible, include a target value and timeframe (e.g. <i>“increase
-                conversion rate by 10% in 3 months”</i>) – these targets should be
+            success. If possible, include a target value and timeframe (e.g. “increase
+                conversion rate by 10% in 3 months”) – these targets should be
             informed by baseline data. Using SMART goals for stories helps ensure the
             outcome is <b>Specific, Measurable, Achievable, Relevant, Time-bound</b>.</li>
         <li><b>Include Analytics in Acceptance Criteria and Definition
@@ -8197,11 +7679,11 @@ font-family:"Calibri",sans-serif'>&nbsp;</span></strong></p>
             not an afterthought. When planning the story, decide what events or data
             need to be tracked to measure the success metric. Then write acceptance
             criteria that reflect those tracking requirements. For example, a login
-            story’s acceptance criteria might state <i>“Tracking is in place for
-                successful and failed login attempts”</i>. Some teams use the Gherkin
+            story’s acceptance criteria might state “Tracking is in place for
+                successful and failed login attempts”. Some teams use the Gherkin
             format to specify analytics: e.g. Given-When-Then steps describing an
-            event trigger, <i>“Then a ‘Login</i>_<i>Success’ event is sent to
-                [Analytics Tool] with user_id and timestamp”</i>. By making analytics
+            event trigger, “Then a ‘Login_Success’ event is sent to
+                [Analytics Tool] with user_id and timestamp”. By making analytics
             explicit in the definition of done, you ensure that every story release is
             accompanied by the data needed to evaluate it. This step may involve
             developers adding event logging (via tools like Segment or analytics SDKs)
@@ -8209,7 +7691,7 @@ font-family:"Calibri",sans-serif'>&nbsp;</span></strong></p>
         <li><b>Implement and Instrument the Story</b> – As the feature
             is developed, implement the tracking instrumentation as specified. Use
             consistent event naming and structure to avoid confusion (for example, use
-            an <i>Object–Action</i> naming convention like
+            an Object–Action naming convention like
             &quot;Wishlist_ItemAdded&quot;). Adhere to a tracking plan that lists all
             events and properties for the product. This will keep instrumentation
             organised and prevent the proliferation of redundant or unclear events.
@@ -8230,7 +7712,7 @@ font-family:"Calibri",sans-serif'>&nbsp;</span></strong></p>
             the story achieved its goal (e.g. an improved task completion rate or
             increased usage of a new feature). In this phase, gathering qualitative
             feedback (user surveys, session recordings) can complement the
-            quantitative data to explain the <b><i>why</i></b> behind the numbers.</li>
+            quantitative data to explain the <b>why</b> behind the numbers.</li>
         <li><b>Learn and Iterate</b> – Finally, feed the insights back
             into decision-making. If the user story’s outcome metrics met or exceeded
             expectations, that’s a signal to continue in that direction (and celebrate
@@ -8253,14 +7735,14 @@ font-family:"Calibri",sans-serif'>&nbsp;</span></strong></p>
 
     <p>Example Mapping in E-Commerce: Filtering Feature</p>
 
-    <p>User Story (E-commerce<b>)</b>: <i>“As a shopper, I want to
+    <p>User Story (E-commerce<b>)</b>: “As a shopper, I want to
             filter product results by price range so that I can find affordable options
-            more quickly.”</i> This story is about improving product discovery and
+            more quickly.” This story is about improving product discovery and
         ultimately conversion.</p>
 
     <ul style='margin-top:0cm' type=disc>
         <li><b>Planned Metrics/Events</b>: The team defines success as
-            <i>increasing conversion rate of product searches</i> where filters are
+            increasing conversion rate of product searches where filters are
             applied, compared to those without filters. They decide to track an event <b>Filter
                 Used</b> whenever a user applies any filter on a search or category page.
             They will measure:
@@ -8283,8 +7765,8 @@ font-family:"Calibri",sans-serif'>&nbsp;</span></strong></p>
             adds a filter_used event in their analytics (e.g. in Google Analytics 4 or
             Segment-&gt;Amplitude). The event includes properties like filter_type
             (e.g. price, category, brand) and possibly the filter values or range. Acceptance
-            criteria included a condition that <i>filter usage is tracked in analytics
-                with filter type and session ID</i> to enable funnel analysis.</li>
+            criteria included a condition that filter usage is tracked in analytics
+                with filter type and session ID to enable funnel analysis.</li>
         <li><b>Outcome Analysis</b>: After release, the product
             analyst builds a dashboard showing filter usage and conversion. Suppose
             the data shows 30% of visitors use the price filter, and those who do have
@@ -8292,9 +7774,9 @@ font-family:"Calibri",sans-serif'>&nbsp;</span></strong></p>
             sign. However, analysis also reveals that certain filter combinations
             often yield <b>zero results</b>, causing users to leave. Digging deeper,
             the team sees a drop-off in the funnel when users apply filters that
-            result in no products. This insight is crucial: <i>“Which filters are used
+            result in no products. This insight is crucial: “Which filters are used
                 most often? Which ones cause drop-off? Feed that into product decisions
-                and UI tweaks,”</i> as one e-commerce best-practice guide advises. Armed
+                and UI tweaks,” as one e-commerce best-practice guide advises. Armed
             with this data, the team might iterate the story: for example, refining
             the filter UX by preventing combinations that lead to no results or adding
             messaging to guide the user (as the data showed a problem to fix).</li>
@@ -8302,68 +7784,65 @@ font-family:"Calibri",sans-serif'>&nbsp;</span></strong></p>
             story validates the feature’s value (filtering is used and correlates with
             higher conversion) and points to an improvement (handle zero-result
             cases). The product manager can confidently prioritise a follow-up user
-            story (e.g. <i>“As a shopper, I want the filtering system to suggest
+            story (e.g. “As a shopper, I want the filtering system to suggest
                 broader criteria if my filters yield no results, so that I never hit a
-                dead end.”</i>). That new story would again be paired with metrics (e.g.
+                dead end.”). That new story would again be paired with metrics (e.g.
             reduction in no-result occurrences and bounce rate). In summary, the user
             story’s success was measured and it directly informed data-driven
             enhancements to the product.</li>
     </ul>
 
-    <p><b><i>Core Insights</i></b></p>
+    <p><b>Core Insights</b></p>
 
     <ul type=disc>
-        <li><i>Every user story should come
-                with a measurable behaviour that proves whether it’s working.</i></li>
-        <li><i>Analytics aren’t just a post-release
-                validation tool—they can (and should) shape story acceptance criteria.</i></li>
-        <li><i>Teams should routinely ask:
-                “If this user story works, what will we see in our data?”<br>
-                <br>
-            </i></li>
+        <li>Every user story should come
+                with a measurable behaviour that proves whether it’s working.</li>
+        <li>Analytics aren’t just a post-release
+                validation tool—they can (and should) shape story acceptance criteria.</li>
+        <li>Teams should routinely ask:
+                “If this user story works, what will we see in our data?”
+            </li>
     </ul>
 
-    <p><b><i>Type of Data</i></b></p>
+    <p><b>Type of Data</b></p>
 
     <ul type=disc>
-        <li><b><i>Behaviour-Linked Metrics</i></b><i>:
-                What actions align with the story’s goal</i></li>
-        <li><b><i>Pre/Post Release
-                    Comparisons</i></b><i>: How did usage shift after the story was
-                implemented </i></li>
-        <li><b><i>Support Logs/Hotjar
-                    Replays</i></b><i>: Additional insight into user intent or friction.</i></li>
+        <li><b>Behaviour-Linked Metrics</b>:
+                What actions align with the story’s goal</li>
+        <li><b>Pre/Post Release
+                    Comparisons</b>: How did usage shift after the story was
+                implemented </li>
+        <li><b>Support Logs/Hotjar
+                    Replays</b>: Additional insight into user intent or friction.</li>
     </ul>
 
-    <p style='margin-bottom:0cm;line-height:normal'><i>&nbsp;</i></p>
-
-    <p><b><i>Key Usability Analytics
-                Metric</i></b></p>
+    <p><b>Key Usability Analytics
+                Metric</b></p>
 
     <ul type=disc>
-        <li><b><i>Story Success Signal</i></b><i>:
+        <li><b>Story Success Signal</b>:
                 A custom metric defined per user story (e.g., “10% more users complete
-                workspace setup after update”).</i></li>
-        <li><b><i>Usage Delta</i></b><i>:
-                Change in feature usage after a story goes live.</i></li>
-        <li><b><i>Friction Count</i></b><i>:
+                workspace setup after update”).</li>
+        <li><b>Usage Delta</b>:
+                Change in feature usage after a story goes live.</li>
+        <li><b>Friction Count</b>:
                 Sessions where the feature is used but followed by drop-off, retries, or
-                help requests.</i></li>
+                help requests.</li>
     </ul>
 
-    <p><b><i>AI Application</i></b></p>
+    <p><b>AI Application</b></p>
 
     <ul type=disc>
-        <li><b><i>Automated Story-Outcome
-                    Mapping</i></b><i>: AI links analytics events to user stories
-                automatically.</i></li>
-        <li><b><i>Feature-Level Anomaly
-                    Alerts</i></b><i>: Warns when a new story degrades an existing journey.</i></li>
-        <li><b><i>User Journey Path Mining</i></b><i>:
-                Identifies if actual usage paths align with expected user stories.</i></li>
+        <li><b>Automated Story-Outcome
+                    Mapping</b>: AI links analytics events to user stories
+                automatically.</li>
+        <li><b>Feature-Level Anomaly
+                    Alerts</b>: Warns when a new story degrades an existing journey.</li>
+        <li><b>User Journey Path Mining</b>:
+                Identifies if actual usage paths align with expected user stories.</li>
     </ul>
 
-    <p><i>&nbsp;</i></p>
+    <p>&nbsp;</p>
 
     <h2 align=center id="productanalyticsai-usability-analytics-user-stories-analytics-saas">User Stories &amp;
         Analytics (SaaS)</h2>
@@ -8383,9 +7862,9 @@ font-family:"Calibri",sans-serif'>&nbsp;</span></strong></p>
     <p><b>Example Mapping in SaaS: Team
             Invitation Feature</b></p>
 
-    <p><b>User Story (SaaS)</b>: <i>“As
+    <p><b>User Story (SaaS)</b>: “As
             a team administrator, I want to invite team members to our workspace so that we
-            can collaborate in the product together.”</i> This is common in B2B SaaS
+            can collaborate in the product together.” This is common in B2B SaaS
         platforms where inviting users drives product adoption and network effects.</p>
 
     <ul type=disc>
@@ -8395,49 +7874,40 @@ font-family:"Calibri",sans-serif'>&nbsp;</span></strong></p>
             active users and team engagement. Metrics defined include:</li>
     </ul>
 
-    <p style='margin-left:90.0pt;text-indent:-18.0pt;
-line-height:normal'><span style='font-family:Symbol'>·<span
-                style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-            </span></span><b>Invites Sent</b> – number of invitations sent by a user
-        (tracked via an Invite_Sent event).</p>
+    <ul>
+        <li><b>Invites Sent</b> – number of invitations sent by a user
+        (tracked via an Invite_Sent event).</li>
 
-    <p style='margin-left:90.0pt;text-indent:-18.0pt;
-line-height:normal'><span style='font-family:Symbol'>·<span
-                style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-            </span></span><b>Invite Acceptance Rate</b> – how many of those invites result
+        <li><b>Invite Acceptance Rate</b> – how many of those invites result
         in new accounts or logged-in users (could be tracked by an Invite Accepted
-        event or by linking sign-ups to invites).</p>
+        event or by linking sign-ups to invites).</li>
 
-    <p style='margin-left:90.0pt;text-indent:-18.0pt;
-line-height:normal'><span style='font-family:Symbol'>·<span
-                style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-            </span></span><b>Team Activation</b> – a compound metric like “teams with at
+        <li><b>Team Activation</b> – a compound metric like “teams with at
         least 3 active members within first 2 weeks” (to see if inviting drives deeper
-        adoption).</p>
+        adoption).</li>
+    </ul>
 
     <p>The success
-        criteria for the story might be, for example, <i>“An inviting admin adds on
-            average 2 additional users in their first week”</i> or <i>“Teams that send at
-            least one invite have 50% higher 30-day retention than teams that don’t.”</i>
+        criteria for the story might be, for example, “An inviting admin adds on
+            average 2 additional users in their first week” or “Teams that send at
+            least one invite have 50% higher 30-day retention than teams that don’t.”
         These targets give a concrete goal to strive for.</p>
 
-    <p style='margin-left:36.0pt;text-indent:-18.0pt;line-height:
-normal'><span style='font-size:10.0pt'>a)<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;
+    <p>a)<span>&nbsp;&nbsp;&nbsp;&nbsp;
             </span></span><b>Instrumentation</b>: During development, the engineers
         instrument the Invite_Sent event in the app’s frontend code whenever an admin
-        clicks the “Invite” button. Properties captured could include <i>team_id,
-            number_of_invites</i>, and maybe roles of invitees. They also set up tracking
+        clicks the “Invite” button. Properties captured could include team_id,
+            number_of_invites, and maybe roles of invitees. They also set up tracking
         to log Invite Accepted when an invite link is used by a new user to sign up.
         These events are sent to a product analytics tool (say, Mixpanel or Amplitude)
         for analysis. QA tests the flow: they trigger a few invites on a staging
         environment and verify that those events show up in the analytics system with
         correct details (ensuring the tracking works as expected).</p>
 
-    <p style='margin-left:36.0pt;text-indent:-18.0pt;line-height:
-normal'><span style='font-size:10.0pt'>b)<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;
+    <p>b)<span>&nbsp;&nbsp;&nbsp;&nbsp;
             </span></span><b>Outcome Analysis</b>: After launch, the team analyses
         adoption. For example, they find that 40% of new team admins are sending
-        invites within a day of account creation. The <i>Invite_Accepted</i> rate might
+        invites within a day of account creation. The Invite_Accepted rate might
         be, say, 60% (i.e. 3 out of 5 invites result in a new active user). Using
         cohort analysis, the analyst observes that teams who added at least one member
         have notably higher engagement over 30 days than single-user teams. This aligns
@@ -8447,10 +7917,7 @@ normal'><span style='font-size:10.0pt'>b)<span style='font:7.0pt "Times New Roma
         team’s likelihood of churn is high. This insight could prompt an intervention
         (like in-app prompts or emails encouraging team invitations).</p>
 
-    <p style='margin-left:36.0pt;text-indent:-18.0pt;line-height:
-normal'><strong><span style='font-size:10.0pt;font-family:"Calibri",sans-serif;
-font-weight:normal'>c)<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-                </span></span></strong><b>Resulting Decisions</b>: Suppose the metrics fell
+    <p>c)<span>&nbsp;&nbsp;&nbsp;&nbsp;</span></span></strong><b>Resulting Decisions</b>: Suppose the metrics fell
         short of the targets, say fewer admins invite others than expected. The team
         would investigate why. Maybe usability testing or analytics show the “Invite”
         button is hard to find, or users don’t understand the value of inviting. The
@@ -8464,14 +7931,14 @@ font-weight:normal'>c)<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nb
         (for example, presenting a chart of active user growth attributable to the
         invite feature).</p>
 
-    <p><strong><span style='font-family:"Calibri",sans-serif'>ClickUp</span></strong>
+    <p><strong><span style='font-family:"Inter",sans-serif'>ClickUp</span></strong>
         used AI to analyse demo calls for recurring drop-offs in interest when showing
         “Views.” Sales kept having to re-explain what each view type was. Product and
         sales collaborated on redesign and tracked usage of view toggles post-launch.
         After launch, “Board view” engagement went up 26%, and objection frequency in
         sales calls dropped by 18%</p>
 
-    <p align=center><strong><span style='font-family:"Calibri",sans-serif'><img class="img-fluid rounded-corners mt-3"  width="431" height="287"
+    <p align=center><strong><span style='font-family:"Inter",sans-serif'><img class="img-fluid rounded-corners mt-3"  width="431" height="287"
                     src="./images/productsanalyticsai/usabilityanalytics/image014.png"></span></strong></p>
 
     <p><b>Core Insights</b></p>
@@ -8532,7 +7999,7 @@ font-weight:normal'>c)<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nb
         design, and dev work together, you’re not just pushing features you are also
         solving problems and delivering outcomes in real life, with real results</p>
 
-    <p>At <strong><span style='font-family:"Calibri",sans-serif'>Zendesk</span></strong>,
+    <p>At <strong><span style='font-family:"Inter",sans-serif'>Zendesk</span></strong>,
         a redesign of the help article editor was prompted by repeated feedback from
         customer success managers. Design, dev, and sales collaborated on a simplified
         UI prototype. AI tools tracked usability test flow completion, and support
@@ -8541,54 +8008,54 @@ font-weight:normal'>c)<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nb
     <p align=center><img class="img-fluid rounded-corners mt-3"  width="431" height="287" id="Picture 6"
             src="./images/productsanalyticsai/usabilityanalytics/image015.png"></p>
 
-    <p><b><i>Core Insights</i></b></p>
+    <p><b>Core Insights</b></p>
 
     <ul type=disc>
-        <li><i>Customer-facing teams hear
+        <li>Customer-facing teams hear
                 the friction first, looping them into design and test planning leads to
-                more user-centred outcomes.</i></li>
-        <li><i>Usability testing shouldn't
+                more user-centred outcomes.</li>
+        <li>Usability testing shouldn't
                 be limited to product teams—sales and support feedback should help shape
-                what gets tested and how.</i></li>
-        <li><i>Collaborative iteration
-                (design → code → test) improves not just usability, but adoption</i><span
-                style='font-size:12.0pt;font-family:"Times New Roman",serif'>.</span></li>
+                what gets tested and how.</li>
+        <li>Collaborative iteration
+                (design → code → test) improves not just usability, but adoption<span
+                style='font-size:12.0pt;font-family:"Inter",serif'>.</span></li>
     </ul>
 
-    <p><b><i>Type of Data</i></b></p>
+    <p><b>Type of Data</b></p>
 
     <ul type=disc>
-        <li><b><i>Cross-Team Feedback Logs</i></b><i>:
-                Notes from sales, support, and onboarding.</i></li>
-        <li><b><i>Component-Level Usage</i></b><i>:
-                How specific interface elements are interacted with.</i></li>
-        <li><i> <b>Pre/Post Iteration Test
-                    Results</b>: Did the design or code change improve measurable UX?</i></li>
+        <li><b>Cross-Team Feedback Logs</b>:
+                Notes from sales, support, and onboarding.</li>
+        <li><b>Component-Level Usage</b>:
+                How specific interface elements are interacted with.</li>
+        <li> <b>Pre/Post Iteration Test
+                    Results</b>: Did the design or code change improve measurable UX?</li>
     </ul>
 
-    <p><b><i>Key Usability Analytics
-                Metric</i></b></p>
+    <p><b>Key Usability Analytics
+                Metric</b></p>
 
     <ul type=disc>
-        <li><b><i>Sales-Informed Design
-                    Iteration Rate</i></b><i>: % of design updates informed by non-product
-                teams.</i></li>
-        <li><b><i>Prototype Interaction
-                    Success</i></b><i>: % of test users who complete the intended action.</i></li>
-        <li><b><i>Post-Release Friction
-                    Rate</i></b><i>: Support/sales tickets tied to newly released features.</i></li>
+        <li><b>Sales-Informed Design
+                    Iteration Rate</b>: % of design updates informed by non-product
+                teams.</li>
+        <li><b>Prototype Interaction
+                    Success</b>: % of test users who complete the intended action.</li>
+        <li><b>Post-Release Friction
+                    Rate</b>: Support/sales tickets tied to newly released features.</li>
     </ul>
 
-    <p><b><i>AI Application</i></b></p>
+    <p><b>AI Application</b></p>
 
     <ul type=disc>
-        <li><b><i>Feedback Consolidation</i></b><i>:
-                AI groups input from various teams into usable design suggestions.</i></li>
-        <li><b><i>Prototype Path Tracking</i></b><i>:
-                AI monitors click-through behaviours during usability tests.</i></li>
-        <li><b><i>Cross-Team Impact
-                    Attribution</i></b><i>: Identifies which team’s insights led to successful
-                outcomes.</i></li>
+        <li><b>Feedback Consolidation</b>:
+                AI groups input from various teams into usable design suggestions.</li>
+        <li><b>Prototype Path Tracking</b>:
+                AI monitors click-through behaviours during usability tests.</li>
+        <li><b>Cross-Team Impact
+                    Attribution</b>: Identifies which team’s insights led to successful
+                outcomes.</li>
     </ul>
 
     <p><b><span style='font-size:14.0pt;line-height:107%'>&nbsp;</span></b></p>
@@ -8601,7 +8068,7 @@ font-weight:normal'>c)<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nb
         testing, your sprint planning becomes smarter, faster, and a lot less
         political. That’s how data becomes momentum</p>
 
-    <p><strong><span style='font-family:"Calibri",sans-serif'>Airtable</span></strong>
+    <p><strong><span style='font-family:"Inter",sans-serif'>Airtable</span></strong>
         used inference-driven planning during a series of onboarding improvements.
         Instead of blindly tackling UI complaints, they structured each idea as a
         hypothesis: “If users see template previews earlier, they’ll complete setup
@@ -8611,53 +8078,53 @@ font-weight:normal'>c)<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nb
     <p align=center><img class="img-fluid rounded-corners mt-3"  width="431" height="287" id="Picture 2"
             src="./images/productsanalyticsai/usabilityanalytics/image016.png" alt="Generated image"></p>
 
-    <p><b><i>Core Insights</i></b></p>
+    <p><b>Core Insights</b></p>
 
     <ul type=disc>
-        <li><i>Usability signals
-                (analytics, feedback, test outcomes) only matter if they inform prioritisation.</i></li>
-        <li><i>By grounding backlog
+        <li>Usability signals
+                (analytics, feedback, test outcomes) only matter if they inform prioritisation.</li>
+        <li>By grounding backlog
                 discussions in <b>structured inferences</b>, teams avoid bias and move
-                faster.</i></li>
-        <li><i>Four sprint cycles help
-                refine assumptions, validate hypotheses, and focus energy where it counts.</i></li>
+                faster.</li>
+        <li>Four sprint cycles help
+                refine assumptions, validate hypotheses, and focus energy where it counts.</li>
     </ul>
 
-    <p><b><i>Type of Data</i></b></p>
+    <p><b>Type of Data</b></p>
 
     <ul type=disc>
-        <li><b><i>Validated Inferences</i></b><i>:
+        <li><b>Validated Inferences</b>:
                 Derived from analytics trends, usability tests, and behaviour
-                observations.</i></li>
-        <li><b><i>Backlog Item Tags</i></b><i>:
-                Stories labelled with hypothesis strength or evidence source.</i></li>
-        <li><b><i>Outcome Snapshots</i></b><i>:
-                Pre/post metrics tied to implemented stories.</i></li>
+                observations.</li>
+        <li><b>Backlog Item Tags</b>:
+                Stories labelled with hypothesis strength or evidence source.</li>
+        <li><b>Outcome Snapshots</b>:
+                Pre/post metrics tied to implemented stories.</li>
     </ul>
 
-    <p><b><i>Key Usability Analytics
-                Metric</i></b></p>
+    <p><b>Key Usability Analytics
+                Metric</b></p>
 
     <ul type=disc>
-        <li><b><i>Hypothesis Validation
-                    Score</i></b><i>: Strength of the evidence behind a backlog item.</i></li>
-        <li><b><i>Usability-Driven Prioritisation
-                    Rate</i></b><i>: % of stories backed by direct user behaviour insights.</i></li>
-        <li><b><i>Post-Sprint Outcome Shift</i></b><i>:
-                Change in dependent variables after implementation.</i></li>
+        <li><b>Hypothesis Validation
+                    Score</b>: Strength of the evidence behind a backlog item.</li>
+        <li><b>Usability-Driven Prioritisation
+                    Rate</b>: % of stories backed by direct user behaviour insights.</li>
+        <li><b>Post-Sprint Outcome Shift</b>:
+                Change in dependent variables after implementation.</li>
     </ul>
 
-    <p><b><i>AI Application</i></b></p>
+    <p><b>AI Application</b></p>
 
     <ul type=disc>
-        <li><b><i>Inference Structuring
-                    Tools</i></b><i>: AI helps translate raw analytics into clear hypotheses.</i></li>
-        <li><b><i>Priority Prediction
-                    Models</i></b><i>: Machine learning scores backlog items based on likely
-                impact.</i></li>
-        <li><b><i>Usability Signal
-                    Consolidation</i></b><i>: AI clusters insights to reduce duplication and
-                amplify real themes</i><span style='font-size:12.0pt'>.</span></li>
+        <li><b>Inference Structuring
+                    Tools</b>: AI helps translate raw analytics into clear hypotheses.</li>
+        <li><b>Priority Prediction
+                    Models</b>: Machine learning scores backlog items based on likely
+                impact.</li>
+        <li><b>Usability Signal
+                    Consolidation</b>: AI clusters insights to reduce duplication and
+                amplify real themes<span>.</span></li>
     </ul>
 
     <h2 align=center id="productanalyticsai-usability-analytics-learning-from-competitors-with-generative-ai">
@@ -8670,7 +8137,7 @@ font-weight:normal'>c)<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nb
         when you bring those insights into your product thinking, you build with more
         perspective and originality</p>
 
-    <p><strong><span style='font-family:"Calibri",sans-serif'>Figma</span></strong>
+    <p><strong><span style='font-family:"Inter",sans-serif'>Figma</span></strong>
         was considering how to introduce AI-assisted workflows. Instead of looking
         inward, they used AI to explore how tools like Notion, Grammarly, and Canva
         onboarded AI features. This surfaced patterns around “light-touch” tooltips and
@@ -8680,57 +8147,57 @@ font-weight:normal'>c)<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nb
     <p align=center><img class="img-fluid rounded-corners mt-3"  width="431" height="287" src="./images/productsanalyticsai/usabilityanalytics/image017.png"
             alt="Generated image"></p>
 
-    <p><b><i>Core Insights</i></b></p>
+    <p><b>Core Insights</b></p>
 
     <ul type=disc>
-        <li><i>Great SaaS design often
+        <li>Great SaaS design often
                 borrows from adjacent tools—AI can surface ideas from far outside your industry
-                bubble.</i></li>
-        <li><i>Using Generative AI as a
+                bubble.</li>
+        <li>Using Generative AI as a
                 “comparable explorer” gives teams concrete UI, feature, and flow
-                inspirations.</i></li>
-        <li><i>This expands the range of
-                possible hypotheses and helps avoid repetitive UX thinking.</i></li>
+                inspirations.</li>
+        <li>This expands the range of
+                possible hypotheses and helps avoid repetitive UX thinking.</li>
     </ul>
 
-    <p><b><i>Type of Data</i></b></p>
+    <p><b>Type of Data</b></p>
 
     <ul type=disc>
-        <li><b><i>Prompted UI Comparables</i></b><i>:
-                Screenshots, flows, copy from adjacent SaaS tools.</i></li>
-        <li><b><i>Design Pattern Libraries</i></b><i>:
-                Extracted components and journey examples.</i></li>
-        <li><b><i>Team-Tagged Relevance
-                    Scores</i></b><i>: Manual input on what fits or doesn’t.</i></li>
+        <li><b>Prompted UI Comparables</b>:
+                Screenshots, flows, copy from adjacent SaaS tools.</li>
+        <li><b>Design Pattern Libraries</b>:
+                Extracted components and journey examples.</li>
+        <li><b>Team-Tagged Relevance
+                    Scores</b>: Manual input on what fits or doesn’t.</li>
     </ul>
 
-    <p><b><i>Key Usability Analytics
-                Metric</i></b></p>
+    <p><b>Key Usability Analytics
+                Metric</b></p>
 
     <ul type=disc>
-        <li><b><i>Pattern Adoption Score</i></b><i>:
-                % of new designs influenced by external comparables.</i></li>
-        <li><b><i>Usability Lift</i></b><i>:
+        <li><b>Pattern Adoption Score</b>:
+                % of new designs influenced by external comparables.</li>
+        <li><b>Usability Lift</b>:
                 Improvement in task completion rate or speed after pattern-inspired
-                redesign.</i></li>
-        <li><b><i>Comparables Validation
-                    Rate</i></b><i>: How often an AI-suggested comparable proves helpful in
-                testing.</i></li>
+                redesign.</li>
+        <li><b>Comparables Validation
+                    Rate</b>: How often an AI-suggested comparable proves helpful in
+                testing.</li>
     </ul>
 
-    <p><b><i>AI Application</i></b></p>
+    <p><b>AI Application</b></p>
 
     <ul type=disc>
-        <li><b><i>Comparable Mining Prompts</i></b><i>:
+        <li><b>Comparable Mining Prompts</b>:
                 AI responds to prompts like “How does [X tool] handle onboarding?” with
-                detailed breakdowns.</i></li>
-        <li><b><i>Design Divergence
-                    Generator</i></b><i>: Produces multiple UI versions of the same workflow.</i></li>
-        <li><b><i>Pattern Benchmarking</i></b><i>:
-                AI compares your UX flows against broader SaaS norms.</i></li>
+                detailed breakdowns.</li>
+        <li><b>Design Divergence
+                    Generator</b>: Produces multiple UI versions of the same workflow.</li>
+        <li><b>Pattern Benchmarking</b>:
+                AI compares your UX flows against broader SaaS norms.</li>
     </ul>
 
-    <p><i>&nbsp;</i></p>
+    <p>&nbsp;</p>
 
     <h2 align=center id="productanalyticsai-usability-analytics-analytics-on-analytics">Analytics On Analytics</h2>
 
@@ -8739,7 +8206,7 @@ font-weight:normal'>c)<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nb
         conversations of the team. When analytics are always on the table, your product
         becomes more responsive, more user-friendly, and a whole lot smarter</p>
 
-    <p>At <strong><span style='font-family:"Calibri",sans-serif'>Asana</span></strong>,
+    <p>At <strong><span style='font-family:"Inter",sans-serif'>Asana</span></strong>,
         the product team noticed that new users were abandoning onboarding before
         adding their first task. By monitoring analytics in real-time, they discovered
         hesitation around the “Project Setup” screen. With help from ML models
@@ -8752,60 +8219,60 @@ font-weight:normal'>c)<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nb
 
     <p>&nbsp;</p>
 
-    <p><b><i>Core Insights</i></b></p>
+    <p><b>Core Insights</b></p>
 
     <ul type=disc>
-        <li><i>Teams that treat analytics
+        <li>Teams that treat analytics
                 as part of their daily rhythm—not a retroactive tool—solve usability
-                problems earlier.</i></li>
-        <li><i>Embedding real-time usage
+                problems earlier.</li>
+        <li>Embedding real-time usage
                 feedback into standups and sprints keeps the product aligned with actual
-                user behaviour.</i></li>
-        <li><i>Usability improvements
-                become proactive instead of reactive.</i></li>
+                user behaviour.</li>
+        <li>Usability improvements
+                become proactive instead of reactive.</li>
     </ul>
 
-    <p><b><i>Type of Data</i></b></p>
+    <p><b>Type of Data</b></p>
 
     <ul type=disc>
-        <li><b><i>Event Data</i></b><i>:
-                Clicks, form errors, hover activity, screen transitions.</i></li>
-        <li><b><i>Time Series Data</i></b><i>:
-                Feature use over time, session length fluctuations, recent drop-offs.</i></li>
-        <li><b><i>Error &amp; Friction
-                    Signals</i></b><i>: Rage clicks, repeat form submissions, task abandonment
-                logs.</i></li>
+        <li><b>Event Data</b>:
+                Clicks, form errors, hover activity, screen transitions.</li>
+        <li><b>Time Series Data</b>:
+                Feature use over time, session length fluctuations, recent drop-offs.</li>
+        <li><b>Error &amp; Friction
+                    Signals</b>: Rage clicks, repeat form submissions, task abandonment
+                logs.</li>
     </ul>
 
-    <p><b><i>Key Usability Analytics
-                Metric</i></b></p>
+    <p><b>Key Usability Analytics
+                Metric</b></p>
 
     <ul type=disc>
-        <li><b><i>Task Completion Rate</i></b><i>:
+        <li><b>Task Completion Rate</b>:
                 How many users successfully complete a critical journey (e.g., setting up
-                their first workspace or sending a message)?</i></li>
-        <li><b><i>Drop-Off Point
-                    Identification</i></b><i>: Where in the flow are users exiting or
-                stalling?</i></li>
-        <li><b><i>Micro conversion Rate</i></b><i>:
+                their first workspace or sending a message)?</li>
+        <li><b>Drop-Off Point
+                    Identification</b>: Where in the flow are users exiting or
+                stalling?</li>
+        <li><b>Micro conversion Rate</b>:
                 Are users moving through intermediary steps that indicate usability
-                health?</i></li>
+                health?</li>
     </ul>
 
-    <p><b><i>AI Application</i></b></p>
+    <p><b>AI Application</b></p>
 
     <ul type=disc>
-        <li><b><i>Anomaly Detection</i></b><i>:
+        <li><b>Anomaly Detection</b>:
                 AI flags sudden changes in user behaviour (e.g., spike in form abandonment
-                or decrease in daily active usage).</i></li>
-        <li><b><i>Session Categorisation</i></b><i>:
+                or decrease in daily active usage).</li>
+        <li><b>Session Categorisation</b>:
                 Machine learning groups sessions by flow completion, enabling better root
-                cause analysis.</i></li>
-        <li><b><i>Predictive Alerts</i></b><i>:
+                cause analysis.</li>
+        <li><b>Predictive Alerts</b>:
                 AI models proactively suggest attention on modules with declining
                 engagement or increasing friction.<br>
                 <br>
-            </i></li>
+            </li>
     </ul>
 
     <h2 align=center id="productanalyticsai-usability-analytics-qualitative-usability-testing">Qualitative Usability
@@ -8816,7 +8283,7 @@ font-weight:normal'>c)<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nb
         things numbers can’t tell you. And when AI helps you organise that raw feedback
         into patterns, it’s not just insightful, it is also incredibly actionable</p>
 
-    <p><strong><span style='font-family:"Calibri",sans-serif'>Notion</span></strong>
+    <p><strong><span style='font-family:"Inter",sans-serif'>Notion</span></strong>
         introduced a redesign of their workspace navigation. Internally, all analytics
         showed a stable engagement curve. But during a qualitative test, several users
         hesitated when using the new “All Updates” section. It wasn’t obvious where
@@ -8826,58 +8293,57 @@ font-weight:normal'>c)<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nb
 
     <p align=center><img class="img-fluid rounded-corners mt-3"  width=24 height=24 src="./images/productsanalyticsai/usabilityanalytics/image019.png"
             alt="Generated image"><img class="img-fluid rounded-corners mt-3"  width="431" height="287" id="Picture 3"
-            src="./images/productsanalyticsai/usabilityanalytics/image020.png"><img class="img-fluid rounded-corners mt-3"  width="431" height="287"
-            src="./images/productsanalyticsai/usabilityanalytics/image019.png" alt="Generated image"></p>
+            src="./images/productsanalyticsai/usabilityanalytics/image020.png"></p>
 
-    <p><b><i>Core Insights</i></b></p>
+    <p><b>Core Insights</b></p>
 
     <ul type=disc>
-        <li><i>Observing users in real time
+        <li>Observing users in real time
                 helps uncover moments of confusion, hesitation, or frustration that don’t
-                show up in clickstream data.</i></li>
-        <li><i>Think-aloud testing where
+                show up in clickstream data.</li>
+        <li>Think-aloud testing where
                 users verbalise their thought process, can quickly surface interface
-                mismatches or mental model gaps.</i></li>
-        <li><i>Qualitative methods are the
+                mismatches or mental model gaps.</li>
+        <li>Qualitative methods are the
                 fastest way to find why something isn’t working—even if the metrics look
-                okay.</i></li>
+                okay.</li>
     </ul>
 
-    <p><b><i>Type of Data</i></b></p>
+    <p><b>Type of Data</b></p>
 
     <ul type=disc>
-        <li><b><i>Observation Data</i></b><i>:
-                Screen recordings, cursor flows, scroll depth.</i></li>
-        <li><b><i>Verbal Feedback</i></b><i>:
-                Spoken reactions, confusion points, quotes from test sessions.</i></li>
-        <li><b><i>Gesture/Timing Indicators</i></b><i>:
-                Pauses, retries, backtracking.</i></li>
+        <li><b>Observation Data</b>:
+                Screen recordings, cursor flows, scroll depth.</li>
+        <li><b>Verbal Feedback</b>:
+                Spoken reactions, confusion points, quotes from test sessions.</li>
+        <li><b>Gesture/Timing Indicators</b>:
+                Pauses, retries, backtracking.</li>
     </ul>
 
-    <p><b><i>Key Usability Analytics
-                Metric</i></b></p>
+    <p><b>Key Usability Analytics
+                Metric</b></p>
 
     <ul type=disc>
-        <li><b><i>Time on Task</i></b><i>:
-                How long it takes users to complete a workflow.</i></li>
-        <li><b><i>Error Rate</i></b><i>:
-                How often users make a mistake before completing a step. </i></li>
-        <li><b><i>Verbal Confusion
-                    Incidents</i></b><i>: Number of “wait, what does this do?” moments during
-                a session.</i></li>
+        <li><b>Time on Task</b>:
+                How long it takes users to complete a workflow.</li>
+        <li><b>Error Rate</b>:
+                How often users make a mistake before completing a step. </li>
+        <li><b>Verbal Confusion
+                    Incidents</b>: Number of “wait, what does this do?” moments during
+                a session.</li>
     </ul>
 
-    <p><b><i>AI Application</i></b></p>
+    <p><b>AI Application</b></p>
 
     <ul type=disc>
-        <li><b><i>Transcription + Sentiment
-                    Clustering</i></b><i>: Automatically group spoken feedback into common
-                themes.</i></li>
-        <li><b><i>Gesture Pattern
-                    Recognition</i></b><i>: AI identifies patterns like cursor hesitation or
-                erratic movement.</i></li>
-        <li><b><i>Voice Tone Analysis</i></b><i>:
-                Gauge user confidence or frustration by analysing tone and pacing.</i></li>
+        <li><b>Transcription + Sentiment
+                    Clustering</b>: Automatically group spoken feedback into common
+                themes.</li>
+        <li><b>Gesture Pattern
+                    Recognition</b>: AI identifies patterns like cursor hesitation or
+                erratic movement.</li>
+        <li><b>Voice Tone Analysis</b>:
+                Gauge user confidence or frustration by analysing tone and pacing.</li>
     </ul>
 
     <h2 align=center id="productanalyticsai-usability-analytics-existing-data-insights">Existing Data Insights</h2>
@@ -8888,7 +8354,7 @@ font-weight:normal'>c)<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nb
         analyst, those insights become clear. And with AI helping you spot the
         patterns; it’s like having a microscope that knows where to look</p>
 
-    <p>At <strong><span style='font-family:"Calibri",sans-serif'>Airtable</span></strong>, the
+    <p>At <strong><span style='font-family:"Inter",sans-serif'>Airtable</span></strong>, the
         onboarding flow for new workspaces saw a steady drop-off in template selection.
         By analysing existing session logs without launching a new test, the team realised
         users didn’t understand what “Templates” were. AI clustering of click paths
@@ -8898,59 +8364,57 @@ font-weight:normal'>c)<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nb
     <p align=center><b><span style='font-size:14.0pt'><img class="img-fluid rounded-corners mt-3"  width="431" height="287" id="Picture 5"
                     src="./images/productsanalyticsai/usabilityanalytics/image021.png"></span></b></p>
 
-    <p><b><i>Core Insights</i></b></p>
+    <p><b>Core Insights</b></p>
 
     <ul type=disc>
-        <li><i>Every user interaction is a
+        <li>Every user interaction is a
                 live usability test. The key is to treat behavioural data like observation
-                notes, not just KPIs.</i></li>
-        <li><i>Before launching formal
+                notes, not just KPIs.</li>
+        <li>Before launching formal
                 tests, analyse what the data from your existing flows is already telling
-                you.</i></li>
-        <li><i>Retrospective funnel
+                you.</li>
+        <li>Retrospective funnel
                 analysis and session review can often uncover design issues without
-                scheduling a single new test.</i></li>
+                scheduling a single new test.</li>
     </ul>
 
-    <p><b><i>Type of Data</i></b></p>
+    <p><b>Type of Data</b></p>
 
     <ul type=disc>
-        <li><b><i>Event Streams</i></b><i>:
-                Click paths, hover trails, search attempts.</i></li>
-        <li><b><i>System Usage Logs</i></b><i>:
-                Feature toggles, abandoned sessions, error occurrences.</i></li>
-        <li><b><i>Historical Conversion
-                    Funnels</i></b><i>: Where users drop off in previously released features
-                or forms.</i></li>
+        <li><b>Event Streams</b>:
+                Click paths, hover trails, search attempts.</li>
+        <li><b>System Usage Logs</b>:
+                Feature toggles, abandoned sessions, error occurrences.</li>
+        <li><b>Historical Conversion
+                    Funnels</b>: Where users drop off in previously released features
+                or forms.</li>
     </ul>
 
-    <p style='margin-bottom:0cm;line-height:normal'><i>&nbsp;</i></p>
-
-    <p><b><i>Key Usability Analytics
-                Metric</i></b></p>
+    <p><b>Key Usability Analytics
+                Metric</b></p>
 
     <ul type=disc>
-        <li><b><i>Abandonment Rate</i></b><i>:
-                Where users leave workflows without completing them.</i></li>
-        <li><b><i>Time to Recovery</i></b><i>:
-                How quickly users bounce back from an error or confusion.</i></li>
-        <li><b><i>Step Retry Count</i></b><i>:
+        <li><b>Abandonment Rate</b>:
+                Where users leave workflows without completing them.</li>
+        <li><b>Time to Recovery</b>:
+                How quickly users bounce back from an error or confusion.</li>
+        <li><b>Step Retry Count</b>:
                 How often users repeat the same action within a flow (e.g., refilling a
-                field).</i></li>
+                field).</li>
     </ul>
 
-    <p><b><i>AI Application</i></b></p>
+    <p><b>AI Application</b></p>
 
     <ul type=disc>
-        <li><b><i>Retrospective Funnel
-                    Pattern Detection</i></b><i>: AI scans historical flows for common failure
-                points.</i></li>
-        <li><b><i>Session Clustering</i></b><i>:
-                Groups high-friction sessions to surface experience gaps.</i></li>
-        <li><b><i>Anomaly Detection</i></b><i>:
+        <li><b>Retrospective Funnel
+                    Pattern Detection</b>: AI scans historical flows for common failure
+                points.</li>
+        <li><b>Session Clustering</b>:
+                Groups high-friction sessions to surface experience gaps.</li>
+        <li><b>Anomaly Detection</b>:
                 Identifies new friction points based on deviations from past usage.<br>
                 <br>
-            </i></li>
+            </li>
     </ul>
 
     <h2 align=center id="productanalyticsai-usability-analytics-field-insights">Field
@@ -8961,7 +8425,7 @@ font-weight:normal'>c)<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nb
         when you combine those human conversations with smart analytics, you get
         product insights that are clearer, quicker, and rooted in the real world</p>
 
-    <p>At <strong><span style='font-family:"Calibri",sans-serif'>Zendesk</span></strong>,
+    <p>At <strong><span style='font-family:"Inter",sans-serif'>Zendesk</span></strong>,
         product managers routinely review support tickets and sales calls using voice
         analytics. When multiple clients in retail repeatedly asked how to “turn off
         notifications per channel,” AI-driven clustering of support logs flagged this
@@ -8971,53 +8435,53 @@ font-weight:normal'>c)<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nb
     <p align=center><img class="img-fluid rounded-corners mt-3"  width="431" height="287" id="Picture 1"
             src="./images/productsanalyticsai/usabilityanalytics/image022.png" alt="Generated image"></p>
 
-    <p><b><i>Core Insights</i></b></p>
+    <p><b>Core Insights</b></p>
 
     <ul type=disc>
-        <li><i>You don’t need to launch a
+        <li>You don’t need to launch a
                 new research project to learn about usability. Your sales and support
-                teams are already having conversations that reveal user friction.</i></li>
-        <li><i>Listening to these calls can
-                validate assumptions, uncover blind spots, and guide product decisions.</i></li>
-        <li><i>Sales and support calls
-                should be viewed as qualitative usability labs—not just conversion tools.</i></li>
+                teams are already having conversations that reveal user friction.</li>
+        <li>Listening to these calls can
+                validate assumptions, uncover blind spots, and guide product decisions.</li>
+        <li>Sales and support calls
+                should be viewed as qualitative usability labs—not just conversion tools.</li>
     </ul>
 
-    <p><b><i>Type of Data</i></b></p>
+    <p><b>Type of Data</b></p>
 
     <ul type=disc>
-        <li><b><i>Call Recordings</i></b><i>:
-                Demos, onboarding calls, renewal conversations.</i></li>
-        <li><b><i>CRM Notes</i></b><i>:
-                Objections, confusion, and workaround explanations. </i></li>
-        <li><b><i>Chat Logs</i></b><i>:
-                Real-time user friction in the wild.</i></li>
+        <li><b>Call Recordings</b>:
+                Demos, onboarding calls, renewal conversations.</li>
+        <li><b>CRM Notes</b>:
+                Objections, confusion, and workaround explanations. </li>
+        <li><b>Chat Logs</b>:
+                Real-time user friction in the wild.</li>
     </ul>
 
-    <p><b><i>Key Usability Analytics
-                Metric</i></b></p>
+    <p><b>Key Usability Analytics
+                Metric</b></p>
 
     <ul type=disc>
-        <li><b><i>First Friction Reference</i></b><i>:
-                Time or point in the call where the user gets confused or stuck.</i></li>
-        <li><b><i>Topic Repetition
-                    Frequency</i></b><i>: How often do the same usability issues show up
-                across conversations?</i></li>
-        <li><b><i>Resolution Delay</i></b><i>:
-                Time it takes to move from confusion to clarity within a call or chat.</i></li>
+        <li><b>First Friction Reference</b>:
+                Time or point in the call where the user gets confused or stuck.</li>
+        <li><b>Topic Repetition
+                    Frequency</b>: How often do the same usability issues show up
+                across conversations?</li>
+        <li><b>Resolution Delay</b>:
+                Time it takes to move from confusion to clarity within a call or chat.</li>
     </ul>
 
-    <p><b><i>AI Application</i></b></p>
+    <p><b>AI Application</b></p>
 
     <ul type=disc>
-        <li><b><i>Call Transcript Analysis</i></b><i>:
+        <li><b>Call Transcript Analysis</b>:
                 AI surfaces patterns from demo or onboarding calls (e.g., repeated
-                confusion around a feature).</i></li>
-        <li><b><i>Sentiment Mapping</i></b><i>:
-                Identify stress points by analysing tone and keywords.</i></li>
-        <li><b><i>Friction Cluster Alerts</i></b><i>:
+                confusion around a feature).</li>
+        <li><b>Sentiment Mapping</b>:
+                Identify stress points by analysing tone and keywords.</li>
+        <li><b>Friction Cluster Alerts</b>:
                 AI groups repeated complaints or usability issues from live sales/support
-                data.</i></li>
+                data.</li>
     </ul>
 
     <p>Usability
@@ -9043,7 +8507,12 @@ font-weight:normal'>c)<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nb
     <h2 align=center id="productanalyticsai-data-science-ai-for-product-managers-data-science-basics">Data Science
             Basics</h2>
 
-        <p><strong><span style='font-family:"Calibri",sans-serif;
+    <p align="center">
+            <img class="img-fluid rounded-corners mt-3" border="0" width="600" height="300"
+                src="./images/productsanalyticsai/datascienceaiproductmanagers/image000.png">
+    </p>
+
+        <p><strong><span style='font-family:"Inter",sans-serif;
 font-weight:normal'>Data science is the disciplined process of using data to
                     improve decision-making.</span></strong> For SaaS teams, that means building
             products that get smarter, more efficient, and more customer-focused over time.<b><span
@@ -9053,7 +8522,7 @@ font-weight:normal'>Data science is the disciplined process of using data to
             right message, guide the right flow, or change the right feature all based on
             what the data’s already telling you.</p>
 
-        <p><strong><span style='font-family:"Calibri",sans-serif'>Mixpanel</span></strong>
+        <p><strong><span style='font-family:"Inter",sans-serif'>Mixpanel</span></strong>
             uses its own event-stream data to predict user engagement drops. Their data
             science team-built models to anticipate when users would likely abandon certain
             setup flows. That insight led to timely in-app messages and smarter UI tweaks
@@ -9063,54 +8532,54 @@ font-weight:normal'>Data science is the disciplined process of using data to
                 src="./images/productsanalyticsai/datascienceaiproductmanagers/image001.png"
                 alt="Remove the Pinterest logo and correct misspellings"></p>
 
-        <p><b><i>Core Insights</i></b></p>
+        <p><b>Core Insights</b></p>
 
         <ul type=disc>
-            <li><i>Data science is about <b>creating
-                        actionable insights</b>—not just charts or dashboards. </i></li>
-            <li><i>It works best when paired
-                    with clear goals, defined outcomes, and business context.</i></li>
-            <li><i>For product teams, data
+            <li>Data science is about <b>creating
+                        actionable insights</b>—not just charts or dashboards. </li>
+            <li>It works best when paired
+                    with clear goals, defined outcomes, and business context.</li>
+            <li>For product teams, data
                     science becomes most valuable when embedded in feature development,
-                    experimentation, and personalisation.</i></li>
+                    experimentation, and personalisation.</li>
         </ul>
 
-        <p><b><i>Type of Data</i></b></p>
+        <p><b>Type of Data</b></p>
 
         <ul type=disc>
-            <li><b><i>Historical Behavioural
-                        Data</i></b><i>: Feature usage, churn events, onboarding pathways.</i></li>
-            <li><b><i>Contextual Data</i></b><i>:
-                    Device type, time of day, plan tier.</i></li>
-            <li><b><i>Training Data</i></b><i>:
+            <li><b>Historical Behavioural
+                        Data</b>: Feature usage, churn events, onboarding pathways.</li>
+            <li><b>Contextual Data</b>:
+                    Device type, time of day, plan tier.</li>
+            <li><b>Training Data</b>:
                     Labelled events used to build predictive models (e.g., churn, upsell
-                    likelihood).</i></li>
+                    likelihood).</li>
         </ul>
 
-        <p><b><i>Key Usability Analytics
-                    Metric</i></b></p>
+        <p><b>Key Usability Analytics
+                    Metric</b></p>
 
         <ul type=disc>
-            <li><b><i>Insight-to-Action Rate</i></b><i>:
-                    % of analytics or ML outputs that actually lead to a product change.</i></li>
-            <li><b><i>Predictive Accuracy for
-                        Experience Metrics</i></b><i>: Can your model forecast NPS drop, churn, or
-                    satisfaction?</i></li>
-            <li><i> <b>Feature Impact Lift</b>:
+            <li><b>Insight-to-Action Rate</b>:
+                    % of analytics or ML outputs that actually lead to a product change.</li>
+            <li><b>Predictive Accuracy for
+                        Experience Metrics</b>: Can your model forecast NPS drop, churn, or
+                    satisfaction?</li>
+            <li> <b>Feature Impact Lift</b>:
                     Measurable improvement in usability following a data science-driven
-                    change.</i></li>
+                    change.</li>
         </ul>
 
-        <p><b><i>AI Application</i></b></p>
+        <p><b>AI Application</b></p>
 
         <ul type=disc>
-            <li><b><i>Churn Prediction Models</i></b><i>:
-                    Forecast which users are likely to leave and why.</i></li>
-            <li><b><i>Personalized
-                        Recommendations</i></b><i>: Serve different onboarding paths or UI layouts
-                    based on user behaviour.</i></li>
-            <li><b><i>Anomaly Detection in UX</i></b><i>:
-                    Spot when something is going wrong before support tickets pile up.</i></li>
+            <li><b>Churn Prediction Models</b>:
+                    Forecast which users are likely to leave and why.</li>
+            <li><b>Personalized
+                        Recommendations</b>: Serve different onboarding paths or UI layouts
+                    based on user behaviour.</li>
+            <li><b>Anomaly Detection in UX</b>:
+                    Spot when something is going wrong before support tickets pile up.</li>
         </ul>
 
         <p><b><span style='font-size:14.0pt;line-height:107%'>&nbsp;</span></b></p>
@@ -9123,7 +8592,7 @@ font-weight:normal'>Data science is the disciplined process of using data to
             iteration, smarter personalisation, and a whole new way to co-design with the
             machine.</p>
 
-        <p><strong><span style='font-family:"Calibri",sans-serif'>Canva</span></strong>
+        <p><strong><span style='font-family:"Inter",sans-serif'>Canva</span></strong>
             introduced AI-generated templates and onboarding messages. Data scientists
             tracked conversion rates of AI-suggested designs, while product teams used
             generative AI to test new templates based on what resonated. One onboarding
@@ -9135,54 +8604,54 @@ font-weight:normal'>Data science is the disciplined process of using data to
                 alt="Create a descriptive image of a scenario where AI-generated templates and onboarding messages are introduced. Data scientists track conversion rates of AI-suggested designs, while product teams use generative AI to test new templates based on resonance. Highlight one onboarding version created by AI achieving a 15% lift in template completion during the first session, significantly outperforming the original.">
         </p>
 
-        <p><b><i>Core Insights</i></b></p>
+        <p><b>Core Insights</b></p>
 
         <ul type=disc>
-            <li><b><i>Data science</i></b><i>
-                    is great at pattern recognition, forecasting, and decision support.</i></li>
-            <li><b><i>Generative AI</i></b><i>
+            <li><b>Data science</b>
+                    is great at pattern recognition, forecasting, and decision support.</li>
+            <li><b>Generative AI</b>
                     expands the solution space by drafting UI variants, content, and
-                    interactions.</i></li>
-            <li><i>Product teams that combine
+                    interactions.</li>
+            <li>Product teams that combine
                     the two can test more ideas faster, optimize what works, and automate
-                    meaningful parts of the user journey.</i></li>
+                    meaningful parts of the user journey.</li>
         </ul>
 
-        <p><b><i>Type of Data</i></b></p>
+        <p><b>Type of Data</b></p>
 
         <ul type=disc>
-            <li><b><i>Training Sets for
-                        Generation</i></b><i>: UI patterns, successful CTAs, content styles.</i></li>
-            <li><b><i>Interaction Data</i></b><i>:
-                    How users respond to generated experiences (clicks, completions) </i></li>
-            <li><b><i>Outcome Feedback</i></b><i>:
-                    Which generated options led to the desired behaviour?</i></li>
+            <li><b>Training Sets for
+                        Generation</b>: UI patterns, successful CTAs, content styles.</li>
+            <li><b>Interaction Data</b>:
+                    How users respond to generated experiences (clicks, completions) </li>
+            <li><b>Outcome Feedback</b>:
+                    Which generated options led to the desired behaviour?</li>
         </ul>
 
-        <p><b><i>Key Usability Analytics
-                    Metric</i></b></p>
+        <p><b>Key Usability Analytics
+                    Metric</b></p>
 
         <ul type=disc>
-            <li><b><i>Generated Option
-                        Performance</i></b><i>: Success rate of AI-suggested copy, layout, or
-                    flows.</i></li>
-            <li><b><i>Iterative Testing Speed</i></b><i>:
-                    How fast teams can test and learn from new variations.</i></li>
-            <li><b><i>Model Alignment Score</i></b><i>:
+            <li><b>Generated Option
+                        Performance</b>: Success rate of AI-suggested copy, layout, or
+                    flows.</li>
+            <li><b>Iterative Testing Speed</b>:
+                    How fast teams can test and learn from new variations.</li>
+            <li><b>Model Alignment Score</b>:
                     How well generated outputs match desired UX outcomes (measured through
-                    user behaviour or team rating).</i></li>
+                    user behaviour or team rating).</li>
         </ul>
 
-        <p><b><i>AI Application</i></b></p>
+        <p><b>AI Application</b></p>
 
         <ul type=disc>
-            <li><b><i>Prompt-to-Prototype Tools</i></b><i>:
+            <li><b>Prompt-to-Prototype Tools</b>:
                     Generate wireframes, onboarding sequences, or test copy with minimal
-                    input.</i></li>
-            <li><b><i>Response Analysis</i></b><i>:
-                    Compare how different segments interact with AI-generated content.</i></li>
-            <li><b><i>Reinforcement Loops</i></b><i>:
-                    Feedback winning versions to train better AI outputs over time.</i></li>
+                    input.</li>
+            <li><b>Response Analysis</b>:
+                    Compare how different segments interact with AI-generated content.</li>
+            <li><b>Reinforcement Loops</b>:
+                    Feedback winning versions to train better AI outputs over time.</li>
         </ul>
 
         <p><b><span style='font-size:14.0pt;line-height:107%'>&nbsp;</span></b></p>
@@ -9191,9 +8660,9 @@ font-weight:normal'>Data science is the disciplined process of using data to
             Predictive AI vs. Generative AI</h2>
 
         <p><strong><span style='font-family:
-"Calibri",sans-serif;font-weight:normal'>Predictive AI helps you see what’s
+"Inter",sans-serif;font-weight:normal'>Predictive AI helps you see what’s
                     coming and, generative AI helps you create what doesn’t exist yet</span></strong><strong><span
-                    style='font-family:"Calibri",sans-serif'>.</span></strong> Knowing the
+                    style='font-family:"Inter",sans-serif'>.</span></strong> Knowing the
             difference is key to choosing the right tool for the right problem.</p>
 
         <p>Think of predictive AI as your
@@ -9202,7 +8671,7 @@ font-weight:normal'>Data science is the disciplined process of using data to
             make your SaaS product more adaptive, more helpful, and way more human-friendly</p>
 
         <p><strong><span style='font-family:
-"Calibri",sans-serif'>Grammarly</span></strong> uses predictive AI to assess
+"Inter",sans-serif'>Grammarly</span></strong> uses predictive AI to assess
             writing tone and correctness, and generative AI to suggest rewrites or complete
             sentences. Their internal data shows that users who engage with both
             capabilities complete writing tasks 2.3× faster, and are significantly more
@@ -9211,57 +8680,57 @@ font-weight:normal'>Data science is the disciplined process of using data to
         <p align=center><img class="img-fluid rounded-corners mt-3"  width="431" height="287"
                 src="./images/productsanalyticsai/datascienceaiproductmanagers/image003.png" alt="Generated image"></p>
 
-        <p><b><i>Core Insights</i></b></p>
+        <p><b>Core Insights</b></p>
 
         <ul type=disc>
-            <li><b><i>Predictive AI</i></b><i>
+            <li><b>Predictive AI</b>
                     analyses patterns in historical data to make forecasts or risk
-                    assessments. </i></li>
-            <li><b><i>Generative AI</i></b><i>
-                    creates new content or experiences based on learned patterns.</i></li>
-            <li><i>SaaS teams should choose
+                    assessments. </li>
+            <li><b>Generative AI</b>
+                    creates new content or experiences based on learned patterns.</li>
+            <li>SaaS teams should choose
                     their AI approach based on whether they want to answer, recommend, or
-                    create.</i></li>
+                    create.</li>
         </ul>
 
-        <p><b><i>Type of Data</i></b></p>
+        <p><b>Type of Data</b></p>
 
         <ul type=disc>
-            <li><b><i>Predictive AI Inputs</i></b><i>:
-                    Churn history, engagement metrics, purchase behaviour.</i></li>
-            <li><b><i>Generative AI Inputs</i></b><i>:
-                    Training data on language, UI patterns, task completions.</i></li>
-            <li><b><i>Feedback Loops</i></b><i>:
+            <li><b>Predictive AI Inputs</b>:
+                    Churn history, engagement metrics, purchase behaviour.</li>
+            <li><b>Generative AI Inputs</b>:
+                    Training data on language, UI patterns, task completions.</li>
+            <li><b>Feedback Loops</b>:
                     Success metrics tied to both model types (e.g., prediction accuracy vs.
-                    adoption of generated content).</i></li>
+                    adoption of generated content).</li>
         </ul>
 
-        <p><b><i>Key Usability Analytics
-                    Metric</i></b></p>
+        <p><b>Key Usability Analytics
+                    Metric</b></p>
 
         <ul type=disc>
-            <li><b><i>Prediction Accuracy</i></b><i>:
-                    How often the AI model correctly forecasts behaviour or outcomes.</i></li>
-            <li><b><i>Generation Utilization
-                        Rate</i></b><i>: % of users interacting with AI-generated suggestions. </i></li>
-            <li><b><i>Decision Acceleration</i></b><i>:
-                    Time saved or tasks completed faster thanks to predictive/generative help.</i></li>
+            <li><b>Prediction Accuracy</b>:
+                    How often the AI model correctly forecasts behaviour or outcomes.</li>
+            <li><b>Generation Utilization
+                        Rate</b>: % of users interacting with AI-generated suggestions. </li>
+            <li><b>Decision Acceleration</b>:
+                    Time saved or tasks completed faster thanks to predictive/generative help.</li>
         </ul>
 
-        <p><b><i>AI Application</i></b></p>
+        <p><b>AI Application</b></p>
 
         <ul type=disc>
-            <li><b><i>Predictive</i></b><i>:
-                    Churn risk scoring, next best action, trial-to-paid conversion likelihood.</i></li>
-            <li><b><i>Generative</i></b><i>: AI
-                    writing assistants, UI mock-up generation, code suggestion.</i></li>
-            <li><i> <b>Combo Use</b>: Predict
-                    who’s at risk → generate a tailored intervention or message.</i></li>
+            <li><b>Predictive</b>:
+                    Churn risk scoring, next best action, trial-to-paid conversion likelihood.</li>
+            <li><b>Generative</b>: AI
+                    writing assistants, UI mock-up generation, code suggestion.</li>
+            <li> <b>Combo Use</b>: Predict
+                    who’s at risk → generate a tailored intervention or message.</li>
         </ul>
 
-        <p><span style='font-size:12.0pt;font-family:"Times New Roman",serif'>&nbsp;</span></p>
+        <p><span style='font-size:12.0pt;font-family:"Inter",serif'>&nbsp;</span></p>
 
-        <p align=center><strong><span style='font-size:14.0pt;font-family:"Calibri",sans-serif'>Growing Analytics
+        <p align=center><strong><span style='font-size:14.0pt;font-family:"Inter",sans-serif'>Growing Analytics
                     &amp; AI Capability</span></strong></p>
 
         <p>Growing your analytics and AI
@@ -9270,68 +8739,69 @@ font-weight:normal'>Data science is the disciplined process of using data to
             smarter, faster, and more focused on what actually matters to users</p>
 
         <p><strong><span style='font-family:
-"Calibri",sans-serif'>Atlassian</span></strong> built out its analytics
+"Inter",sans-serif'>Atlassian</span></strong> built out its analytics
             maturity by investing in internal training, aligned data governance, and
             embedding ML tools into Jira workflows. Instead of treating data science as a
             separate unit, every product team had access to prediction APIs. This lowered time
             to insight across their portfolio by 40% and increased their experimentation
             volume by 3× in one year.</p>
 
-        <p align=center><img class="img-fluid rounded-corners mt-3"  width="431" height="287" id="Picture 1386751249"
+        <p align=center><img class="img-fluid rounded-corners mt-3"  width="600" height="300" id="Picture 1386751249"
                 src="./images/productsanalyticsai/datascienceaiproductmanagers/image004.png"
                 alt="Integrated Analytics Maturity in Agile Product Teams: Horizontal instructional visual with three zones: Foundations (data literacy training, governance checklist), Integration (ML tools in Jira workflows, prediction APIs for teams), Impact (dashboard with metrics, diverse teams celebrating).">
         </p>
 
-        <p><b><i>Core Insights</i></b></p>
+        <p><b>Core Insights</b></p>
 
         <ul type=disc>
-            <li><i>Analytics maturity comes in
-                    stages: descriptive → diagnostic → predictive → prescriptive.</i></li>
-            <li><i>AI maturity means not just
-                    experimenting with models, but operationalizing them into workflows. </i></li>
-            <li><i>Cross-functional
+            <li>Analytics maturity comes in
+                    stages: descriptive → diagnostic → predictive → prescriptive.</li>
+            <li>AI maturity means not just
+                    experimenting with models, but operationalizing them into workflows. </li>
+            <li>Cross-functional
                     collaboration is the key to scaling both data scientists, product teams,
-                    engineers, and business leads must work as one system.</i></li>
+                    engineers, and business leads must work as one system.</li>
         </ul>
 
-        <p><b><i>Type of Data</i></b></p>
+        <p><b>Type of Data</b></p>
 
         <ul type=disc>
-            <li><b><i>Capability Maturity
-                        Benchmarks</i></b><i>: Usage of dashboards, experimentation rate, data
-                    literacy assessments.</i></li>
-            <li><b><i>Embedded Model Metrics</i></b><i>:
-                    How often AI predictions are used in day-to-day operations.</i></li>
-            <li><b><i>Cultural Indicators</i></b><i>:
-                    Decision speed, metric alignment across roles, experimentation frequency.</i></li>
+            <li><b>Capability Maturity
+                        Benchmarks</b>: Usage of dashboards, experimentation rate, data
+                    literacy assessments.</li>
+            <li><b>Embedded Model Metrics</b>:
+                    How often AI predictions are used in day-to-day operations.</li>
+            <li><b>Cultural Indicators</b>:
+                    Decision speed, metric alignment across roles, experimentation frequency.</li>
         </ul>
 
-        <p><b><i>Key Usability Analytics
-                    Metric</i></b></p>
+        <p><b>Key Usability Analytics
+                    Metric</b></p>
 
         <ul type=disc>
-            <li><b><i>Analytics Usage Rate</i></b><i>:
+            <li><b>Analytics Usage Rate</b>:
                     % of team members regularly interacting with dashboards or automated
-                    reports. </i></li>
-            <li><b><i>Experiment-to-Action
-                        Ratio</i></b><i>: How many tests or models lead to product changes.</i></li>
-            <li><b><i>Time to Insight</i></b><i>:
-                    How quickly teams move from observation to intervention.</i></li>
+                    reports. </li>
+            <li><b>Experiment-to-Action
+                        Ratio</b>: How many tests or models lead to product changes.</li>
+            <li><b>Time to Insight</b>:
+                    How quickly teams move from observation to intervention.</li>
         </ul>
 
-        <p><i>&nbsp;</i></p>
 
-        <p><b><i>AI Application</i></b></p>
+        <p><b>AI Application</b></p>
 
         <ul type=disc>
-            <li><b><i>Capability Scoring
-                        Systems</i></b><i>: AI assesses team behaviour and tool usage to benchmark
-                    maturity. </i></li>
-            <li><b><i>Self-Optimizing Reporting</i></b><i>:
-                    Dashboards that evolve based on usage patterns.</i></li>
-            <li><b><i>Insight Routing</i></b><i>:
-                    AI automatically notifies relevant roles when patterns shift.</i></li>
+            <li><b>Capability Scoring
+                        Systems</b>: AI assesses team behaviour and tool usage to benchmark
+                    maturity. </li>
+            <li><b>Self-Optimizing Reporting</b>:
+                    Dashboards that evolve based on usage patterns.</li>
+            <li><b>Insight Routing</b>:
+                    AI automatically notifies relevant roles when patterns shift.</li>
         </ul>
+
+        <p>&nbsp;</p>
 
         <h2 align=center id="productanalyticsai-data-science-ai-for-product-managers-jtbd-and-ai-portfolio">JTBD and AI
             Portfolio</h2>
@@ -9341,7 +8811,7 @@ font-weight:normal'>Data science is the disciplined process of using data to
             AI features to real user jobs, your product stops being smart, it starts being
             indispensable.</p>
 
-        <p><strong><span style='font-family:"Calibri",sans-serif'>Notion</span></strong>
+        <p><strong><span style='font-family:"Inter",sans-serif'>Notion</span></strong>
             expanded its AI toolset with “autofill,” “summarise,” and “rewrite” jobs mapped
             to distinct content creation needs. Rather than releasing a single generic
             assistant, each tool was tied to a user outcome. They tracked which jobs AI was
@@ -9353,59 +8823,57 @@ font-weight:normal'>Data science is the disciplined process of using data to
                 alt="Integrated AI Toolset Expansion: Horizontal instructional visual with three zones: Toolset (autofill, summarise, rewrite jobs), User Outcomes (tools tied to outcomes, success signals tracked), Impact (higher AI engagement, lower manual edits).">
         </p>
 
-        <p><b><i>Core Insights</i></b></p>
+        <p><b>Core Insights</b></p>
 
         <ul type=disc>
-            <li><i>JTBD shifts the focus from
-                    features to outcomes: What progress is your user trying to make?</i></li>
-            <li><i>AI capabilities should be
-                    mapped to specific jobs your product helps complete.</i></li>
-            <li><i>Teams can design smarter
+            <li>JTBD shifts the focus from
+                    features to outcomes: What progress is your user trying to make?</li>
+            <li>AI capabilities should be
+                    mapped to specific jobs your product helps complete.</li>
+            <li>Teams can design smarter
                     product portfolios when they match AI features to JTBD categories: speed,
-                    accuracy, personalisation, exploration, etc.</i></li>
+                    accuracy, personalisation, exploration, etc.</li>
         </ul>
 
-        <p><i>&nbsp;</i></p>
 
-        <p><b><i>Type of Data</i></b></p>
+        <p><b>Type of Data</b></p>
 
         <ul type=disc>
-            <li><b><i>Job Success Signals</i></b><i>:
-                    Task completion, workflow time, repeat usage.\n- </i></li>
-            <li><b><i>Feature Adoption by
-                        Context</i></b><i>: When and where AI-powered tools are used.\n- </i></li>
-            <li><b><i>User Stated Goals</i></b><i>:
-                    Collected via onboarding, surveys, or in-app guidance.</i></li>
+            <li><b>Job Success Signals</b>:
+                    Task completion, workflow time, repeat usage.\n- </li>
+            <li><b>Feature Adoption by
+                        Context</b>: When and where AI-powered tools are used.\n- </li>
+            <li><b>User Stated Goals</b>:
+                    Collected via onboarding, surveys, or in-app guidance.</li>
         </ul>
 
-        <p><i>&nbsp;</i></p>
-
-        <p><b><i>Key Usability Analytics
-                    Metric</i></b></p>
+        <p><b>Key Usability Analytics
+                    Metric</b></p>
 
         <ul type=disc>
-            <li><b><i>Job Completion Rate</i></b><i>:
+            <li><b>Job Completion Rate</b>:
                     % of users who achieve a defined outcome (e.g., publish content, complete
-                    integration).</i></li>
-            <li><b><i>AI Feature Assist Rate</i></b><i>:
-                    How often AI features are used in completing a job.</i></li>
-            <li><i> <b>Friction vs. Lift Delta</b>:
-                    Was the AI a shortcut or a speed bump?</i></li>
+                    integration).</li>
+            <li><b>AI Feature Assist Rate</b>:
+                    How often AI features are used in completing a job.</li>
+            <li> <b>Friction vs. Lift Delta</b>:
+                    Was the AI a shortcut or a speed bump?</li>
         </ul>
 
-        <p><b><i>AI Application</i></b></p>
+        <p><b>AI Application</b></p>
 
         <ul type=disc>
-            <li><b><i>AI-to-JTBD Mapping
-                        Dashboards</i></b><i>: Visualise how AI tools map to jobs and user
-                    journeys.</i></li>
-            <li><b><i>Usage Prediction</i></b><i>:
+            <li><b>AI-to-JTBD Mapping
+                        Dashboards</b>: Visualise how AI tools map to jobs and user
+                    journeys.</li>
+            <li><b>Usage Prediction</b>:
                     ML estimates which jobs will benefit most from generative or predictive
-                    AI.</i></li>
-            <li><b><i>Adaptive UI Systems</i></b><i>:
-                    Display different AI helpers based on job context.</i></li>
+                    AI.</li>
+            <li><b>Adaptive UI Systems</b>:
+                    Display different AI helpers based on job context.</li>
         </ul>
 
+        <p>&nbsp;</p>
         <h2 align=center id="productanalyticsai-data-science-ai-for-product-managers-finding-ground-truth-with-ai">
             Finding Ground Truth with AI</h2>
 
@@ -9414,7 +8882,7 @@ font-weight:normal'>Data science is the disciplined process of using data to
             less on assumption and more on insight. And that’s when your product starts
             evolving with confidence, not guesswork.</p>
 
-        <p><strong><span style='font-family:"Calibri",sans-serif'>Intercom</span></strong>
+        <p><strong><span style='font-family:"Inter",sans-serif'>Intercom</span></strong>
             wanted to identify which customer actions predicted long-term retention. Many
             metrics seemed useful like message sent, workflow created, team invited, but
             only a few consistently correlated with account growth. Using AI-powered
@@ -9425,63 +8893,61 @@ font-weight:normal'>Data science is the disciplined process of using data to
         <p align=center><img class="img-fluid rounded-corners mt-3"  width="431" height="287" id="Picture 469811642"
                 src="./images/productsanalyticsai/datascienceaiproductmanagers/image006.png" alt="Generated image"></p>
 
-        <p>&nbsp;</p>
+       
 
-        <p><b><i>Core Insights</i></b></p>
+        <p><b>Core Insights</b></p>
 
         <ul type=disc>
-            <li><i>Ground truth refers to the
+            <li>Ground truth refers to the
                     most accurate, verified representation of user behaviour or product
-                    impact. </i></li>
-            <li><i>Many teams build with
+                    impact. </li>
+            <li>Many teams build with
                     partial truths metrics that are easy to access, but not deeply
-                    informative.</i></li>
-            <li><i>AI can help distinguish
+                    informative.</li>
+            <li>AI can help distinguish
                     signal from noise, elevate the most relevant data, and support smarter
-                    product trade-offs.</i></li>
+                    product trade-offs.</li>
         </ul>
 
-        <p><i>&nbsp;</i></p>
 
-        <p><b><i>Type of Data</i></b></p>
+        <p><b>Type of Data</b></p>
 
         <ul type=disc>
-            <li><b><i>Source-of-Truth Data</i></b><i>:
+            <li><b>Source-of-Truth Data</b>:
                     Logs, transactions, confirmed outcomes (e.g., payment made, setup
-                    complete).</i></li>
-            <li><b><i>Contradictory Indicators</i></b><i>:
+                    complete).</li>
+            <li><b>Contradictory Indicators</b>:
                     Metrics that diverge across tools (e.g., survey says “yes,” behaviour says
-                    “no”).</i></li>
-            <li><b><i>Label-Enriched Events</i></b><i>:
-                    Annotated sessions or outcomes used to validate model training.</i></li>
+                    “no”).</li>
+            <li><b>Label-Enriched Events</b>:
+                    Annotated sessions or outcomes used to validate model training.</li>
         </ul>
 
-        <p><i>&nbsp;</i></p>
 
-        <p><b><i>Key Usability Analytics
-                    Metric</i></b></p>
+        <p><b>Key Usability Analytics
+                    Metric</b></p>
 
         <ul type=disc>
-            <li><b><i>Ground Truth Match Rate</i></b><i>:
-                    How often inferred data matches confirmed real-world outcomes.</i></li>
-            <li><b><i>Decision Accuracy Delta</i></b><i>:
+            <li><b>Ground Truth Match Rate</b>:
+                    How often inferred data matches confirmed real-world outcomes.</li>
+            <li><b>Decision Accuracy Delta</b>:
                     % improvement in prioritization or success prediction post ground-truth
-                    clarification.</i></li>
-            <li><b><i>Signal Clarity Score</i></b><i>:
-                    Confidence in a metric as a reliable proxy for value.</i></li>
+                    clarification.</li>
+            <li><b>Signal Clarity Score</b>:
+                    Confidence in a metric as a reliable proxy for value.</li>
         </ul>
 
-        <p><b><i>AI Application</i></b></p>
+        <p><b>AI Application</b></p>
 
         <ul type=disc>
-            <li><b><i>Signal Validation Models</i></b><i>:
-                    AI ranks and verifies which metrics best represent core goals. </i></li>
-            <li><b><i>Disagreement Resolution
-                        Engines</i></b><i>: Flag when different data views suggest different
-                    stories.</i></li>
-            <li><b><i>Proxy-to-Truth Mapping</i></b><i>:
+            <li><b>Signal Validation Models</b>:
+                    AI ranks and verifies which metrics best represent core goals. </li>
+            <li><b>Disagreement Resolution
+                        Engines</b>: Flag when different data views suggest different
+                    stories.</li>
+            <li><b>Proxy-to-Truth Mapping</b>:
                     Identify indirect signals (like button retries) that correlate to actual
-                    success or struggle.</i></li>
+                    success or struggle.</li>
         </ul>
 
         <h2 align=center id="productanalyticsai-data-science-ai-for-product-managers-easy-to-durable-wins-with-ai">Easy
@@ -9492,64 +8958,66 @@ font-weight:normal'>Data science is the disciplined process of using data to
             value, day after day. Because in the end, it’s not about what AI can do, it’s
             about what it keeps doing</p>
 
-        <p><strong><span style='font-family:"Calibri",sans-serif'>Zapier</span></strong>
+        <p><strong><span style='font-family:"Inter",sans-serif'>Zapier</span></strong>
             began by offering simple AI automations to help users build workflows. But to
             create durable wins, they integrated predictive flow suggestions based on user
             history and app pairings. These persisted across use cases and grew smarter
             over time which boosted flow completion and retention in power users by 22%.</p>
 
-        <p align=center><img class="img-fluid rounded-corners mt-3"  width="431" height="287" id="Picture 1833200517"
+        <p align=center><img class="img-fluid rounded-corners mt-3"  width="600" height="300" id="Picture 1833200517"
                 src="./images/productsanalyticsai/datascienceaiproductmanagers/image007.png" alt="Generated image"></p>
 
-        <p>&nbsp;</p>
+       
 
-        <p><b><i>Core Insights</i></b></p>
+        <p><b>Core Insights</b></p>
 
         <ul type=disc>
-            <li><i>Easy AI wins often focus on
+            <li>Easy AI wins often focus on
                     cosmetic or surface-level improvements (e.g., autocomplete, minor
-                    personalisation’s). </i></li>
-            <li><i>Durable AI wins require a
-                    tighter integration between models, product logic, and user outcomes.</i></li>
-            <li><i>You move from novelty to
-                    strategy when AI is tied directly to business value and user goals.</i></li>
+                    personalisation’s). </li>
+            <li>Durable AI wins require a
+                    tighter integration between models, product logic, and user outcomes.</li>
+            <li>You move from novelty to
+                    strategy when AI is tied directly to business value and user goals.</li>
         </ul>
 
-        <p><b><i>Type of Data</i></b></p>
+        <p><b>Type of Data</b></p>
 
         <ul type=disc>
-            <li><b><i>Performance Benchmarks</i></b><i>:
+            <li><b>Performance Benchmarks</b>:
                     Metrics before/after AI deployment (e.g., task time, click-through,
-                    satisfaction).</i></li>
-            <li><b><i>Sustained Engagement Data</i></b><i>:
-                    Do AI features keep delivering over time?</i></li>
-            <li><i> <b>User Learning Curves</b>:
-                    Is the feature helpful even as users grow more advanced?</i></li>
+                    satisfaction).</li>
+            <li><b>Sustained Engagement Data</b>:
+                    Do AI features keep delivering over time?</li>
+            <li> <b>User Learning Curves</b>:
+                    Is the feature helpful even as users grow more advanced?</li>
         </ul>
 
-        <p><b><i>Key Usability Analytics
-                    Metric</i></b></p>
+        <p><b>Key Usability Analytics
+                    Metric</b></p>
 
         <ul type=disc>
-            <li><b><i>Feature Longevity Score</i></b><i>:
-                    Continued engagement with AI-driven features after novelty wears of</i></li>
-            <li><b><i>Core Task Efficiency Gain</i></b><i>:
-                    How much faster or smoother core jobs become post-AI.</i></li>
-            <li><b><i>Durability Index</i></b><i>:
-                    Ratio of long-term improvements to initial launch spike.</i></li>
+            <li><b>Feature Longevity Score</b>:
+                    Continued engagement with AI-driven features after novelty wears of</li>
+            <li><b>Core Task Efficiency Gain</b>:
+                    How much faster or smoother core jobs become post-AI.</li>
+            <li><b>Durability Index</b>:
+                    Ratio of long-term improvements to initial launch spike.</li>
         </ul>
 
-        <p><b><i>AI Application</i></b></p>
+        <p><b>AI Application</b></p>
 
         <ul type=disc>
-            <li><b><i>Reinforcement Learning
-                        Systems</i></b><i>: Improve based on repeated user outcomes.</i></li>
-            <li><b><i>Context-Aware
-                        Personalization Engines</i></b><i>: Adapt behaviour based on usage depth,
-                    not just clicks.</i></li>
-            <li><b><i>A/B Testing Over Time</i></b><i>:
-                    Validate not just immediate impact, but performance 30–60–90 days out.</i></li>
+            <li><b>Reinforcement Learning
+                        Systems</b>: Improve based on repeated user outcomes.</li>
+            <li><b>Context-Aware
+                        Personalization Engines</b>: Adapt behaviour based on usage depth,
+                    not just clicks.</li>
+            <li><b>A/B Testing Over Time</b>:
+                    Validate not just immediate impact, but performance 30–60–90 days out.</li>
         </ul>
+
+        <p>&nbsp;</p>
 
         <h2 align=center id="productanalyticsai-data-science-ai-for-product-managers-working-with-data-science-teams">
             Working with Data Science Teams</h2>
@@ -9558,7 +9026,7 @@ font-weight:normal'>Data science is the disciplined process of using data to
             PMs and data scientists co-own the problem, the questions get sharper, the
             insights get faster, and the product gets a whole lot better.</p>
 
-        <p>At <strong><span style='font-family:"Calibri",sans-serif'>HubSpot</span></strong>,
+        <p>At <strong><span style='font-family:"Inter",sans-serif'>HubSpot</span></strong>,
             product and data science teams run “insight standups” twice a week. These
             aren’t status updates, they’re working sessions where hypotheses are
             prioritized and tested collaboratively. AI tools summarize findings, suggest
@@ -9568,56 +9036,57 @@ font-weight:normal'>Data science is the disciplined process of using data to
         <p align=center><img class="img-fluid rounded-corners mt-3"  width="431" height="287" id="Picture 1"
                 src="./images/productsanalyticsai/datascienceaiproductmanagers/image008.png"></p>
 
-        <p>&nbsp;</p>
 
-        <p><b><i>Core Insights</i></b></p>
+        <p><b>Core Insights</b></p>
 
         <ul type=disc>
-            <li><i>The best data science teams
-                    work <b>with product</b>, not for product.</i></li>
-            <li><i>Miscommunication often stems
-                    from unclear hypotheses or unprioritized questions.</i></li>
-            <li><i>Collaboration works best
+            <li>The best data science teams
+                    work <b>with product</b>, not for product.</li>
+            <li>Miscommunication often stems
+                    from unclear hypotheses or unprioritized questions.</li>
+            <li>Collaboration works best
                     when both sides understand each other’s goals, vocabulary, and decision
-                    cadence.</i></li>
+                    cadence.</li>
         </ul>
 
-        <p><b><i>Type of Data</i></b></p>
+        <p><b>Type of Data</b></p>
 
         <ul type=disc>
-            <li><b><i>Product Questions Backlog</i></b><i>:
-                    Prioritized list of testable questions or hypotheses.</i></li>
-            <li><b><i>Experimentation Artifacts</i></b><i>:
+            <li><b>Product Questions Backlog</b>:
+                    Prioritized list of testable questions or hypotheses.</li>
+            <li><b>Experimentation Artifacts</b>:
                     Notebooks, dashboards, and A/B test results shared in product-friendly
-                    formats.</i></li>
-            <li><b><i>Team Collaboration Logs</i></b><i>:
-                    Decision outcomes, handoff notes, alignment check-ins.</i></li>
+                    formats.</li>
+            <li><b>Team Collaboration Logs</b>:
+                    Decision outcomes, handoff notes, alignment check-ins.</li>
         </ul>
 
-        <p><b><i>Key Usability Analytics
-                    Metric</i></b></p>
+        <p><b>Key Usability Analytics
+                    Metric</b></p>
 
         <ul type=disc>
-            <li><b><i>Insight Utilization Rate</i></b><i>:
-                    % of data science outputs that inform product or design changes.</i></li>
-            <li><b><i>Decision Loop Time</i></b><i>:
-                    Time from hypothesis formation to validated insight. </i></li>
-            <li><b><i>Cross-Team Alignment
-                        Score</i></b><i>: Survey or meeting-based score of shared understanding.</i></li>
+            <li><b>Insight Utilization Rate</b>:
+                    % of data science outputs that inform product or design changes.</li>
+            <li><b>Decision Loop Time</b>:
+                    Time from hypothesis formation to validated insight. </li>
+            <li><b>Cross-Team Alignment
+                        Score</b>: Survey or meeting-based score of shared understanding.</li>
         </ul>
 
-        <p><b><i>AI Application</i></b></p>
+        <p><b>AI Application</b></p>
 
         <ul type=disc>
-            <li><b><i>Insight Summarization
-                        Bots</i></b><i>: Auto-generate readable briefs from data science
-                    notebooks.</i></li>
-            <li><b><i>Hypothesis Structuring
-                        Assistants</i></b><i>: Help PMs frame testable questions clearly.</i></li>
-            <li><b><i>Model Result Translators</i></b><i>:
-                    Bridge statistical outputs and UX implications.</i></li>
+            <li><b>Insight Summarization
+                        Bots</b>: Auto-generate readable briefs from data science
+                    notebooks.</li>
+            <li><b>Hypothesis Structuring
+                        Assistants</b>: Help PMs frame testable questions clearly.</li>
+            <li><b>Model Result Translators</b>:
+                    Bridge statistical outputs and UX implications.</li>
         </ul>
 
+
+        <p>&nbsp;</p>
         <h2 align=center id="productanalyticsai-data-science-ai-for-product-managers-the-hidden-dragon-case">The Hidden
             Dragon Case</h2>
 
@@ -9639,72 +9108,70 @@ font-weight:normal'>Data science is the disciplined process of using data to
             their operations but also their strategic intent: generating revenue for the
             North Korean regime under heavy sanctions.</p>
 
-        <p>&nbsp;</p>
 
-        <p><strong><span style='font-family:"Calibri",sans-serif'>Segment
+        <p><strong><span style='font-family:"Inter",sans-serif'>Segment
                     (now part of Twilio)</span></strong> used network analytics to detect patterns
             in workspace setups that led to high activation success. Surprisingly, it
             wasn’t just number of users, it was the <strong><span
-                    style='font-family:"Calibri",sans-serif'>order</span></strong>
+                    style='font-family:"Inter",sans-serif'>order</span></strong>
             in which integrations were set up. This insight helped them tweak onboarding
             flows and increase activation by 14%.</p>
 
         <p align=center><img class="img-fluid rounded-corners mt-3"  width="431" height="287" id="Picture 1021163059"
                 src="./images/productsanalyticsai/datascienceaiproductmanagers/image009.png" alt="Generated image"></p>
 
-        <p>&nbsp;</p>
 
-        <p><b><i>Core Insights</i></b></p>
+        <p><b>Core Insights</b></p>
 
         <ul type=disc>
-            <li><i>Data science can uncover
-                    systemic patterns and causal chains not visible at first glance. </i></li>
-            <li><i>The “Hidden Cobra” (North
+            <li>Data science can uncover
+                    systemic patterns and causal chains not visible at first glance. </li>
+            <li>The “Hidden Cobra” (North
                     Korea Hacking Group) case demonstrates the power of connecting network
-                    data, transactions, and behavioural clues.</i></li>
-            <li><i>SaaS teams can apply the
+                    data, transactions, and behavioural clues.</li>
+            <li>SaaS teams can apply the
                     same thinking to uncover invisible drop-offs, bottlenecks, or user
-                    segmentation shifts.</i></li>
+                    segmentation shifts.</li>
         </ul>
 
-        <p><b><i>Type of Data</i></b></p>
+        <p><b>Type of Data</b></p>
 
         <ul type=disc>
-            <li><b><i>Relational/Network Data</i></b><i>:
-                    Connections between users, features, or teams.</i></li>
-            <li><b><i>Temporal Event Logs</i></b><i>:
-                    When actions happened and in what sequence.</i></li>
-            <li><b><i>Behavioural Indicators</i></b><i>:
+            <li><b>Relational/Network Data</b>:
+                    Connections between users, features, or teams.</li>
+            <li><b>Temporal Event Logs</b>:
+                    When actions happened and in what sequence.</li>
+            <li><b>Behavioural Indicators</b>:
                     Minor actions (e.g., hovering, retrying) that reveal deeper intent or
-                    friction.</i></li>
+                    friction.</li>
         </ul>
 
-        <p><b><i>Key Usability Analytics
-                    Metric</i></b></p>
+        <p><b>Key Usability Analytics
+                    Metric</b></p>
 
         <ul type=disc>
-            <li><b><i>Hidden Drop-off Rate</i></b><i>:
-                    Users who appear engaged but quietly fail to complete goals.</i></li>
-            <li><b><i>Action Clustering
-                        Accuracy</i></b><i>: How well similar user behaviours are grouped
-                    together.</i></li>
-            <li><b><i>Anomaly Discovery
-                        Frequency</i></b><i>: How often teams surface unexpected patterns with
-                    real product impact.</i></li>
+            <li><b>Hidden Drop-off Rate</b>:
+                    Users who appear engaged but quietly fail to complete goals.</li>
+            <li><b>Action Clustering
+                        Accuracy</b>: How well similar user behaviours are grouped
+                    together.</li>
+            <li><b>Anomaly Discovery
+                        Frequency</b>: How often teams surface unexpected patterns with
+                    real product impact.</li>
         </ul>
 
-        <p><b><i>AI Application</i></b></p>
+        <p><b>AI Application</b></p>
 
         <ul type=disc>
-            <li><b><i>Graph-Based Pattern
-                        Detection</i></b><i>: Find unexpected relationships or sequences across
-                    user actions. </i></li>
-            <li><b><i>Latent Behaviour Modelling</i></b><i>:
-                    Detect non-obvious churn risk or feature misuse.</i></li>
-            <li><b><i>Exploratory Insight
-                        Generators</i></b><i>: AI proposes “what if” paths through behavioural
-                    data.</i></li>
-            <li><i>&nbsp;</i></li>
+            <li><b>Graph-Based Pattern
+                        Detection</b>: Find unexpected relationships or sequences across
+                    user actions. </li>
+            <li><b>Latent Behaviour Modelling</b>:
+                    Detect non-obvious churn risk or feature misuse.</li>
+            <li><b>Exploratory Insight
+                        Generators</b>: AI proposes “what if” paths through behavioural
+                    data.</li>
+            
         </ul>
 
         <h2 align=center id="productanalyticsai-data-science-ai-for-product-managers-data-wrangling-and-exploration">
@@ -9713,7 +9180,7 @@ font-weight:normal'>Data science is the disciplined process of using data to
 
         <p>Before the charts and models, you need to deal with the data
             mess. We need to dig into the gritty, real-world work of <strong><span
-                    style='font-family:"Calibri",sans-serif'>data wrangling and exploration</span></strong>,
+                    style='font-family:"Inter",sans-serif'>data wrangling and exploration</span></strong>,
             a vital part of any SaaS analytics workflow. In practice, this is where raw
             event logs become clean insights, and where analysts start to spot the stories,
             your product is telling, even if you’re not listening yet.</p>
@@ -9723,7 +9190,7 @@ font-weight:normal'>Data science is the disciplined process of using data to
             sharp and your structure is solid, you’ll start finding the gold that powers
             better features, better funnels, and better decisions.</p>
 
-        <p><strong><span style='font-family:"Calibri",sans-serif'>Amplitude</span></strong>
+        <p><strong><span style='font-family:"Inter",sans-serif'>Amplitude</span></strong>
             improved their internal funnel analysis by applying AI-assisted data wrangling
             to customer event streams. They discovered that a surprising number of sessions
             were misclassified due to timestamp errors from mobile SDKs. Fixing this
@@ -9737,53 +9204,53 @@ font-weight:normal'>Data science is the disciplined process of using data to
 
         <p>&nbsp;</p>
 
-        <p><b><i>Core Insights</i></b></p>
+        <p><b>Core Insights</b></p>
 
         <ul type=disc>
-            <li><b><i>Data wrangling</i></b><i>
+            <li><b>Data wrangling</b>
                     involves cleaning, transforming, and organizing raw data into a usable
-                    structure.</i></li>
-            <li><b><i>Exploratory analysis</i></b><i>
+                    structure.</li>
+            <li><b>Exploratory analysis</b>
                     is not about proving a hypothesis—it’s about uncovering patterns,
-                    anomalies, or new questions.</i></li>
-            <li><i>In SaaS, these steps ensure
+                    anomalies, or new questions.</li>
+            <li>In SaaS, these steps ensure
                     you're working with reliable behavioural signals before investing in
-                    experimentation or modelling.</i></li>
+                    experimentation or modelling.</li>
         </ul>
 
-        <p><b><i>Type of Data</i></b></p>
+        <p><b>Type of Data</b></p>
 
         <ul type=disc>
-            <li><b><i>Raw Event Streams</i></b><i>:
-                    Clicks, scrolls, inputs, API calls</i></li>
-            <li><b><i>Metadata Context</i></b><i>:
-                    Timestamps, device/browser, plan type, referral source.</i></li>
-            <li><b><i>Structured Session Data</i></b><i>:
-                    Reconstructed user journeys from fragmented logs.</i></li>
+            <li><b>Raw Event Streams</b>:
+                    Clicks, scrolls, inputs, API calls</li>
+            <li><b>Metadata Context</b>:
+                    Timestamps, device/browser, plan type, referral source.</li>
+            <li><b>Structured Session Data</b>:
+                    Reconstructed user journeys from fragmented logs.</li>
         </ul>
 
-        <p><b><i>Key Usability Analytics
-                    Metric</i></b></p>
+        <p><b>Key Usability Analytics
+                    Metric</b></p>
 
         <ul type=disc>
-            <li><b><i>Data Coverage Score</i></b><i>:
-                    % of user activity accurately captured and structured.</i></li>
-            <li><b><i>Exploratory Insight Yield</i></b><i>:
-                    # of actionable product insights found during exploratory phase.</i></li>
-            <li><i> <b>Wrangling
-                        Time-to-Analysis Ratio</b>: How much time is spent cleaning vs. learning.</i></li>
+            <li><b>Data Coverage Score</b>:
+                    % of user activity accurately captured and structured.</li>
+            <li><b>Exploratory Insight Yield</b>:
+                    # of actionable product insights found during exploratory phase.</li>
+            <li> <b>Wrangling
+                        Time-to-Analysis Ratio</b>: How much time is spent cleaning vs. learning.</li>
         </ul>
 
-        <p><b><i>AI Application</i></b></p>
+        <p><b>AI Application</b></p>
 
         <ul type=disc>
-            <li><b><i>Automated Data Cleaning</i></b><i>:
-                    Detect and fix missing, mis-formatted, or inconsistent entries.</i></li>
-            <li><b><i>Smart Column Grouping</i></b><i>:
+            <li><b>Automated Data Cleaning</b>:
+                    Detect and fix missing, mis-formatted, or inconsistent entries.</li>
+            <li><b>Smart Column Grouping</b>:
                     AI suggests how to unify messy dimensions (e.g., email domains, device
-                    types).</i></li>
-            <li><b><i>Insight Sketching</i></b><i>:
-                    Generate early hypotheses or questions based on pattern scans.</i></li>
+                    types).</li>
+            <li><b>Insight Sketching</b>:
+                    Generate early hypotheses or questions based on pattern scans.</li>
         </ul>
 
         <h2 align=center id="productanalyticsai-data-science-ai-for-product-managers-testing-interventions">Testing
@@ -9791,7 +9258,7 @@ font-weight:normal'>Data science is the disciplined process of using data to
 
         <p>In product development, having data is one thing but knowing
             what to do with it is another. First, we need to dive into the <strong><span
-                    style='font-family:"Calibri",sans-serif'>core of applied data science</span></strong>
+                    style='font-family:"Inter",sans-serif'>core of applied data science</span></strong>
             by turning ideas into testable hypotheses, running controlled experiments, and
             designing product interventions that create measurable change. It’s the
             heartbeat of data-informed SaaS, ecommerce and digital iterations.</p>
@@ -9801,68 +9268,68 @@ font-weight:normal'>Data science is the disciplined process of using data to
             guessing and start learning. And the more you test, the better your product and
             your team gets.</p>
 
-        <p><strong><span style='font-family:"Calibri",sans-serif'>Asana</span></strong>
+        <p><strong><span style='font-family:"Inter",sans-serif'>Asana</span></strong>
             used hypothesis testing to improve team onboarding. An AI-powered tool
             recommended variations of their “invite teammates” flow. One variation
             emphasized benefits, another removed optional fields. Testing across segments
             showed the benefit-emphasising version led to a 23% higher team activation rate,
             backed by clear data and reduced guesswork.</p>
 
-        <p align=center><img class="img-fluid rounded-corners mt-3"  width=431 height=287 id="Picture 528514763"
+        <p align=center><img class="img-fluid rounded-corners mt-3"  width=600 height=300 id="Picture 528514763"
                 src="./images/productsanalyticsai/datascienceaiproductmanagers/image011.png" alt="Generated image"></p>
 
-        <p>&nbsp;</p>
+        
 
-        <p><b><i>Core Insights</i></b></p>
+        <p><b>Core Insights</b></p>
 
         <ul type=disc>
-            <li><i>Every analytics insight
-                    should lead to a testable hypothesis: “If we do X, Y will improve.”</i></li>
-            <li><i>Interventions must be
-                    carefully designed to isolate impact while minimizing user friction.</i></li>
-            <li><i>Hypothesis-driven teams move
-                    faster, learn more reliably, and reduce bias in product decisions.</i></li>
+            <li>Every analytics insight
+                    should lead to a testable hypothesis: “If we do X, Y will improve.”</li>
+            <li>Interventions must be
+                    carefully designed to isolate impact while minimizing user friction.</li>
+            <li>Hypothesis-driven teams move
+                    faster, learn more reliably, and reduce bias in product decisions.</li>
         </ul>
 
-        <p><b><i>Type of Data</i></b></p>
+        <p><b>Type of Data</b></p>
 
         <ul type=disc>
-            <li><b><i>Hypothesis Tracking Logs</i></b><i>:
-                    Structured records of test conditions, assumptions, and outcomes.</i></li>
-            <li><b><i>Intervention Exposure
-                        Events</i></b><i>: Who saw what, when, and how often.</i></li>
-            <li><b><i>Goal-Specific Metrics</i></b><i>:
-                    Conversions, satisfaction, churn, or engagement tied to experiment arms.</i></li>
+            <li><b>Hypothesis Tracking Logs</b>:
+                    Structured records of test conditions, assumptions, and outcomes.</li>
+            <li><b>Intervention Exposure
+                        Events</b>: Who saw what, when, and how often.</li>
+            <li><b>Goal-Specific Metrics</b>:
+                    Conversions, satisfaction, churn, or engagement tied to experiment arms.</li>
         </ul>
 
-        <p><b><i>Key Usability Analytics
-                    Metric</i></b></p>
+        <p><b>Key Usability Analytics
+                    Metric</b></p>
 
         <ul type=disc>
-            <li><b><i>Hypothesis Validation
-                        Rate</i></b><i>: % of hypotheses that hold up under real user behaviour.</i></li>
-            <li><b><i>Experiment Impact Score</i></b><i>:
-                    Effect size of intervention on key product goals.</i></li>
-            <li><b><i>Learning Velocity</i></b><i>:
-                    Number of product hypotheses tested per sprint.</i></li>
+            <li><b>Hypothesis Validation
+                        Rate</b>: % of hypotheses that hold up under real user behaviour.</li>
+            <li><b>Experiment Impact Score</b>:
+                    Effect size of intervention on key product goals.</li>
+            <li><b>Learning Velocity</b>:
+                    Number of product hypotheses tested per sprint.</li>
         </ul>
 
-        <p><b><i>AI Application</i></b></p>
+        <p><b>AI Application</b></p>
 
         <ul type=disc>
-            <li><b><i>Hypothesis Generation
-                        Tools</i></b><i>: AI proposes testable ideas from observed patterns. </i></li>
-            <li><b><i>Auto-Designed Experiments</i></b><i>:
-                    Suggests test groups, exposure conditions, and success metrics.</i></li>
-            <li><b><i>Result Interpreters</i></b><i>:
+            <li><b>Hypothesis Generation
+                        Tools</b>: AI proposes testable ideas from observed patterns. </li>
+            <li><b>Auto-Designed Experiments</b>:
+                    Suggests test groups, exposure conditions, and success metrics.</li>
+            <li><b>Result Interpreters</b>:
                     Summarizes findings with suggested next actions based on impact.<br>
                     <br>
-                </i></li>
+                </li>
         </ul>
 
         <h2 align=center id="productanalyticsai-data-science-ai-for-product-managers-case-study-generative-ai-irl">Case
-            Study: Generative AI IRL</span></b><b><i>
-                    (Figma with FigJam AI (Beta)</i></b></h2>
+            Study: Generative AI IRL</span></b><b>
+                    (Figma with FigJam AI (Beta)</b></h2>
 
         <p>Generative AI isn’t just a new tool;
             it is also a new teammate. The Figma App shows us that when you pair generative
@@ -9881,142 +9348,132 @@ font-weight:normal'>Data science is the disciplined process of using data to
             <li><b>Experimentation Phase:</b>
                 Early AI testing focused on generating UI patterns from prompts.</li>
             <li><b>Live Product Impact:</b></li>
+                <ul type=disc>
+                        <li><b>FigJam AI</b> generates sticky notes, diagrams, and
+                            brainstorms from prompts.</li>
+
+                        <li><b>Figma AI</b> (coming soon) will generate editable UI mock-ups.</li>
+                </ul>
         </ul>
 
-        <p style='margin-left:72.0pt;text-indent:-18.0pt;
-line-height:normal'><span style='font-family:Symbol'>·<span
-                    style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-                </span></span><b>FigJam AI</b> generates sticky notes, diagrams, and
-            brainstorms from prompts.</p>
-
-        <p style='margin-left:72.0pt;text-indent:-18.0pt;
-line-height:normal'><span style='font-family:Symbol'>·<span
-                    style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-                </span></span><b>Figma AI</b> (coming soon) will generate editable UI mock-ups.</p>
+        
 
         <p><b>Product Outcome:</b> Accelerates design sprints and
             improves onboarding for non-designers and PMs</p>
 
-        <p><b><i>Core Insights</i></b></p>
+        <p><b>Core Insights</b></p>
 
         <ul type=disc>
-            <li><i>Generative AI enables
+            <li>Generative AI enables
                     product teams to offer functionality users couldn't access before, like
-                    on-demand content or intelligent assistance.</i></li>
-            <li><i>Figma with Figma Jam doesn’t
-                    just bolt AI onto features; it integrates it into the user’s workflow.</i></li>
-            <li><i>Human oversight, feedback
-                    loops, and UX guidance are essential to ensure value, not just novelty.</i></li>
+                    on-demand content or intelligent assistance.</li>
+            <li>Figma with Figma Jam doesn’t
+                    just bolt AI onto features; it integrates it into the user’s workflow.</li>
+            <li>Human oversight, feedback
+                    loops, and UX guidance are essential to ensure value, not just novelty.</li>
         </ul>
 
-        <p><b><i>Type of Data</i></b></p>
+        <p><b>Type of Data</b></p>
 
         <ul type=disc>
-            <li><b><i>User Prompt Logs</i></b><i>:
-                    What users are asking the AI to generate.</i></li>
-            <li><b><i>Output Usage Metrics</i></b><i>:
-                    Whether AI-generated content was edited, used, or discarded.</i></li>
-            <li><i> <b>System Feedback Tags</b>:
-                    Explicit thumbs up/down or correction signals from users.</i></li>
+            <li><b>User Prompt Logs</b>:
+                    What users are asking the AI to generate.</li>
+            <li><b>Output Usage Metrics</b>:
+                    Whether AI-generated content was edited, used, or discarded.</li>
+            <li> <b>System Feedback Tags</b>:
+                    Explicit thumbs up/down or correction signals from users.</li>
         </ul>
 
-        <p><b><i>Key Usability Analytics
-                    Metric</i></b></p>
+        <p><b>Key Usability Analytics
+                    Metric</b></p>
 
         <ul type=disc>
-            <li><b><i>Prompt Success Rate</i></b><i>:
-                    % of AI responses that required no user edits.</i></li>
-            <li><b><i>AI Adoption Rate</i></b><i>:
-                    % of users who engage with generative tools in a session.</i></li>
-            <li><b><i>Outcome Conversion Rate</i></b><i>:
+            <li><b>Prompt Success Rate</b>:
+                    % of AI responses that required no user edits.</li>
+            <li><b>AI Adoption Rate</b>:
+                    % of users who engage with generative tools in a session.</li>
+            <li><b>Outcome Conversion Rate</b>:
                     Did AI-generated output help users complete their core job (e.g., submit,
-                    publish, export)?</i></li>
+                    publish, export)?</li>
         </ul>
 
-        <p><b><i>AI Application</i></b></p>
+        <p><b>AI Application</b></p>
 
         <ul type=disc>
-            <li><b><i>Inline Generative Actions</i></b><i>:
-                    Embedded AI that auto-suggests or auto-completes within workflows.</i></li>
-            <li><b><i>Content Reshaping</i></b><i>:
+            <li><b>Inline Generative Actions</b>:
+                    Embedded AI that auto-suggests or auto-completes within workflows.</li>
+            <li><b>Content Reshaping</b>:
                     Generate variants (summarize, reword, reformat) to suit different
-                    audiences.</i></li>
-            <li><b><i>Real-Time Prompt Tuning</i></b><i>:
-                    Models evolve with user behaviour, preferences, and corrections.</i></li>
+                    audiences.</li>
+            <li><b>Real-Time Prompt Tuning</b>:
+                    Models evolve with user behaviour, preferences, and corrections.</li>
         </ul>
 
-        <p><b><i>Other Notable examples</i></b></p>
+        <p><b>Other Notable examples</b></p>
 
         <p class=MsoNormal align=center style='margin-bottom:0cm;text-align:center;
 line-height:normal'><b>Canva Magic Studio (Magic Write, Magic Design)</b></p>
 
-        <p><b><i>Use Case:</i></b><i> Visual
+        <p><b>Use Case:</b> Visual
                 content creation for non-designers.<br>
-                <b>How they scaled generative tools:</b></i></p>
+                <b>How they scaled generative tools:</b></p>
 
         <ul type=disc>
-            <li><b><i>Experimentation Phase:</i></b><i>
-                    Focused on auto-layout suggestions and simple templates.</i></li>
-            <li><b><i>Live Product Impact:</i></b></li>
+            <li><b>Experimentation Phase:</b>
+                    Focused on auto-layout suggestions and simple templates.</li>
+            <li><b>Live Product Impact:</b></li>
+                <ul type=disc>
+                    <li>Launched <b>Magic Write</b> (AI copywriting assistant) and <b>Magic
+                        Design</b> (generate full visuals from a prompt).</li>
+
+                    <li>Integrated these features across landing pages, presentations,
+                        and social media design workflows.</li>
+                </ul>
         </ul>
 
-        <p style='margin-left:72.0pt;text-indent:-18.0pt;
-line-height:normal'><span style='font-family:Symbol'>·<span
-                    style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-                </span></span><i>Launched <b>Magic Write</b> (AI copywriting assistant) and <b>Magic
-                    Design</b> (generate full visuals from a prompt).</i></p>
-
-        <p style='margin-left:72.0pt;text-indent:-18.0pt;
-line-height:normal'><span style='font-family:Symbol'>·<span
-                    style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-                </span></span><i>Integrated these features across landing pages, presentations,
-                and social media design workflows.</i></p>
-
+        
         <ul type=disc>
-            <li><b><i>Product Outcome:</i></b><i>
+            <li><b>Product Outcome:</b>
                     Led to a surge in AI-generated project creation and increased premium
-                    trial-to-paid conversions.</i></li>
+                    trial-to-paid conversions.</li>
         </ul>
 
-        <p><b><i>Grammarly GO</i></b></p>
+        <p><b>Grammarly GO</b></p>
 
-        <p><b><i>Use Case:</i></b><i>
+        <p><b>Use Case:</b>
                 AI-powered writing assistant.<br>
-                <b>From extension to embedded AI system:</b></i></p>
+                <b>From extension to embedded AI system:</b></p>
 
         <ul type=disc>
-            <li><b><i>Experimentation Phase:</i></b><i>
-                    Grammar and tone corrections.</i></li>
-            <li><b><i>Live Product Impact:</i></b></li>
+            <li><b>Experimentation Phase:</b>
+                    Grammar and tone corrections.</li>
+            <li><b>Live Product Impact:</b></li>
+                <ul type=disc>
+                    <li>Introduced <b>contextual rewrite suggestions</b> based on
+                    tone, audience, and intent.</li>
+
+                    <li>Rolled out across Gmail, Docs, and desktop environments.</li>
+                </ul>
         </ul>
 
-        <p style='margin-left:72.0pt;text-indent:-18.0pt;
-line-height:normal'><span style='font-family:Symbol'>·<span
-                    style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-                </span></span><i>Introduced <b>contextual rewrite suggestions</b> based on
-                tone, audience, and intent.</i></p>
-
-        <p style='margin-left:72.0pt;text-indent:-18.0pt;
-line-height:normal'><span style='font-family:Symbol'>·<span
-                    style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-                </span></span><i>Rolled out across Gmail, Docs, and desktop environments.</i></p>
+        
 
         <ul type=disc>
-            <li><b><i>Product Outcome:</i></b><i>
+            <li><b>Product Outcome:</b>
                     Improved writing efficiency, especially for professional users in sales,
-                    support, and documentation roles.</i></li>
+                    support, and documentation roles.</li>
         </ul>
 
         <p>These apps demonstrate how
             Generative AI becomes more than a feature, it also becomes a core driver of
             product value, enhancing user productivity, creativity, and retention when
-            deeply integrated<i>.</i></p>
+            deeply integrated.</p>
 
         <p>Data Science &amp; AI for Product
             Managers reframes data science as a partner to product management rather than a
             siloed function. The main point is that data science gives you the <em><span
-                    style='font-family:"Calibri",sans-serif'>map</span></em>, and AI (especially
-            generative AI) gives you the <em><span style='font-family:"Calibri",sans-serif'>vehicle</span></em>
+                    style='font-family:"Inter",sans-serif'>map</span></em>, and AI (especially
+            generative AI) gives you the <em><span style='font-family:"Inter",sans-serif'>vehicle</span></em>
             to explore more possibilities faster. Predictive AI helps anticipate what’s
             coming, while generative AI helps create and test new ideas at scale. The most
             successful teams bake these capabilities into everyday workflows, whether
@@ -10076,12 +9533,12 @@ line-height:normal'><span style='font-family:Symbol'>·<span
             
             <p>Sources:</p>
             
-            <p><a><i>Alex Cowan</i></a><i>: ( </i><a
-            href="https://www.alexandercowan.com/hypothesis-driven-development-practitioners-guide/"><i>Hypothesis
-            Driven Development Practitioner Guide<br>
-            </i><i><span style='color:windowtext;text-decoration:none'>Alex Cowan: University
-            of Virginia – Darden Business School </span></i></a><i>– Product Analytics and
-            AI (coursera. org)</i></p>
+            <p>Alex Cowan:  <a
+            href="https://www.alexandercowan.com/hypothesis-driven-development-practitioners-guide/">Hypothesis
+            Driven Development Practitioner Guide</a><br>
+            <span style='color:windowtext;text-decoration:none'>Alex Cowan: University
+            of Virginia – Darden Business School </span>– Product Analytics and
+            AI (coursera.org)</p>
             
             <p>&nbsp;</p>
     `,
