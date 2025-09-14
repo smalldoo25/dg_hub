@@ -1,47 +1,74 @@
-/* Custom CSS for layout and styling */
-body {
-    font-family: 'Inter', sans-serif; /* Using Inter font */
+ /* Custom CSS for layout and styling */
+ body {
+    font-family: 'Inter', sans-serif;
     display: flex;
     flex-direction: column;
-    min-height: 100vh; /* Ensure footer stays at bottom */
+    min-height: 100vh;
 }
+
 .header-top {
-    background-color: #f8f9fa; /* Light background for top utility links */
+    background-color: #f8f9fa;
     padding: 0.5rem 1rem;
     border-bottom: 1px solid #e9ecef;
 }
+
 .navbar-brand {
     font-size: 1.8rem;
     font-weight: bold;
     color: #007bff !important;
-    cursor: pointer; /* Indicate it's clickable */
+    cursor: pointer;
 }
+
 .navbar-nav .nav-link {
     padding: 0.5rem 1rem;
     font-weight: 500;
 }
+
 .main-content-wrapper {
-    flex: 1; /* Allows content to grow and push footer down */
+    flex: 1;
     display: flex;
-    flex-direction: column; /* Default to column for small screens */
+    flex-direction: column;
 }
-@media (min-width: 768px) {
+
+/* @media (min-width: 768px) {
     .main-content-wrapper {
-        flex-direction: row; /* Row for larger screens */
+        flex-direction: row;
     }
 }
+
 .sidebar {
     background-color: #f8f9fa;
     border-right: 1px solid #e9ecef;
     padding: 1rem;
-    min-width: 250px; /* Fixed width for sidebar on larger screens */
+    min-width: 250px;
     max-width: 250px;
-    display: none; /* Hidden by default, shown when a top menu item is clicked */
-    box-shadow: 2px 0 5px rgba(0,0,0,0.1);
+    display: none;
+    box-shadow: 2px 0 5px rgba(0, 0, 0, 0.1);
+} */
+
+/* The sidebar now needs to have a specific width */
+.sidebar {
+    min-width: 250px;
+    max-width: 250px;
+    background-color: #f8f9fa;
+    border-right: 1px solid #e9ecef;
+    padding: 1rem;
+    display: none;
+    box-shadow: 2px 0 5px rgba(0, 0, 0, 0.1);
 }
+
+/* New CSS to contain the sidebar and content */
+@media (min-width: 768px) {
+    .main-content-wrapper {
+        display: flex; /* Re-apply flex to align sidebar and content on desktop */
+        flex-direction: row;
+    }
+}
+
 .sidebar.show {
-    display: block; /* Show when 'show' class is added by JS */
+    display: block;
 }
+
 .sidebar-heading {
     font-size: 1.2rem;
     font-weight: bold;
@@ -50,12 +77,15 @@ body {
     cursor: pointer;
     transition: color 0.2s ease;
 }
+
 .sidebar-heading:hover {
     color: #007bff;
 }
+
 .sidebar-heading.active {
     color: #007bff;
 }
+
 .sidebar-nav .nav-link {
     padding: 0.75rem 1rem;
     color: #495057;
@@ -63,14 +93,17 @@ body {
     margin-bottom: 0.5rem;
     transition: background-color 0.3s ease;
 }
+
 .sidebar-nav .nav-link:hover {
     background-color: #e2e6ea;
     color: #0056b3;
 }
+
 .sidebar-nav .nav-link.active {
     background-color: #007bff;
     color: #fff;
 }
+
 .sidebar-nav .group-title-link {
     margin-top: 1rem;
     margin-bottom: 0.5rem;
@@ -80,37 +113,43 @@ body {
     background-color: #e9ecef;
     cursor: pointer;
 }
+
 .content-area {
     padding: 1.5rem;
-    flex-grow: 1; /* Allows content area to take remaining space */
+    flex-grow: 1;
 }
+
 .footer {
     background-color: #343a40;
     color: #fff;
     padding: 1.5rem 0;
     text-align: center;
-    border-top-left-radius: 0.75rem;
-    border-top-right-radius: 0.75rem;
 }
+
 .footer a {
     color: #adb5bd;
     text-decoration: none;
     margin: 0 0.75rem;
-    cursor: pointer; /* Indicate it's clickable */
+    cursor: pointer;
 }
+
 .footer a:hover {
     color: #fff;
     text-decoration: underline;
 }
+
 .rounded-corners {
     border-radius: 0.75rem !important;
 }
+
 .btn-outline-primary {
     border-radius: 0.5rem;
 }
+
 .form-control {
     border-radius: 0.5rem;
 }
+
 .search-result-item {
     margin-bottom: 1rem;
     padding: 0.75rem;
@@ -118,79 +157,117 @@ body {
     border-radius: 0.5rem;
     background-color: #f8f9fa;
 }
+
 .search-result-item h5 {
     margin-bottom: 0.5rem;
     color: #007bff;
 }
+
 .search-result-item p {
     font-size: 0.9rem;
     color: #495057;
 }
+
 /* Style for highlighted search terms */
 .highlight {
-    background-color: #fff3cd; /* Light yellow */
+    background-color: #fff3cd;
     font-weight: bold;
 }
+
 /* Custom styles for messages */
 .message-box {
     padding: 1rem;
     margin-top: 1rem;
     border-radius: 0.5rem;
-    display: none; /* Hidden by default */
+    display: none;
 }
+
 .message-box.success {
     background-color: #d4edda;
     color: #155724;
     border: 1px solid #c3e6cb;
 }
+
 .message-box.error {
     background-color: #f8d7da;
     color: #721c24;
     border: 1px solid #f5c6cb;
 }
-.highlight {
-    background-color: yellow;
-    font-weight: bold;
+
+/* NEW CSS for collapsible sidebar */
+.sidebar-nav .collapse {
+    margin-left: 1rem;
 }
 
+.sidebar-nav .group-title-link {
+    cursor: pointer;
+}
+
+/* NEW CSS for dropdown menu */
+.dropdown-menu {
+    background-color: #f8f9fa;
+    border: 1px solid #e9ecef; /* Optional: adds a subtle border for separation */
+}
+
+/* .dropdown-menu .dropdown-header {
+    font-weight: bold;
+    color: #000;
+} */
+
+.dropdown-menu .dropdown-header {
+    font-weight: bold;
+    color: #495057; /* A slightly darker gray for the header text */
+    /* Remove any background color from here to let it inherit the menu background */
+}
+
+.dropdown-menu .dropdown-item {
+    font-size: 0.9rem;
+    white-space: normal;
+}
+
+.dropdown-menu .dropdown-item:hover {
+    background-color: #007bff; /* The new highlighter color */
+    color: #fff; /* Changes the text color to white for contrast */
+}
+
+/* You may also want to style the active state */
+.dropdown-menu .dropdown-item:active {
+    background-color: #007bff;
+    color: #fff;
+}
+
+/* Style for submenu items in the dropdown */
+.dropdown-menu .dropdown-item {
+    padding-left: 2rem; /* Indents the text */
+}
+
+/* NEW CSS to fix dropdown active state */
+.navbar-nav .dropdown.active .dropdown-toggle {
+    color: var(--bs-navbar-active-color);
+}
+
+/* Add this new CSS to your stylesheet or <style> block */
 #scrollToTopBtn {
     display: none;
     position: fixed;
     bottom: 20px;
-    right: 20px;
+    left: 50%;
+    transform: translateX(-50%);
     z-index: 99;
-    border: 1px solid #ccc;
-    border-radius: 50%;
-    background-color: #f1f1f1;
-    width: 50px;
-    height: 50px;
-    text-align: center;
-    line-height: 50px;
+    font-size: 24px;
+    border: none;
+    outline: none;
+    background-color: #007bff;
+    color: white;
     cursor: pointer;
-    box-shadow: 0px 2px 5px rgba(0, 0, 0, 0.2);
-  }
-  
-  #scrollToTopBtn:hover {
-    background-color: #ddd;
-  }
-  
-  /* Arrow styling remains the same */
-  .arrow-up {
-    display: inline-block;
-    width: 0;
-    height: 0;
-    border-left: 10px solid transparent;
-    border-right: 10px solid transparent;
-    border-bottom: 15px solid #555;
-  }
-  
-  /* Media Query for mobile devices */
-  @media screen and (max-width: 768px) {
-    #scrollToTopBtn {
-      width: 40px;   /* Smaller button size for mobile */
-      height: 40px;
-      line-height: 40px;
-      bottom: 15px;  /* Slightly closer to the bottom */
-      right: 15px;   /* Slightly closer to the right */
-    }
-  }
+    padding: 10px 15px;
+    border-radius: 50%;
+    opacity: 0.8;
+    transition: background-color 0.3s, opacity 0.3s;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+#scrollToTopBtn:hover {
+    background-color: #0056b3;
+    opacity: 1;
+}

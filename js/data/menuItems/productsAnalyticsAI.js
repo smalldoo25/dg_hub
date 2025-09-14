@@ -3,8 +3,9 @@
 export const productsAnalyticsAI = {
     title: 'Product Analytics & AI',
     content: `
+    <section data-group-id="group-productanalyticsai-introduction">
             <h1 align=center>Product Analytics and AI</h1>
-
+           
                 <h2 id="productanalytics-ai-introduction" align=center>Introduction</h2>
 
                 <p align=center><b><span style='color:#EE0000'><img width=350 height=250
@@ -65,10 +66,15 @@ export const productsAnalyticsAI = {
                 that win in the market and delight the people who use them.</p>
 
                 <p>&nbsp;</p>
+            </section>
+    </section>
+            
 
-<!-- Consumer Analytics -->    
+<!-- Consumer Analytics -->  
+<section data-group-id="group-productanalyticsai-consumer-analytics">  
     <h1 id="group-productanalyticsai-consumer-analytics" align="center">Consumer Analytics</h1>
-
+    
+    <section data-subitem-id="productanalyticsai-consumer-analytics-customer-introduction">
     <h2 id="productanalyticsai-consumer-analytics-customer-introduction" align=center>Introduction to Customer
             Analytics</h2>
             
@@ -186,6 +192,9 @@ export const productsAnalyticsAI = {
                 <br>
             </span></p>
 
+        </section>
+
+    <section data-subitem-id="productanalyticsai-consumer-analytics-hypothesis-driven-development-revisited">
         <h2 id="productanalyticsai-consumer-analytics-hypothesis-driven-development-revisited" align="center">Hypothesis
             Driven Development Revisited</h2>
 
@@ -275,6 +284,7 @@ export const productsAnalyticsAI = {
 
         <p><span style='color:black'>&nbsp;</span></p>
 
+        <div class="table-responsive">
         <table class='table'>
             <thead class='table-light'>
                 <tr>
@@ -311,6 +321,7 @@ export const productsAnalyticsAI = {
                 </tr>
             </tbody>
         </table>
+        </div>
 
         <p style='margin-left:144.0pt;text-indent:36.0pt'><span style='color:black'>(Source Adrian Cho. 
                 IBM: </span><a
@@ -396,6 +407,7 @@ export const productsAnalyticsAI = {
 
         <p><b><span style='color:black'>Potential tasks:</span></b></p>
 
+        <div class="table-responsive">
         <table class='table'>
             <tbody>
             <tr>
@@ -410,6 +422,7 @@ export const productsAnalyticsAI = {
             </tr>
             </tbody>
         </table>
+        </div>
 
         <p><span style='color:black'>The proving or disproving a
                 hypothesis presents us with learning opportunities, regardless of the outcome Even
@@ -530,6 +543,7 @@ color:black'>&nbsp;</span></b></p>
 
         <p>Customer Survey – Short Format</p>
 
+        <div class="table-responsive">
         <table class='table'>
             <thead class='table-light'>
                 <tr>
@@ -615,6 +629,7 @@ color:black'>&nbsp;</span></b></p>
                 </tr>
             </tbody>
         </table>
+        </div>
 
         <p><span style='color:black'>&nbsp;</span></p>
 
@@ -662,10 +677,13 @@ color:black'>(b) Problem/JTBD hypothesis (Can we solve their
                 represents the users' perspectives and experiences.<br>
             <br>
         </p>
+        </section>
 
+        <section data-subitem-id="productanalyticsai-consumer-analytics-examples-of-hypothesis-metrics">
         <h2 align=center id="productanalyticsai-consumer-analytics-examples-of-hypothesis-metrics">Examples of
             Hypotheses Metrics</h2>
 
+        <div class="table-responsive">
         <table class='table'>
             <thead class='table-dark'>
                 <tr>
@@ -750,6 +768,7 @@ color:black'>(b) Problem/JTBD hypothesis (Can we solve their
                 </tr>
             </tbody>
         </table>
+        </div>
 
         <p><b><span style='font-size:14.0pt;line-height:107%;
 color:black'>&nbsp;</span></b></p>
@@ -866,7 +885,9 @@ color:#001D35;background:white'> </span>predicting how users will interact with 
 
         <p><b><span style='font-size:14.0pt;line-height:107%;
 color:black'>&nbsp;</span></b></p>
+        </section>
 
+<section data-subitem-id="productanalyticsai-consumer-analytics-iteration-with-purpose">
         <h2 align=center id="productanalyticsai-consumer-analytics-iteration-with-purpose">Iterating with Purpose</h2>
 
         <p align=center><img class="img-fluid rounded-corners mt-3"  border=0 width="650" height="300"
@@ -1038,13 +1059,15 @@ color:black'>&nbsp;</span></b></p>
 
         <p style='line-height:normal;background:white'><b><span style='font-size:16.0pt;color:black'>&nbsp;</span></b>
         </p>
+        </section>
 
+        <section data-subitem-id="productanalyticsai-consumer-analytics-mapping-discovery-phase-product-hdd">
         <h2 align=center id="productanalyticsai-consumer-analytics-mapping-discovery-phase-product-hdd">The Mapping
             Discovery Phase of a Product to HDD &amp; The Double Diamond Design Thinking
             Model</h2>
 
 <!-- start -->
-
+<div class="table-responsive">
 <table class='table'>
 <thead class='table-light'>
     <tr>
@@ -1286,6 +1309,7 @@ line-height:normal'><span>3.<span
     </tr>
 </tbody>
 </table>
+</div>
 
 
 
@@ -1305,6 +1329,7 @@ line-height:normal'><span>3.<span
         <p style='line-height:normal'><b><span>Hypothesis
                     to Design Phase Mapping</span></b></p>
 
+        <div class="table-responsive">
         <table class='table'>
             <thead class='table-light'>
                 <tr>
@@ -1371,6 +1396,7 @@ line-height:normal'><span>3.<span
                 </td>
             </tr>
         </table>
+        </div>
 
         <p><span
                 style='font-size:12.0pt;font-family:"Inter",serif'>&nbsp;</span></p>
@@ -1424,8 +1450,9 @@ line-height:107%'>&nbsp;</span></p>
                 implementation methods. (<b>Source</b>: NNgroup.com)</p>
 
         <p style='line-height:normal'>&nbsp;</p>
+        </section>
 
-
+<section data-subitem-id="productanalyticsai-consumer-analytics-reclaiming-science-in-product-thinking">
         <h2 align=center id="productanalyticsai-consumer-analytics-reclaiming-science-in-product-thinking">Reclaiming
             Science in
             Product Thinking</h2>
@@ -1569,7 +1596,9 @@ font-family:"Inter",serif'>  </span>We understand science has a
 
         <p><b><span style='font-size:14.0pt;line-height:107%;
 color:black;display:none'>&nbsp;</span></b></p>
+</section>
 
+<section data-subitem-id="productanalyticsai-consumer-analytics-direct-customer-insight">
         <h2 align=center id="productanalyticsai-consumer-analytics-direct-customer-insight">Direct Customer Insight</h2>
 
         <p>It's easy to get comfortable behind our screens, but truly
@@ -1671,7 +1700,9 @@ color:black;display:none'>&nbsp;</span></b></p>
         <p><span style='font-size:10.0pt;
 font-family:Symbol'>·<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
                 </span></span><span>&nbsp;</span></p>
+        </section>
 
+<section data-subitem-id="productanalyticsai-consumer-analytics-making-journeys-testable">
         <h2 align=center id="productanalyticsai-consumer-analytics-making-journeys-testable">Making Journeys
             Testable</h2>
 
@@ -1786,7 +1817,9 @@ font-family:Symbol'>·<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
                 specific journey touchpoints, using analytics to measure effectiveness.</span></p>
 
         <p><b><span style='font-size:16.0pt;font-family:"Inter",sans-serif'>&nbsp;</span></b></p>
+        </section>
 
+        <section data-subitem-id="productanalyticsai-consumer-analytics-user-journey-focus">
         <h2 align=center id="productanalyticsai-consumer-analytics-user-journey-focus">User Journey Focus</h2>
 
         <p><span>Centring the
@@ -1810,6 +1843,7 @@ font-family:Symbol'>·<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
         <p style='line-height:normal'><b><span style='font-size:13.5pt'>Hypothesis
                     Validation Flow</span></b></p>
 
+        <div class="table-responsive">
         <table class='table'>
             <thead class='table-light'>
                 <tr>
@@ -1875,6 +1909,7 @@ font-family:Symbol'>·<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
                 
             </tbody>
         </table>
+        </div>
 
         <p>Let us now
                 turn this into a user story map including analytics data.  This will give the
@@ -1895,6 +1930,7 @@ font-family:Symbol'>·<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
         <h3><span style='font-family:"Inter",sans-serif'>&nbsp;</span></h3>
 
+        <div class="table-responsive">
         <table class='table'>
             <thead class='table-light'>
                 <tr>
@@ -1933,9 +1969,11 @@ font-family:Symbol'>·<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
                 </tr>
             </tbody>
         </table>
+        </div>
 
         <h3>Key metrics in detail</h3>
 
+        <div class="table-responsive">
         <table class='table'>
             <thead class='table-light'>
                 <tr>
@@ -2041,6 +2079,7 @@ font-family:Symbol'>·<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
                 </tr>
             </tbody>
         </table>
+        </div>
 
         <h3><span style='font-family:"Inter",sans-serif'>&nbsp;</span></h3>
 
@@ -2128,7 +2167,9 @@ font-family:Symbol'>·<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
                 impact on conversion or retention, and prioritise improvements there</span></p>
 
         <p align=center>&nbsp;</p>
+        </section>
 
+<section data-subitem-id="productanalyticsai-consumer-analytics-build-your-analytics-portfolio">
         <h2 align=center id="productanalyticsai-consumer-analytics-build-your-analytics-portfolio">Build Your Analytics
             Portfolio</h2>
 
@@ -2266,7 +2307,9 @@ font-family:Symbol'>·<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
                 conditions.</span></p>
 
         <p>&nbsp;</p>
+        </section>
 
+        <section data-subitem-id="productanalyticsai-consumer-analytics-from-data-to-action">
         <h2 align=center id="productanalyticsai-consumer-analytics-from-data-to-action">From Data to
             Action</h2>
 
@@ -2310,6 +2353,7 @@ font-family:Symbol'>·<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
         <p style='line-height:normal'><b>1. Email Campaign Timing</b></p>
 
+        <div class="table-responsive">
         <table class='table'>
             <thead class='table-light'>
                 <tr>
@@ -2339,6 +2383,7 @@ font-family:Symbol'>·<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
                 </tr>
             </tbody>
         </table>
+        </div>
 
         <p style='line-height:normal'><b>Action</b>: A/B
             test different send times for segmented user profiles (e.g. working
@@ -2348,6 +2393,7 @@ font-family:Symbol'>·<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
         <p style='line-height:normal'><b>2. Homepage Layout Variation</b></p>
 
+        <div class="table-responsive">
         <table class='table'>
             <thead class='table-light'>
                 <tr>
@@ -2365,6 +2411,7 @@ font-family:Symbol'>·<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
                 </tr>
             </tbody>
         </table>
+        </div>
 
         <p style='line-height:normal'><b>Action</b>: Run
             multivariate tests with different visual hierarchies to refine layout decisions
@@ -2372,6 +2419,7 @@ font-family:Symbol'>·<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
         <p style='line-height:normal'><b>3. Discount Offer Value</b></p>
 
+        <div class="table-responsive">
         <table class='table'>
             <thead class='table-light'>
                 <tr>
@@ -2389,12 +2437,14 @@ font-family:Symbol'>·<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
                 </tr>
             </tbody>
         </table>
+        </div>
 
         <p style='line-height:normal'><b>Action:</b> Segment
             discount experiments by user tenure or loyalty tier to avoid margin erosion.</p>
 
         <p style='line-height:normal'><b>4. Product Page Visuals</b></p>
 
+        <div class="table-responsive">
         <table class='table'>
             <thead class='table-light'>
                 <tr>
@@ -2424,6 +2474,7 @@ font-family:Symbol'>·<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
             </tr>
             </tbody>
         </table>
+        </div>
 
         <p style='line-height:normal'><b>Action</b>:
             Develop an image-testing pipeline to compare impact across product categories
@@ -2433,7 +2484,8 @@ font-family:Symbol'>·<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
         <div align=center>
 
-            <table class='table'>
+        <div class="table-responsive">    
+        <table class='table'>
                 <thead class='table-light'>
                     <tr>
                         <td>
@@ -2459,6 +2511,7 @@ font-family:Symbol'>·<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
                 </tr>
                 </tbody>
             </table>
+            </div>
 
         </div>
 
@@ -2577,7 +2630,9 @@ font-family:Symbol'>·<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
                     validate causal relationships clearly.</span></p>
 
         <p>&nbsp;</p>
+        </section>
 
+        <section data-subitem-id="productanalyticsai-consumer-analytics-retrospective-testing">
         <h2 align=center id="productanalyticsai-consumer-analytics-retrospective-testing">Retrospective Testing</h2>
 
         <p>Your historical data holds untapped insights, and
@@ -2611,6 +2666,7 @@ font-family:Symbol'>·<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
         <div align=center>
 
+        <div class="table-responsive">
             <table class='table'>
                 <thead class='table-light'>
                     <tr>
@@ -2651,6 +2707,7 @@ font-family:Symbol'>·<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
                     </td>
                 </tr>
             </table>
+            </div>
 
         </div>
 
@@ -2665,7 +2722,8 @@ font-family:Symbol'>·<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
         <div align=center>
 
-            <table class='table'>
+        <div class="table-responsive">    
+        <table class='table'>
                 <thead class='table-light'>
                     <tr>
                         <td>
@@ -2705,6 +2763,7 @@ font-family:Symbol'>·<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
                     </td>
                 </tr>
             </table>
+            </div>
 
         </div>
 
@@ -2727,7 +2786,8 @@ font-family:Symbol'>·<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
         <div align=center>
 
-            <table class='table'>
+        <div class="table-responsive">    
+        <table class='table'>
                 <thead class='table-light'>
                     <tr>
                         <td>
@@ -2764,6 +2824,7 @@ font-family:Symbol'>·<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
                     </td>
                 </tr>
             </table>
+            </div>
 
         </div>
 
@@ -2777,7 +2838,8 @@ font-family:Symbol'>·<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
         <div align=center>
 
-            <table class='table'>
+        <div class="table-responsive">    
+        <table class='table'>
                 <thead class='table-light'>
                     <tr>
                         <td>
@@ -2814,6 +2876,7 @@ font-family:Symbol'>·<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
                     </td>
                 </tr>
             </table>
+            </div>
 
         </div>
 
@@ -2929,7 +2992,10 @@ font-family:Symbol'>·<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
                     style='font:7.0pt "Inter"'>&nbsp;&nbsp;&nbsp;&nbsp;
                 </span></span>Create stick-figure storyboards showing journey paths from case
             to control states—perfect for communicating causality across teams.</p>
+    </section>
 
+
+<section data-subitem-id="productanalyticsai-consumer-analytics-prospective-testing">
         <h2 align=center id="productanalyticsai-consumer-analytics-prospective-testing">Prospective Testing</h2>
 
         <p><em><span style='font-size:11.0pt;font-family:"Inter",sans-serif;
@@ -2960,6 +3026,7 @@ font-style:normal'>Great products are not just built on what users do today, the
 
         <p><b>E-commerce Example: Loyalty Program Impact</b></p>
 
+        <div class="table-responsive">
         <table class='table'>
             <thead class='table-light'>
                 <tr>
@@ -2997,6 +3064,7 @@ font-style:normal'>Great products are not just built on what users do today, the
                 </td>
             </tr>
         </table>
+        </div>
 
         <p><b>Insight</b>: <br>
             If loyalty members show a 25% higher repeat rate over 6 months, you’ve got
@@ -3006,6 +3074,7 @@ font-style:normal'>Great products are not just built on what users do today, the
 
         <p><b>SaaS Example: Feature Adoption Over Time</b></p>
 
+        <div class="table-responsive">
         <table class='table'>
             <thead class='table-light'>
                 <tr>
@@ -3043,6 +3112,7 @@ font-style:normal'>Great products are not just built on what users do today, the
                 </td>
             </tr>
         </table>
+        </div>
 
         <p><b>Insight</b>: <br>
             Tracking cohorts prospectively helps you understand long-term impact of feature
@@ -3058,6 +3128,7 @@ font-style:normal'>Great products are not just built on what users do today, the
 
         <p><b>E-commerce Example: Homepage Personalisation Test</b></p>
 
+        <div class="table-responsive">
         <table class='table'>
             <thead class='table-light'>
                 <tr>
@@ -3095,6 +3166,7 @@ font-style:normal'>Great products are not just built on what users do today, the
                 </td>
             </tr>
         </table>
+        </div>
 
         <p><b>Insight</b>: <br>
             If personalisation drives a statistically significant lift, you’ve got causal
@@ -3104,6 +3176,7 @@ font-style:normal'>Great products are not just built on what users do today, the
 
         <p><b>SaaS Example: Onboarding Flow Experiment</b></p>
 
+        <div class="table-responsive">
         <table class='table'>
             <thead class='table-light'>
                 <tr>
@@ -3141,6 +3214,7 @@ font-style:normal'>Great products are not just built on what users do today, the
                 </td>
             </tr>
         </table>
+        </div>
 
         <p><b>Insight</b>: <br>
             Random assignment removes bias and confirms whether onboarding redesign truly
@@ -3225,7 +3299,9 @@ font-style:normal'>Great products are not just built on what users do today, the
 
         <p>e)<span>&nbsp;</span>Measure
             interest, segment feedback, and revisit product assumptions accordingly.</p>
+    </section>
 
+    <section data-subitem-id="productanalyticsai-consumer-analytics-stats-for-decisions">
         <h2 align=center id="productanalyticsai-consumer-analytics-stats-for-decisions">Stats for Decisions</h2>
 
         <p>Statistics shouldn't feel intimidating as long as think of
@@ -3347,7 +3423,9 @@ font-style:normal'>Great products are not just built on what users do today, the
                 implications rather than statistical jargon.</span></p>
 
         <p>&nbsp;</p>
+        </section>
 
+<section data-subitem-id="productanalyticsai-consumer-analytics-separating-laggards-vs-innovators">
         <h2 align=center id="productanalyticsai-consumer-analytics-separating-laggards-vs-innovators">Separating
             Laggards vs. Innovators</h2>
 
@@ -3489,10 +3567,14 @@ font-style:normal'>Great products are not just built on what users do today, the
                 and make faster, more confident product calls.</p>
 
             <p>&nbsp;</p>
+            </section>
+</section>
 
-<!-- Demand & Value Analytics (done)-->    
+<!-- Demand & Value Analytics (done)-->  
+<section data-group-id="group-productanalyticsai-demand-value-analytics">  
     <h1 id="group-productanalyticsai-demand-value-analytics" align="center">Demand & Value Analytics</h1>
-        
+    
+    <section data-subitem-id="productanalyticsai-demand-value-analytics-demand-value-hypothesis">
     <h2 id="productanalyticsai-demand-value-analytics-demand-value-hypothesis" align="center">Demand &amp; Value
         Hypothesis (Would they like our solutions to solve their problem?)</h2>
 
@@ -3569,7 +3651,9 @@ font-style:normal'>Great products are not just built on what users do today, the
         product development, and testing. As data is gathered and analysed, adjustments
         can be made to the hypothesis, and strategies can be refined to better align
         with actual customer needs and preferences.</p>
+    </section>
 
+    <section data-subitem-id="productanalyticsai-demand-value-analytics-lean-start-up-demand-hypothesis">
     <h2 align=center id="productanalyticsai-demand-value-analytics-lean-start-up-demand-hypothesis">Lean Startup
         Demand Hypothesis</h2>
 
@@ -3672,7 +3756,9 @@ font-style:normal'>Great products are not just built on what users do today, the
     <p>d)<span>&nbsp;</span><span>Use landing pages or customer interviews to gather early validation.</span></p>   
 
     <p>&nbsp;</p>
+    </section>
 
+<section data-subitem-id="productanalyticsai-demand-value-analytics-demand-testing-strategies">
     <h2 align=center id="productanalyticsai-demand-value-analytics-demand-testing-strategies">Demand Testing
         Strategies</h2>
 
@@ -3835,7 +3921,8 @@ font-style:normal'>Great products are not just built on what users do today, the
     <p><b><span>Key
                 Metrics to Track for eCommerce Demand Testing in Detail</span></b></p>
 
-    <table class='table'>
+    <div class="table-responsive">
+        <table class='table'>
         <thead class='table-light'>
             <tr>
                 <td>
@@ -4003,6 +4090,7 @@ normal'><span style='color:black'>Hypothesis alignment. score.</span></p>
             </td>
         </tr>
     </table>
+    </div>
 
     <p>&nbsp;</p>
 
@@ -4030,9 +4118,9 @@ normal'><span style='color:black'>Hypothesis alignment. score.</span></p>
 
     <p align=center style='text-align:center'><b><span style='font-size:14.0pt;line-height:107%'>&nbsp;</span></b>
     </p>
+    </section>
 
-
-
+    <section data-subitem-id="productanalyticsai-demand-value-analytics-designing-experiments">
     <h2 align=center id="productanalyticsai-demand-value-analytics-designing-experiments">Designing Experiments</h2>
 
     <p><b>Experimental Design</b></p>
@@ -4094,7 +4182,8 @@ line-height:107%'>We believe that removing paintpoints from our customer
 
     <p><span style='font-size:12.0pt;line-height:107%'>&nbsp;</span></p>
 
-    <table class='table'>
+    <div class="table-responsive">
+        <table class='table'>
         <thead class='table-light'>
         <tr>
             <td align=center><b>Variable Type</b>
@@ -4195,6 +4284,7 @@ line-height:107%'>We believe that removing paintpoints from our customer
         </tr>
         </tbody>
     </table>
+    </div>
 
     <p>These variables collectively form the basis for our
         experimental or observational study to test the hypothesis. We were careful
@@ -4310,7 +4400,8 @@ margin-bottom:0cm;margin-left:72.0pt;text-indent:-18.0pt;line-height:normal'>d.<
     
     <p><b>Observations </b></p>
 
-    <table class='table'>
+    <div class="table-responsive">
+        <table class='table'>
         <thead class='table-light'>
          <tr>
             <td><b>Metric</b>
@@ -4377,6 +4468,7 @@ margin-bottom:0cm;margin-left:72.0pt;text-indent:-18.0pt;line-height:normal'>d.<
         </tr>
         </tbody>
     </table>
+    </div>
 
 
     <p><b>Learnings  </b></p>
@@ -4461,7 +4553,9 @@ margin-bottom:0cm;margin-left:72.0pt;text-indent:-18.0pt;line-height:normal'>d.<
     <p>d)<span>&nbsp;</span><span>Pilot tests with a small sample before full-scale rollout.</span></p>
 
     <p>&nbsp;</p>
+    </section>
 
+    <section data-subitem-id="productanalyticsai-demand-value-analytics-mvp-experiments">
     <h2 align=center id="productanalyticsai-demand-value-analytics-mvp-experiments">MVP Experiments</h2>
 
     <p align=center style='text-align:center'><img class="img-fluid rounded-corners mt-3"  border=0 width="431" height="287"
@@ -4749,6 +4843,8 @@ normal'>d)<span>&nbsp;&nbsp;&nbsp;&nbsp; </span>Business
         <p>d)<span>&nbsp;</span><span>Measure learning velocity, not just user uptake.</span></p>
 
     <p><span>.</span></p>
+    </section>
+<section data-subitem-id="productanalyticsai-demand-value-analytics-the-hook-framework">
 
     <h2 align=center id="productanalyticsai-demand-value-analytics-the-hook-framework">The Hook Framework</h2>
 
@@ -4870,6 +4966,8 @@ normal'>d)<span>&nbsp;&nbsp;&nbsp;&nbsp; </span>Business
 
 
     <p><b>&nbsp;</b></p>
+    </section>
+<section data-subitem-id="productanalyticsai-demand-value-analytics-6-experiment-charters">
 
     <h2 align=center id="productanalyticsai-demand-value-analytics-6-experiment-charters">6 Experiment Charters</h2>
 
@@ -5157,6 +5255,7 @@ border:solid windowtext 1.0pt'>
             </td>
         </tr>
     </table>
+    </div>
 
     <p>&nbsp;</p>
 
@@ -5361,6 +5460,7 @@ padding:0cm 5.4pt 0cm 5.4pt'>
                 </td>
             </tr>
         </table>
+        </div>
 
     </div>
 
@@ -5524,6 +5624,8 @@ padding:0cm 5.4pt 0cm 5.4pt'>
 
 
     <p>&nbsp;</p>
+    </section>
+<section data-subitem-id="productanalyticsai-demand-value-analytics-running-the-experiment">
 
     <h2 align=center id="productanalyticsai-demand-value-analytics-running-the-experiment">Running the
         Experiment</h2>
@@ -5601,6 +5703,8 @@ padding:0cm 5.4pt 0cm 5.4pt'>
     <p>d)<span>&nbsp;</span><span>Run post-experiment retrospectives to unpack results.</span></p>
 
     <p>&nbsp;</p>
+    </section>
+<section data-subitem-id="productanalyticsai-demand-value-analytics-testing-funnels">
 
     <h2 align=center id="productanalyticsai-demand-value-analytics-testing-funnels">Testing
         Funnels</h2>
@@ -5614,7 +5718,8 @@ padding:0cm 5.4pt 0cm 5.4pt'>
     <p><b> This funnel is ideal for mapping the emotional and
             behavioural journey from awareness to habit formation.</b></p>
 
-    <table class='table'>
+    <div class="table-responsive">
+        <table class='table'>
         <tr>
             <td width=104 valign=top style='width:77.75pt;border:solid windowtext 1.0pt;
 padding:0cm 5.4pt 0cm 5.4pt'>
@@ -5691,12 +5796,14 @@ padding:0cm 5.4pt 0cm 5.4pt'>
             </td>
         </tr>
     </table>
+    </div>
 
     <p>E-Commerce Testing Strategies</p>
 
     <p>&nbsp;</p>
 
-    <table class='table'>
+    <div class="table-responsive">
+        <table class='table'>
         <tr>
             <td width=104 valign=top style='width:77.75pt;border:solid windowtext 1.0pt;
 padding:0cm 5.4pt 0cm 5.4pt'>
@@ -5769,6 +5876,7 @@ padding:0cm 5.4pt 0cm 5.4pt'>
             </td>
         </tr>
     </table>
+    </div>
 
     <p>SaaS Testing Strategies</p>
 
@@ -5784,7 +5892,8 @@ padding:0cm 5.4pt 0cm 5.4pt'>
 
     <p>&nbsp;</p>
 
-    <table class='table'>
+    <div class="table-responsive">
+        <table class='table'>
 
         <tr>
             <td width=85 valign=top style='width:63.55pt;border:solid windowtext 1.0pt;
@@ -5840,6 +5949,7 @@ padding:0cm 5.4pt 0cm 5.4pt'>
         </tr>
 
     </table>
+    </div>
 
     <p>E-Commerce Testing Strategies</p>
 
@@ -5847,7 +5957,8 @@ padding:0cm 5.4pt 0cm 5.4pt'>
 
     <p>SaaS Testing Strategies</p>
 
-    <table class='table'>
+    <div class="table-responsive">
+        <table class='table'>
         <tr>
             <td width=85 valign=top style='width:63.55pt;border:solid windowtext 1.0pt;
 padding:0cm 5.4pt 0cm 5.4pt'>
@@ -5904,6 +6015,7 @@ padding:0cm 5.4pt 0cm 5.4pt'>
             </td>
         </tr>
     </table>
+    </div>
 
     <p>&nbsp;</p>
 
@@ -5943,7 +6055,8 @@ padding:0cm 5.4pt 0cm 5.4pt'>
 
     <p style='text-align:justify'>E-Commerce Testing Strategies</p>
 
-    <table class='table'>
+    <div class="table-responsive">
+        <table class='table'>
         <tr>
             <td width=85 valign=top style='width:63.55pt;border:solid windowtext 1.0pt;
 padding:0cm 5.4pt 0cm 5.4pt'>
@@ -6014,12 +6127,14 @@ padding:0cm 5.4pt 0cm 5.4pt'>
             </td>
         </tr>
     </table>
+    </div>
 
     <p>&nbsp;</p>
 
     <p style='text-align:justify'>SaaS Testing Strategies</p>
 
-    <table class='table'>
+    <div class="table-responsive">
+        <table class='table'>
         <tr>
             <td width=94 valign=top style='width:70.65pt;border:solid windowtext 1.0pt;
 padding:0cm 5.4pt 0cm 5.4pt'>
@@ -6092,6 +6207,7 @@ padding:0cm 5.4pt 0cm 5.4pt'>
             </td>
         </tr>
     </table>
+    </div>
 
     <p>&nbsp;</p>
 
@@ -6106,7 +6222,8 @@ padding:0cm 5.4pt 0cm 5.4pt'>
 
     <p>E-Commerce Testing Strategies</p>
 
-    <table class='table'>
+    <div class="table-responsive">
+        <table class='table'>
         <tr>
             <td width=103 valign=top style='width:77.15pt;border:solid windowtext 1.0pt;
 padding:0cm 5.4pt 0cm 5.4pt'>
@@ -6167,10 +6284,12 @@ padding:0cm 5.4pt 0cm 5.4pt'>
             </td>
         </tr>
     </table>
+    </div>
 
     <p><b>SaaS Testing Strategies:</b></p>
 
-    <table class='table'>
+    <div class="table-responsive">
+        <table class='table'>
         <tr>
             <td width=103 valign=top style='width:77.15pt;border:solid windowtext 1.0pt;
 padding:0cm 5.4pt 0cm 5.4pt'>
@@ -6231,6 +6350,7 @@ padding:0cm 5.4pt 0cm 5.4pt'>
             </td>
         </tr>
     </table>
+    </div>
 
    
 
@@ -6311,6 +6431,8 @@ padding:0cm 5.4pt 0cm 5.4pt'>
 
     <p align=center style='text-align:center'><b><span style='font-size:14.0pt;line-height:107%'>&nbsp;</span></b>
     </p>
+    </section>
+<section data-subitem-id="productanalyticsai-demand-value-analytics-testing-cohorts">
 
 
     <h2 align=center id="productanalyticsai-demand-value-analytics-testing-cohorts">Testing
@@ -6399,6 +6521,8 @@ padding:0cm 5.4pt 0cm 5.4pt'>
     <p>d)<span>&nbsp;</span><span>Use cohort feedback to tailor onboarding or engagement tactics.</span></p>
 
     <p>&nbsp;</p>
+    </section>
+<section data-subitem-id="productanalyticsai-demand-value-analytics-part-1-experiment-design">
 
     <h2 align=center id="productanalyticsai-demand-value-analytics-part-1-experiment-design">Part 1 –
         Experiment Design: Testing a New Electronic
@@ -6501,6 +6625,8 @@ padding:0cm 5.4pt 0cm 5.4pt'>
     </ul>
 
     <p><span>&nbsp;</span></p>
+    </section>
+<section data-subitem-id="productanalyticsai-demand-value-analytics-part-2-experiment-execution">
 
     <h2 align=center id="productanalyticsai-demand-value-analytics-part-2-experiment-execution">Part 2 –
         Experiment Execution: Testing a New Electronic
@@ -6606,7 +6732,8 @@ padding:0cm 5.4pt 0cm 5.4pt'>
     <p style='margin-left:36.0pt;line-height:normal'><span
             style='font-size:12.0pt;font-family:"Inter",serif'>&nbsp;</span></p>
 
-
+    </section>
+<section data-subitem-id="productanalyticsai-demand-value-analytics-ai-enhanced-experiment-lifecycle-testing">
 
     <h2 align=center id="productanalyticsai-demand-value-analytics-ai-enhanced-experiment-lifecycle-testing">
         AI-Enhanced
@@ -6624,6 +6751,8 @@ padding:0cm 5.4pt 0cm 5.4pt'>
             AI-enhanced lifecycle that moves from design to execution, insight, and
             iteration. This ensures every decision is grounded in validated learning, not
             guesswork.</span></p>
+            </section>
+<section data-subitem-id="productanalyticsai-demand-value-analytics-the-lifecycle-at-a-glance">
 
     <h2 align=center id="productanalyticsai-demand-value-analytics-the-lifecycle-at-a-glance">The Lifecycle at
         a Glance</h2>
@@ -6732,6 +6861,8 @@ font-family:"Inter",serif'>In a Nutshell</b><span
         sharper, and far more likely to succeed.</p>
 
     <p>&nbsp;</p>
+    </section>
+<section data-subitem-id="productanalyticsai-demand-value-analytics-diverging-your-ideas-with-generative-ai">
 
     <h2 align=center id="productanalyticsai-demand-value-analytics-diverging-your-ideas-with-generative-ai">
         Diverging Your
@@ -6842,11 +6973,16 @@ font-family:"Inter",serif'>In a Nutshell</b><span
 
     <p><span>&nbsp;</span></p>
         
-    <p>&nbsp;</p>            
+    <p>&nbsp;</p>  
+    </section>
+</section>          
 
-<!-- Usability Analytics (done)-->    
+<!-- Usability Analytics (done)-->  
+<section data-group-id="group-productanalyticsai-usability-analytics">   
     <h1 id="group-productanalyticsai-usability-analytics" align="center">Usability Analytics</h1>
-                        
+            
+    
+<section data-subitem-id="productanalyticsai-usability-analytics-usability-hypothesis">
     <h2 align=center id="productanalyticsai-usability-analytics-usability-hypothesis">Usability Hypothesis (Is Our
         Interface Easy to Use?)</h2>
 
@@ -6921,6 +7057,9 @@ font-family:"Inter",serif'>In a Nutshell</b><span
         enhancements. As the testing progresses, adjustments can be made based on real
         user feedback and observed behaviours.</p>
 
+        </section>
+<section data-subitem-id="productanalyticsai-usability-analytics-tracking-key-outcomes">
+
     <h2 align=center id="productanalyticsai-usability-analytics-tracking-key-outcomes">
         Tracking Key Outcomes</h2>
 
@@ -6950,7 +7089,8 @@ font-family:"Inter",serif'>In a Nutshell</b><span
 
     <p><span>SaaS Product Variables Table</span></p>
 
-    <table class='table'>
+    <div class="table-responsive">
+        <table class='table'>
         <thead class='table-light'>
         <tr>
             <td>
@@ -7140,6 +7280,7 @@ font-family:"Inter",serif'>In a Nutshell</b><span
         </tr>
         </tbody>
     </table>
+    </div>
 
     <p><b>Core Insights</b></p>
 
@@ -7192,6 +7333,8 @@ font-family:"Inter",serif'>In a Nutshell</b><span
     </ul>
 
     <p><span>&nbsp;</span></p>
+    </section>
+<section data-subitem-id="productanalyticsai-usability-analytics-google-analytics-for-usability">
 
     <h2 align=center id="productanalyticsai-usability-analytics-google-analytics-for-usability">Google Analytics for
         Usability</h2>
@@ -7274,6 +7417,9 @@ font-family:"Inter",serif'>In a Nutshell</b><span
                     goal achievement rates.</span></li>
     </ul>
 
+    </section>
+<section data-subitem-id="productanalyticsai-usability-analytics-design-to-code-tracking">
+
     <h2 align=center id="productanalyticsai-usability-analytics-design-to-code-tracking">Design to Code Tracking
     </h2>
 
@@ -7345,6 +7491,8 @@ font-family:"Inter",serif'>In a Nutshell</b><span
     </ul>
 
     <p><b><span style='font-size:14.0pt;line-height:107%'>&nbsp;</span></b></p>
+    </section>
+<section data-subitem-id="productanalyticsai-usability-analytics-code-to-analytics-loop">
 
     <h2 align=center id="productanalyticsai-usability-analytics-code-to-analytics-loop">Code to Analytics Loop</h2>
     <p><span>If you can’t measure it, you can’t
@@ -7452,6 +7600,8 @@ font-family:"Inter",serif'>In a Nutshell</b><span
             query user behaviour and uncover insight patterns.</span></p>
 
     <p><span>&nbsp;</span></p>
+    </section>
+<section data-subitem-id="productanalyticsai-usability-analytics-ab-testing">
 
     <h2 align=center id="productanalyticsai-usability-analytics-ab-testing">A/B Testing</h2>
 
@@ -7529,6 +7679,8 @@ font-family:"Inter",serif'>In a Nutshell</b><span
     </ul>
 
     <p><span style='font-size:12.0pt;font-family:"Inter",serif'>&nbsp;</span></p>
+    </section>
+<section data-subitem-id="productanalyticsai-usability-analytics-mapping-for-insights">
 
     <h2 align=center id="productanalyticsai-usability-analytics-mapping-for-insights">Mapping for Insights</h2>
 
@@ -7604,6 +7756,8 @@ font-family:"Inter",serif'>In a Nutshell</b><span
     </ul>
 
     <p>&nbsp;</p>
+    </section>
+<section data-subitem-id="productanalyticsai-usability-analytics-user-stories-analytics-e-commerce">
 
     <h2 align=center id="productanalyticsai-usability-analytics-user-stories-analytics-e-commerce">User
         Stories &amp; Analytics (E-commerce)</h2>
@@ -7843,6 +7997,8 @@ font-family:"Inter",sans-serif'>&nbsp;</span></strong></p>
     </ul>
 
     <p>&nbsp;</p>
+    </section>
+<section data-subitem-id="productanalyticsai-usability-analytics-user-stories-analytics-saas">
 
     <h2 align=center id="productanalyticsai-usability-analytics-user-stories-analytics-saas">User Stories &amp;
         Analytics (SaaS)</h2>
@@ -8059,6 +8215,8 @@ font-family:"Inter",sans-serif'>&nbsp;</span></strong></p>
     </ul>
 
     <p><b><span style='font-size:14.0pt;line-height:107%'>&nbsp;</span></b></p>
+    </section>
+<section data-subitem-id="productanalyticsai-usability-analytics-cross-functional-collaboration">
 
     <h2 align=center id="productanalyticsai-usability-analytics-cross-functional-collaboration">From Insights to
         Priorities</h2>
@@ -8126,6 +8284,9 @@ font-family:"Inter",sans-serif'>&nbsp;</span></strong></p>
                     Consolidation</b>: AI clusters insights to reduce duplication and
                 amplify real themes<span>.</span></li>
     </ul>
+
+    </section>
+<section data-subitem-id="productanalyticsai-usability-analytics-learning-from-competitors-with-generative-ai">
 
     <h2 align=center id="productanalyticsai-usability-analytics-learning-from-competitors-with-generative-ai">
         Learning from Competitors with
@@ -8198,6 +8359,8 @@ font-family:"Inter",sans-serif'>&nbsp;</span></strong></p>
     </ul>
 
     <p>&nbsp;</p>
+    </section>
+<section data-subitem-id="productanalyticsai-usability-analytics-analytics-on-analytics">
 
     <h2 align=center id="productanalyticsai-usability-analytics-analytics-on-analytics">Analytics On Analytics</h2>
 
@@ -8275,6 +8438,9 @@ font-family:"Inter",sans-serif'>&nbsp;</span></strong></p>
             </li>
     </ul>
 
+    </section>
+<section data-subitem-id="productanalyticsai-usability-analytics-qualitative-usability-testing">
+
     <h2 align=center id="productanalyticsai-usability-analytics-qualitative-usability-testing">Qualitative Usability
         Testing</h2>
 
@@ -8346,6 +8512,9 @@ font-family:"Inter",sans-serif'>&nbsp;</span></strong></p>
                 Gauge user confidence or frustration by analysing tone and pacing.</li>
     </ul>
 
+    </section>
+<section data-subitem-id="productanalyticsai-usability-analytics-existing-data-insights">
+
     <h2 align=center id="productanalyticsai-usability-analytics-existing-data-insights">Existing Data Insights</h2>
 
     <p>You don’t always need a new test,
@@ -8416,6 +8585,9 @@ font-family:"Inter",sans-serif'>&nbsp;</span></strong></p>
                 <br>
             </li>
     </ul>
+
+    </section>
+<section data-subitem-id="productanalyticsai-usability-analytics-field-insights">
 
     <h2 align=center id="productanalyticsai-usability-analytics-field-insights">Field
         Insights</h2>
@@ -8499,11 +8671,15 @@ font-family:"Inter",sans-serif'>&nbsp;</span></strong></p>
 
     <p>&nbsp;</p>
                         
-    <p>&nbsp;</p>                     
+    <p>&nbsp;</p> 
+    </section>  
+</section>                  
 
-<!-- Data Science and AI For Product Managers (done - with one submenu issue)-->    
+<!-- Data Science and AI For Product Managers (done - with one submenu issue)--> 
+<section data-group-id="group-productanalyticsai-data-science-ai-for-product-managers">   
     <h1 id="group-productanalyticsai-data-science-ai-for-product-managers" align="center">Data Science and AI For Product Managers</h1>
-                                                        
+        
+<section data-subitem-id="productanalyticsai-data-science-ai-for-product-managers-data-science-basics">
     <h2 align=center id="productanalyticsai-data-science-ai-for-product-managers-data-science-basics">Data Science
             Basics</h2>
 
@@ -8584,6 +8760,9 @@ font-weight:normal'>Data science is the disciplined process of using data to
 
         <p><b><span style='font-size:14.0pt;line-height:107%'>&nbsp;</span></b></p>
 
+        </section>
+<section data-subitem-id="productanalyticsai-data-science-ai-for-product-managers-data-science-and-generative-ai">
+
         <h2 align=center id="productanalyticsai-data-science-ai-for-product-managers-data-science-and-generative-ai">
             Data Science and Generative AI</h2>
 
@@ -8655,6 +8834,9 @@ font-weight:normal'>Data science is the disciplined process of using data to
         </ul>
 
         <p><b><span style='font-size:14.0pt;line-height:107%'>&nbsp;</span></b></p>
+
+        </section>
+<section data-subitem-id="productanalyticsai-data-science-ai-for-product-managers-predictive-ai-vs-generative-ai">
 
         <h2 align=center id="productanalyticsai-data-science-ai-for-product-managers-predictive-ai-vs-generative-ai">
             Predictive AI vs. Generative AI</h2>
@@ -8803,6 +8985,9 @@ font-weight:normal'>Data science is the disciplined process of using data to
 
         <p>&nbsp;</p>
 
+        </section>
+<section data-subitem-id="productanalyticsai-data-science-ai-for-product-managers-jtbd-and-ai-portfolio">
+
         <h2 align=center id="productanalyticsai-data-science-ai-for-product-managers-jtbd-and-ai-portfolio">JTBD and AI
             Portfolio</h2>
 
@@ -8874,6 +9059,9 @@ font-weight:normal'>Data science is the disciplined process of using data to
         </ul>
 
         <p>&nbsp;</p>
+
+        </section>
+<section data-subitem-id="productanalyticsai-data-science-ai-for-product-managers-finding-ground-truth-with-ai">
         <h2 align=center id="productanalyticsai-data-science-ai-for-product-managers-finding-ground-truth-with-ai">
             Finding Ground Truth with AI</h2>
 
@@ -8950,6 +9138,9 @@ font-weight:normal'>Data science is the disciplined process of using data to
                     success or struggle.</li>
         </ul>
 
+        </section>
+<section data-subitem-id="productanalyticsai-data-science-ai-for-product-managers-easy-to-durable-wins-with-ai">
+
         <h2 align=center id="productanalyticsai-data-science-ai-for-product-managers-easy-to-durable-wins-with-ai">Easy
             to Durable Wins with AI</h2>
 
@@ -9019,6 +9210,9 @@ font-weight:normal'>Data science is the disciplined process of using data to
 
         <p>&nbsp;</p>
 
+        </section>
+<section data-subitem-id="productanalyticsai-data-science-ai-for-product-managers-working-with-data-science-teams">
+
         <h2 align=center id="productanalyticsai-data-science-ai-for-product-managers-working-with-data-science-teams">
             Working with Data Science Teams</h2>
 
@@ -9087,6 +9281,9 @@ font-weight:normal'>Data science is the disciplined process of using data to
 
 
         <p>&nbsp;</p>
+
+        </section>
+<section data-subitem-id="productanalyticsai-data-science-ai-for-product-managers-the-hidden-dragon-case">
         <h2 align=center id="productanalyticsai-data-science-ai-for-product-managers-the-hidden-dragon-case">The Hidden
             Dragon Case</h2>
 
@@ -9174,6 +9371,9 @@ font-weight:normal'>Data science is the disciplined process of using data to
             
         </ul>
 
+        </section>
+<section data-subitem-id="productanalyticsai-data-science-ai-for-product-managers-data-wrangling-and-exploration">
+
         <h2 align=center id="productanalyticsai-data-science-ai-for-product-managers-data-wrangling-and-exploration">
             Data
             Wrangling and Exploration</h2>
@@ -9253,6 +9453,8 @@ font-weight:normal'>Data science is the disciplined process of using data to
                     Generate early hypotheses or questions based on pattern scans.</li>
         </ul>
 
+        </section>
+<section data-subitem-id="productanalyticsai-data-science-ai-for-product-managers-testing-interventions">
         <h2 align=center id="productanalyticsai-data-science-ai-for-product-managers-testing-interventions">Testing
             &amp; Interventions</h2>
 
@@ -9326,6 +9528,9 @@ font-weight:normal'>Data science is the disciplined process of using data to
                     <br>
                 </li>
         </ul>
+
+        </section>
+<section data-subitem-id="productanalyticsai-data-science-ai-for-product-managers-case-study-generative-ai-irl">
 
         <h2 align=center id="productanalyticsai-data-science-ai-for-product-managers-case-study-generative-ai-irl">Case
             Study: Generative AI IRL</span></b><b>
@@ -9483,9 +9688,13 @@ line-height:normal'><b>Canva Magic Studio (Magic Write, Magic Design)</b></p>
             outcomes, maturing analytics culture across teams, and making ground-truth
             decisions rather than running on assumptions.</p>
                                                                     
-     <p>&nbsp;</p>                            
+     <p>&nbsp;</p>  
+     </section> 
+</section>                         
 
 <!--Product Analytics and AI – Conclusion -->
+<section data-conclusion-id="group-productanalyticsai-conclusion">
+
         <h2 id="group-productanalyticsai-conclusion"  align="center">Product Analytics and AI – Conclusion</h2>
 
             <p>At DeftAgile, we believe the best
@@ -9541,11 +9750,20 @@ line-height:normal'><b>Canva Magic Studio (Magic Write, Magic Design)</b></p>
             AI (coursera.org)</p>
             
             <p>&nbsp;</p>
+        </section>
     `,
     pageTitle: 'Product Analytics and AI | DeftAgile',
     metaDescription: 'Product Analytics and AI.',
     canonicalUrl: '/productsanalyticsai',
     groups: [
+        {
+            id: 'group-productanalyticsai-introduction',
+            groupTitle: 'Introduction',
+            subItems: [
+                // { id: 'productanalytics-ai-introduction', text: 'Product Analytics and AI' }
+                
+            ]
+        },
         {
             id: 'group-productanalyticsai-consumer-analytics',
             groupTitle: 'Consumer Analytics',
