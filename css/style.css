@@ -204,37 +204,68 @@
 }
 
 /* NEW CSS for dropdown menu */
+/* Fix 1: Ensure the entire dropdown menu has the desired background */
 .dropdown-menu {
-    background-color: #f8f9fa;
+    background-color:#f8f9fa !important; /* Use !important to ensure Bootstrap's white background is overridden */
     border: 1px solid #e9ecef; /* Optional: adds a subtle border for separation */
 }
-
-/* .dropdown-menu .dropdown-header {
-    font-weight: bold;
-    color: #000;
-} */
 
 .dropdown-menu .dropdown-header {
     font-weight: bold;
     color: #495057; /* A slightly darker gray for the header text */
+    text-decoration: none;
     /* Remove any background color from here to let it inherit the menu background */
 }
+
+/* Fix 2: Increase specificity for hover and focus to ensure highlighting works */
+/* We target the .dropdown-menu container to make the selector more specific */
+.dropdown-menu .dropdown-header:hover,
+.dropdown-menu .dropdown-header:focus {
+    background-color: #007bff; /* Highlighter color */
+    color: #fff; /* Text color on hover/focus */
+}
+
+/* Optional: Ensure the active (clicked/selected) state also uses your highlight color */
+.dropdown-menu .dropdown-header.active {
+    background-color: #007bff;
+    color: #fff;
+}
+
+
+
 
 .dropdown-menu .dropdown-item {
     font-size: 0.9rem;
     white-space: normal;
 }
 
-.dropdown-menu .dropdown-item:hover {
-    background-color: #007bff; /* The new highlighter color */
-    color: #fff; /* Changes the text color to white for contrast */
+/* .dropdown-menu .dropdown-item:hover {
+    background-color: #007bff; The new highlighter color 
+    color: #fff; Changes the text color to white for contrast 
+} */
+
+/* Fix 2: Increase specificity for hover and focus to ensure highlighting works */
+/* We target the .dropdown-menu container to make the selector more specific */
+.dropdown-menu .dropdown-item:hover,
+.dropdown-menu .dropdown-item:focus {
+    background-color: #007bff; /* Highlighter color */
+    color: #fff; /* Text color on hover/focus */
 }
 
-/* You may also want to style the active state */
+
+
+/* You may also want to style the active state 
 .dropdown-menu .dropdown-item:active {
     background-color: #007bff;
     color: #fff;
+}*/
+
+/* Optional: Ensure the active (clicked/selected) state also uses your highlight color */
+.dropdown-menu .dropdown-item.active {
+    background-color: #007bff;
+    color: #fff;
 }
+
 
 /* Style for submenu items in the dropdown */
 .dropdown-menu .dropdown-item {
@@ -245,6 +276,22 @@
 .navbar-nav .dropdown.active .dropdown-toggle {
     color: var(--bs-navbar-active-color);
 }
+
+
+/* Highlight for dropdown items on hover */
+.dropdown-item:hover,
+.dropdown-item:focus {
+    background-color: #007bff;
+    color: #fff;
+}
+
+/* Highlight for active links in the sidebar */
+.sidebar .nav-link.active {
+    background-color: #007bff;
+    color: #fff;
+}
+
+
 
 /* Add this new CSS to your stylesheet or <style> block */
 #scrollToTopBtn {

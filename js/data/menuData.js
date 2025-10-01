@@ -12,6 +12,8 @@ import { about } from './menuItems/about.js';
 import { deftagileguide } from './menuItems/deftagileGuide.js';
 import { productsAnalyticsAI } from './menuItems/productsAnalyticsAI.js';
 // import { products } from './menuItems/products.js';
+import { uiUxAnalyticsMetrics } from './menuItems/uiUxAnalyticsMetrics.js';
+import { hypothesisDriven } from './menuItems/hypothesisDriven.js';
 
 export const menuData = {
     home: home,
@@ -21,6 +23,8 @@ export const menuData = {
     deftagileguide: deftagileguide,
     // products: products,
     productsAnalyticsAI: productsAnalyticsAI,
+    uiUxAnalyticsMetrics: uiUxAnalyticsMetrics,
+    hypothesisDriven: hypothesisDriven,
     'privacy-policy': privacyPolicy,
     'terms-of-service': termsOfService,
     sitemap: sitemap,

@@ -13,7 +13,8 @@ import {
 import {
     findContent,
     addNavigationLinks,
-    populateDropdownMenu
+    populateDropdownMenu,
+    findContentByUrl
 } from './components/utils.js';
 import {
     performSearch
@@ -26,6 +27,13 @@ function handleLinkClick(contentId) {
         console.error(`Content ID "${contentId}" not found.`);
         return;
     }
+
+    // Update the URL in the address bar
+    const newUrl = contentInfo.canonicalUrl || `/${contentId}`;
+    history.pushState({
+        contentId: contentId
+    }, '', newUrl);
+
     const parentMenu = contentInfo.parentKey;
 
     // Load the main content layout (e.g., "Products" page template)
@@ -64,11 +72,10 @@ function handleLinkClick(contentId) {
     }, 150);
 }
 
-
 // Initial page load and setup
 document.addEventListener('DOMContentLoaded', () => {
     // A list of all main menu items with a dropdown
-    const dropdownMenus = ['products', 'productsAnalyticsAI'];
+    const dropdownMenus = ['productsAnalyticsAI', 'uiUxAnalyticsMetrics'];
 
     // Loop through and populate each dropdown menu
     dropdownMenus.forEach(menuKey => {
@@ -148,6 +155,30 @@ document.addEventListener('DOMContentLoaded', () => {
     scrollToTopBtn.addEventListener('click', () => {
         window.scrollTo({ top: 0, behavior: 'smooth' });
     });
+});
+
+
+
+// This new function handles routing on page load and URL changes.
+function handleRouting() {
+    const contentInfo = findContentByUrl(window.location.href, menuData);
+
+    if (contentInfo) {
+        // Load the content based on the URL
+        handleLinkClick(contentInfo.id);
+    } else {
+        // Default to a home page or 404
+        handleLinkClick('home');
+    }
+}
+
+// Add event listeners for back/forward navigation
+window.addEventListener('popstate', handleRouting);
+
+// Call the router when the page loads
+document.addEventListener('DOMContentLoaded', () => {
+    // ... all other existing DOMContentLoaded code ...
+    handleRouting();
 });
 
 // disable the functionalities for various activities

@@ -79,7 +79,15 @@ export function loadSubMenu(menuKey, groupToExpandId = null) {
                 if (groupId === groupToExpandId) {
                     collapseContent.classList.add('show');
                 }
-                
+                // group.subItems.forEach(item => {
+                //     const subLink = document.createElement('a');
+                //     subLink.classList.add('nav-link', 'rounded-corners');
+                //     subLink.href = `#${item.id}`;
+                //     subLink.textContent = item.text;
+                //     subLink.setAttribute('data-content', item.id);
+                //     collapseContent.appendChild(subLink);
+                // });
+
                 group.subItems.forEach(item => {
                     const subLink = document.createElement('a');
                     subLink.classList.add('nav-link', 'rounded-corners');
@@ -95,7 +103,15 @@ export function loadSubMenu(menuKey, groupToExpandId = null) {
                 sidebarNav.appendChild(groupContainer);
             });
         } else if (data.subItems) {
-            
+            // data.subItems.forEach(item => {
+            //     const link = document.createElement('a');
+            //     link.classList.add('nav-link', 'rounded-corners');
+            //     link.href = `#${item.id}`;
+            //     link.textContent = item.text;
+            //     link.setAttribute('data-content', item.id);
+            //     sidebarNav.appendChild(link);
+            // });
+
             data.subItems.forEach(item => {
                 const link = document.createElement('a');
                 link.classList.add('nav-link', 'rounded-corners');
@@ -105,8 +121,6 @@ export function loadSubMenu(menuKey, groupToExpandId = null) {
                 link.textContent = item.text;
                 sidebarNav.appendChild(link);
             });
-
-
 
         }
     } else {
@@ -146,7 +160,6 @@ export function showContentSection(contentId) {
     }
 }
 
-
 // Add this new function
 export function showSubItemContent(subItemId) {
     document.querySelectorAll('.sub-item-content').forEach(el => {
@@ -163,6 +176,8 @@ export function hideAllGroups() {
         section.style.display = 'none';
     });
 }
+
+
 
 export function showGroupContent(groupId) {
     hideAllGroups();

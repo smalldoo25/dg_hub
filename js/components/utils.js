@@ -106,7 +106,7 @@ export function addNavigationLinks(parentMenuKey, groupId, currentId, menuData, 
         nextText = `Continue →`;
     } else if (groupIndex < groups.length - 1) {
         nextId = groups[groupIndex + 1].id;
-        nextText = `Continue to Next Group →`;
+        nextText = `Continue to Next Topic →`;
     } else if (parentMenu.content && parentMenu.content.includes('data-conclusion-id')) {
         nextId = 'conclusion';
         nextText = 'Continue to Conclusion →';
@@ -143,13 +143,52 @@ export function populateDropdownMenu(menuKey, menuData) {
         groupHeader.appendChild(groupHeaderLink);
         dropdownMenu.appendChild(groupHeader);
 
-        group.subItems.forEach(item => {
-            const dropdownItem = document.createElement('a');
-            dropdownItem.classList.add('dropdown-item');
-            dropdownItem.href = `#${item.id}`;
-            dropdownItem.textContent = item.text;
-            dropdownItem.setAttribute('data-content', item.id);
-            dropdownMenu.appendChild(dropdownItem);
-        });
+        // group.subItems.forEach(item => {
+        //     const dropdownItem = document.createElement('a');
+        //     dropdownItem.classList.add('dropdown-item');
+        //     dropdownItem.href = `#${item.id}`;
+        //     dropdownItem.textContent = item.text;
+        //     dropdownItem.setAttribute('data-content', item.id);
+        //     dropdownMenu.appendChild(dropdownItem);
+        // });
     });
+}
+
+export function findContentByUrl(url, menuData) {
+    const canonicalUrl = new URL(url).pathname;
+
+    for (const menuKey in menuData) {
+        const item = menuData[menuKey];
+        if (item.canonicalUrl === canonicalUrl) {
+            return {
+                ...item,
+                id: menuKey,
+                parentKey: menuKey,
+                isMain: true
+            };
+        }
+        if (item.groups) {
+            for (const group of item.groups) {
+                if (group.canonicalUrl === canonicalUrl) {
+                    return {
+                        ...group,
+                        id: group.id,
+                        parentKey: menuKey,
+                        isGroup: true
+                    };
+                }
+                for (const subItem of group.subItems) {
+                    if (subItem.canonicalUrl === canonicalUrl) {
+                        return {
+                            ...subItem,
+                            id: subItem.id,
+                            parentKey: menuKey,
+                            groupParent: group.id
+                        };
+                    }
+                }
+            }
+        }
+    }
+    return null;
 }
