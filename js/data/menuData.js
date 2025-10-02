@@ -2,11 +2,11 @@
 
 import { home } from './menuItems/home.js';
 import { contact } from './menuItems/contact.js';
-import { privacyPolicy } from './menuItems/privacyPolicy.js';
-import { termsOfService } from './menuItems/termsOfService.js';
+import { privacy } from './menuItems/privacy.js';
+import { terms } from './menuItems/terms.js';
 import { sitemap } from './menuItems/sitemap.js';
 // import { loginPage } from './menuItems/loginPage.js';
-import { helpPage } from './menuItems/helpPage.js';
+import { help } from './menuItems/help.js';
 import { downloads } from './menuItems/downloads.js';
 import { about } from './menuItems/about.js';
 import { deftagileguide } from './menuItems/deftagileGuide.js';
@@ -25,10 +25,10 @@ export const menuData = {
     productsAnalyticsAI: productsAnalyticsAI,
     uiUxAnalyticsMetrics: uiUxAnalyticsMetrics,
     hypothesisDriven: hypothesisDriven,
-    'privacy-policy': privacyPolicy,
-    'terms-of-service': termsOfService,
+    'privacy': privacy,
+    'terms': terms,
     sitemap: sitemap,
     // 'login-page': loginPage,
-    'help-page': helpPage
+    'help': help
 };
 

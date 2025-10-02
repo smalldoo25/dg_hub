@@ -6,5 +6,5 @@ export const loginPage = {
         `,
         pageTitle: 'Login | Your Company',
         metaDescription: 'Log in to your account to access personalized services.',
-        canonicalUrl: '/login'
+        canonicalUrl: '#/login'
 };

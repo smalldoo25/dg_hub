@@ -7,6 +7,6 @@ export const home = {
     `,
     pageTitle: 'Home | DeftAgile',
     metaDescription: 'Welcome to DeftAgile.',
-    canonicalUrl: '/home',
+    canonicalUrl: '#/home',
    
 };

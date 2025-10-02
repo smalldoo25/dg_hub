@@ -7,6 +7,6 @@ export const contact = {
     `,
     pageTitle: 'Contact Us | DeftAgile',
     metaDescription: 'Contact DeftAgile for inquiries, support, or feedback. Find our phone number, email, and location.',
-    canonicalUrl: '/contact',
+    canonicalUrl: '#/contact',
     
 };

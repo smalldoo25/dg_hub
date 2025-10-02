@@ -13,6 +13,6 @@ export const downloads = {
     `,
     pageTitle: 'Downloadable Resources | DeftAgile',
     metaDescription: 'Download important documents like our company profile, annual reports, and product brochures.',
-    canonicalUrl: '/downloads',
+    canonicalUrl: '#/downloads',
     
 };

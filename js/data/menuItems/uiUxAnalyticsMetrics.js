@@ -1058,7 +1058,7 @@ normal'><span style='font-size:10.0pt'>b)<span style='font:7.0pt "Times New Roma
     `,
     pageTitle: 'UI/UX Analytics Metrics | DeftAgile',
     metaDescription: 'UI/UX Analytics Metrics.',
-    canonicalUrl: '/uiuxanalyticsmetrics',
+    canonicalUrl: '#/uiUxAnalyticsMetrics',
     groups: [
         {
             id: 'group-uiuxanalyticsmetrics-introduction',

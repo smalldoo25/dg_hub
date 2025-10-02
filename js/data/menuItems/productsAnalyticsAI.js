@@ -9754,7 +9754,7 @@ line-height:normal'><b>Canva Magic Studio (Magic Write, Magic Design)</b></p>
     `,
     pageTitle: 'Product Analytics and AI | DeftAgile',
     metaDescription: 'Product Analytics and AI.',
-    canonicalUrl: '/productsanalyticsai',
+    canonicalUrl: '#/productsAnalyticsAI',
     groups: [
         {
             id: 'group-productanalyticsai-introduction',

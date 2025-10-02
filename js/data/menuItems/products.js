@@ -7,7 +7,7 @@ export const products = {
     `,
     pageTitle: 'Products | Your Company',
     metaDescription: 'Discover all our product categories, from software solutions to hardware devices and accessories.',
-    canonicalUrl: '/products',
+    canonicalUrl: '#/products',
     groups: [
         {
             id: 'group-software-solutions',

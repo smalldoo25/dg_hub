@@ -308,48 +308,7 @@ export const hypothesisDriven = {
     `,
     pageTitle: 'Hypothesis Driven | DeftAgile',
     metaDescription: 'Hypothesis Driven',
-    canonicalUrl: '/hypothesisdriven',
-//     groups: [
-//         // {
-//         //     id: 'group-hypothesisdriven-introduction',
-//         //     groupTitle: 'Introduction',
-//         //     subItems: [
-               
-//         //     ]
-//         // },
-//         {
-//             id: 'group-hypothesisdriven-modern-guide-for-product-teams',
-//             groupTitle: 'A Modern Guide for Product Teams',
-//             subItems: [
-// 				{ id: 'hypothesisdriven-modern-guide-why-hypothesis-driven-development-matters', text: 'Why Hypothesis-Driven Development Matters' },
-//                 { id: 'hypothesisdriven-modern-guide-what-is-hdd', text: 'What is HDD?' },
-				
-
-//              ]
-//         },
-//         {
-//             id: 'group-hypothesisdriven-the-5-steps-to-implement-hdd-in-product-teams',
-//             groupTitle: 'The 5 Steps to Implement HDD in Product Teams',
-//             subItems: [
-//                 { id: 'hypothesisdriven-the-5-steps-to-implement-identify-assumptions-formulate-hypotheses', text: 'Identify Assumptions & Formulate Hypotheses' },
-//                 { id: 'hypothesisdriven-the-5-steps-to-implement-hdd-prioritise-what-to-test', text: 'Prioritise What to Test' },
-//                 { id: 'hypothesisdriven-the-5-steps-to-implement-hdd-design-minimal-experiments', text: 'Design Minimal Experiments' },
-// 				{ id: 'hypothesisdriven-the-5-steps-to-implement-hdd-measure-learn', text: 'Measure & Learn' },
-//                 { id: 'hypothesisdriven-the-5-steps-to-implement-hdd-iterate-pivot-persevere', text: 'Iterate, Pivot or Persevere' },
-//                 { id: 'hypothesisdriven-the-5-steps-to-implement-hdd-challenging-common-assumptions', text: 'Challenging Common Assumptions' },
-// 				{ id: 'hypothesisdriven-the-5-steps-to-implement-hdd-tools-techniques-to-support-hdd', text: 'Tools & Techniques to Support HDD' },
-//                 { id: 'hypothesisdriven-the-5-steps-to-implement-hdd-strategic-benefits-of-hdd', text: 'Strategic Benefits of HDD' },
-//                 { id: 'hypothesisdriven-the-5-steps-to-implement-hdd-real-World-hdd-examples', text: 'Real-World HDD Examples' }
-//             ]      
-//         },
-//         // {
-//         //     id: 'group-hypothesisdriven-conclusion',
-//         //     groupTitle: 'Conclusion',
-//         //     subItems: [
-
-//         //     ]
-//         // }
-//     ]
+    canonicalUrl: '#/hypothesisdriven'
 };
 
 
