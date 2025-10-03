@@ -308,7 +308,7 @@ export const hypothesisDriven = {
     `,
     pageTitle: 'Hypothesis Driven | DeftAgile',
     metaDescription: 'Hypothesis Driven',
-    canonicalUrl: '#/hypothesisdriven'
+    canonicalUrl: '#/hypothesisDriven'
 };
 
 

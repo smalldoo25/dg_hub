@@ -198,12 +198,40 @@ document.addEventListener('DOMContentLoaded', () => {
     handleRouting();
 });
 
+// // 3. Update the global click listener to ONLY update the hash.
+// document.addEventListener('click', function (event) {
+//     const link = event.target.closest('a[data-content]');
+//     if (link && !link.classList.contains('dropdown-toggle')) {
+//         event.preventDefault();
+//         const contentId = link.getAttribute('data-content');
+
+//         // Use findContent to get the canonical URL (with hash)
+//         const contentInfo = findContent(contentId, menuData);
+//         if (contentInfo) {
+//             const newHash = contentInfo.canonicalUrl || `#/${contentId}`;
+//             // This triggers the 'hashchange' listener, which calls handleRouting -> handleLinkClick
+//             window.location.hash = newHash;
+//         }
+//     }
+// });
+
 // 3. Update the global click listener to ONLY update the hash.
 document.addEventListener('click', function (event) {
     const link = event.target.closest('a[data-content]');
+
     if (link && !link.classList.contains('dropdown-toggle')) {
         event.preventDefault();
         const contentId = link.getAttribute('data-content');
+
+        // 🌟 FIX: Check if the clicked link is a utility link or a footer link
+        if (link.classList.contains('utility-link') || link.classList.contains('footer-link') || link.id === 'logo-link') {
+            // If it's a utility link, footer link, or the logo, deselect all main nav items.
+            document.querySelectorAll('.navbar-nav .nav-item').forEach(item => {
+                item.classList.remove('active');
+            });
+        }
+        // Note: For main menu links, the 'active' class is handled dynamically 
+        // when 'handleLinkClick' calls 'loadMainContent' or through other specific listeners.
 
         // Use findContent to get the canonical URL (with hash)
         const contentInfo = findContent(contentId, menuData);
@@ -214,6 +242,9 @@ document.addEventListener('click', function (event) {
         }
     }
 });
+
+
+
 
 // Add event listeners for back/forward navigation
 window.addEventListener('popstate', handleRouting);

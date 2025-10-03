@@ -2817,7 +2817,7 @@ line-height:normal'><span style='font-family:Symbol'>·<span
     `,
     pageTitle: 'DeftAgile Guide | DeftAgile',
     metaDescription: 'DeftAgile Guide.',
-    canonicalUrl: '#/guide',
+    canonicalUrl: '#/deftagileguide',
     groups: [
         {
             id: 'group-deftagile-values',

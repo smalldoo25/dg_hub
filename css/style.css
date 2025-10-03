@@ -318,3 +318,67 @@
     background-color: #0056b3;
     opacity: 1;
 }
+
+
+/* 1. Main Navigation Menu Items (Navbar) */
+/* Targets ALL nav-links (including dropdowns and regular links) */
+.navbar-nav .nav-item .nav-link:hover,
+.navbar-nav .nav-item .nav-link:focus {
+    /* Background color when hovering over the link */
+    background-color: #007bff; 
+    /* Text color change for better contrast */
+    color: #fff !important; 
+    border-radius: 0.25rem;
+}
+
+/* Ensure the *truly* active link, set by JS, uses the same style */
+.navbar-nav .nav-item.active .nav-link,
+.navbar-nav .nav-item.active .nav-link:hover,
+.navbar-nav .nav-item.active .nav-link:focus {
+    background-color: #007bff;
+    color: #fff !important;
+    border-radius: 0.25rem;
+}
+
+/* Optional: If dropdown toggles show an arrow, ensure it stays visible/white on hover */
+.navbar-nav .nav-item .nav-link.dropdown-toggle::after {
+    filter: invert(100%) brightness(200%); /* Helps make the arrow white */
+}
+
+/* 2. Utility Links (Header Top) */
+/* Targets all links in the header-top utility area, including Downloads, Contact, Login, Help */
+.header-top .utility-link:hover,
+.header-top .utility-link:focus {
+    /* Background color when hovering */
+    background-color: #007bff;
+    /* Text/Icon color change */
+    color: #fff !important; 
+    /* Optional: Padding and border-radius match the main menu */
+    padding: 0.25rem 0.5rem; /* Re-apply padding since it was overridden */
+    border-radius: 0.25rem;
+}
+
+/* Restore the text color of the icon and text inside the link to default when not hovered,
+   then apply hover/focus effects */
+.header-top .utility-link {
+    transition: background-color 0.15s ease-in-out, color 0.15s ease-in-out;
+}
+
+/* Fixes the invisibility of the dropdown caret in the main navigation */
+.navbar-nav .nav-link.dropdown-toggle::after {
+    /* Set the caret color to Bootstrap's standard dark text color or primary color */
+    color: var(--bs-body-color, #212529); /* Ensures the caret is dark grey */
+    
+    /* Ensure the caret is not being filtered to be white/invisible when inactive */
+    filter: none;
+    
+    /* Ensure opacity is 1 (fully visible) */
+    opacity: 1;
+}
+
+/* Optional: Ensure the caret remains white/visible when the link is hovered or active */
+.navbar-nav .nav-item .nav-link:hover.dropdown-toggle::after,
+.navbar-nav .nav-item.active .nav-link.dropdown-toggle::after {
+    /* Inverts the color to white when the background is the primary blue (#007bff) */
+    filter: invert(100%) brightness(200%); 
+}
