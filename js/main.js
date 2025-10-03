@@ -28,25 +28,6 @@ function handleLinkClick(contentId) {
         return;
     }
 
-    // Old: Update the URL in the address bar using History API (which breaks on reload)
-    // const newUrl = contentInfo.canonicalUrl || `/${contentId}`;
-    // history.pushState({ contentId: contentId }, '', newUrl);
-
-    // New: Update the URL using hash (The browser ignores the hash on reload)
-    // const newHash = contentInfo.canonicalUrl || `#/${contentId}`;
-    // window.location.hash = newHash;
-
-    // *** REMOVE THE URL MANIPULATION HERE ***
-    // (You no longer want to call history.pushState or set window.location.hash here)
-    // REMOVE THIS SECTION:
-    /*
-    const newHash = contentInfo.canonicalUrl || `#/${contentId}`;
-    window.location.hash = newHash; // OR history.pushState
-    */
-    // ****************************************
-
-
-
     const parentMenu = contentInfo.parentKey;
 
     // Load the main content layout (e.g., "Products" page template)
@@ -95,50 +76,6 @@ document.addEventListener('DOMContentLoaded', () => {
     dropdownMenus.forEach(menuKey => {
         populateDropdownMenu(menuKey, menuData);
     });
-
-    // // Set up the main navigation listeners
-    // document.querySelectorAll('.navbar-nav a, .utility-link, .footer-link, #logo-link').forEach(link => {
-    //     link.addEventListener('click', function (event) {
-    //         const parentLi = this.closest('li');
-    //         const menuKey = parentLi ? parentLi.getAttribute('data-menu') : (this.getAttribute('data-content') || 'home');
-
-    //         if (this.classList.contains('dropdown-toggle')) {
-    //             document.querySelectorAll('.navbar-nav .nav-item').forEach(item => item.classList.remove('active'));
-    //             parentLi.classList.add('active');
-    //             return;
-    //         }
-
-    //         event.preventDefault();
-    //         handleLinkClick(menuKey);
-    //     });
-    // });
-
-
-    // Note: This listener is primarily for setting the 'active' class on the top nav <li>.
-    // // The content loading will be handled by the global listener (below this block).
-    // document.querySelectorAll('.navbar-nav a').forEach(link => {
-    //     link.addEventListener('click', function (event) {
-    //         const parentLi = this.closest('li.nav-item');
-
-    //         // 1. If it's a dropdown toggle, only set the active class and exit (let Bootstrap handle the menu)
-    //         if (this.classList.contains('dropdown-toggle')) {
-    //             document.querySelectorAll('.navbar-nav .nav-item').forEach(item => item.classList.remove('active'));
-    //             if (parentLi) {
-    //                 parentLi.classList.add('active');
-    //             }
-    //             // Allow Bootstrap's dropdown JS to run
-    //             return;
-    //         }
-
-    //         // 2. For all other main nav links, just set the active class.
-    //         // The global listener handles the event.preventDefault() and handleLinkClick().
-    //         document.querySelectorAll('.navbar-nav .nav-item').forEach(item => item.classList.remove('active'));
-    //         if (parentLi) {
-    //             parentLi.classList.add('active');
-    //         }
-    //     });
-    // });
-
 
     // REPLACE the existing 'document.querySelectorAll('.navbar-nav a')' block with this.
     document.querySelectorAll('.navbar-nav a').forEach(link => {
@@ -197,39 +134,6 @@ document.addEventListener('DOMContentLoaded', () => {
         // history.pushState({ contentId: contentId }, '', `/search?q=${contentId}`);
     }
 
-
-
-    // // This single, robust event listener handles all navigation links.
-    // document.addEventListener('click', function (event) {
-    //     const link = event.target.closest('a[data-content]');
-
-    //     // Check if the clicked element is a link with a data-content attribute
-    //     // and is not a dropdown toggle.
-    //     if (link && !link.classList.contains('dropdown-toggle')) {
-    //         event.preventDefault();
-    //         const contentId = link.getAttribute('data-content');
-    //         // This is where the core logic lives.
-    //         handleLinkClick(contentId);
-    //     }
-    // });
-
-    // // We must also ensure your global click listener is active and correct (around line 130):
-    // document.addEventListener('click', function (event) {
-    //     const link = event.target.closest('a[data-content]');
-    //     if (link && !link.classList.contains('dropdown-toggle')) {
-    //         // This is where the event is canceled and content is loaded.
-    //         event.preventDefault();
-    //         const contentId = link.getAttribute('data-content');
-    //         handleLinkClick(contentId);
-    //     }
-    // });
-
-
-
-
-
-
-
     // Handle scroll-to-top button visibility
     const scrollToTopBtn = document.getElementById('scrollToTopBtn');
     window.addEventListener('scroll', () => {
@@ -246,33 +150,11 @@ document.addEventListener('DOMContentLoaded', () => {
 });
 
 
-
-// // This new function handles routing on page load and URL changes.
-// function handleRouting() {
-//     const path = new URL(window.location.href).pathname;
-
-//     if (path === '/') {
-//         // Explicitly load the default page
-//         handleLinkClick('home');
-//         return;
-//     }
-
-//     const contentInfo = findContentByUrl(window.location.href, menuData);
-
-//     if (contentInfo) {
-//         // Load the content based on the URL
-//         handleLinkClick(contentInfo.id);
-//     } else {
-//         // Default to a home page or 404
-//         handleLinkClick('home');
-//     }
-// }
-
 // New function to map hash path to a content ID
 function getHashPathId() {
     // window.location.hash starts with # (e.g., #/downloads)
-    const hashPath = window.location.hash.substring(1); 
-    
+    const hashPath = window.location.hash.substring(1);
+
     // 1. Check for home page (empty hash or just '/')
     if (!hashPath || hashPath === '/') {
         return 'home';
@@ -287,13 +169,13 @@ function getHashPathId() {
 
     // You might need a more complex lookup here if the ID doesn't match the last path segment.
     // For now, let's just return the last segment and rely on findContent in handleLinkClick.
-    return contentId; 
+    return contentId;
 }
 
 // Function to handle all routing events (initial load and hash changes)
 function handleRouting() {
     const contentId = getHashPathId();
-    
+
     // Check if a valid ID was found before calling handleLinkClick
     if (contentId) {
         handleLinkClick(contentId);
@@ -322,50 +204,56 @@ document.addEventListener('click', function (event) {
     if (link && !link.classList.contains('dropdown-toggle')) {
         event.preventDefault();
         const contentId = link.getAttribute('data-content');
-        
+
         // Use findContent to get the canonical URL (with hash)
         const contentInfo = findContent(contentId, menuData);
         if (contentInfo) {
             const newHash = contentInfo.canonicalUrl || `#/${contentId}`;
             // This triggers the 'hashchange' listener, which calls handleRouting -> handleLinkClick
-            window.location.hash = newHash; 
+            window.location.hash = newHash;
         }
     }
 });
 
-
-
-// // This new function handles routing on page load and URL changes.
-// function handleRouting() {
-//     // Use the hash fragment for routing
-//     const pathWithHash = window.location.hash.substring(1); // Removes the leading '#'
-
-//     // Construct a fake URL for findContentByUrl to parse the path
-//     const fakeUrl = `https://deftagile.com/${pathWithHash}`;
-
-//     // If no hash exists (initial load), default to 'home'
-//     if (!pathWithHash) {
-//         handleLinkClick('home');
-//         return;
-//     }
-
-//     const contentInfo = findContentByUrl(fakeUrl, menuData);
-
-//     if (contentInfo) {
-//         handleLinkClick(contentInfo.id);
-//     } else {
-//         // Fallback for an unknown hash path (e.g., #/unknown)
-//         handleLinkClick('home');
-//     }
-// }
-
-
-
 // Add event listeners for back/forward navigation
 window.addEventListener('popstate', handleRouting);
 
-// // Call the router when the page loads
-// document.addEventListener('DOMContentLoaded', () => {
-//     // ... all other existing DOMContentLoaded code ...
-//     handleRouting();
-// });
+// disable the functionalities for various activities
+document.addEventListener('contextmenu', event => event.preventDefault());
+
+document.addEventListener('keydown', e => {
+    // Disable Ctrl+U
+    if (e.ctrlKey && e.key === 'u' || e.ctrlKey && e.key === 'U') {
+        e.preventDefault();
+    }
+    // Disable F12
+    if (e.key === 'F12') {
+        e.preventDefault();
+    }
+});
+
+document.addEventListener('copy', event => {
+    event.preventDefault();
+});
+
+document.addEventListener('cut', event => {
+    event.preventDefault();
+});
+
+//copyright when copied text
+document.addEventListener('copy', function (e) {
+    // Get the text that the user selected
+    var selectedText = window.getSelection().toString();
+
+    // Create the copyright notice
+    var copyrightNotice = '\n\nSource: deftagile.com Website\nCopyright © 2025 DeftAgile. All rights reserved.';
+
+    // Combine the selected text and the copyright notice
+    var newText = selectedText + copyrightNotice;
+
+    // Set the modified text to the clipboard
+    e.clipboardData.setData('text/plain', newText);
+
+    // Prevent the default copy action
+    e.preventDefault();
+});

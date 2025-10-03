@@ -19,7 +19,7 @@
 
 <body>
     <header class="shadow-sm rounded-corners mb-3">
-        <div class="header-top rounded-top-corners">
+        <!--div class="header-top rounded-top-corners">
             <div class="container d-flex justify-content-end align-items-center">
                 <form class="d-flex me-3" role="search" id="searchForm">
                     <input class="form-control me-2 rounded-corners" type="search" placeholder="Search"
@@ -30,6 +30,50 @@
                 
                 <a href="#/help" class="text-decoration-none text-dark rounded-corners p-2 utility-link"
                     data-content="help"><i class="fas fa-question-circle"></i> Help</a>
+            </div>
+        </div-->
+
+        <div class="header-top rounded-top-corners">
+
+            <div class="container">
+                <div class="row d-flex align-items-center justify-content-end">
+    
+                    <div class="col-12 col-lg-auto order-1 order-lg-0 my-2">
+                        <form class="d-flex w-100 w-lg-auto" role="search" id="searchForm">
+                            <input class="form-control me-2 rounded-corners" type="search" placeholder="Search"
+                                aria-label="Search" id="searchInput">
+                            <button class="btn btn-outline-primary rounded-corners" type="submit"><i
+                                    class="fas fa-search"></i></button>
+                        </form>
+                    </div>
+                    
+                    <div class="col-12 col-lg-auto d-flex justify-content-center justify-content-lg-end order-0 order-lg-1 my-2">
+                        
+                        <a href="#/downloads" class="text-decoration-none text-dark me-3 my-2 rounded-corners p-2 utility-link"
+                            data-content="downloads">
+                            <i class="fas fa-download"></i> 
+                            <span class="d-none d-lg-inline">Downloads</span>
+                        </a>
+                        
+                        <a href="#/about" class="text-decoration-none text-dark me-3 my-2 rounded-corners p-2 utility-link"
+                            data-content="about">
+                            <i class="fas fa-info-circle"></i> 
+                            <span class="d-none d-lg-inline">About Us</span>
+                        </a>
+                        
+                        <a href="#/contact" class="text-decoration-none text-dark me-3 my-2 rounded-corners p-2 utility-link"
+                            data-content="contact">
+                            <i class="fas fa-envelope"></i> 
+                            <span class="d-none d-lg-inline">Contact</span>
+                        </a>
+                    
+                        <a href="#/help" class="text-decoration-none text-dark my-2 rounded-corners p-2 utility-link"
+                            data-content="help">
+                            <i class="fas fa-question-circle"></i> 
+                            <span class="d-none d-lg-inline">Help</span>
+                        </a>
+                    </div>
+                </div>
             </div>
         </div>
 
@@ -71,16 +115,6 @@
                         <li class="nav-item" data-menu="hypothesisDriven">
                             <a class="nav-link active" aria-current="page" href="#/hypothesisDriven">Hypothesis Driven</a>
                         </li>
-                        <li class="nav-item" data-menu="downloads">
-                            <a class="nav-link" href="#/downloads">Downloads</a>
-                        </li>
-                        <li class="nav-item" data-menu="about">
-                            <a class="nav-link" href="#/about">About Us</a>
-                        </li>
-                        <li class="nav-item" data-menu="contact">
-                            <a class="nav-link" href="#/contact">Contact</a>
-                        </li>
-                       
                     </ul>
                 </div>
             </div>
